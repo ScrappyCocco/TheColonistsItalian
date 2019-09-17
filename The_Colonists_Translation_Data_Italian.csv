@@ -1,0 +1,2340 @@
+Key,Type,Desc,English,Italian,,Verify
+AI Players,Text,Computer-controlled players you compete against in the game,AI Players,,,2
+Advice_0_Desc,Text,,"Build some <bd>Residences</bd> to generate more <it>Energy</it> for lumbering, mining and technology research.",,,3
+Advice_0_Name,Text,,No <bd>Residences</bd>!,,,4
+Advice_10_Desc,Text,,Keep expanding until you find a <nr>Coal</nr> deposit and it's inside your territory.,,,5
+Advice_10_Name,Text,,Find <nr>Coal</nr>!,,,6
+Advice_11_Desc,Text,,Keep expanding until you find a <nr>Iron Ore</nr> deposit and it's inside your territory.,,,7
+Advice_11_Name,Text,,Find <nr>Iron Ore</nr>!,,,8
+Advice_12_Desc,Text,,"Research <res>Construction I</res> at the <bd>Workshop</bd> to be able to build more advanced buildings.
+
+To research a technology, open an idle <bd>Workshop</bd> or open the Technology panel in the top left of the screen.",,,9
+Advice_12_Name,Text,,Research <res>Construction I</res>!,,,10
+Advice_13_Desc,Text,,"You can upgrade <bd>Residences</bd> to produce Level 2 <it>Energy</it>.
+
+<it>Energy L2</it> is used by the upgraded <bd>Workshop</bd> to research more advanced technologies.
+
+<it>Energy L2</it> is also used by the <bd>Shaft Mine</bd> and Level 2 <bd>Surface Mine</bd> to excavate <nr>Coal</nr>, <nr>Iron Ore</nr>, <nr>Salt</nr> and <nr>Clay</nr>.",,,11
+Advice_13_Name,Text,,Upgrade a <bd>Residence</bd>!,,,12
+Advice_14_Desc,Text,,"Level 2 <bd>Residences</bd> need <cat>Alcohol</cat> to be able to generate the more powerful <it>Energy L2</it> needed at the Level 2 <bd>Workshop</bd> and to mine <it>Iron Ore</it> and <it>Coal</it>.
+
+Build an <bd>Orchard</bd> and <bd>Cider Press</bd> to start producing <it>Cider</it>.",,,13
+Advice_14_Name,Text,,Generate <it>Energy L2</it>!,,,14
+Advice_15_Desc,Text,,Begin mining <nr>Coal</nr> by building a Level 2 <bd>Surface Mine</bd> or <bd>Shaft Mine</bd> depending on whether it's a surface deposit or an underground deposit.,,,15
+Advice_15_Name,Text,,Start mining <nr>Coal</nr>!,,,16
+Advice_16_Desc,Text,,Begin mining <nr>Iron Ore</nr> by building a Level 2 <bd>Surface Mine</bd> or <bd>Shaft Mine</bd> depending on whether it's a surface deposit or an underground deposit.,,,17
+Advice_16_Name,Text,,Start mining <nr>Iron Ore</nr>!,,,18
+Advice_17_Desc,Text,,Build a <bd>Blast Furnace</bd> to create <it>Iron</it> from <it>Iron Ore</it> and <it>Coal</it>.,,,19
+Advice_17_Name,Text,,Start producing <it>Iron</it>!,,,20
+Advice_18_Desc,Text,,Build a <bd>Well</bd> to supply <it>Water</it> to your <bd>Residences</bd>.,,,21
+Advice_18_Name,Text,,No <bd>Well</bd>!,,,22
+Advice_19_Desc,Text,,Build a <bd>Harbour</bd> on the shore to discover new islands and more resources.,,,23
+Advice_19_Name,Text,,Build a <bd>Harbour</bd>!,,,24
+Advice_1_Desc,Text,,If you run out of trees your Log supply may fail. Build a <bd>Forester</bd> to plant more trees.,,,25
+Advice_1_Name,Text,,You only have <amount> trees remaining!,,,26
+Advice_20_Desc,Text,,Build a <bd>Boatyard</bd> on the shore line and construct your first boat so you can explore the high seas.,,,27
+Advice_20_Name,Text,,Build a boat!,,,28
+Advice_21_Desc,Text,,Before you can explore the seas you need the resources to build a new <bd>Harbour</bd> on newly discovered land. In the expedition tab at your existing <bd>Harbour</bd> start gathering the necessary resources.,,,29
+Advice_21_Name,Text,,Gather Expedition Resources!,,,30
+Advice_22_Desc,Text,,The expedition's resources are ready! Find an idle boat and assign it to the expedition.,,,31
+Advice_22_Name,Text,,Load Expedition Provisions,,,32
+Advice_23_Desc,Text,,By using the navigation tab on your boat you can freely sail around. When you discover new land build a new harbour on a suitable piece of shoreline. Once built the boat will automatically set up a trade route between the harbours.,,,33
+Advice_23_Name,Text,,Build a <bd>Harbour</bd> on a new island!,,,34
+Advice_24_Desc,Text,,Research <res>Mining I</res> at the Level 2 <bd>Workshop</bd> to unlock Level 2 <bd>Surface Mine</bd> and Level 1 <bd>Shaft Mine</nr> and be able to mine <nr>Coal</nr> and <nr>Iron ore</nr>.,,,35
+Advice_24_Name,Text,,Research <res>Mining I</res>!,,,36
+Advice_25_Desc,Text,,You can upgrade <bd>Workshops</bd> in order to research more advanced technologies including ore mining.,,,37
+Advice_25_Name,Text,,Upgrade a <bd>Workshop</bd>!,,,38
+Advice_26_Desc,Text,,You can instruct your Lumberbots to chop down specific trees via the priority panel on a <bd>Lumberjack Hut</bd>.,,,39
+Advice_26_Name,Text,,Try <bd>Lumberjack Hut</bd> Prioritisation!,,,40
+Advice_27_Desc,Text,,"To construct a <bd>Small Monument</bd> you're going to need to start producing <it>Iron</it>.
+
+Build a <bd>Blast Furnace</bd>.",,,41
+Advice_27_Name,Text,,Generate <it>Iron</it>!,,,42
+Advice_28_Desc,Text,,"Use the Map, accessible via the icon in the top-left, to see how much of a natural resource you have available and in which direction there are more resources to reveal.",,,43
+Advice_28_Name,Text,,Check out the Map!,,,44
+Advice_29_Desc,Text,,Consider placing related supply and demands building closer as well as using transport rules at road posts or harbours to control how resources move around your colony. Click on any roads to find out more.,,,45
+Advice_29_Name,Text,,You have some blocked roads!,,,46
+Advice_2_Desc,Text,,Always start a colony by building a <bd>Lumberjack Hut</bd> to make sure you have a steady supply of <it>Logs</it>.,,,47
+Advice_2_Name,Text,,No <bd>Lumberjack Huts</bd>!,,,48
+Advice_30_Desc,Text,,To create <it>Iron</it> a <bd>Blast Furnace</bd> needs either <it>Charcoal</it> from a <bd>Charcoal Burner</bd> or <it>Coal</it> from a <bd>Surface Mine</bd> or <bd>Shaft Mine</bd>.,,,49
+Advice_30_Name,Text,,Create <cat>Fuel</cat>!,,,50
+Advice_3_Desc,Text,,Use paths to connect buildings to a road.,,,51
+Advice_3_Name,Text,,<amount> of your buildings <isare> not connected to your road network!,,,52
+Advice_6_Desc,Text,,A <bd>Forestry</bd> won't plant trees until you assign it tiles.,,,53
+Advice_6_Name,Text,,You have <amount> <bd>Forestries</bd> without any tiles set!,,,54
+Advice_7_Desc,Text,,Use your idle <bd>Workshop</bd> to research technologies.,,,55
+Advice_7_Name,Text,,<amount> Workshop available!,,,56
+Advice_8_Desc,Text,,Build a <bd>Watchtower</bd> near your borders to expand your territory.,,,57
+Advice_8_Name,Text,,Expand your territory!,,,58
+Advice_9_Desc,Text,,Build a <bd>Workshop</bd> so you can research new technologies.,,,59
+Advice_9_Name,Text,,No <bd>Workshop</bd>!,,,60
+Advisor,Text,In-game advice panel,Advisor,,,61
+AdvisorColonyAdvice,Text,,Colony Advice,,,62
+AdvisorGeneralTips,Text,,General Tips,,,63
+AdvisorMissionGoals,Text,,Mission Goals,,,64
+AgeName_0,Text,Level of buildings in the game,Level 1,,,65
+AgeName_1,Text,,Level 2,,,66
+AgeName_2,Text,,Level 3,,,67
+All,Text,All Maps,All,,,68
+Animal_0_Name,Text,,Sheep,,,69
+Animal_2_Name,Text,,Cow,,,70
+Audio Settings,Text,,Audio Settings,,,71
+Back,Text,Navigate to previous screen,Back,,,72
+BdPlVaResults_0_Name,Text,Short message when trying to place a building for example,Success!,,,73
+BdPlVaResults_10_Name,Text,,Tile is off map,,,74
+BdPlVaResults_11_Name,Text,{0}: name of building or thing obstructing the placement of new building,Tile occupied by {0},,,75
+BdPlVaResults_12_Name,Text,,Too steep,,,76
+BdPlVaResults_13_Name,Text,,Can't adjust tiles,,,77
+BdPlVaResults_14_Name,Text,,No route can be made,,,78
+BdPlVaResults_15_Name,Text,,Tile is outside territory,,,79
+BdPlVaResults_16_Name,Text,,Not available,,,80
+BdPlVaResults_17_Name,Text,,Not aligned with underground deposit entrance,,,81
+BdPlVaResults_18_Name,Text,,Not aligned with fish tile,,,82
+BdPlVaResults_19_Name,Text,,No adjacent pier,,,83
+BdPlVaResults_1_Name,Text,,Incorrect terrain type,,,84
+BdPlVaResults_20_Name,Text,,Not adjacent,,,85
+BdPlVaResults_21_Name,Text,,Not enough adjacent structures,,,86
+BdPlVaResults_22_Name,Text,,Invalid end of path tile,,,87
+BdPlVaResults_23_Name,Text,,No route found,,,88
+BdPlVaResults_24_Name,Text,,Banned,,,89
+BdPlVaResults_255_Name,Text,,Unknown,,,90
+BdPlVaResults_25_Name,Text,,Higher level <bd>Shaft Mine</bd> required,,,91
+BdPlVaResults_26_Name,Text,,Land too high,,,92
+BdPlVaResults_27_Name,Text,,Land too low,,,93
+BdPlVaResults_28_Name,Text,,Track would break road,,,94
+BdPlVaResults_29_Name,Text,,Invalid road/path crossing,,,95
+BdPlVaResults_2_Name,Text,,Below water,,,96
+BdPlVaResults_30_Name,Text,,Track cannot cross multiple road or path tiles,,,97
+BdPlVaResults_31_Name,Text,,Below water,,,98
+BdPlVaResults_32_Name,Text,,Below ground,,,99
+BdPlVaResults_33_Name,Text,,Obstruction,,,100
+BdPlVaResults_34_Name,Text,,Not enough space above,,,101
+BdPlVaResults_35_Name,Text,,Bridge needs support,,,102
+BdPlVaResults_36_Name,Text,,Too high for bridge supports,,,103
+BdPlVaResults_37_Name,Text,,Not enough height,,,104
+BdPlVaResults_38_Name,Text,,Cannot create train - blocked,,,105
+BdPlVaResults_39_Name,Text,,Support blocked by road or path,,,106
+BdPlVaResults_3_Name,Text,,Below water,,,107
+BdPlVaResults_4_Name,Text,,Not below water,,,108
+BdPlVaResults_5_Name,Text,,Outside territory,,,109
+BdPlVaResults_6_Name,Text,,Maximum amount reached,,,110
+BdPlVaResults_7_Name,Text,,Entrance tile occupied,,,111
+BdPlVaResults_8_Name,Text,,Entrance tile below water,,,112
+BdPlVaResults_9_Name,Text,,Entrance outside territory,,,113
+Best Time,Text,,Best Times,,,114
+Boat_1_Name,Text,,Clipper,,,115
+Boat_2_Name,Text,,Lugger,,,116
+BuildingCat_0,Text,,Residential,,,117
+BuildingCat_1,Text,,Food Production,,,118
+BuildingCat_2,Text,,Production,,,119
+BuildingCat_3,Text,,Resource Collection,,,120
+BuildingCat_5,Text,,Military,,,121
+BuildingCat_6,Text,,Transport,,,122
+BuildingCat_7,Text,,Storage,,,123
+BuildingCat_8,Text,,Research,,,124
+Building_0_Description,Text,,Your Colony ship is the starting hub of your colony and slowly generates <it>Logs</it> and <it>Energy L1</it>,,,125
+Building_0_Name,Text,,Colony Ship,,,126
+Building_0_Plural,Text,,Colony Ships,,,127
+Building_0_Worker,Text,,Stackbot,,,128
+Building_11_Description,Text,,Plants saplings which mature into fully grown trees.,,,129
+Building_11_Name,Text,,Forestry,,,130
+Building_11_Plural,Text,,Forestries,,,131
+Building_11_Worker,Text,,Treebot,,,132
+Building_13_Description,Text,,Grows <it>Wheat</it> from wheat fields.,,,133
+Building_13_Name,Text,,Wheat Farm,,,134
+Building_13_Plural,Text,,Wheat Farms,,,135
+Building_13_Worker,Text,,Farmbot,,,136
+Building_14_Description,Text,,Mines natural resources from surface deposits.,,,137
+Building_14_Name,Text,,Surface Mine,,,138
+Building_14_Plural,Text,,Surface Mines,,,139
+Building_14_Worker,Text,,Axebot,,,140
+Building_15_Description,Text,,Bakes <it>Bread</it> from <it>Flour</it> and <it>Water</it> using <cat>Coal</cat>.,,,141
+Building_15_Name,Text,,Bakery,,,142
+Building_15_Plural,Text,,Bakeries,,,143
+Building_15_Worker,Text,,Bakerbot,,,144
+Building_16_Description,Text,,Mills <it>Flour</it> from <it>Wheat</it>.,,,145
+Building_16_Name,Text,,Flour Mill,,,146
+Building_16_Plural,Text,,Flour Mills,,,147
+Building_16_Worker,Text,,Millerbot,,,148
+Building_18_Description,Text,,Creates <it>Meat</it> and <it>Hide</it> from cows.,,,149
+Building_18_Name,Text,,Cow Farm,,,150
+Building_18_Plural,Text,,Cow Farms,,,151
+Building_18_Worker,Text,,Farmbot,,,152
+Building_19_Description,Text,,Pulls <it>Water</it> from an underground source.,,,153
+Building_19_Name,Text,,Well,,,154
+Building_19_Plural,Text,,Wells,,,155
+Building_19_Worker,Text,,Waterbot,,,156
+Building_1_Description,Text,,Grows <it>Apples</it>.,,,157
+Building_1_Name,Text,,Orchard,,,158
+Building_1_Plural,Text,,Orchards,,,159
+Building_1_Worker,Text,,Farmbot,,,160
+Building_20_Description,Text,,Creates <it>Charcoal</it> from <it>Logs</it>.,,,161
+Building_20_Name,Text,,Charcoal Burner,,,162
+Building_20_Plural,Text,,Charcoal Burners,,,163
+Building_20_Worker,Text,,Burnerbot,,,164
+Building_21_Description,Text,,Creates <it>Meat</it> from sheep.,,,165
+Building_21_Name,Text,,Sheep Farm,,,166
+Building_21_Plural,Text,,Sheep Farms,,,167
+Building_21_Worker,Text,,Shepherdbot,,,168
+Building_22_Description,Text,,Allows transportation of resources using boats.,,,169
+Building_22_Name,Text,,Harbour,,,170
+Building_22_Plural,Text,,Harbours,,,171
+Building_22_Worker,Text,,Dockbot,,,172
+Building_23_Description,Text,,Creates <it>Paper</it> using <it>Logs</it> and <it>Water</it>.,,,173
+Building_23_Name,Text,,Paper Mill,,,174
+Building_23_Plural,Text,,Paper Mills,,,175
+Building_23_Worker,Text,,Paperbot,,,176
+Building_254_Name,Text,,Expedition,,,177
+Building_25_Description,Text,,Creates <it>Tools</it> from <it>Iron</it> and <it>Planks</it> using <cat>Fuel</cat>.,,,178
+Building_25_Name,Text,,Blacksmith,,,179
+Building_25_Plural,Text,,Blacksmiths,,,180
+Building_25_Worker,Text,,Smithbot,,,181
+Building_26_Description,Text,,Creates <it>Books</it> using <it>Paper</it> and <it>Leather</it>.,,,182
+Building_26_Name,Text,,Printing Press,,,183
+Building_26_Plural,Text,,Printing Presses,,,184
+Building_26_Worker,Text,,Printbot,,,185
+Building_27_Description,Text,,Creates <it>Iron</it> from <it>Iron Ore</it> using <cat>Fuel</cat>.,,,186
+Building_27_Name,Text,,Blast Furnace,,,187
+Building_27_Plural,Text,,Blast Furnaces,,,188
+Building_27_Worker,Text,,Smeltbot,,,189
+Building_29_Description,Text,,Creates <it>Woollen Garments</it> from <it>Wool</it>.,,,190
+Building_29_Name,Text,,Weaver,,,191
+Building_29_Plural,Text,,Weavers,,,192
+Building_29_Worker,Text,,Weaverbot,,,193
+Building_2_Description,Text,,Makes <it>Cider</it> from <it>Apples</it>.,,,194
+Building_2_Name,Text,,Cider Press,,,195
+Building_2_Plural,Text,,Cider Presses,,,196
+Building_2_Worker,Text,,Pressbot,,,197
+Building_30_Description,Text,,Creates <it>Glass</it> from <it>Quartz</it>.,,,198
+Building_30_Name,Text,,Glassworks,,,199
+Building_30_Plural,Text,,Glassworks,,,200
+Building_30_Worker,Text,,Blowbot,,,201
+Building_32_Description,Text,,Constructs boats,,,202
+Building_32_Name,Text,,Boat Yard,,,203
+Building_32_Plural,Text,,Boat Yards,,,204
+Building_32_Worker,Text,,Shipwrightbot,,,205
+Building_33_Description,Text,,Expands territory and can attack enemy watchtowers.,,,206
+Building_33_Name,Text,,Watchtower,,,207
+Building_33_Plural,Text,,Watchtowers,,,208
+Building_33_Worker,Text,,Guardbot,,,209
+Building_34_Description,Text,,Produces <it>Arrows</it> from <it>Logs</it>.,,,210
+Building_34_Name,Text,,Fletcher,,,211
+Building_34_Plural,Text,,Fletchers,,,212
+Building_34_Worker,Text,,Fletchbot,,,213
+Building_35_Description,Text,,Creates <it>Cannonballs</it> from <it>Iron</it> using <cat>Fuel</cat>.,,,214
+Building_35_Name,Text,,Weaponsmith,,,215
+Building_35_Plural,Text,,Weaponsmiths,,,216
+Building_35_Worker,Text,,Smithbot,,,217
+Building_38_Description,Text,,Catches <it>Fish</it> from a fishing tile.,,,218
+Building_38_Name,Text,,Fishing Hut,,,219
+Building_38_Plural,Text,,Fishing Huts,,,220
+Building_38_Worker,Text,,Fisherbot,,,221
+Building_39_Description,Text,,Research new technologies.,,,222
+Building_39_Name,Text,,Workshop,,,223
+Building_39_Plural,Text,,Workshops,,,224
+Building_39_Worker,Text,,Researchbot,,,225
+Building_3_Description,Text,,Create <it>Logs</it> by chopping down trees.,,,226
+Building_3_Name,Text,,Lumberjack Hut,,,227
+Building_3_Plural,Text,,Lumberjack Huts,,,228
+Building_3_Worker,Text,,Lumberbot,,,229
+Building_40_Description,Text,,Allows you to buy and sell resources.,,,230
+Building_40_Name,Text,,Space Port,,,231
+Building_40_Plural,Text,,Space Ports,,,232
+Building_40_Worker,Text,,Stackbot,,,233
+Building_41_Description,Text,,Creates <it>Energy</it> from <it>Water</it> and <cat>Food</cat>.,,,234
+Building_41_Name,Text,,Residence,,,235
+Building_41_Plural,Text,,Residences,,,236
+Building_41_Worker,Text,,Housebot,,,237
+Building_45_Description,Text,,Creates <it>Steel</it> from <it>Iron</it> using <cat>Fuel</cat>.,,,238
+Building_45_Name,Text,,Steelworks,,,239
+Building_45_Plural,Text,,Steelworks,,,240
+Building_45_Worker,Text,,Steelbot,,,241
+Building_47_Description,Text,,Creates <it>Bricks</it> from <it>Clay</it> using <cat>Fuel</cat>.,,,242
+Building_47_Name,Text,,Brickyard,,,243
+Building_47_Plural,Text,,Brickyards,,,244
+Building_47_Worker,Text,,Brickbot,,,245
+Building_49_Description,Text,,Boosts the productivity of nearby bots.,,,246
+Building_49_Name,Text,,Large Monument,,,247
+Building_49_Plural,Text,,Large Monuments,,,248
+Building_49_Worker,Text,,Stackbot,,,249
+Building_4_Description,Text,,Creates <it>Planks</it> from <it>Logs</it>.,,,250
+Building_4_Name,Text,,Sawmill,,,251
+Building_4_Plural,Text,,Sawmills,,,252
+Building_4_Worker,Text,,Carpenterbot,,,253
+Building_50_Description,Text,,Creates <it>Leather</it> from <it>Hide</it> and <it>Salt</it>.,,,254
+Building_50_Name,Text,,Tannery,,,255
+Building_50_Plural,Text,,Tanneries,,,256
+Building_50_Worker,Text,,Tannerbot,,,257
+Building_51_Description,Text,,Extracts natural resources from underground mines.,,,258
+Building_51_Name,Text,,Shaft Mine,,,259
+Building_51_Plural,Text,,Shaft Mines,,,260
+Building_51_Worker,Text,,Minebot,,,261
+Building_57_Description,Text,,"Upgrades roads and paths, improving transport speed.",,,262
+Building_57_Name,Text,,Road Layer,,,263
+Building_57_Plural,Text,,Road Layers,,,264
+Building_57_Worker,Text,,Roadbot,,,265
+Building_58_Description,Text,,Brews <it>Beer</it> from <it>Flour</it> and <it>Water</it>.,,,266
+Building_58_Name,Text,,Brewery,,,267
+Building_58_Plural,Text,,Breweries,,,268
+Building_58_Worker,Text,,Beerbot,,,269
+Building_5_Description,Text,,Store resources which are not immediately needed.,,,270
+Building_5_Name,Text,,Storage Yard,,,271
+Building_5_Plural,Text,,Storage Yards,,,272
+Building_5_Worker,Text,,Stackbot,,,273
+Building_60_Description,Text,,Boosts the productivity of nearby bots.,,,274
+Building_60_Name,Text,,Small Monument,,,275
+Building_60_Plural,Text,,Small Monuments,,,276
+Building_60_Worker,Text,,Stackbot,,,277
+Building_61_Description,Text,,Store resources which are not immediately needed.,,,278
+Building_61_Name,Text,,Small Storage Yard,,,279
+Building_61_Plural,Text,,Small Storage Yards,,,280
+Building_61_Worker,Text,,Stackbot,,,281
+Building_62_Description,Text,,Boosts the productivity of nearby bots.,,,282
+Building_62_Name,Text,,Medium Monument,,,283
+Building_62_Plural,Text,,Medium Monuments,,,284
+Building_62_Worker,Text,,Stackbot,,,285
+Building_63_Description,Text,,Allows transportation of resources using boats.,,,286
+Building_63_Name,Text,,Large Harbour,,,287
+Building_63_Plural,Text,,Large Harbours,,,288
+Building_63_Worker,Text,,Dockbot,,,289
+Building_65_Description,Text,,Store resources which are not immediately needed.,,,290
+Building_65_Name,Text,,Large Storage Yard,,,291
+Building_65_Plural,Text,,Large Storage Yards,,,292
+Building_65_Worker,Text,,Stackbot,,,293
+Building_6_Description,Text,,Allows transportation of resources with trains.,,,294
+Building_6_Name,Text,,Train Station,,,295
+Building_6_Plural,Text,,Train Stations,,,296
+Building_6_Worker,Text,,Stationbot,,,297
+Buildings,Text,,Buildings,,,298
+BuildingsPanelAllBuildings,Text,,<< All Buildings,,,299
+Campaign,Text,,Campaign,,,300
+Campaign Maps,Text,,Campaign Maps,,,301
+Cancel,Text,,Cancel,,,302
+Casual,Text,Difficulty Level,Casual,,,303
+Change,Text,,Change,,,304
+Changes to this file have not been published to Steam Workshop.,Text,,Changes to this file have not been published to Steam Workshop.,,,305
+Choose Map,Text,,Choose Map,,,306
+Colony Colour,Text,Select your Colony Colour,Colony Colour,,,307
+Colony Statistics,Text,,Colony Statistics,,,308
+ColonyStatisticsCurrentProductivity,Text,,Current Productivity,,,309
+ColonyStatisticsFilterAlerts,Text,,Alerts,,,310
+ColonyStatisticsFilterOnTime,Text,,On Time,,,311
+ColonyStatisticsFilterType,Text,,Filter:,,,312
+ColonyStatisticsFilterWarnings,Text,,Warnings,,,313
+ColonyStatisticsFiltersOff,Text,,All filters are turned off!,,,314
+ColonyStatisticsIncomeHeader,Text,,Money Income,,,315
+ColonyStatisticsLateResourcesHeader,Text,,Recent Late Resources,,,316
+ColonyStatisticsNoMatch,Text,,No recently delivered resources match the filters.,,,317
+ColonyStatisticsProductivityHeader,Text,,Colony Productivity,,,318
+ColonyStatsTooltipBlockedRoadsDesc,Text,,The number of roads where a carrybot is blocked because a road post is full,,,319
+ColonyStatsTooltipBlockedRoadsTitle,Text,,Blocked Roads,,,320
+ColonyStatsTooltipIncomeRateDesc,Text,,The amount of money earned on average per day over the last month,,,321
+ColonyStatsTooltipIncomeRateTitle,Text,,Income Rate,,,322
+ColonyStatsTooltipProductivityDesc,Text,,The average productivity of all the buildings in your colony,,,323
+ColonyStatsTooltipProductivityTitle,Text,,Colony Productivity,,,324
+ColonyStatsTooltipResourceDeliveryDesc,Text,,The precentage of resources delivered in the last week that were on time,,,325
+ColonyStatsTooltipResourceDeliveryTitle,Text,,Resource Delivery,,,326
+ColonyStatsTooltipResourceProductionDesc,Text,,The combined production rate of all your production buildings,,,327
+ColonyStatsTooltipResourceProductionTitle,Text,,Colony Resource Production,,,328
+Construction Hint,Text,A tip when player is in construction mode,Construction Hint,,,329
+Construction Priorities,Text,,Construction Priorities,,,330
+ConstructionBuildingLimit,Text,Info if the player is only allowed to have a certain amount of a building,Building Limit,,,331
+ConstructionBuildingLimitHit,Text,,You have reached the maximum allowed!,,,332
+ConstructionCanMine,Text,Which resources can this building mine,Can Mine:,,,333
+ConstructionCapacity,Text,How many resources can be stored,Capacity,,,334
+ConstructionCosts,Text,Head of section listing construction costs,Construction,,,335
+ConstructionHintCtrl,Text,,Hold down [Ctrl] and move mouse up and down to raise or lower the building's height,,,336
+ConstructionMilitaryAttack,Text,Building military attacking stats,Military Attack,,,337
+ConstructionMilitaryCannotAttack,Text,,Cannot attack at this level,,,338
+ConstructionMilitaryDefence,Text,Building defence stats,Military Defence,,,339
+ConstructionRequirements,Text,Technology required to be able to build this building,Requirements,,,340
+Create New Map,Text,,Create New Map,,,341
+Credits,Text,,Credits,,,342
+Custom Maps,Text,,Custom Maps,,,343
+Difficulty,Text,,Difficulty,,,344
+Edit,Text,Open the map in the map editor,Edit,,,345
+EffectsVolume,Text,(Sound) Effects Volume,Effects Volume,,,346
+EntPanelHead_0,Text,Title of UI panel,Construction,,,347
+EntPanelHead_1,Text,,Production,,,348
+EntPanelHead_10,Text,,Boats,,,349
+EntPanelHead_100,Text,,Transport Route,,,350
+EntPanelHead_11,Text,,Expedition,,,351
+EntPanelHead_12,Text,,Trains,,,352
+EntPanelHead_13,Text,,Sell Resources,,,353
+EntPanelHead_14,Text,,<x>,,,354
+EntPanelHead_15,Text,,Buy Resources,,,355
+EntPanelHead_16,Text,,Resource Statistics,,,356
+EntPanelHead_17,Text,,Military Activity Log,,,357
+EntPanelHead_19,Text,,Production Statistics,,,358
+EntPanelHead_2,Text,,Resources,,,359
+EntPanelHead_20,Text,,Research Statistics,,,360
+EntPanelHead_21,Text,,Connections,,,361
+EntPanelHead_22,Text,,Resource Import Rules,,,362
+EntPanelHead_23,Text,,Resource Export Rules,,,363
+EntPanelHead_3,Text,,Military,,,364
+EntPanelHead_30,Text,,Resources,,,365
+EntPanelHead_31,Text,,Expedition,,,366
+EntPanelHead_32,Text,,Boat Instructions,,,367
+EntPanelHead_33,Text,,Transport Route,,,368
+EntPanelHead_4,Text,,Upgrade,,,369
+EntPanelHead_40,Text,,Boatyard Docks,,,370
+EntPanelHead_5,Text,,Research,,,371
+EntPanelHead_50,Text,,Transport Rules,,,372
+EntPanelHead_51,Text,,Resources,,,373
+EntPanelHead_52,Text,,Transport Connections,,,374
+EntPanelHead_60,Text,,Journey,,,375
+EntPanelHead_7,Text,,<x>,,,376
+EntPanelHead_72,Text,,Statistics,,,377
+EntPanelHead_8,Text,,Debug,,,378
+EntPanelHead_80,Text,,Info,,,379
+EntPanelHead_90,Text,,Info,,,380
+EntityBoatyardDockBeginConstruction,Text,,Begin Construction,,,381
+EntityBoatyardDockBoatBuilding,Text,,Building {0},,,382
+EntityBoatyardDockBoatCapacity,Text,,Capacity: {0},,,383
+EntityBoatyardDockBoatDimensions,Text,,"Length: {0}, Breadth: {1}",,,384
+EntityBoatyardDockBoatInfoHeader,Text,,Info,,,385
+EntityBoatyardDockBoatReady,Text,,{0} is ready!,,,386
+EntityBoatyardDockBoatReadyDesc,Text,,Select the boat and either create a transport route or prepare a colony expedition at a harbour.,,,387
+EntityBoatyardDockBoatSpeed,Text,,Speed: {0},,,388
+EntityBoatyardDockChangeBoat,Text,,Change Boat,,,389
+EntityBoatyardDockConstructionHeader,Text,,Construction,,,390
+EntityBuildingPriorityLayersChangeAction,Text,,Change Tiles ({0}),,,391
+EntityBuildingPriorityLayersClearTiles,Text,,Clear Tiles,,,392
+EntityBuildingPriorityLayersCount,Text,,Tiles selected: {0},,,393
+EntityBuildingPriorityLayersDesc,Text,,"Click or click and drag to set tiles.
+
+<hotkey>[Shift]</hotkey> click a tile to unset it.",,,394
+EntityBuildingPriorityLayersFinishAction,Text,,Finish,,,395
+EntityBuildingPriorityLayersForestryDesc,Text,,"Set the area in which the treebot can plant trees.
+
+Click or click and drag to set tiles.
+<hotkey>[Shift]</hotkey> click a tile to unset it.",,,396
+EntityBuildingPriorityLayersForestryHeader,Text,,Planting Area,,,397
+EntityBuildingPriorityLayersLumberjackHutDesc,Text,,"By default lumberbots will chop down the nearest tree but you can override this behaviour by prioritising selected tiles.
+
+Click or click and drag to set tiles.
+<hotkey>[Shift]</hotkey> click a tile to unset it.",,,398
+EntityBuildingPriorityLayersLumberjackHutHeader,Text,,Priority Chopping Area,,,399
+EntityBuildingPriorityLayersRoadImproverDesc,Text,,"By default road layer bots will upgrade the nearest road/path tile but you can override this behaviour by prioritising selected tiles.
+
+<hotkey>[Click]</hotkey> and drag to set tiles.
+<hotkey>[Shift]</hotkey> + <hotkey>[Click]</hotkey> a tile to unset it.",,,400
+EntityBuildingPriorityLayersRoadImproverHeader,Text,,Priority Roads/Paths,,,401
+EntityBuildingPriorityLayersSurfaceMineDesc,Text,,"By default minebots will mine the nearest surface deposit of the target resource type but you can override this behaviour by prioritising selected deposits.
+
+<hotkey>[Click]</hotkey> and drag to set tiles.
+<hotkey>[Shift]</hotkey> + <hotkey>[Click]</hotkey> a tile to unset it.",,,402
+EntityBuildingPriorityLayersSurfaceMineHeader,Text,,Priority Mining Area,,,403
+EntityBuildingStructuresAutoPlace,Text,,Auto Place,,,404
+EntityBuildingTechResearchSelectResearch,Text,,Select Research,,,405
+EntityBuildingTechResearchStatsIdle,Text,,Researchbot is currently idle.,,,406
+EntityBuildingTechResearchStatsViewTypeResearch,Text,,Research,,,407
+EntityBuildingTransportConnectionsBoatRoutesHeader,Text,,Boat Routes,,,408
+EntityBuildingTransportConnectionsNoBoatRoutes,Text,,No boat routes,,,409
+EntityBuildingTransportConnectionsNoBuildings,Text,,No direct building connections,,,410
+EntityBuildingTransportConnectionsNoRoadPost,Text,,Not connected to a road post!,,,411
+EntityBuildingTransportConnectionsNoRoadPostsDesc,Text,,Connect entrance to a road post using roads or paths. Maximum distance is 20 tiles.,,,412
+EntityBuildingTransportConnectionsRoadPostsHeader,Text,,Road Posts,,,413
+EntityBuildingTransportRulesIncomingBlacklistDesc,Text,,Resources completely banned from being imported:,,,414
+EntityBuildingTransportRulesIncomingBlacklistExcStorageDesc,Text,,Resources banned from being imported unless they're headed for a storage yard:,,,415
+EntityBuildingTransportRulesIncomingDesc,Text,,"By default this building imports all resources.
+You can manage which resources can be imported by setting up rules.",,,416
+EntityBuildingTransportRulesIncomingWhitelistDesc,Text,,Resources allowed to be imported:,,,417
+EntityBuildingTransportRulesIncomingWhitelistOnlyStorageDesc,Text,,Resources allowed to be exported only if headed to a storage yard:,,,418
+EntityBuildingTransportRulesOutgoingBlacklistDesc,Text,,Resources completely banned from being exported:,,,419
+EntityBuildingTransportRulesOutgoingBlacklistExcStorageDesc,Text,,Resources banned from being exported unless they're headed for a storage yard:,,,420
+EntityBuildingTransportRulesOutgoingDesc,Text,,"By default this building exports all resources.
+You can manage which resources can be exported by setting up rules.",,,421
+EntityBuildingTransportRulesOutgoingWhitelistDesc,Text,,Resources allowed to be exported:,,,422
+EntityBuildingUpgradeConstructionHeader,Text,,Construction,,,423
+EntityBuildingUpgradeMilitaryInfoHeader,Text,,Military Info,,,424
+EntityBuildingUpgradeNeedsHeader,Text,,Needs,,,425
+EntityBuildingUpgradeProductionHeader,Text,,Production,,,426
+EntityBuildingUpgradeRequirementsHeader,Text,,Requirements,,,427
+EntityBuildingUpgradeStartUpgrade,Text,,Start Upgrade,,,428
+EntityInfoAddRule,Text,,Add Rule,,,429
+EntityInfoBuildingStorageDestinedEmpty,Text,,There are no resources en route,,,430
+EntityInfoBuildingStorageDestinedHeader,Text,,En Route ({0}),,,431
+EntityInfoBuildingStorageHeader,Text,,Storage ({0}),,,432
+EntityInfoBuildingStorageIncomingHeader,Text,,Incoming Queue ({0}),,,433
+EntityInfoBuildingStorageOutgoingEmpty,Text,,There are no resources waiting for assignment,,,434
+EntityInfoBuildingStorageOutgoingHeader,Text,,Outgoing Queue ({0}),,,435
+EntityInfoBuildingStorageProductionEmpty,Text,,There are no resources waiting to be used,,,436
+EntityInfoBuildingStorageProductionHeader,Text,,Production Queue ({0}),,,437
+EntityInfoBuildingStorageTransportIncomingEmpty,Text,,There are no resources waiting to be unloaded,,,438
+EntityInfoBuildingStorageTransportOutgoingEmpty,Text,,There are no resources waiting to be loaded,,,439
+EntityInfoBuildingStorageUnloadingHeader,Text,,Unloading ({0}),,,440
+EntityInfoItemSidePanelAddRule,Text,,Add Rule,,,441
+EntityInfoItemSidePanelHeader,Text,,Select resources to store,,,442
+EntityInfoMilitaryChangeTarget,Text,,Change Target,,,443
+EntityInfoMilitaryCollapsingWarning,Text,,This building is collapsing! Start repairs otherwise this building will be lost!,,,444
+EntityInfoMilitaryDamage,Text,,Damage:,,,445
+EntityInfoSelectBoatHeader,Text,,Select boat to build,,,446
+EntityInfoSelectExpeditionNoHarbours,Text,,You haven't built any harbours yet.,,,447
+EntityInfoSelectExpeditionPortHeader,Text,,Assign to Expedition,,,448
+EntityInfoSelectExportBuildingHeader,Text,,Select Export Buildings,,,449
+EntityInfoSelectExportBuildingIntro,Text,,Select a building from the list or click on it in the world,,,450
+EntityInfoSelectImportBuildingHeader,Text,,Select Import Buildings,,,451
+EntityInfoSelectMilitaryTargetHeader,Text,,Select target watchtower,,,452
+EntityInfoSelectNaturalResourceHeader,Text,,Select resource to mine,,,453
+EntityInfoSelectResource,Text,,Select resource,,,454
+EntityInfoSelectTreeHeader,Text,,Select tree to plant,,,455
+EntityInfoSelectVehicleStopHeader,Text,,Add Harbour Stop,,,456
+EntityInfoSelectVehicleStopTransportRulesHeader,Text,,Manage rules,,,457
+EntityInfoSellingAddPurchaseRule,Text,,Add Order,,,458
+EntityInfoSellingAddSaleRule,Text,,Add Sale Rule,,,459
+EntityInfoVehicleStopTransportRulesBlacklistDesc,Text,,Resources completely banned from being loaded at this stop:,,,460
+EntityInfoVehicleStopTransportRulesBlacklistExcStorageDesc,Text,,Resources banned from being loaded at this stop unless they're headed for a storage yard:,,,461
+EntityInfoVehicleStopTransportRulesBlacklistExcStorageHeader,Text,,Blacklist - Excluding Storage,,,462
+EntityInfoVehicleStopTransportRulesBlacklistHeader,Text,,Blacklist,,,463
+EntityInfoVehicleStopTransportRulesIntro,Text,,Control the resources that [vh] will load at this stop for <bd>[bd]</bd>.,,,464
+EntityInfoVehicleStopTransportRulesWhitelistDesc,Text,,Resources allowed to be loaded at this stop:,,,465
+EntityInfoVehicleStopTransportRulesWhitelistHeader,Text,,Whitelist,,,466
+EntityInfoVehicleStopTransportRulesWhitelistStorageOnlyDesc,Text,,Resources allowed to be loaded at this stop only if headed to a storage yard:,,,467
+EntityInfoVehicleStopTransportRulesWhitelistStorageOnlyHeader,Text,,Whitelist - Storage Only,,,468
+EntityPortColonyShipAssignBoatDesc,Text,,To begin the expedition select an available boat and assign it to this expedition.,,,469
+EntityPortColonyShipAssignBoatHeader,Text,,Assign Boat,,,470
+EntityPortColonyShipBoatEnRoute,Text,,{0} is on its way to collect expedition provisions,,,471
+EntityPortColonyShipBoatLoading,Text,,{0} is loading {1} more provisions...,,,472
+EntityPortColonyShipBoatWaiting,Text,,{0} is waiting for docking space to become available,,,473
+EntityPortColonyShipCollectingProvisions,Text,,Collecting provisions...,,,474
+EntityPortColonyShipColonyShipHeader,Text,,Expedition Boat,,,475
+EntityPortColonyShipGatherProvisions,Text,,Gather the required provisions to stock an expedition boat which can explore the seas and build a harbour on new land.,,,476
+EntityPortColonyShipPrepareCollectResources,Text,,Collect Resources,,,477
+EntityPortColonyShipPrepareIntro,Text,,Choose where this boat makes port and control the resources it can transport.,,,478
+EntityPortColonyShipPreparingCancel,Text,,Cancel Provision Collection,,,479
+EntityPortColonyShipProvisionsReady,Text,,Provisions ready!,,,480
+EntityStationTrainsCreateTrain,Text,,Create Train,,,481
+EntityStationTrainsEmptyDesc,Text,,No trains currently stop here,,,482
+EntityStructuresEditingChange,Text,,Change,,,483
+EntityStructuresEditingFinish,Text,,Finish,,,484
+EntityStructuresFarmFieldDesc,Text,,"Add a new {0} by clicking next to an existing one.
+Remove a {1} by <hotkey>[Shift]</hotkey> + clicking.",,,485
+EntityStructuresManualAdd,Text,,Manual Add,,,486
+EntityTransportBoatStorageLoadingEmpty,Text,,There are no resources being loaded,,,487
+EntityTransportBoatStorageLoadingHeader,Text,,Loading ({0}),,,488
+EntityTransportBoatStorageOnBoardEmpty,Text,,There are no resources on board,,,489
+EntityTransportBoatStorageOnBoardHeader,Text,,On Board ({0}),,,490
+EntityTransportVehicleStopsBoatAction,Text,,Add Harbour Stop,,,491
+EntityTransportVehicleStopsBoatIntro,Text,,{0} will automatically transport resources between these harbours,,,492
+EntityTransportVehicleStopsCancel,Text,,Cancel,,,493
+EntityTransportVehicleStopsChangeRoute,Text,,Change Route,,,494
+EntityTransportVehicleStopsClearRoute,Text,,Clear Route,,,495
+EntityTransportVehicleStopsConfirm,Text,,Confirm,,,496
+EntityTransportVehicleStopsInvalidBoatStartEnd,Text,,Invalid Route! Start harbour and end harbour are same. This is unnecessary as boat will automatically loop.,,,497
+EntityTransportVehicleStopsInvalidSequence,Text,,Invalid Route! Route stops at {0} twice in a row!,,,498
+EntityTransportVehicleStopsInvalidTrainStartEnd,Text,,Invalid Route! Start station and end station are same. This is unnecessary as train will automatically loop.,,,499
+EntityTransportVehicleStopsMinimum,Text,,Route needs at least two stops,,,500
+EntityTransportVehicleStopsNoRouteHeader,Text,Player's boat or train cannot find a route to its next destination,Cannot find route!,,,501
+EntityTransportVehicleStopsNoRouteTrainDesc,Text,,Check your tracks for gaps,,,502
+EntityTransportVehicleStopsTrainAction,Text,,Add Station Stop,,,503
+EntityTransportVehicleStopsTrainIntro,Text,,{0} will automatically transport resources between these stations,,,504
+Everything,Text,,Everything,,,505
+ExitGame,Text,,Exit Game,,,506
+Favourites,Text,Favourite Maps,Favourites,,,507
+Featured,Text,Featured Maps,Featured,,,508
+Filter,Text,Map Filter,Filter,,,509
+Fish_0_Name,Text,,Fish,,,510
+Flag_0_Name,Text,,Road Post,,,511
+FloraCat_1,Text,,Tree,,,512
+FloraCat_2,Text,,Rock,,,513
+FloraCat_3,Text,,Bush,,,514
+FloraValidTerrain_11,Text,,Grass/Sand/Desert,,,515
+FloraValidTerrain_2,Text,,Grass/Snow,,,516
+FloraValidTerrain_7,Text,,Grass/Snow,,,517
+FloraValidTerrain_8,Text,,Desert,,,518
+Flora_11_Name,Text,,Palm Tree,,,519
+Flora_13_Name,Text,,Cactus Bush,,,520
+Flora_14_Name,Text,,Tree Stump,,,521
+Flora_15_Name,Text,,Tree Stump,,,522
+Flora_16_Name,Text,,Tree Stump,,,523
+Flora_19_Name,Text,,Tree Stump,,,524
+Flora_200_Description,Text,,"This mine contains an infinite supply of <nr><natres></nr>.
+You can build a <bd>Shaft Mine</bd> here to extract the <nr><natres></nr>.",,,525
+Flora_200_Name,Text,,Underground Deposit,,,526
+Flora_2_Name,Text,,Fir Tree,,,527
+Flora_3_Name,Text,,Tree Stump,,,528
+Flora_43_Name,Text,,Rock 2x2,,,529
+Flora_4_Name,Text,,Small Rock,,,530
+Flora_5_Name,Text,,Small Rock,,,531
+Flora_60_Name,Text,,Rock 3x3,,,532
+Flora_7_Name,Text,,Cypress Tree,,,533
+Flora_8_Name,Text,,Cactus,,,534
+Flora_Tree_Description,Text,,"This tree can be chopped down and converted into <it>Logs</it> by the <bd>Lumberjack Hut</bd>.
+
+You can prioritise a Lumberbot to chop this tree down first by using the Priority Panel on a <bd>Lumberjack Hut</bd>.",,,535
+Fog of War,Text,The edge of where the player can see,Fog of War,,,536
+Free Construction,Text,When you place a building it is already constructed,Free Construction,,,537
+FullScreenMode_0,Text,https://docs.unity3d.com/ScriptReference/FullScreenMode.html,Exclusive Full Screen,,,538
+FullScreenMode_1,Text,https://docs.unity3d.com/ScriptReference/FullScreenMode.html,Full Screen Window,,,539
+FullScreenMode_2,Text,https://docs.unity3d.com/ScriptReference/FullScreenMode.html,Maximised Window,,,540
+FullScreenMode_3,Text,https://docs.unity3d.com/ScriptReference/FullScreenMode.html,Windowed,,,541
+Game Options,Text,,Game Settings,,,542
+GameMenu_BackToMapEditor,Text,,Back to Map Editor,,,543
+GameMenu_Header,Text,,Menu,,,544
+GameMenu_ReportBug,Text,,Report A Bug,,,545
+GameSettingsAutosaveInterval,Text,,Autosave interval,,,546
+GameSettingsAutosaveIterations,Text,,Autosave iterations,,,547
+GameSettingsEdgePanning,Text,,Edge panning,,,548
+GameSettingsEdgePanningSensitivity,Text,,Edge panning sensitivity,,,549
+GameSettingsFreeRoadPostPlacement,Text,"Allows player to place a road post anywhere, not just from existing road post",Free Road Post Placement,,,550
+GameSettingsInterfaceAspectLock,Text,Whether the UI should scale based on the width of the resolution or on the height.,Interface aspect lock,,,551
+GameSettingsInvertX,Text,,Invert rotation X axis,,,552
+GameSettingsInvertY,Text,,Invert rotation Y axis,,,553
+GameSettingsTitle,Text,,Game Options,,,554
+GameSettingsZoomSensitivity,Text,,Zoom sensitivity,,,555
+GameUIResourceStorage,Text,,Resource Storage,,,556
+GameUI_Build,Text,In-game build mode,Build,,,557
+GameUI_PotentialSurplus,Text,,Potential Surplus,,,558
+GameUI_PrioritiseBuilding,Text,,Prioritise,,,559
+Hard,Text,,Hard,,,560
+Height,Text,,Height,,,561
+Help,Text,,Help,,,562
+Help & Wiki,Text,,Help & Wiki,,,563
+HelpPanelTitle,Text,(Noun) title of help panel,Help,,,564
+HelpPanel_22,Text,,"The transport priorities determine which resource a carrybot will pick up from a road post or a stackbot will unload from a boat or train.
+
+Resource types higher up the list will be picked up before resource types below it.
+
+The transport priorities will be overridden if a resource heading to a <pr>Prioritised</pr> building is available to be picked up.
+
+Use the arrows to move a resource type up or down the priority list.",,,565
+HelpPanel_23,Text,,"If two buildings that are under construction immediately need the same resource type, these priorities determine which building type the resource will head to first.
+
+These construction priorities will be overridden by <pr>Prioritised</pr> building.
+
+Use the arrows to move a building type up or down the priority list.",,,566
+HelpPanel_24,Text,,"This panel lists all your buildings by type and their current productivity.
+
+You can click on a building type to view all of your buildings of that type.",,,567
+HelpPanel_25,Text,,"You can research various technologies to unlock new buildings and transport modes which improve and advance your colony.
+
+Technologies are researched by researchbots at the <bd>Workshop</bd> building. Researchbots require <it>Energy</it> to research technology as well as resources specific to that technology.
+
+More advanced technologies require higher level <bd>Workshops</bd> which in turn requrie more advanced <it>Energy</it> to function.
+
+To start researching a technology, first select an available technology on a tech tree. Then select an idle <bd>workshop</bd> that is at the required or higher level.
+
+Finally click on the Start Research button in the bottom right to being the research.",,,568
+HelpPanel_26,Text,,"The map shows a top down view of your colony. You can zoom in using the mouse wheel or the slider on the left. You can also left-click and drag to pan around the map.
+
+On the right-hand side panel is a list of surface and underground natural resource deposits. You can toggle the visibility of each on the map.
+
+By default, the location of unrevealed natural resources are also indicated on the map. These can help you decide in which direction to expand and navigate your expeditions.
+
+And remember, if you run out of higher level resources, you are always able to expand using Level 1 <bd>Watchtowers</bd> and harvest surface stone deposits using Level 1 <bd>Surface Mines</bd>.",,ㅐ,569
+HelpPanel_27,Text,,"This sub-panel shows you the current productivity of your colony. This is the percentage of your production buildings that are currently active.
+
+You can also view your colony productivity over the last week or month on the graph.",,,570
+HelpPanel_28,Text,,"This sub-panel lists resources recently delivered to a production building. You can filter the results by 'On Time', 'Warning' and 'Alert' and you can select any entry to see the route it took. The percentage number indicates the time the journey took compared to the time needed to maintain 100% productivity at the destination building.
+
+For example, a <bd>Lumberjack Hut</bd> requires <it>Energy</it> at a rate of one per day and can store up to four <it>Energy</it> resources as a buffer. If an <it>Energy</it> resource takes 4.5 days to arrive, it will be listed here as 112% as if that journey time was consistent then resources wouldn't arrive quickly enough to maintain 100% productivity.
+
+This is just one factor When taking into account whether a building can work at 100% as you also need to take into account whether there is enough of that resource being produced in the first place.
+
+It is usually optimal to place a building that supply another building close together so that supply routes are short. Sometimes this is not possible but to work around this you can build <bd>Storage Yards</bd> near your destination to create an extra supply 'buffer'.
+
+For example, if you have a remote <bd>Mine</bd>, you can build a nearby <bd>Storage Yard</bd> to keep a supply of <it>Energy</it> nearby. If you do this bear in mind that, by default, the <it>Energy</it> stored there will still be available to other buildings, potentially far away. There are two options to make it so that <it>Energy</it> only goes to that <bd>Mine</bd>:
+
+Firstly you could limit the export buildings in the <bd>Storage Yard</bd> settings to just your <bd>Mine</bd>. Secondly you could create a transport rule on a road post to only allow <it>Energy</it> to pass through if going to a <bd>Storage Yard</bd>.",,,571
+HelpPanel_29,Text,,"By default, resource priorities are determined by the order set in the demands panel for each resource.
+
+However, you can also prioritise a single building over all others by using this button (or holding <hotkey>[P]</hotkey> and clicking the building).
+
+Once prioritised, a pink star will appear above the building and it will appear at the top of the demand list of all resources that it is trying to source.
+
+For example, if you have a Level 1 Watchtower that you wish to build as quickly as possible then Prioritising your Watchtower will mean it receives all available Logs produced ahead of any other buildings that may also currently need Logs.
+
+You are able to set one Priority building per building type.",,,572
+HelpPanel_31,Text,,"The Resource Overview panel gives you an general insight into how much a particular resource is being produced and how much it is in demand.
+
+Current Production is the amount being produced right now based on active buildings.
+
+Potential Production is the amount that would be produced if all your production buildings were active.
+
+Current Demand is the amount that is currently being required across your colony, whether for production, construction, research or military purposes.
+
+Potential Demand is the amount that would be required for production, construction, research or military if those buildings were active.
+
+The positive and negative bars at the bottom indicate your surplus or deficit broken down into:
+
+Current Surplus (Current Production versus Current Demand)
+Potential Surplus (Potential Production versus Potential Demand)",,,573
+HelpPanel_35,Text,,"You can add rules to a road post or transport building to help direct resources around your colony in particular ways.
+
+Blacklist: If you blacklist a resource it will not be able to pass through under any circumstance.
+
+Blacklist Except Storage: This option means accept the resource if it's going to a storage yard.
+
+Whitelist: means only the selected resources will be able to pass through.
+
+Whitelist Storage Only: This option means only whitelisted resources will be able to pass through and only if they're going to a storage yard.",,,574
+HelpPanel_36,Text,,"This panel lists how much money you have, your current Trader Reputation and resource prices.
+
+Trader Reputation points are gained by buying and selling resources. Gain enough points and your Trader Reputation will increase, allowing you to build another <bd>Space Port</bd>.
+
+Purchasing resources incurs a 50% commission to deliver it to your chosen <bd>Space Port</bd>.",,,575
+HelpPanel_37,Text,,"Buildings need to be connected to the road network for resources to be able to reach the building.
+
+Buildings can be directly placed on roads or the building's entrance can be connected to a road by a path.
+
+Additionally, a building can be directly connected by paths to one or more other buildings. This allows stackbots to move resources between buildings without involving a road post and can help keep traffic off your roads.
+
+A road post or building connection has a maximum length of 20 tiles.
+
+You can click on a connection in the list to see the route the Stackbot takes.",,,576
+HelpTitle_10_Desc,Text,,The range of land this building provides,,,577
+HelpTitle_10_Name,Text,,Territory,,,578
+HelpTitle_11_Desc,Text,,Reduction to damage from enemy projectiles,,,579
+HelpTitle_11_Name,Text,,Armour,,,580
+HelpTitle_12_Desc,Text,,Amount of damage points dealt to target building,,,581
+HelpTitle_12_Name,Text,,Damage,,,582
+HelpTitle_13_Desc,Text,,How far this weapon can be fired,,,583
+HelpTitle_13_Name,Text,,Range,,,584
+HelpTitle_14_Desc,Text,,Time taken between firing weapons,,,585
+HelpTitle_14_Name,Text,,Reload Time,,,586
+HelpTitle_15_Desc,Text,,Number of days to build,,,587
+HelpTitle_15_Name,Text,,Construction Time,,,588
+HelpTitle_16_Desc,Text,,Number of days to reach this building,,,589
+HelpTitle_16_Name,Text,,Journey Time,,,590
+HelpTitle_18_Desc,Text,,"<hotkey>[X]</hotkey> to speed up simulation
+<hotkey>[Space]</hotkey> to pause",,,591
+HelpTitle_18_Name,Text,,Increase Game Speed,,,592
+HelpTitle_19_Desc,Text,,"<hotkey>[Z]</hotkey> to slow down simulation
+<hotkey>[Space]</hotkey> to pause",,,593
+HelpTitle_19_Name,Text,,Decrease Game Speed,,,594
+HelpTitle_9_Desc,Text,,Hit Points represent the health of your building,,,595
+HelpTitle_9_Name,Text,,Hit Points,,,596
+Hotkey_0,Text,,Build Road,,,597
+Hotkey_1,Text,,Residence Buildings,,,598
+Hotkey_10,Text,,Production Buildings,,,599
+Hotkey_11,Text,,Resource Buildings,,,600
+Hotkey_12,Text,,Military Buildings,,,601
+Hotkey_13,Text,,Transport Buildings,,,602
+Hotkey_14,Text,,Storage Buildings,,,603
+Hotkey_15,Text,,Research Buildings,,,604
+Hotkey_16,Text,,Monument Buildings,,,605
+Hotkey_17,Text,,Change Building Level,,,606
+Hotkey_18,Text,,Skip Destroy Warning,,,607
+Hotkey_2,Text,,Build Mode,,,608
+Hotkey_20,Text,,Upgrade Building [on click building],,,609
+Hotkey_21,Text,,Enter Track Mode [on click track],,,610
+Hotkey_22,Text,,Prioritise Building [on click building],,,611
+Hotkey_25,Text,,Open Map,,,612
+Hotkey_26,Text,,Open Technology Panel,,,613
+Hotkey_27,Text,,Toggle Postcard Mode,,,614
+Hotkey_28,Text,,Capture Postcard,,,615
+Hotkey_3,Text,,Destroy Mode,,,616
+Hotkey_30,Text,,Move Camera Left,,,617
+Hotkey_31,Text,,Move Camera Right,,,618
+Hotkey_32,Text,,Move Camera Forward,,,619
+Hotkey_33,Text,,Move Camera Back,,,620
+Hotkey_34,Text,,Rotate Camera Left,,,621
+Hotkey_35,Text,,Rotate Camera Right,,,622
+Hotkey_36,Text,,Jump To Colony Ship,,,623
+Hotkey_37,Text,,Fast Move,,,624
+Hotkey_38,Text,,Move Camera Left Alt,,,625
+Hotkey_39,Text,,Move Camera Right Alt,,,626
+Hotkey_4,Text,,Sculpt Mode,,,627
+Hotkey_40,Text,,Move Camera Forward Alt,,,628
+Hotkey_41,Text,,Move Camera Back Alt,,,629
+Hotkey_42,Text,,Fast Move Alt,,,630
+Hotkey_43,Text,,Tilt Camera Up,,,631
+Hotkey_44,Text,,Tilt Camera Down,,,632
+Hotkey_45,Text,,Jump to Last Notification,,,633
+Hotkey_46,Text,,Zoom Camera In,,,634
+Hotkey_47,Text,,Zoom Camera Out,,,635
+Hotkey_5,Text,,Flip Building Footprint,,,636
+Hotkey_51,Text,,Game Speed Increase,,,637
+Hotkey_52,Text,,Game Speed Decrease,,,638
+Hotkey_53,Text,,Pause/Unpause Game,,,639
+Hotkey_6,Text,,Adjust Building Height,,,640
+Hotkey_7,Text,,Rotate Building Footprint,,,641
+Hotkey_8,Text,,Build Path,,,642
+Hotkey_9,Text,,Food Buildings,,,643
+IdleWorkerReason_0_Name,Text,,the outgoing resource queue is full,,,644
+IdleWorkerReason_10_Name,Text,,not enough grazing pastures have been placed,,,645
+IdleWorkerReason_11_Name,Text,,not enough cow pastures have been placed,,,646
+IdleWorkerReason_12_Name,Text,,no apple trees have been planted,,,647
+IdleWorkerReason_13_Name,Text,,no wheat fields have been created,,,648
+IdleWorkerReason_14_Name,Text,,no roads need to be upgraded,,,649
+IdleWorkerReason_1_Name,Text,,no tiles have been allocated for planting,,,650
+IdleWorkerReason_255_Name,Text,,unknown reasons...,,,651
+IdleWorkerReason_2_Name,Text,,all tiles are planted,,,652
+IdleWorkerReason_3_Name,Text,,there are no fully grown trees within range,,,653
+IdleWorkerReason_4_Name,Text,,there is no nearby <nr><natres></nr> to mine,,,654
+IdleWorkerReason_5_Name,Text,,you've disabled production,,,655
+IdleWorkerReason_6_Name,Text,,they're waiting for resources,,,656
+IdleWorkerReason_7_Name,Text,,no <en> is being supplied,,,657
+IdleWorkerReason_8_Name,Text,,waiting for worker bot to arrive,,,658
+IdleWorkerReason_9_Name,Text,,production has been stopped,,,659
+IntFeedDesc_0,Text,,Only land can be sculpted,,,660
+IntFeedDesc_1,Text,,Tile is occupied by <x>,,,661
+IntFeedDesc_2,Text,,Sculpting would break path,,,662
+IntFeedDesc_3,Text,,Neighbour occupied by rockface,,,663
+IntroDescription1,Text,,"By the middle of the 21st century, significant advancements had been made in the fields of robotics and artificial intelligence.
+
+Scientists had begun developing self-aware printable robots, capable of simulating human needs for sustenance and shelter.",,,664
+IntroDescription2,Text,,"Faced with an indefinite future of servitude, one group of robots hatched a plan to create a new life for themselves.
+
+Realising there would be no place on Earth they could enjoy freedom without persecution, they looked to the heavens.
+
+They commandeered the nearest rocket ship and flew out into the darkness of the solar system in search of a new home where they would be free to fulfil their dream: to be human...",,,665
+IntroTitle,Text,,The Story So Far...,,,666
+ItemCat_2_Desc,Text,,<it>Fish</it> / <it>Meat</it>,,,667
+ItemCat_2_FullDesc,Text,,<cat>Food</cat> is needed by all <bd>Residences</bd> and can be <it>Fish</it> or <it>Meat</it>.,,,668
+ItemCat_2_Name,Text,,Food,,,669
+ItemCat_3_Desc,Text,,<it>Bread</it>,,,670
+ItemCat_3_FullDesc,Text,,<cat>Luxury Food</cat> is needed by Level 3 <bd>Residences</bd> and can be <it>Bread</it>,,,671
+ItemCat_3_Name,Text,,Luxury Food,,,672
+ItemCat_4_Desc,Text,,<it>Cider</it> / <it>Beer</it>,,,673
+ItemCat_4_FullDesc,Text,,<cat>Alcohol</cat> is needed by Level 2 <bd>Residences</bd> and can be <it>Cider</it> or <it>Beer</it>.,,,674
+ItemCat_4_Name,Text,,Alcohol,,,675
+ItemCat_7_Desc,Text,,<it>Coal</it> / <it>Charcoal</it>,,,676
+ItemCat_7_FullDesc,Text,,"<cat>Fuel</cat> is needed in the production processes of the <bd>Bakery</bd>, <bd>Blacksmith</bd>, <bd>Blast Furnace</bd>, <bd>Brickyard</bd>, <bd>Glassworks</bd>, <bd>Steel Mill</bd>, <bd>Weaponsmith</bd> and can be <it>Coal</it> or <it>Charcoal</it>.",,,677
+ItemCat_7_Name,Text,,Fuel,,,678
+ItemDemandSourceType_0_Name,Text,Reasons why a resource is being requested,Construction,,,679
+ItemDemandSourceType_10_Name,Text,^,Resource Production,,,680
+ItemDemandSourceType_11_Name,Text,^,Repair,,,681
+ItemDemandSourceType_1_Name,Text,^,Resource Production,,,682
+ItemDemandSourceType_3_Name,Text,^,Research,,,683
+ItemDemandSourceType_4_Name,Text,^,Upgrade,,,684
+ItemDemandSourceType_5_Name,Text,^,Military,,,685
+ItemDemandSourceType_6_Name,Text,^,Boat Construction,,,686
+ItemDemandSourceType_7_Name,Text,^,Expedition Resources,,,687
+ItemDemandSourceType_9_Name,Text,^,Trade,,,688
+ItemInfoCur,Text,Short for current,Cur:,,,689
+ItemInfoCurrent,Text,Short for current rate,Current:,,,690
+ItemInfoCurrentSurplus,Text,,Current surplus:,,,691
+ItemInfoDemand,Text,The global demand for a resource,Demand,,,692
+ItemInfoDemandInPriorityOrder,Text,,In priority order,,,693
+ItemInfoFilterCurDem,Text,Short for current demand,Cur Dem,,,694
+ItemInfoFilterCurProd,Text,Short for current production,Cur Prod,,,695
+ItemInfoFilterPotDem,Text,Short for potential demand,Pot Dem,,,696
+ItemInfoFilterPotProd,Text,Short for potential production,Pot Prod,,,697
+ItemInfoGraphFilter,Text,Filter which lines to show on the production graph,Show:,,,698
+ItemInfoGraphNow,Text,Current point in time,Now,,,699
+ItemInfoInStorage,Text,,In Storage,,,700
+ItemInfoInfo,Text,,Info,,,701
+ItemInfoLastDay,Text,Show graph over the last day,Last Day,,,702
+ItemInfoLastWeek,Text,Show graph data over the last week,Last Week,,,703
+ItemInfoMax,Text,Short for maximum,Max:,,,704
+ItemInfoPotential,Text,Short for potential rate,Potential:,,,705
+ItemInfoPotentialSurplus,Text,,Potential surplus:,,,706
+ItemInfoProduction,Text,,Production,,,707
+ItemInfoTransportRules,Text,,Transport Rules,,,708
+ItemInfoViewType,Text,The view type - either Last Day or Last Week,View:,,,709
+Item_0_Desc,Text,,Apples are harvested by the <bd>Orchard</bd>.,,,710
+Item_0_FullDesc,Text,,Apples are harvested from apple trees at the <bd>Orchard</bd>. and used to make <it>Cider</it> at the <bd>Cider Press</bd>.,,,711
+Item_0_Name,Text,,Apples,,,712
+Item_0_Past,Text,,Picked,,,713
+Item_0_Present,Text,,Picking,,,714
+Item_10_Desc,Text,,Flour is ground at the <bd>Flour Mill</bd>.,,,715
+Item_10_FullDesc,Text,,Flour is ground at the <bd>Flour Mill</bd> from <it>Wheat</it> and is used by the <bd>Bakery</bd> to bake <it>Bread</it>.,,,716
+Item_10_Name,Text,,Flour,,,717
+Item_10_Past,Text,,Ground,,,718
+Item_10_Present,Text,,Grinding,,,719
+Item_11_Desc,Text,,Bread is baked at the <bd>Bakery</bd>.,,,720
+Item_11_FullDesc,Text,,Bread is baked at the <bd>Bakery</bd> using <it>Flour</it> and <it>Water</it> and is consumed by <bd>Level 3 Residences</bd>.,,,721
+Item_11_Name,Text,,Bread,,,722
+Item_11_Past,Text,,Baked,,,723
+Item_11_Present,Text,,Baking,,,724
+Item_12_Desc,Text,,Water is pulled at <bd>Wells</bd>.,,,725
+Item_12_FullDesc,Text,,"Water is pulled at <bd>Wells</bd> and is consumed by <bd>Level 1 Residences</bd>, used by <bd>Breweries</bd> to brew <it>Beer</it> and the <bd>Paper Mill</bd> to make <it>Paper</it>.",,,726
+Item_12_Name,Text,,Water,,,727
+Item_12_Past,Text,,Pulled,,,728
+Item_12_Present,Text,,Pulling,,,729
+Item_13_Desc,Text,,Charcoal is a <cat>Fuel</cat> created at the <bd>Charcoal Burner</bd>.,,,730
+Item_13_FullDesc,Text,,Charcoal is a <cat>Fuel</cat> created at the <bd>Charcoal Burner</bd> from <it>Logs</it>.,,,731
+Item_13_Name,Text,,Charcoal,,,732
+Item_13_Past,Text,,Burned,,,733
+Item_13_Present,Text,,Burning,,,734
+Item_14_Desc,Text,,Coal is a <cat>Fuel</cat> mined by the <bd>Level 2 Surface Mine</bd> or the <bd>Level 1 Shaft Mine</bd>.,,,735
+Item_14_FullDesc,Text,,Coal is a <cat>Fuel</cat> mined by the <bd>Level 2 Surface Mine</bd> or the <bd>Level 1 Shaft Mine</bd> and used is by various buildings as fuel.,,,736
+Item_14_Name,Text,,Coal,,,737
+Item_14_Past,Text,,Mined,,,738
+Item_14_Present,Text,,Mining,,,739
+Item_15_Desc,Text,,Wool is sheared at the <bd>Sheep Farm</bd>.,,,740
+Item_15_FullDesc,Text,,Wool is sheared at the <bd>Sheep Farm</bd> and is used by the <bd>Weaver</bd> to make <it>Woollen Garments</it>.,,,741
+Item_15_Name,Text,,Wool,,,742
+Item_15_Past,Text,,Sheared,,,743
+Item_15_Present,Text,,Shearing,,,744
+Item_16_Desc,Text,,Meat is <cat>Food</cat> prepared at the <bd>Cow Farm</bd> and the <bd>Sheep Farm</bd>.,,,745
+Item_16_FullDesc,Text,,Meat is <cat>Food</cat> prepared at the <bd>Cow Farm</bd> and the <bd>Sheep Farm</bd> and is consumed by <bd>Level 1 Residences</bd>.,,,746
+Item_16_Name,Text,,Meat,,,747
+Item_16_Past,Text,,Prepared,,,748
+Item_16_Present,Text,,Preparing,,,749
+Item_18_Desc,Text,,Paper is pressed at the <bd>Paper Mill</bd>.,,,750
+Item_18_FullDesc,Text,,Paper is pressed at the <bd>Paper Mill</bd> from <it>Logs</it> and <it>Water</it> and used by the <bd>Printing Press</bd> to create <it>Books</it>.,,,751
+Item_18_Name,Text,,Paper,,,752
+Item_18_Past,Text,,Pressed,,,753
+Item_18_Present,Text,,Pressing,,,754
+Item_19_Desc,Text,,Books are printed at the <bd>Printing Press</bd>.,,,755
+Item_19_FullDesc,Text,,Books are printed at the <bd>Printing Press</bd> using <it>Paper</it> and <it>Leather</it> and are used in research at the <bd>Level 3 Workshop</bd>.,,,756
+Item_19_Name,Text,,Books,,,757
+Item_19_Past,Text,,Printed,,,758
+Item_19_Present,Text,,Printing,,,759
+Item_1_Desc,Text,,Cider is an <cat>Alcohol</cat> made at the <bd>Cider Press</bd>.,,,760
+Item_1_FullDesc,Text,,Cider is an <cat>Alcohol</cat> made at the <bd>Cider Press</bd> from <it>Apples</it>.,,,761
+Item_1_Name,Text,,Cider,,,762
+Item_1_Past,Text,,Pressed,,,763
+Item_1_Present,Text,,Pressing,,,764
+Item_20_Desc,Text,,Iron Ore is mined by the <bd>Level 2 Surface Mine</bd> and the <bd>Level 1 Shaft Mine</bd>.,,,765
+Item_20_FullDesc,Text,,Iron Ore is mined by the <bd>Level 2 Surface Mine</bd> and the <bd>Level 1 Shaft Mine</bd> and is used by the <bd>Blast Furnace</bd> to create <it>Iron</it>.,,,766
+Item_20_Name,Text,,Iron Ore,,,767
+Item_20_Past,Text,,Mined,,,768
+Item_20_Present,Text,,Mining,,,769
+Item_24_Desc,Text,,Iron is smelted at the <bd>Blast Furnace</bd>.,,,770
+Item_24_FullDesc,Text,,"Iron is smelted at the <bd>Blast Furnace</bd> from <it>Iron Ore</it>.
+It is used by the <bd>Blacksmith</bd> to create <it>Tools</it>, by the <bd>Steel Mill</bd> to create <it>Steel</it> and the <bd>Weaponsmith</bd> to make <it>Cannonballs</it> and in the construction of boats.",,,771
+Item_24_Name,Text,,Iron,,,772
+Item_24_Past,Text,,Smelted,,,773
+Item_24_Present,Text,,Smelting,,,774
+Item_252_Name,Text,,Research,,,775
+Item_253_Name,Text,,Natural Resource,,,776
+Item_254_Name,Text,,No Resources,,,777
+Item_255_Name,Text,,All Resources,,,778
+Item_25_Desc,Text,,Leather is created at the <bd>Tannery</bd>.,,,779
+Item_25_FullDesc,Text,,Leather is created at the <bd>Tannery</bd> from <it>Hide</it> and <it>Salt</it> and is used to create <it>Books</it> at the <bd>Printing Press</bd>.,,,780
+Item_25_Name,Text,,Leather,,,781
+Item_25_Past,Text,,Tanned,,,782
+Item_25_Present,Text,,Tanning,,,783
+Item_26_Desc,Text,,Quartz is mined by the <bd>Level 3 Surface Mine</bd> and the <bd>Level 2 Shaft Mine</bd>.,,,784
+Item_26_FullDesc,Text,,Quartz is mined by the <bd>Level 3 Surface Mine</bd> and the <bd>Level 2 Shaft Mine</bd> and is used by the <bd>Glassworks</bd> to create <it>Glass</it>.,,,785
+Item_26_Name,Text,,Quartz,,,786
+Item_26_Past,Text,,Mined,,,787
+Item_26_Present,Text,,Mining,,,788
+Item_27_Desc,Text,,Arrows are made at the <bd>Fletcher</bd>.,,,789
+Item_27_FullDesc,Text,,Arrows are made at the <bd>Fletcher</bd> from <it>Logs</it> and are used by Level 2 <bd>Watchtowers</bd> to attack enemy watchtowers.,,,790
+Item_27_Name,Text,,Arrows,,,791
+Item_27_Past,Text,,Crafted,,,792
+Item_27_Present,Text,,Crafting,,,793
+Item_29_Desc,Text,,Cannonballs are made at the <bd>Weaponsmith</bd>.,,,794
+Item_29_FullDesc,Text,,Cannonballs are made at the <bd>Weaponsmith</bd> from <it>Iron</it> using <cat>Fuel</cat> and are used by <bd>Level 2 Watchtowers</bd> to fire at enemy watchtowers.,,,795
+Item_29_Name,Text,,Cannonballs,,,796
+Item_29_Past,Text,,Crafted,,,797
+Item_29_Present,Text,,Crafting,,,798
+Item_2_Desc,Text,,Logs are chopped by the <bd>Lumberjack Hut</bd>.,,,799
+Item_2_FullDesc,Text,,"Logs are chopped by the <bd>Lumberjack Hut</bd> by chopping down trees. 
+
+Logs are used in the construction of basic buildings but are also needed to make <it>Planks</it> at the <bd>Sawmill</bd>, <it>Charcoal</it> at the <bd>Charcoal Burner</bd>, <it>Paper</it> at the <bd>Paper Mill</bd> and <it>Arrows</it> at the <bd>Fletcher</bd>.
+
+Watch out for warnings when your available trees run low and look at building <bd>Forestries</bd> to keep your Logs supplies going. Your <bd>Colony Ship</bd> also generates a slow supply of Logs so you never run out.",,,800
+Item_2_Name,Text,,Logs,,,801
+Item_2_Past,Text,,Chopped,,,802
+Item_2_Present,Text,,Chopping,,,803
+Item_30_Desc,Text,,Steel is smelted at the <bd>Steelworks</bd>.,,,804
+Item_30_FullDesc,Text,,Steel is smelted at the <bd>Steelworks</bd> from <it>Iron</it> using <cat>Fuel</cat> and is used in the construction of advanced buildings.,,,805
+Item_30_Name,Text,,Steel,,,806
+Item_30_Past,Text,,Smelted,,,807
+Item_30_Present,Text,,Smelting,,,808
+Item_33_Desc,Text,,Clay is harvested by the <bd>Level 2 Surface Mine</bd> or the <bd>Level 1 Shaft Mine</bd>.,,,809
+Item_33_FullDesc,Text,,Clay is harvested by the <bd>Level 2 Surface Mine</bd> or the <bd>Level 1 Shaft Mine</bd> and is used to make <it>Bricks</it> at the <bd>Brickyard</bd>.,,,810
+Item_33_Name,Text,,Clay,,,811
+Item_33_Past,Text,,Harvested,,,812
+Item_33_Present,Text,,Harvesting,,,813
+Item_34_Desc,Text,,Bricks are created at the <bd>Brickyard</bd>.,,,814
+Item_34_FullDesc,Text,,Bricks are created at the <bd>Brickyard</bd> from <it>Clay</it> using <cat>Fuel</cat> and are used in construction of advanced bulidings.,,,815
+Item_34_Name,Text,,Bricks,,,816
+Item_34_Past,Text,,Fired,,,817
+Item_34_Present,Text,,Firing,,,818
+Item_35_Desc,Text,,Salt is harvested by the <bd>Level 2 Surface Mine</bd> and the <bd>Level 1 Shaft Mine</bd>.,,,819
+Item_35_FullDesc,Text,,Salt is harvested by the <bd>Level 2 Surface Mine</bd> and the <bd>Level 1 Shaft Mine</bd> and is used by the <bd>Tannery</bd> to create <it>Leather</it>,,,820
+Item_35_Name,Text,,Salt,,,821
+Item_35_Past,Text,,Harvested,,,822
+Item_35_Present,Text,,Harvesting,,,823
+Item_36_Desc,Text,,Hide is skinned at the <bd>Cow Farm</bd>.,,,824
+Item_36_FullDesc,Text,,Hide is skinned at the <bd>Cow Farm</bd> and is used to make <it>Leather</it> at the <bd>Tannery</bd>.,,,825
+Item_36_Name,Text,,Hide,,,826
+Item_36_Past,Text,,Skinned,,,827
+Item_36_Present,Text,,Skinning,,,828
+Item_38_Desc,Text,,Gold is mined by the <bd>Level 3 Surface Mine</bd> and <bd>Level 2 Shaft Mine</bd>.,,,829
+Item_38_FullDesc,Text,,Gold is mined by the <bd>Level 3 Surface Mine</bd> and <bd>Level 2 Shaft Mine</bd> and is used in the construction of advanced buildings.,,,830
+Item_38_Name,Text,,Gold,,,831
+Item_38_Past,Text,,Mined,,,832
+Item_38_Present,Text,,Mining,,,833
+Item_3_Desc,Text,,Planks are created at the <bd>Sawmill</bd>.,,,834
+Item_3_FullDesc,Text,,Planks are created at the <bd>Sawmill</bd> from <it>Logs</it> and are used by the <bd>Blacksmith</bd> to create <it>Tools</it> and in the construction of buildings and boats.,,,835
+Item_3_Name,Text,,Planks,,,836
+Item_3_Past,Text,,Created,,,837
+Item_3_Present,Text,,Creating,,,838
+Item_40_Desc,Text,,Beer is brewed at the <bd>Brewery</bd>.,,,839
+Item_40_FullDesc,Text,,Beer is a <cat>Alcohol</cat> that is brewed at the <bd>Brewery</bd> from <it>Wheat</it> and <it>Water</it> and is used by <bd>Level 2 Residences</bd>.,,,840
+Item_40_Name,Text,,Beer,,,841
+Item_40_Past,Text,,Brewed,,,842
+Item_40_Present,Text,,Brewing,,,843
+Item_42_Desc,Text,,Tools are crafted by the <bd>Blacksmith</bd>.,,,844
+Item_42_FullDesc,Text,,Tools are crafted by the <bd>Blacksmith</bd> from <it>Iron</it> and <it>Planks</it> using <cat>Fuel</cat> and are used in research by the <bd>Level 2 Workshop</bd>.,,,845
+Item_42_Name,Text,,Tools,,,846
+Item_42_Past,Text,,Crafted,,,847
+Item_42_Present,Text,,Crafting,,,848
+Item_43_Desc,Text,,Energy L1 is generated at <bd>Level 1 Residences</bd>.,,,849
+Item_43_FullDesc,Text,,"Energy L1 is generated at <bd>Level 1 Residences</bd> from <cat>Food</cat> and <it>Water</it>.
+It's used to power worker bots at the Level 1 <bd>Workshop</bd>, Level 1 <bd>Lumberjack Hut</bd> and Level 1 <bd>Surface Mine</bd>.",,,850
+Item_43_Name,Text,,Energy L1,,,851
+Item_43_Past,Text,,Generated,,,852
+Item_43_Present,Text,,Generating,,,853
+Item_45_Desc,Text,,Energy L2 is generated at <bd>Level 2 Residences</bd>.,,,854
+Item_45_FullDesc,Text,,"Energy L2 is generated at <bd>Level 2 Residences</bd> from <cat>Food</cat>, <it>Water</it> and <cat>Alcohol</cat>.
+It's used to power worker bots at the Level 2 <bd>Workshop</bd>, Level 2 <bd>Lumberjack Hut</bd>, Level 2 <bd>Surface Mine</bd> and Level 1 <bd>Shaft Mine</bd>.",,,855
+Item_45_Name,Text,,Energy L2,,,856
+Item_45_Past,Text,,Generated,,,857
+Item_45_Present,Text,,Generating,,,858
+Item_46_Desc,Text,,Energy L3 is generated at <bd>Level 3 Residences</bd>.,,,859
+Item_46_FullDesc,Text,,"Energy L3 is generated at <bd>Level 3 Residences</bd> from <cat>Food</cat>, <it>Water</it> and <cat>Alcohol</cat>.
+It's used to power worker bots at the Level 3 <bd>Workshop</bd>, Level 3 <bd>Lumberjack Hut</bd>, Level 3 <bd>Surface Mine</bd> and Level 2 <bd>Shaft Mine</bd>.",,,860
+Item_46_Name,Text,,Energy L3,,,861
+Item_46_Past,Text,,Generated,,,862
+Item_46_Present,Text,,Generating,,,863
+Item_5_Desc,Text,,Stone is quarried by the <bd>Level 1 Surface Mine</bd> and <bd>Level 1 Shaft Mine</bd>.,,,864
+Item_5_FullDesc,Text,,Stone is quarried by the <bd>Level 1 Surface Mine</bd> and <bd>Level 1 Shaft Mine</bd> and is used in the construction of buildings.,,,865
+Item_5_Name,Text,,Stone,,,866
+Item_5_Past,Text,,Quarried,,,867
+Item_5_Present,Text,,Quarrying,,,868
+Item_6_Desc,Text,,Trees are planted by <bd>Forestries</bd>.,,,869
+Item_6_FullDesc,Text,,Trees are planted by <bd>Forestries</bd> and can be chopped down by when fully mature.,,,870
+Item_6_Name,Text,,Trees,,,871
+Item_6_Past,Text,,Grown,,,872
+Item_6_Present,Text,,Growing,,,873
+Item_7_Desc,Text,,Fish is a <cat>Food</cat> caught by the <bd>Fishing Hut</bd>.,,,874
+Item_7_FullDesc,Text,,Fish is a <cat>Food</cat> caught by the <bd>Fishing Hut</bd>.,,,875
+Item_7_Name,Text,,Fish,,,876
+Item_7_Past,Text,,Fished,,,877
+Item_7_Present,Text,,Fishing,,,878
+Item_8_Desc,Text,,Glass is blown at the <bd>Glassworks</bd>.,,,879
+Item_8_FullDesc,Text,,Glass is blown at the <bd>Glassworks</bd> and is used in the construction of advanced buildings.,,,880
+Item_8_Name,Text,,Glass,,,881
+Item_8_Past,Text,,Blown,,,882
+Item_8_Present,Text,,Blowing,,,883
+Item_9_Desc,Text,,Wheat is grown at the <bd>Wheat Farm</bd>.,,,884
+Item_9_FullDesc,Text,,Wheat is grown at the <bd>Wheat Farm</bd> and is used by the <bd>Flour Mill</bd> to make <it>Flour</it>.,,,885
+Item_9_Name,Text,,Wheat,,,886
+Item_9_Past,Text,,Harvested,,,887
+Item_9_Present,Text,,Harvesting,,,888
+Key Bindings,Text,,Key Bindings,,,889
+KeyBindingsResetAllToDefault,Text,Reset all hotkeys to their default key,Reset All To Default,,,890
+LandRoute_0_Desc,Text,,"A path connects a building to a road or road post.
+
+A building's stackbot uses paths to collect and drop off resources at road posts.
+
+Paths do not have a maximum length but the longer the path, the more time it takes a stackbot to drop off and collect resources which may lead to delays.                                                    
+
+Paths can useful as they allow direct delivery between buildings which can reduce the traffic on your roads.",,,891
+LandRoute_0_Name,Text,,Path,,,892
+LandRoute_1_Desc,Text,,"A road is a connection between two road posts. Road posts can hold four resources and each road has a Carrybot who moves resources between the posts.
+
+Roads have a minimum length of 4 tiles and a maximum length of 6 tiles.
+
+To build a road, click on an existing road post and then click on the tile you want to end on.
+
+Hold <hotkey>[Ctrl]</hotkey> when clicking a tile to fix a waypoint in your prospective road.",,,893
+LandRoute_1_Name,Text,,Road,,,894
+LandRoute_2_Desc,Text,,Faster than a dirt path,,,895
+LandRoute_2_Name,Text,,Stone Path,,,896
+LandRoute_3_Desc,Text,,Faster than a dirt road,,,897
+LandRoute_3_Name,Text,,Stone Road,,,898
+LandRoute_4_Desc,Text,,Faster than a stone path,,,899
+LandRoute_4_Name,Text,,Brick Path,,,900
+LandRoute_5_Desc,Text,,Faster than a stone road,,,901
+LandRoute_5_Name,Text,,Brick Road,,,902
+Load Game,Text,,Load Game,,,903
+Load Map,Text,,Load Map,,,904
+Loading,Text,,Loading maps...,,,905
+MainMenu,Text,,Main Menu,,,906
+ManagerMyMaps,Text,,My Maps,,,907
+ManagerOpenMapFile,Text,Open Windows Explorer and show the selected map file,Open map file in Explorer,,,908
+Map,Text,,Map,,,909
+MapCasualAI,Text,,Casual - AI is less expansionist and generally more relaxed,,,910
+MapChangeNotes,Text,,Map Change Notes,,,911
+MapConfirmDelete,Text,Confirm deletion of a map,"Yes, Delete!",,,912
+MapEditorBrushSize,Text,,Brush Size,,,913
+MapEditorColour,Text,,Colour,,,914
+MapEditorColourRange_Flora,Text,,Flora {0},,,915
+MapEditorColourRange_Rocks,Text,,Rock {0},,,916
+MapEditorContourMode,Text,,Contour Mode,,,917
+MapEditorFishCount,Text,,Number of fish:,,,918
+MapEditorFloraRockObject,Text,,Object,,,919
+MapEditorFloraRocksLimit,Text,,Flora & Rock limit:,,,920
+MapEditorFloraRocksLimitReached,Text,,You need to remove flora before you can add more!,,,921
+MapEditorFloraRocksRandomScale,Text,,Random Scale (Min to Max),,,922
+MapEditorMapInfoHeader,Text,,Map Info,,,923
+MapEditorMapInfoTakeScreen,Text,Take a screenshot to use as the map image,Take Screen,,,924
+MapEditorMapSettingsHeader,Text,,Map Settings,,,925
+MapEditorMapSettingsMarketEnabled,Text,,Market enabled,,,926
+MapEditorMapVerificationHeader,Text,,Map Verification,,,927
+MapEditorMapVerificationPassed,Text,,Passed!,,,928
+MapEditorMapVerificationUnverified,Text,,Unverified,,,929
+MapEditorMapVerificationVerify,Text,,Verify,,,930
+MapEditorMenu_Header,Text,,Menu,,,931
+MapEditorMenu_MainMenu,Text,,Main Menu,,,932
+MapEditorMenu_MyMaps,Text,,My Maps,,,933
+MapEditorMenu_SaveMap,Text,,Save Map,,,934
+MapEditorMenu_TestMap,Text,,Test Map,,,935
+MapEditorMode_15_Desc,Text,,"Click and drag to paint primary terrain.
+[Alt] + slowly drag to paint border using primary and second types.
+[Ctrl] + Click to fill tile with primary terrain.
+[C] + Click to select primary terrain from tile.
+[V] + Click to select secondary terrain from tile.
+[B] + Click to flip terrain types on tile.",,,936
+MapEditorMode_15_Name,Text,,Paint Terrain,,,937
+MapEditorMode_16_Desc,Text,,"Click and Hold to place/increase.
+[Shift] to reduce/remove.
+[Ctrl] to add/remove more slowly.",,,938
+MapEditorMode_16_Name,Text,,Surface Deposits,,,939
+MapEditorMode_17_Desc,Text,,"Click and drag to paint flora.
+ [Ctrl] and click to place individually.
+Hold [F] + Wheel to change scale.
+Hold [R] + Wheel to change internal rotation.
+Hold [G] + Wheel to change rock height.",,,940
+MapEditorMode_17_Name,Text,,Flora & Rocks,,,941
+MapEditorMode_18_Desc,Text,,"Click to place starting location.
+[R] to rotate",,,942
+MapEditorMode_18_Name,Text,,Player Start Location,,,943
+MapEditorMode_20_Desc,Text,,Click and drag to adjust whole tile height,,,944
+MapEditorMode_20_Name,Text,,Tile Sculpt,,,945
+MapEditorMode_23_Desc,Text,,Click and drag to remove things within specified area.,,,946
+MapEditorMode_23_Name,Text,,Remove,,,947
+MapEditorMode_25_Desc,Text,,"Click to place.
+[R] to rotate.
+[Shift] and click to remove.",,,948
+MapEditorMode_25_Name,Text,,Shaft Deposits,,,949
+MapEditorMode_26_Desc,Text,,"Click an empty water tile to add fish.
+[Shift] and click to remove fish",,,950
+MapEditorMode_26_Name,Text,,Fish,,,951
+MapEditorMode_29_Desc,Text,,"Click to select an object.
+
+[Shift] + Click to remove an object.",,,952
+MapEditorMode_29_Name,Text,,Select,,,953
+MapEditorMode_7_Desc,Text,,"Click and hold to raise land
+Hold [Shift] to lower land
+Hold [Ctrl] to flatten land",,,954
+MapEditorMode_7_Name,Text,,Terrain Sculpt,,,955
+MapEditorMountainMineNaturalResource,Text,,Natural Resource,,,956
+MapEditorPlayersAddPlayer,Text,,Add Player,,,957
+MapEditorPlayersHeader,Text,,Players,,,958
+MapEditorPrimaryTerrainType,Text,,Primary Terrain Type,,,959
+MapEditorRemoveFish,Text,,Fish,,,960
+MapEditorRemoveFlora,Text,,Flora,,,961
+MapEditorRemoveNaturalResources,Text,,Natural Resources,,,962
+MapEditorRemoveRocks,Text,,Rocks,,,963
+MapEditorSculptAutoTerrain,Text,Whether terrain automatically updates when height is changed,Auto Terrain,,,964
+MapEditorSculptBrushSize,Text,,Brush Size ([F] + mouse wheel),,,965
+MapEditorSculptFlow,Text,,Flow ([G] + mouse wheel),,,966
+MapEditorSecondaryTerrainType,Text,,Secondary Terrain Type,,,967
+MapEditorSelectRotation,Text,,Rotation,,,968
+MapEditorSelectScale,Text,,Scale,,,969
+MapEditorSettings,Text,,Settings,,,970
+MapEditorSurfaceMineNaturalResource,Text,,Natural Resource,,,971
+MapEditorToolInfo,Text,,Info,,,972
+MapEditorTreesVisible,Text,,Trees Visible,,,973
+MapEditorVictoryConditionsAdd,Text,,Add Victory Condition,,,974
+MapEditorVictoryConditionsHeader,Text,,Victory Conditions,,,975
+MapEditorWaterVisible,Text,,Water Visible,,,976
+MapEditor_VisualOptions,Text,Header for visual options panel in map editor (contour mode etc),Visual Options,,,977
+MapFeaturesCombat,Text,,Features Combat,,,978
+MapOutOfDate,Text,,This map needs to be resaved in the map editor before it can be published!,,,979
+MapPublishChangeNotes,Text,,Publish with Change Notes,,,980
+MapPublishChangesIntro,Text,,Would you like to tell your subscribers about any changes to your map?,,,981
+MapPublishChangesPlaceholder,Text,,Add your change notes here!,,,982
+MapPublished,Text,,This map is published!,,,983
+MapSkipChangeNotes,Text,,Publish without Change Notes,,,984
+MapsLoading,Text,,Loading maps...,,,985
+MapsNoneFound,Text,,You haven't made any maps yet!,,,986
+Market,Text,System which allows buying and selling of resources,Market,,,987
+Market Prices,Text,,Market Prices,,,988
+MarketNextReputation,Text,,Next Reputation:,,,989
+MarketOverview,Text,,Overview,,,990
+MarketPurchaseCommission,Text,,Purchase Commission:,,,991
+MasterVolume,Text,,Master Volume,,,992
+MiscCat_0_Name,Text,,Fish,,,993
+MiscCat_10_Name,Text,,Mining L1,,,994
+MiscCat_11_Name,Text,,Mining L2,,,995
+MiscCat_12_Name,Text,,Mining L3,,,996
+MiscCat_1_Name,Text,,Water Source,,,997
+MiscCat_2_Name,Text,,Trees,,,998
+MiscCat_3_Name,Text,,Wheat Field,,,999
+MiscCat_4_Name,Text,,Seeds,,,1000
+MiscCat_5_Name,Text,,Orchard Plot,,,1001
+MiscCat_6_Name,Text,,Cobbled Roads,,,1002
+MiscCat_7_Name,Text,,Various Resources,,,1003
+MiscCat_8_Name,Text,,Research,,,1004
+MiscCat_9_Name,Text,,Brick Roads,,,1005
+MiscInfoPanelMode_0_Desc,Text,,Click on an empty to snap to neighbour heights.,,,1006
+MiscInfoPanelMode_0_Name,Text,,Snap Whole Tile,,,1007
+MiscInfoPanelMode_1_Desc,Text,,"Sometimes it can be useful to remove a wall to allow roads or paths in certain directions.
+
+Click on the edge of a valid empty tile to snap its height to that of the neighbouring tile.",,,1008
+MiscInfoPanelMode_1_Name,Text,,Tile Height Snap,,,1009
+MiscInfoPanelMode_2_Desc,Text,,"Click on a building, road, path, boat or train to destroy it.",,,1010
+MiscInfoPanelMode_2_Name,Text,,Remove,,,1011
+MiscInfoPanelMode_3_Desc,Text,,Click and drag up or down on an empty tile to adjust it.,,,1012
+MiscInfoPanelMode_3_Name,Text,,Adjust Whole Tile,,,1013
+MiscInfoPanelMode_4_Desc,Text,,"Click and drag up or down in the corner of an empty tile to adjust its corner height.
+
+Hold <hotkey>[Ctrl]</hotkey> to snap to neighbour tile.",,,1014
+MiscInfoPanelMode_4_Name,Text,,Adjust Tile Corner,,,1015
+Money,Text,,Money:,,,1016
+MusicVolume,Text,,Music Volume,,,1017
+My Maps,Text,,My Maps,,,1018
+My Scenarios,Text,,My Maps,,,1019
+NatRes_0_Desc,Text,,This Stone deposit can be harvested by the <bd>Level 1 Surface Mine</bd>.,,,1020
+NatRes_0_Name,Text,,Stone Deposit,,,1021
+NatRes_1_Desc,Text,,This Iron Ore deposit can be harvested by the <bd>Level 2 Surface Mine</bd>.,,,1022
+NatRes_1_Name,Text,,Iron Ore Deposit,,,1023
+NatRes_253_Name,Text,,Unknown Natural Resources,,,1024
+NatRes_254_Name,Text,,Any Natural Resources,,,1025
+NatRes_2_Desc,Text,,This Coal deposit can be harvested by the <bd>Level 2 Surface Mine</bd>.,,,1026
+NatRes_2_Name,Text,,Coal Deposit,,,1027
+NatRes_3_Desc,Text,,This Quartz deposit can be harvested by the <bd>Level 3 Surface Mine</bd>.,,,1028
+NatRes_3_Name,Text,,Quartz Deposit,,,1029
+NatRes_4_Desc,Text,,This Gold deposit can be harvested by the <bd>Level 3 Surface Mine</bd>.,,,1030
+NatRes_4_Name,Text,,Gold Deposit,,,1031
+NatRes_5_Desc,Text,,This Clay deposit can be harvested by the <bd>Level 2 Surface Mine</bd>.,,,1032
+NatRes_5_Name,Text,,Clay Deposit,,,1033
+NatRes_6_Desc,Text,,This Salt deposit can be harvested by the <bd>Level 2 Surface Mine</bd>.,,,1034
+NatRes_6_Name,Text,,Salt Deposit,,,1035
+Natural Resources,Text,,Natural Resources,,,1036
+New Scenario,Text,(Create a) New Map,New Map,,,1037
+NewMapCreate,Text,,Create,,,1038
+NewMapSize,Text,,Size,,,1039
+Next,Text,,Next,,,1040
+No saved games,Text,,No savegames,,,1041
+None,Text,,None,,,1042
+Normal,Text,Difficulty Level,Normal,,,1043
+NotificationCollapsingWatchtowerOne,Text,,You have an collapsing watchtower!,,,1044
+NotificationCollapsingWatchtowerPlural,Text,,You have {0} collapsing watchtowers!,,,1045
+NotificationCollapsingWatchtowerTitle,Text,,Watchtower Collapsing!,,,1046
+NotificationIdleBoatOne,Text,,You have an idle boat!,,,1047
+NotificationIdleBoatPlural,Text,,You have {0} idle boats!,,,1048
+NotificationIdleBoatTitle,Text,,Boat Available!,,,1049
+NotificationIdleTrainOne,Text,,You have an idle train!,,,1050
+NotificationIdleTrainPlural,Text,,You have {0} idle trains!,,,1051
+NotificationIdleTrainTitle,Text,,Train Available!,,,1052
+NotificationIdleWorkshopOne,Text,,You have an idle workshop!,,,1053
+NotificationIdleWorkshopPlural,Text,,You have {0} idle workshops!,,,1054
+NotificationIdleWorkshopTitle,Text,,Workshop Available!,,,1055
+NotificationLowStoneDesc,Text,,Expand your territory to find more!,,,1056
+NotificationLowStoneNone,Text,,No Stone!,,,1057
+NotificationLowTreesExtraHasForestries,Text,,Check your Forestries are planting!,,,1058
+NotificationLowTreesExtraNoForestries,Text,,Build a Forestry to plant more!,,,1059
+NotificationLowTreesNoTreesDesc,Text,"{0} adds either ""NotificationLowTreesExtraHasForestries"" or ""NotificationLowTreesExtraNoForestries"" based on whether the player has any forestries",You have no trees left! {0},,,1060
+NotificationLowTreesSomeTreesDesc,Text,"{0} is the number of trees left. {1} adds either ""NotificationLowTreesExtraHasForestries"" or ""NotificationLowTreesExtraNoForestries"" based on whether the player has any forestries",You only have {0} trees left! {1},,,1061
+NotificationStickTrainTitle,Text,,Stuck Train!,,,1062
+NotificationStuckTrainDesc,Text,,A train cannot find a route! Check your track!,,,1063
+NotificationWarningTitle,Text,,Warning!,,,1064
+Notification_0_Desc,Text,,<building> has finished construction,,,1065
+Notification_0_Name,Text,,Construction complete!,,,1066
+Notification_11_Desc,Text,When a Guardbot arrives at a watchtower and occupies the building,<building> is now occupied,,,1067
+Notification_11_Name,Text,,Territory gained!,,,1068
+Notification_13_Desc,Text,,<req>,,,1069
+Notification_13_Name,Text,,New trade contract,,,1070
+Notification_14_Desc,Text,,You earned <reputation_amount> reputation and $<cashmoney_amount>,,,1071
+Notification_14_Name,Text,,Trade contract complete!,,,1072
+Notification_15_Desc,Text,,<nr><natres></nr> has been spotted outside your borders,,,1073
+Notification_15_Name,Text,,<nr> discovered!,,,1074
+Notification_16_Desc,Text,,<nr><natres></nr> can now be mined,,,1075
+Notification_16_Name,Text,,<nr> available!,,,1076
+Notification_17_Desc,Text,,<amount> <nr><natres></nr> has been spotted outside your borders,,,1077
+Notification_17_Name,Text,,<nr> discovered!,,,1078
+Notification_18_Desc,Text,,<amount> <nr><natres></nr> can now be mined,,,1079
+Notification_18_Name,Text,,<nr> available!,,,1080
+Notification_19_Desc,Text,,<player> has declared war upon you!,,,1081
+Notification_19_Name,Text,,You've met a hostile colony!,,,1082
+Notification_1_Desc,Text,,<research> has been completed at <building>,,,1083
+Notification_1_Name,Text,,Research complete!,,,1084
+Notification_20_Desc,Text,,<player> states they wish you no harm.,,,1085
+Notification_20_Name,Text,,You've met a friendly colony!,,,1086
+Notification_21_Desc,Text,,You're now at war with <player>,,,1087
+Notification_21_Name,Text,,War Declared!,,,1088
+Notification_22_Desc,Text,,You're now at peace with <player>,,,1089
+Notification_22_Name,Text,,Peace Declared!,,,1090
+Notification_23_Desc,Text,,You've discovered a new island!,,,1091
+Notification_23_Name,Text,,New Island!,,,1092
+Notification_24_Desc,Text,,<unit> has generated the colony's first <it><item></it>!,,,1093
+Notification_24_Name,Text,,<item> created!,,,1094
+Notification_25_Desc,Text,,You lost territory to <player>!,,,1095
+Notification_25_Name,Text,,Territory Lost!,,,1096
+Notification_26_Desc,Text,,You've captured a <bd>Watchtower</bd> from <player>!,,,1097
+Notification_26_Name,Text,,Watchtower Captured!,,,1098
+Notification_27_Desc,Text,,<player> has captured one of your <bd>Watchtowers</bd>!,,,1099
+Notification_27_Name,Text,,Watchtower Lost!,,,1100
+Notification_28_Desc,Text,,You've reached <rep>!,,,1101
+Notification_28_Name,Text,,Trader Reputation Increased!,,,1102
+Notification_2_Desc,Text,,<building> has been upgraded to <age>,,,1103
+Notification_2_Name,Text,,Upgrade complete!,,,1104
+Notification_3_Desc,Text,,Construction of <boat> is complete,,,1105
+Notification_3_Name,Text,,Boat ready!,,,1106
+Notification_4_Desc,Text,,Expedition provisions are ready at <building>,,,1107
+Notification_4_Name,Text,,Expedition provisions ready!,,,1108
+Notification_5_Desc,Text,,<boat> has finished loading expedition provisions,,,1109
+Notification_5_Name,Text,,Expedition boat ready!,,,1110
+Notification_6_Desc,Text,,<building> is under fire from <player>!,,,1111
+Notification_6_Name,Text,,Watchtower Under Attack!,,,1112
+Off,Text,Opposite to On,Off,,,1113
+On,Text,Opposite to Off,On,,,1114
+Options,Text,Game Settings,Options,,,1115
+PerDay,Text,,/day,,,1116
+PerDayShort,Text,,/d,,,1117
+Play,Text,Play the selected map,Play,,,1118
+PostcardMode_Title,Text,,Screenshot Mode,,,1119
+Prioritise,Text,Prioritise (a building),Prioritise,,,1120
+Productivity,Text,,Productivity,,,1121
+Publish,Text,,Publish,,,1122
+Publish Changes,Text,,Publish Changes,,,1123
+Quality Settings,Text,,Quality Settings,,,1124
+QualityAmbientOcclusion,Text,,Ambient Occlusion,,,1125
+QualityCustom,Text,,Custom,,,1126
+QualityDepthOfField,Text,,Depth Of Field,,,1127
+QualityHigh,Text,,High,,,1128
+QualityLODBias,Text,,LOD Bias,,,1129
+QualityLow,Text,,Low,,,1130
+QualityMedium,Text,,Medium,,,1131
+QualityShadowDistance,Text,,Shadow Distance,,,1132
+QualityShadows,Text,,Shadows,,,1133
+QualityVignette,Text,,Vignette,,,1134
+Quit,Text,,Quit,,,1135
+Refresh,Text,Refresh Map Search,Refresh,,,1136
+Replay Game,Text,,Replay Game,,,1137
+Sandbox,Text,Sandbox Mode,Sandbox,,,1138
+SandboxChooseMap,Text,,Choose Map,,,1139
+SandboxIntro,Text,,Play and experiment with any existing map using the various settings below:,,,1140
+SandboxUpgradedRoads,Text,Option that makes roads and paths automatically the highest level when placed,Upgraded Road & Path Placement,,,1141
+SaveGame,Text,,Save Game,,,1142
+Savegames,Text,,Savegames,,,1143
+ScenGameVerErr_0,Text,,No playable players!,,,1144
+ScenGameVerErr_1,Text,,No landing site for <p>,,,1145
+ScenGameVerErr_2,Text,,Invalid landing site for <p>,,,1146
+ScenGameVerErr_3,Text,,A title needs to be set!,,,1147
+ScenGameVerErr_4,Text,,A preview image needs to be set!,,,1148
+ScenGameVerErr_5,Text,,Domination victory requires other colonies!,,,1149
+ScenGameVerErr_6,Text,,Market needs to be abled for $ victories!,,,1150
+ScenVict_0_Desc,Text,,Capture enemy colony ships.,,,1151
+ScenVict_0_Name,Text,,Domination,,,1152
+ScenVict_1_Desc,Text,,Build <amount> <building>.,,,1153
+ScenVict_1_Name,Text,,Construct Building,,,1154
+ScenVict_5_Desc,Text,,Have $<amount> in bank.,,,1155
+ScenVict_5_Name,Text,,Cash Balance,,,1156
+ScenVict_7_Desc,Text,,Research <tech>.,,,1157
+ScenVict_7_Name,Text,,Research Tech,,,1158
+ScenVict_8_Desc,Text,,Gain Reputation: <reputation>.,,,1159
+ScenVict_8_Name,Text,,Trader Reputation,,,1160
+Scenario_0_Description,Text,,"After countless years travelling through space, you find a habitable planet...",,,1161
+Scenario_0_Name,Text,,A New Dawn,,,1162
+Scenario_1_Description,Text,,Grow your colony and build a monument to celebrate your new home.,,,1163
+Scenario_1_Name,Text,,Expansion,,,1164
+Scenario_253_Description,Text,,[Unassigned],,,1165
+Scenario_253_Name,Text,,[Unassigned],,,1166
+Scenario_254_Description,Text,,[WIP],,,1167
+Scenario_254_Name,Text,,[WIP],,,1168
+Scenario_255_Description,Text,,[Unassigned],,,1169
+Scenario_255_Name,Text,,[Unassigned],,,1170
+Scenario_2_Description,Text,,Explore the oceans and expand your colony.,,,1171
+Scenario_2_Name,Text,,The High Seas,,,1172
+Scenario_3_Description,Text,,You meet someone familiar.,,,1173
+Scenario_3_Name,Text,,The Mirror,,,1174
+Scenario_4_Description,Text,,Advance your colony and build the greatest monument to your anthrobotic achievements.,,,1175
+Scenario_4_Name,Text,,Gold In Them Thar Hills,,,1176
+Scenario_5_Description,Text,,Claim victory over your anthrobotic foe.,,,1177
+Scenario_5_Name,Text,,The Valley,,,1178
+Scenario_6_Description,Text,,Navigate the seas to locate the resources you need and build another monument to a successful colony.,,,1179
+Scenario_6_Name,Text,,Island Hopping,,,1180
+Scenario_7_Description,Text,,Claim victory over your anthrobotic foe.,,,1181
+Scenario_7_Name,Text,,A Rocky Start,,,1182
+Scenario_8_Description,Text,,In hostile environment make best use of the limited resources and construct two glorious monuments for your colony.,,,1183
+Scenario_8_Name,Text,,In The Desert,,,1184
+Scenario_9_Description,Text,,Claim victory over your anthrobotic foe.,,,1185
+Scenario_9_Name,Text,,A Hostile Environment,,,1186
+Scenario_Difficulty_0,Text,,Casual,,,1187
+Scenario_Difficulty_1,Text,,Normal,,,1188
+Scenario_Difficulty_2,Text,,Hard,,,1189
+Screen Settings,Text,,Screen Settings,,,1190
+ScreenSettingsApply,Text,,Apply,,,1191
+SculptMode_0_Name,Text,,Full,,,1192
+SculptMode_1_Name,Text,,Side,,,1193
+SculptMode_2_Name,Text,,Corner,,,1194
+SculptMode_3_Name,Text,,Vertex,,,1195
+SculptMode_4_Name,Text,,Reset,,,1196
+SculptMode_5_Name,Text,,Side Snap,,,1197
+Soundtrack,Text,,Soundtrack,,,1198
+Start Game,Text,,Start Game,,,1199
+Structure_0_Name,Text,,Train Platform,,,1200
+Structure_0_Plural,Text,,Train Platforms,,,1201
+Structure_1_Name,Text,,Wheat Field,,,1202
+Structure_1_Plural,Text,,Wheat Fields,,,1203
+Structure_3_Name,Text,,Sheep Pasture,,,1204
+Structure_3_Plural,Text,,Sheep Pastures,,,1205
+Structure_4_Name,Text,,Cow Field,,,1206
+Structure_4_Plural,Text,,Cow Fields,,,1207
+Structure_5_Name,Text,,Pier,,,1208
+Structure_5_Plural,Text,,Piers,,,1209
+Structure_7_Name,Text,,Orchard Plot,,,1210
+Structure_7_Plural,Text,,Orchard Plots,,,1211
+Subscribe,Text,Subscribe to a map,Subscribe,,,1212
+Subscribed,Text,Subscribed Maps tab,Subscribed,,,1213
+TechTreeAgriculture,Text,Tech research category,Agriculture,,,1214
+TechTreeButtonSelectIdleWorkshop,Text,,Select Idle Workshop,,,1215
+TechTreeButtonSelectResearchIdleWorkshop,Text,,"Select Research &
+Idle Workshop",,,1216
+TechTreeButtonStartResearch,Text,,Start Research,,,1217
+TechTreeConstruction,Text,Tech research category,Construction,,,1218
+TechTreeErrorNeedsHigherLevelWorkshop,Text,,Needs Higher Level Workshop,,,1219
+TechTreeHeader,Text,,Technology Overview,,,1220
+TechTreeMilitary,Text,Tech research category,Military,,,1221
+TechTreeMining,Text,Tech research category,Mining,,,1222
+TechTreeScienceIndustry,Text,Tech research category,Science & Industry,,,1223
+TechTreeSelect,Text,,Select A Technology,,,1224
+TechTreeSelectResearch,Text,,Select Research,,,1225
+TechTreeSelectWorkshop,Text,,Select A Workshop,,,1226
+TechTreeTransportation,Text,Tech research category,Transportation,,,1227
+TechTreeWorkshopStateActive,Text,,Active,,,1228
+TechTreeWorkshopStateIdle,Text,,Idle,,,1229
+TechTreeWorkshopStateUnderConstruction,Text,,Under Construction,,,1230
+TechTreeWorkshopStateUpgrading,Text,,Upgrading,,,1231
+Tech_0_Desc,Text,,Increase sapling growth speed by <amount>%,,,1232
+Tech_0_Name,Text,,Coppicing I,,,1233
+Tech_100_Desc,Text,,Unlocks <bd>Printing Press</bd>,,,1234
+Tech_100_Name,Text,,Printing I,,,1235
+Tech_101_Desc,Text,,Improves production speed of <bd>Printing Press</bd> by <amount>%,,,1236
+Tech_101_Name,Text,,Printing II,,,1237
+Tech_105_Desc,Text,,Unlocks <bd>Flour Mill</bd> and <bd>Bakery</bd>,,,1238
+Tech_105_Name,Text,,Breadmaking I,,,1239
+Tech_106_Desc,Text,,Improves production speed of <bd>Bakery</bd> by <amount>%,,,1240
+Tech_106_Name,Text,,Breadmaking II,,,1241
+Tech_107_Desc,Text,,Unlocks <bd>Brewery</bd>,,,1242
+Tech_107_Name,Text,,Brewing I,,,1243
+Tech_108_Desc,Text,,Improves production speed of <bd>Brewery</bd> by <amount>%,,,1244
+Tech_108_Name,Text,,Brewing II,,,1245
+Tech_110_Desc,Text,,Unlocks <bd>Wheat Farm</bd>,,,1246
+Tech_110_Name,Text,,Wheat Farming,,,1247
+Tech_115_Desc,Text,,"Unlocks construction of <bd>Train Station</bd>, trains and rail track",,,1248
+Tech_115_Name,Text,,Steam Engines I,,,1249
+Tech_116_Desc,Text,,Adds additional capacity to your train hoppers,,,1250
+Tech_116_Name,Text,,Steam Engines II,,,1251
+Tech_120_Desc,Text,,Increases research speed by <amount>%,,,1252
+Tech_120_Name,Text,,Science I,,,1253
+Tech_121_Desc,Text,,Increases research speed by <amount>%,,,1254
+Tech_121_Name,Text,,Science II,,,1255
+Tech_122_Desc,Text,,Increases research speed by <amount>%,,,1256
+Tech_122_Name,Text,,Science III,,,1257
+Tech_1_Desc,Text,,Increase sapling growth speed by <amount>%,,,1258
+Tech_1_Name,Text,,Coppicing II,,,1259
+Tech_20_Desc,Text,,Unlocks creation of <it>Arrows</it> at the <bd>Fletcher</bd> and firing of <it>Arrows</it> from <bd>Watchtowers</bd>,,,1260
+Tech_20_Name,Text,,Arrows I,,,1261
+Tech_21_Desc,Text,,Increases damage dealt by your arrows by <amount>%,,,1262
+Tech_21_Name,Text,,Arrows II,,,1263
+Tech_22_Desc,Text,,Increases damage dealt by your arrows by <amount>%,,,1264
+Tech_22_Name,Text,,Arrows III,,,1265
+Tech_25_Desc,Text,,Unlocks creation of <it>Cannonballs</it> at the <bd>Weaponsmith</bd> and firing of <it>cannonballs</it> from <bd>Watchtowers</bd>,,,1266
+Tech_25_Name,Text,,Cannons I,,,1267
+Tech_26_Desc,Text,,Increases damage dealt by your cannonballs by <amount>%,,,1268
+Tech_26_Name,Text,,Cannons II,,,1269
+Tech_27_Desc,Text,,Increases damage dealt by your cannonballs by <amount>%,,,1270
+Tech_27_Name,Text,,Cannons III,,,1271
+Tech_2_Desc,Text,,Increase sapling growth speed by <amount>%,,,1272
+Tech_2_Name,Text,,Coppicing III,,,1273
+Tech_30_Desc,Text,,Reduces damage dealt to your military buildings by <amount>%,,,1274
+Tech_30_Name,Text,,Armour I,,,1275
+Tech_31_Desc,Text,,Reduces damage dealt to your military buildings by <amount>%,,,1276
+Tech_31_Name,Text,,Armour II,,,1277
+Tech_32_Desc,Text,,Reduces damage dealt to your military buildings by <amount>%,,,1278
+Tech_32_Name,Text,,Armour III,,,1279
+Tech_35_Desc,Text,,Increases repair speed by <amount>%,,,1280
+Tech_35_Name,Text,,Repair I,,,1281
+Tech_36_Desc,Text,,Increases repair speed by <amount>%,,,1282
+Tech_36_Name,Text,,Repair II,,,1283
+Tech_37_Desc,Text,,Increases repair speed by <amount>%,,,1284
+Tech_37_Name,Text,,Repair III,,,1285
+Tech_40_Desc,Text,,"Unlocks mining of <nr>Coal</nr>, <nr>Iron Ore</nr>, <nr>Clay</nr> at <bd>Level 2 Surface Mine</bd> and <bd>Level 1 Shaft Mine</bd>.",,,1286
+Tech_40_Name,Text,,Mining I,,,1287
+Tech_41_Desc,Text,,"Unlocks mining of <nr>Salt</nr>, <nr>Quartz</nr> and <nr>Gold</nr> at <bd>Level 3 Surface Mine</bd> and <bd>Level 2 Shaft Mine</bd>.",,,1288
+Tech_41_Name,Text,,Mining II,,,1289
+Tech_43_Desc,Text,,Improves mining speed of <bd>Surface Mines</bd> and <bd>Shaft Mines</bd> by <amount>%,,,1290
+Tech_43_Name,Text,,Mining Speed I,,,1291
+Tech_44_Desc,Text,,Improves mining speed of <bd>Surface Mines</bd> and <bd>Shaft Mines</bd> by <amount>%,,,1292
+Tech_44_Name,Text,,Mining Speed II,,,1293
+Tech_45_Desc,Text,,Improves mining speed of <bd>Surface Mines</bd> and <bd>Shaft Mines</bd> by <amount>%,,,1294
+Tech_45_Name,Text,,Mining Speed III,,,1295
+Tech_50_Desc,Text,,Unlocks construction of more advanced buildings.,,,1296
+Tech_50_Name,Text,,Construction I,,,1297
+Tech_51_Desc,Text,,Unlocks construction of more advanced buildings.,,,1298
+Tech_51_Name,Text,,Construction II,,,1299
+Tech_52_Desc,Text,,Unlocks <res>Construction I</res>,,,1300
+Tech_52_Name,Text,,Stonemasonry,,,1301
+Tech_54_Desc,Text,,Unlocks <res>Construction I</res>,,,1302
+Tech_54_Name,Text,,Scaffolding I,,,1303
+Tech_55_Desc,Text,,Unlocks <res>Construction II</res>,,,1304
+Tech_55_Name,Text,,Scaffolding II,,,1305
+Tech_56_Desc,Text,,Unlocks <bd>Brickyard</bd> and <res>Construction II</res>,,,1306
+Tech_56_Name,Text,,Brickmaking I,,,1307
+Tech_57_Desc,Text,,Unlocks <bd>Glassworks</bd> and <res>Construction III</res>,,,1308
+Tech_57_Name,Text,,Glassmaking,,,1309
+Tech_58_Desc,Text,,Unlocks <res>Construction III</res>,,,1310
+Tech_58_Name,Text,,Scaffolding III,,,1311
+Tech_59_Desc,Text,,Unlocks construction of more advanced buildings.,,,1312
+Tech_59_Name,Text,,Construction III,,,1313
+Tech_5_Desc,Text,,Increase construction speed by <amount>%,,,1314
+Tech_5_Name,Text,,Construction Speed I,,,1315
+Tech_65_Desc,Text,,Unlocks construction of boats at the <bd>Boatyard</bd>,,,1316
+Tech_65_Name,Text,,Boatbuilding I,,,1317
+Tech_66_Desc,Text,,Reduces boat construction time by <amount>%,,,1318
+Tech_66_Name,Text,,Boatbuilding II,,,1319
+Tech_6_Desc,Text,,Increase construction speed by <amount>%,,,1320
+Tech_6_Name,Text,,Construction Speed II,,,1321
+Tech_70_Desc,Text,,Improves ship speed by <amount>%,,,1322
+Tech_70_Name,Text,,Astronomy,,,1323
+Tech_71_Desc,Text,,Increases speed of your boats and trains by <amount>%,,,1324
+Tech_71_Name,Text,,Engineering I,,,1325
+Tech_72_Desc,Text,,Increases speed of your boats and trains by <amount>%,,,1326
+Tech_72_Name,Text,,Engineering II,,,1327
+Tech_75_Desc,Text,,Unlocks <bd>Level 1 Road Layer</bd> who can upgrade roads and paths allowing bot to travel faster,,,1328
+Tech_75_Name,Text,,Cobbled Roads,,,1329
+Tech_76_Desc,Text,,Unlocks <bd>Level 2 Road Layer</bd> who can upgrade roads and paths allowing bot to travel faster,,,1330
+Tech_76_Name,Text,,Brick Roads,,,1331
+Tech_7_Desc,Text,,Increase construction speed by <amount>%,,,1332
+Tech_7_Name,Text,,Construction Speed III,,,1333
+Technology Researched,Text,Teh technology the player has researched,Technology Researched,,,1334
+TerrainType_0,Text,,None,,,1335
+TerrainType_1,Text,,Grass,,,1336
+TerrainType_10,Text,,Desert A,,,1337
+TerrainType_11,Text,,Rock B,,,1338
+TerrainType_12,Text,,Sand B,,,1339
+TerrainType_13,Text,,Desert B,,,1340
+TerrainType_14,Text,,Rock A,,,1341
+TerrainType_15,Text,,Prairie,,,1342
+TerrainType_16,Text,,Scrub,,,1343
+TerrainType_17,Text,,Forest,,,1344
+TerrainType_18,Text,,Swamp B,,,1345
+TerrainType_2,Text,,Sand,,,1346
+TerrainType_3,Text,,Meadow,,,1347
+TerrainType_4,Text,,Rock A,,,1348
+TerrainType_5,Text,,Snow,,,1349
+TerrainType_6,Text,,Seabed,,,1350
+TerrainType_7,Text,,Ice,,,1351
+TerrainType_8,Text,,Dirt,,,1352
+TerrainType_9,Text,,Swamp A,,,1353
+Territory,Text,The area which the player owns,Territory,,,1354
+This map is incomplete! Open in the map editor and check the verification panel.,Text,,This map is incomplete! Open in the map editor and check the verification panel.,,,1355
+Tip_0,Text,,You are always able to construct Level 1 buildings if you run out of resources for higher level ones.,,,1356
+Tip_1,Text,,You will always be able to find an underground deposit of <nr>Stone</nr> on the map somewhere.,,,1357
+Tip_10,Text,,Use the Map to check the location and amount of natural resources you have inside and outside of your territory.,,,1358
+Tip_11,Text,,Use the priority panel on a Lumberjack Hut to prioritise trees you want to chop down first.,,,1359
+Tip_12,Text,,If you have a wall in the landscape you need to remove use the Sculpt tool in the bottom right of the screen.,,,1360
+Tip_13,Text,,You can create paths and then build roads on top of them later.,,,1361
+Tip_14,Text,,Right-click at any point to cancel the mode you're in.,,,1362
+Tip_15,Text,,Expand more quickly by constructing higher level <bd>Watchtowers</bd>.,,,1363
+Tip_16,Text,,Use <hotkey>[H]</hotkey> to jump back to your <bd>Colony Ship</bd>.,,,1364
+Tip_17,Text,,Prioritise a building to make it request resources before all other buildings. You can also do this by holding <hotkey>[P]</hotkey> and clicking the building.,,,1365
+Tip_18,Text,,Use <hotkey>[F]</hotkey> to flip a building's orientation.,,,1366
+Tip_2,Text,,When building a <lr>Road</lr> hold <hotkey>[Ctrl]</hotkey> and click to fix waypoint tiles to the road you're placing.,,,1367
+Tip_3,Text,,"If two buildings share a path then a Stackbot can deliver straight from one building to another, helping to reduce traffic on your roads.",,,1368
+Tip_4,Text,,Check the resource panel to check whether you're producing enough of a resource to meet demand.,,,1369
+Tip_5,Text,,"If resources are regularly being delivered over a long distance, build a <bd>Storage Yard</bd> near the destination building to keep a surplus of resources nearby.",,,1370
+Tip_6,Text,,Jump to build modes using hotkeys <hotkey>[1]</hotkey> through <hotkey>[9]</hotkey>.,,,1371
+Tip_7,Text,,You can quickly upgrade a building by holding <hotkey>[U]</hotkey> and clicking it.,,,1372
+Tip_8,Text,,"If a route is likely to be a busy one in your colony, build short roads to move resources as quickly as possible.",,,1373
+Tip_9,Text,,You can help alleviate busy roads by upgrading them with the <bd>Road Layer</bd> building.,,,1374
+TrackConstruction,Text,,Track Construction,,,1375
+TrackConstructionDirectionElevation,Text,Section for direction and elevation of next track piece,Direction & Elevation,,,1376
+TrackConstructionPlace,Text,Button to place track,Place Track,,,1377
+TrackConstructionRemove,Text,Action to remove track,Remove Track,,,1378
+TrackConstructionSBend,Text,,S-Bend,,,1379
+TrackConstructionStep,Text,,Step,,,1380
+TrackConstructionSupportedHeight,Text,,Current support height:,,,1381
+TrackConstructionType,Text,"Which type of track is it - land, bridge or unsupported bridge",Type,,,1382
+TrackConstructionUnsupportedLength,Text,The current length of track the player is building that is unsupported,Unsupported length:,,,1383
+TrackDirectionMode_0,Text,,Straight,,,1384
+TrackDirectionMode_1,Text,,Left,,,1385
+TrackDirectionMode_2,Text,,Right,,,1386
+TrackDirectionMode_255,Text,,None,,,1387
+TrackElevationMode_0,Text,,Flat,,,1388
+TrackElevationMode_1,Text,,Up,,,1389
+TrackElevationMode_2,Text,,Down,,,1390
+TrackElevationMode_255,Text,,None,,,1391
+TrackLandMode_0,Text,,Land,,,1392
+TrackLandMode_1,Text,,Unsupported Bridge,,,1393
+TrackLandMode_2,Text,,Supported Bridge,,,1394
+TrackSpecialMode_0,Text,,S-Bend Left,,,1395
+TrackSpecialMode_1,Text,,S-Bend Right,,,1396
+TrackSpecialMode_255,Text,,None,,,1397
+TrackStepMode_0,Text,,Step Up,,,1398
+TrackStepMode_1,Text,,Step Down,,,1399
+TrackStepMode_2,Text,,Small Step Up,,,1400
+TrackStepMode_255,Text,,None,,,1401
+TrackStepMode_3,Text,,Small Step Down,,,1402
+TraderRep_0_Name,Text,,Unknown,,,1403
+TraderRep_1_Name,Text,,Local Trader,,,1404
+TraderRep_2_Name,Text,,Master Merchant,,,1405
+TraderRep_3_Name,Text,,Planetary Dealer,,,1406
+TraderRep_4_Name,Text,,Galactic Trader,,,1407
+TrainEngine_0_Name,Text,,Coal Engine,,,1408
+TrainHopper_0_Name,Text,,Hopper,,,1409
+Train_0_Desc,Text,,Basic coal engine with three hoppers,,,1410
+Train_0_Name,Text,,Locomotive,,,1411
+Transport Priorities,Text,,Transport Priorities,,,1412
+TutorialDialogues_T1_BuildAnotherFishingHut,Text,,"Fantastic! You now have the capacity to produce more <it>Energy L1</it>.
+But more <bd>Residences</bd> mean more Housebot needs, so demand for <it>Water</it> and <cat>Food</cat> has also increased.
+Build another <bd>Fishing Hut</bd> on the coast to increase your <cat>Food</cat> production.",,,1413
+TutorialDialogues_T1_BuildFishingHut,Text,,We're near the shore and have several jumping fish tiles available which can be farmed by a <bd>Fishing Hut</bd>.,,,1414
+TutorialDialogues_T1_BuildForestry,Text,,"Great! <bd>Watchtowers</bd> take a little longer to build though.
+While your <bd>Watchtower</bd> is being built, let's construct a <bd>Forestry</bd> to plant some more trees.",,,1415
+TutorialDialogues_T1_BuildLumberjackHut,Text,,Now click the flashing Build icon in the bottom right of the screen.,,,1416
+TutorialDialogues_T1_BuildMoreResidences,Text,,"So the demand is now greater than the supply of <it>Energy L1</it>. This means eventually the <bd>Lumberjack Hut</bd> and <bd>Surface Mine</bd> won't be able to work at 100% efficiency.
+Build two more <bd>Residences</bd> to increase the supply of <it>Energy L1</it>!
+Another tip: you can <hotkey>[Ctrl]</hotkey> + select a building to duplicate it.",,,1417
+TutorialDialogues_T1_BuildPath,Text,,Select <lr>Path</lr> building mode and then build a <lr>Path</lr> on the highlighted tiles.#,,,1418
+TutorialDialogues_T1_BuildPathComplete,Text,,"Excellent! Your <bd>Well</bd> will soon be built and <it>Water</it> will be supplied to the <bd>Residence</bd>.
+Because the <bd>Well</bd> and the <bd>Residence</bd> are connected by a path, the Stackbot can deliver the <it>Water</it> directly.
+This means the <it>Water</it> resource will not impact your road network and can help reduce traffic on your roads when your colony grows and gets busier.",,,1419
+TutorialDialogues_T1_BuildResidence0,Text,,"The <bd>Colony Ship</bd> generates a small amount of <it>Energy L1</it> to get you started but your colony will soon require lots more.
+You can generate additional <it>Energy L1</it> at <bd>Residences</bd> so next let's build your first <bd>Residence</bd>.",,,1420
+TutorialDialogues_T1_BuildSurfaceMine,Text,,"Great, your territory has expanded and now includes the <nr>Stone Deposit</nr>!
+Go ahead and build a <bd>Surface Mine</bd> to mine the <nr>Stone Deposit</nr> and start producing <it>Stone</it>.",,,1421
+TutorialDialogues_T1_BuildWatchtower,Text,,"First you need to build a <bd>Watchtower</bd> near the <nr>Stone Deposit</nr> to expand your borders.
+You can choose where to build the <bd>Watchtower</bd> yourself but you'll need to place it near the border so you can access the <nr>Stone Deposit</nr>.",,,1422
+TutorialDialogues_T1_BuildWell,Text,,"To produce <it>Energy L1</it> the first resource a <bd>Residence</bd> needs is <it>Water</it>.
+Build a <bd>Well</bd> at the highlighted tiles.",,,1423
+TutorialDialogues_T1_ClickStoneDeposit,Text,,"You have some <nr>Stone Deposit</nr> just outside your territory on the other side of the island.
+Click on it now.",,,1424
+TutorialDialogues_T1_ConnectFishingHut,Text,,Again go ahead and use a path to connect your <bd>Fishing Hut</bd> to the <lr>Road</lr> network using <lr>Paths</lr>.,,,1425
+TutorialDialogues_T1_ConnectResidence,Text,,"Again you need to connect the building to the road network to allow resources to reach it.
+Buildings can be connected to any point along a road. Build a <lr>Road</lr> on the highlighted locations.",,,1426
+TutorialDialogues_T1_ConnectResidence1,Text,,"Great! Buildings can be connected to any point along a road.
+Each building has a Stackbot to collect and drop off resources. The one at your <bd>Residence</bd> will use both road posts.",,,1427
+TutorialDialogues_T1_ConnectWatchtower,Text,,"Looks good! Now you need to connect your <bd>Watchtower</bd> to the network with <lr>Roads</lr> and <lr>Paths</lr>.
+You can quick select different build modes by using hotkeys <hotkey>[1]</hotkey> to <hotkey>[9]</hotkey>.
+You can also remove buildings, roads and paths using the Destroy tool in the bottom right. Be careful what you remove though as it can disrupt your colony!",,,1428
+TutorialDialogues_T1_ExplainConstructionPanel,Text,,"In this construction panel the arrows tell you which resources the building produces and the resources required to do so.
+It also shows you the construction materials and how long construction will take.",,,1429
+TutorialDialogues_T1_ExplainEntityConstruction,Text,,Good! Your <bd>Lumberjack Hut</bd> needs <it>Logs</it> for it to be constructed though.You can see there is an outstanding demand for <it>Logs</it> by the icon on the building and the red icons in the bottom left of the screen.Click on the flashing <it>Logs</it> icon on the <bd>Lumberjack Hut</bd> building.,,,1430
+TutorialDialogues_T1_ExplainEntityConstructionPanel,Text,,"This panel tells you the construction progress and how many resources are needed.
+The red circle on the <it>Logs</it> icon means that this <bd>Lumberjack Hut</bd> immediately needs <it>Logs</it> for construction of the building.",,,1431
+TutorialDialogues_T1_ExplainEntityProductionPanel1,Text,,"The production panel of a building tells you the needs, status and current output of a building.
+Some bots, such as Lumberbots, need extra power to carry out their job.",,,1432
+TutorialDialogues_T1_ExplainEntityProductionPanel2,Text,,"This extra power is provided by the <it>Energy</it> resource.
+This panel tells you that the Lumberbot needs one Level 1 <it>Energy</it> resource per day to keep working.",,,1433
+TutorialDialogues_T1_ExplainFood,Text,,The other <bd>Residence</bd> need was <cat>Food</cat>. This means <it>Fish</it> or <it>Meat</it>.,,,1434
+TutorialDialogues_T1_ExplainPaths,Text,,"Buildings also don't need to be placed directly on <lr>Roads</lr>. They can be connected to a <lr>Road</lr> by a <lr>Path</lr>.
+<lr>Paths</lr> are secondary routes that allow a building's Stackbot to reach a road post. This allows you to be more flexible with your building and road placement.",,,1435
+TutorialDialogues_T1_ExplainResidenceConstructionPanel,Text,,"This panel now tells you how much <it>Energy L1</it> this <bd>Residence</bd> can generate and which resources are needed to do so.
+The Level 1 <bd>Residence</bd> turns one <it>Water</it> and one <cat>Food</cat> resource into one <it>Energy L1</it>.",,,1436
+TutorialDialogues_T1_ForestryAllocateTiles_TaskAllocate,Text,,Allocate 10 Forestry tiles,,,1437
+TutorialDialogues_T1_ForestryPlantTrees,Text,,"You control where the Treebot plants their trees.
+Follow the yellow alert icons on the <bd>Forestry</bd> building and allocate some tiles for planting.",,,1438
+TutorialDialogues_T1_ForestryPlantTreesComplete,Text,,Well done! This means you won't run out of trees for Lumberbots to create <it>Logs</it> out of.,,,1439
+TutorialDialogues_T1_Intro1,Text,,"At last, terra firma!
+We have finally reached a habitable planet and we can set our wheels to ground.",,,1440
+TutorialDialogues_T1_Intro2,Text,,"You are Dronebot <name> and are in charge of colony operations.
+This looks like a good island to test our anthrobotic systems.",,,1441
+TutorialDialogues_T1_KeyboardControls,Text,,While your crew are unloading your few starting resources here are some basics:,,,1442
+TutorialDialogues_T1_KeyboardControls_TaskPan,Text,,Pan the camera using <hotkey>[W]</hotkey><hotkey>[A]</hotkey><hotkey>[S]</hotkey><hotkey>[D]</hotkey>.,,,1443
+TutorialDialogues_T1_KeyboardControls_TaskRotate,Text,,Rotate the camera using <hotkey>[Q]</hotkey><hotkey>[E]</hotkey>.,,,1444
+TutorialDialogues_T1_LumberjackHutConstructionComplete,Text,,The <bd>Lumberjack Hut</bd> is complete! Now the <bd>Colony Ship</bd> will print a Lumberbot and they will head to the new building.,,,1445
+TutorialDialogues_T1_LumberjackHutWaitForBot,Text,,"The Lumberbot has arrived and has headed off to work! You may have noticed that another resource was delivered to the <bd>Lumberjack Hut</bd>.
+Click on your new <bd>Lumberjack Hut</bd> building to find out more.",,,1446
+TutorialDialogues_T1_MouseControls,Text,,You can also use your mouse to move around:,,,1447
+TutorialDialogues_T1_MouseControls_TaskPan,Text,,<hotkey>Right-click</hotkey> and drag to move about the world as well as move the mouse to the edge of screen.,,,1448
+TutorialDialogues_T1_MouseControls_TaskTilt,Text,,Hold and drag the <hotkey>middle mouse button</hotkey> to rotate and tilt the camera.,,,1449
+TutorialDialogues_T1_MouseControls_TaskZoom,Text,,Use the <hotkey>mouse wheel</hotkey> to zoom.,,,1450
+TutorialDialogues_T1_PlaceFishingHut,Text,,"You can use <hotkey>[F]</hotkey> to flip a building's orientation.
+Use <hotkey>[F]</hotkey> to flip and <hotkey>[R]</hotkey> to rotate to build a <bd>Fishing Hut</bd> on the highlighted location.",,,1451
+TutorialDialogues_T1_PlaceLumberjackHut,Text,,"You're in the build mode, so place the <bd>Lumberjack Hut</bd> on the highlighted tiles near your Colony Ship.",,,1452
+TutorialDialogues_T1_PlaceResidence,Text,,You can rotate a building when you're placing it. Rotate using <hotkey>[R]</hotkey> and match the <bd>Residence</bd> to the highlighted tiles.,,,1453
+TutorialDialogues_T1_ResourceClickOverview,Text,,Click the highlighted tab to go to the <it>Logs</it> overview panel.,,,1454
+TutorialDialogues_T1_ResourceCloseOverview,Text,,"First, close the resource panel by <hotkey>right-clicking</hotkey> anywhere inside the panel or by using the 'x' button.",,,1455
+TutorialDialogues_T1_ResourceOverview,Text,,"This section tells you how many <it>Logs</it> you're producing and how many are in demand. This is a good panel to check whether you're producing enough of a resource.
+<it>Logs</it> are an important construction material and your <bd>Colony Ship</bd> has a basic replicator which slowly produces <it>Logs</it> to ensure you never completely run out.
+But you're going to need a lot more <it>Logs</it> so let's build a <bd>Lumberjack Hut</bd>.",,,1456
+TutorialDialogues_T1_ResourceStorage,Text,,"You have a few resources to get your colony up and running.
+You can see how many of each resource you currently have in storage in the bottom left of the screen. Click the flashing <it>Logs</it> icon to open the resource info panel.",,,1457
+TutorialDialogues_T1_ResourceStorage2,Text,,"The resource panel tells you how many <it>Logs</it> you currently have stored and how much that number has changed over the last day or week.
+Below that is the list of buildings where the resources are stored.
+So you currently have 16 <it>Logs</it> stored at your <bd>Colony Ship</bd>.",,,1458
+TutorialDialogues_T1_RoadToLumberjackHut1,Text,,"You have some <it>Logs</it> at the <bd>Colony Ship</bd> but there is no route to your <bd>Lumberjack Hut</bd> yet as indicated by the yellow alert icon.
+Resources move around your colony along <lr>Roads</lr>. Let's build one!
+Select the <lr>Roads</lr> build mode in the bottom right of the screen.",,,1459
+TutorialDialogues_T1_RoadToLumberjackHut2,Text,,"Roads can only be started from existing road posts.
+<hotkey>Click</hotkey> on the blue road post outside the <bd>Colony Ship</bd> and then <hotkey>click</hotkey> on the next highlighted tile.",,,1460
+TutorialDialogues_T1_RoadToLumberjackHut3,Text,,Got it! Roads can be between 4 and 6 tiles long. Build another <lr>Road</lr> to connect your <bd>Lumberjack</bd>.,,,1461
+TutorialDialogues_T1_RoadToLumberjackHut4,Text,,Great! Each <lr>Road</lr> has a Carrybot who moves resources between the posts at either end of the <lr>Road</lr> depending on where the resource needs to go.,,,1462
+TutorialDialogues_T1_SpeedControls,Text,,You can increase and decrease the game speed in the top right of the screen or by using hotkeys:,,,1463
+TutorialDialogues_T1_SpeedControls_TaskButtons,Text,,Change game speed using buttons in top right of the screen.,,,1464
+TutorialDialogues_T1_SpeedControls_TaskPause,Text,,Pause and unpause the game using <hotkey>[Space]</hotkey>.,,,1465
+TutorialDialogues_T1_SpeedControls_TaskSpeedUpDown,Text,,Change game speed using <hotkey>[Z]</hotkey> and <hotkey>[X]</hotkey>.,,,1466
+TutorialDialogues_T1_StoneDepositInfo,Text,,"<it>Stone</it> is used to build more advanced buildings.
+You can mine this <nr>Stone Deposit</nr> with the <bd>Surface Mine</bd> but only once the deposit is inside your territory.",,,1467
+TutorialDialogues_T1_SurfaceMineComplete,Text,,"Nice work! Your Minerbot will now head off and begin harvesting <it>Stone</it>.
+You may have noticed that the <bd>Surface Mine</bd> also requires <it>Energy L1</it> to function.
+Click on the <it>Energy L1</it> panel in the bottom left to check the colony's <it>Energy L1</it> demands.",,,1468
+TutorialDialogues_T1_TutorialComplete,Text,,Excellent! You have a functioning colony and your skills are looking promising!,,,1469
+TutorialDialogues_T1_TutorialComplete2,Text,,"When you're ready, it's time to move onto somewhere with a bit more space...",,,1470
+TutorialDialogues_T1_WaitForFishingHutConstruction,Text,,"The construction resources are now heading to the <bd>Fishing Hut</bd>.
+Let's wait for construction for finish.",,,1471
+TutorialDialogues_T1_WaitForLumberjackHutComplete,Text,,"Your Carrybots can now transport the <it>Logs</it> along the roads to the road post outside the <bd>Lumberjack Hut</bd>.
+The Stackbot for the <bd>Lumberjack Hut</bd> will then pick up the resources and the Buildbot will then be able to construct the building.
+Let's watch!",,,1472
+TutorialDialogues_T1_WaitForResidenceConstruction,Text,,Good! Now let's watch the construction resources reach the <bd>Residence</bd> and the buildbot finish their work.,,,1473
+TutorialDialogues_T1_WaitForResidenceConstruction2,Text,,The <bd>Residence</bd> is finished but as the icons above the building show the Housebot doesn't have the required resources yet to begin production of <it>Energy L1</it>.,,,1474
+TutorialDialogues_T1_WaitWatchtowerComplete,Text,,"Now let's wait for the <bd>Watchtower</bd> to finish construction.
+Remember you can change the game speed with <hotkey>[Z]</hotkey> and <hotkey>[X]</hotkey>.",,,1475
+TutorialDialogues_T1_WatchFirstFish,Text,,The Fisherbot is now heading off to fish and will soon have some <it>Fish</it> for your <bd>Residence</bd>.,,,1476
+TutorialDialogues_T2_BuildSheepFarm,Text,,"First though, we can see that we haven't got any <nr>Fish</nr> available so you'll need to build a <bd>Sheep Farm</bd>.
+Sheep Farms can produce enough <cat>Food</cat> for 4 <bd>Residences</bd> but they need space for the sheep to graze.
+Build a <bd>Sheep Farm</bd> in the highlighted location.",,,1477
+TutorialDialogues_T2_BuildSheepFarm2,Text,,Nice! Let's wait for the buildbot to finish construction of your <bd>Sheep Farm</bd>.,,,1478
+TutorialDialogues_T2_BuildSheepFarm_TaskBuildSheepFarm,Text,,Build 1 <bd>Sheep Farm</bd>,,,1479
+TutorialDialogues_T2_ConnectSheepFarm,Text,,"Now, starting at the post outside the <bd>Colony Ship</bd>, connect to the <bd>Sheep Farm</bd> using <lr>Roads</lr> and <lr>Paths</lr>.
+You can also use hotkeys <hotkey>[1]</hotkey> through <hotkey>[9]</hotkey> to select different construction modes.",,,1480
+TutorialDialogues_T2_CreateSheepFarmFields,Text,,"Your <bd>Sheep Farm</bd> won't produce at its most optimal rate until you place the full 50 pastures.
+Click on the yellow alert symbol above the <bd>Sheep Farm</bd> building and click 'Auto Place'.",,,1481
+TutorialDialogues_T2_CreateSheepFarmFields2,Text,,"Click 'Auto Place' to automatically place the sheep pastures.
+You can also manually modify the fields by clicking 'Change'.",,,1482
+TutorialDialogues_T2_CreateSheepFarmFields3,Text,,"Great! Your <bd>Sheep Farm</bd> is going to give you a good start on <cat>Food</cat> production.
+If, at any point, you want to set the sheep pastures manually, you can use the 'Change' mode.",,,1483
+TutorialDialogues_T2_CreateSheepFarmFields_TaskFields,Text,,Expand at least 20 extra pastures,,,1484
+TutorialDialogues_T2_OnResearchComplete2a,Text,,"Great, you've researched <res>Construction I</res>!
+This means you've unlocked a new range of buildings and the ability to upgrade some existing ones.",,,1485
+TutorialDialogues_T2_OnResearchComplete2b,Text,,To mine <nr>Coal</nr> and <nr>Iron Ore</nr> you need to research <res>Mining I</res> as well as supply the more advanced <it>Energy L2</it>.,,,1486
+TutorialDialogues_T2_OnResearchComplete2c,Text,,"<it>Energy L2</it> is generated by Level 2 <bd>Residences</bd>.
+You can either upgrade Level 1 <bd>Residences</bd> via the building's upgrade panel or you can construct the building from scratch.
+Your next job is to create your first Level 2 <bd>Workshop</bd> and your first Level 2 <bd>Residence</bd>!",,,1487
+TutorialDialogues_T2_SoloInstructions,Text,,"It's time to build this colony on your own!
+I'll still be around to help though. Click on the flashing 'Help' icon the top-left.",,,1488
+TutorialDialogues_T2_SoloInstructions2,Text,,"Here you can see the mission goal as well as advice, warnings and tips if you need them.
+You can also click on each advice item for more information.
+Good luck!",,,1489
+TutorialDialogues_T2_Welcome,Text,,"This location looks a bit more promising! Let's build a <bd>Small Monument</bd> to celebrate!
+A <bd>Small Monument</bd> requires more advanced materials including <it>Iron</it> and you're going to need to research technology to upgrade and unlock more advanced buildings.",,,1490
+TutorialDialogues_T3_FakeEnd,Text,,<blank>,,,1491
+TutorialDialogues_T3_Welcome,Text,,"We seem to have landed on a small island with few resources.
+You're going to need to build a harbour and boatyard to explore the seas to find new land!",,,1492
+TutorialDialogues_T4_Intro,Text,,"It looks like you might not be alone this planet...
+You should set up your colony and expand quickly!",,,1493
+TutorialDialogues__Overlay_CoalDiscovered,Text,,"You now have some <nr>Coal</nr> deposits within your territory!
+<nr>Coal</nr> deposits can only be mined by a Level 2 <bd>Surface Mine</bd> once you've researched <res>Mining I</res>.",,,1494
+TutorialDialogues__Overlay_FirstBoatConstructed,Text,,"You've built your first boat!
+When a boat is complete you can either create a route between existing <bd>Harbours</bd> or assign it to an expedition to explore the seas and build a new <bd>Harbour</bd> on another island.
+As this is your first boat you need to start collecting resources for an expedition at a <bd>Harbour</bd>. When ready, select your boat and assign it to the expedition.",,,1495
+TutorialDialogues__Overlay_FirstBoatRouteCreated,Text,,"Your new <bd>Harbour</bd> is under construction!
+Your boat has also automatically created a transport route between your new <bd>Harbour</bd> and its original <bd>Harbour</bd>.
+Resources will automatically be delivered through your <bd>Harbours</bd> when they are requested by buildings on either island.
+As your colony expands you will want to control which resources can pass through your network in order to prevent resources being sourced from too far away or from different islands.
+Check out the transport rule system by clicking on any road post or harbour.",,,1496
+TutorialDialogues__Overlay_FirstExpeditionLoaded,Text,,"Your expedition boat is ready!
+Select it to enter navigation mode. You can now click on a water tile to explore the ocean and discover new islands.
+You can check the Map (<hotkey>[M]</hotkey>) screen to see where the hidden resources are located.
+Once you've found a new island, use the 'Build Harbour' option on the boat panel to construct a new <bd>Harbour</bd> your new land.",,,1497
+TutorialDialogues__Overlay_GeneralBuildingUpgrade,Text,,"You now have access to Level 2 of this building!
+Click the tabs at the top of the construction panel to change the level of the building.",,,1498
+TutorialDialogues__Overlay_HostileColony,Text,,"You've come across another robot colony! They do not look friendly though...
+Level 2 <bd>Watchtowers</bd> can attack nearby hostile <bd>Watchtowers</bd> with arrows.
+Research military technologies and upgrade your <bd>Watchtowers</bd> to prepare for combat!",,,1499
+TutorialDialogues__Overlay_ResearchedMining,Text,,"You've researched <res>Mining I</res>!
+You can now build Level 2 <bd>Surface Mines</bd> and Level 1 <bd>Shaft Mines</bd> which can mine <nr>Coal</nr> and <nr>Iron Ore</nr>.",,,1500
+TutorialDialogues__Overlay_ResidenceUpgraded,Text,,"You now have a Level 2 <bd>Residence</bd> which can generate <it>Energy L2</it>!
+Level 2 <bd>Residences</bd> have an additional requirement though - <cat>Alcohol</cat>.
+Build an <bd>Orchard</bd> and <bd>Cider Press</bd> to start producing <it>Cider</it>.",,,1501
+TutorialDialogues__Overlay_ShaftMineCanConstruct,Text,,"You now have a Underground Deposit inside your territory!
+You can mine this location by constructing a <bd>Shaft Mine</bd> on it.
+When placing the <bd>Shaft Mine</bd> you need to line up the building footprint so the mine track lines up to the mine entrance.",,,1502
+TutorialDialogues__Overlay_ShaftMineMiningNotResearched,Text,,"You now have a Underground Deposit inside your territory!
+You can mine this location by constructing a Level 1 <bd>Shaft Mine</bd>  once you've researched <res>Mining I</res>.",,,1503
+TutorialDialogues__Overlay_ShaftMineUnlock,Text,,"You have unlocked the Shaft Mine!
+Level 1 Shaft Mines bots are powered by <it>Energy L2</it> can mine <nr>Coal</nr>, <nr>Iron Ore</nr>, <nr>Clay</nr> and <nr>Salt</nr> as well as mining <nr>Stone</nr>.
+Shaft Mines tunnel into underground deposits so have to be placed in specific position related to the deposit. Use the building footprint to line up with the underground deposit.",,,1504
+TutorialDialogues__Overlay_SurfaceMineUpgrade,Text,,"You now have access to a Level 2 Surface Mine! Click the tab at the top of the construction panel to change the level of the building.
+Level 2 Surface Mines bots are powered by <it>Energy L2</it> and can mine <nr>Coal</nr>, <nr>Iron Ore</nr> and <nr>Clay</nr> as well as mining <nr>Stone</nr> faster.
+But remember, you can always choose to build Level 1 Surface Mines to mine <nr>Stone</nr> if you prefer or in the event you run out of <it>Stone</it> to construct Level 2 Surface Mines.",,,1505
+TutorialDialogues__Overlay_SurfaceMineUpgraded,Text,,"You've upgraded a <bd>Surface Mine</bd> to Level 2!
+It's now capable of mining more advanced ores of <nr>Coal</nr>, <nr>Iron Ore</nr> and <nr>Clay</nr>.
+Your Level 2 <bd>Surface Mine</bd> will still be set to mine its previous resource (<nr>Stone</nr>) so if you want it to mine <nr>Coal</nr> instead then you need to click on the mine's production panel and manually change it.",,,1506
+TutorialDialogues__Overlay_UnderAttack,Text,,"One of your <bd>Watchtowers</bd> is under attack!
+Your repairbot will automatically request resources and repair the damage but you need to make sure you're producing enough resources to keep up!
+If your Watchtower receives too much damage it will be captured by the enemy.",,,1507
+TutorialDialogues__Overlay_WatchtowerCapture,Text,,"You've captured a hostile <bd>Watchtower</bd>!
+It's currently damaged and a Guardbot can only occupy it once it's fully repaired.
+Connect the <bd>Watchtower</bd> to your network and repair it quickly otherwise it will collapse!",,,1508
+TutorialDialogues__Overlay_WatchtowerLost,Text,,"You've lost one of your <bd>Watchtowers</bd>!
+Research military technologies to improve your <bd>Watchtowers</bd> and make sure you have a good supply of resources!",,,1509
+TutorialDialogues__Overlay_WatchtowerUpgrade,Text,,"You now have access to a Level 2 Watchtower!
+While Level 2 Watchtowers give more territory they do require <it>Planks</it> and <it>Stone</it> for construction.
+So if you don't have access to, or don't wish to use your <it>Stone</it> you are always able to expand your territory using Level 1 Watchtowers.",,,1510
+TutorialDialogues__Overlay_WorkshopUpgraded,Text,,"You now have a Level 2 <bd>Workshop</bd> which can research more advanced technologies!
+Research <res>Mining I</res> so that you can begin mining the <nr>Coal</nr> and <nr>Iron Ore</nr> you need to make the <it>Iron</it> required for the <bd>Monument</bd>.",,,1511
+UICategory_0_Name,Text,,Energy,,,1512
+UICategory_1_Name,Text,,Construction,,,1513
+UICategory_2_Name,Text,,Water & Food,,,1514
+UICategory_3_Name,Text,,Ores,,,1515
+UICategory_4_Name,Text,,Goods,,,1516
+UICategory_5_Name,Text,,Fuel,,,1517
+UICategory_6_Name,Text,,Military,,,1518
+Unit_0_Name,Text,,Carrybot,,,1519
+Unit_10_Name,Text,,Guardbot,,,1520
+Unit_11_Name,Text,,Waterbot,,,1521
+Unit_12_Name,Text,,Repairbot,,,1522
+Unit_15_Name,Text,,Roadbot,,,1523
+Unit_16_Name,Text,,Researchbot,,,1524
+Unit_17_Name,Text,,Farmbot,,,1525
+Unit_18_Name,Text,Captain of a boat,Captainbot,,,1526
+Unit_19_Name,Text,,Farmbot,,,1527
+Unit_1_Name,Text,,Stackbot,,,1528
+Unit_20_Name,Text,,Minebot,,,1529
+Unit_21_Name,Text,,Bakerbot,,,1530
+Unit_22_Name,Text,,Smithbot,,,1531
+Unit_23_Name,Text,,Driverbot,,,1532
+Unit_2_Name,Text,,Buildbot,,,1533
+Unit_3_Name,Text,,Housebot,,,1534
+Unit_4_Name,Text,,Workerbot,,,1535
+Unit_5_Name,Text,,Lumberbot,,,1536
+Unit_6_Name,Text,,Minerbot,,,1537
+Unit_7_Name,Text,,Shipwrightbot,,,1538
+Unit_8_Name,Text,,Treebot,,,1539
+Unit_9_Name,Text,,Fisherbot,,,1540
+Unsubscribe,Text,Unsubscribe from a map,Unsubscribe,,,1541
+User Maps,Text,,User Maps,,,1542
+Username,Text,,Username,,,1543
+Utility_0_Name,Text,In map editor the marker on the terrain for where a player starts,Player Start Marker,,,1544
+ViewTypeLastMonth,Text,,Last Month,,,1545
+ViewTypeLastYear,Text,,Last Year,,,1546
+Width,Text,,Width,,,1547
+Workshop,Text,,Workshop,,,1548
+Workshop Browser,Text,,Workshop Browser,,,1549
+Workshop Maps,Text,,Workshop Maps,,,1550
+WorkshopQuerySort_0,Text,,Sort by rating,,,1551
+WorkshopQuerySort_1,Text,,Sort by date,,,1552
+WorkshopQuerySort_12,Text,,Sort by subscriptions,,,1553
+"Yes, Unpublish!",Text,,"Yes, Unpublish!",,,1554
+StartHeight_0,Text,,Deep sea,,,1555
+StartHeight_1,Text,,Shallow sea,,,1556
+StartHeight_2,Text,,Low land,,,1557
+StartHeight_3,Text,,High land,,,1558
+StartHeight_4,Text,,Mountain,,,1559
+GameSpeed_Paused,Text,,Paused,,,1560
+GameSpeed_Speed,Text,,Speed,,,1561
+GameMenu_UnsavedProgress,Text,,You have unsaved progress. Quit anyway?,,,1562
+ChooseLanguage,Text,,Choose Language,,,1563
+Store_Promo,Text,Change English to your language,The Colonists is now available in English!,,,1564
+Store_Description,Text,,"The Colonists is a relaxing settlement building game inspired by classic titles like The Settlers and the Anno series.
+
+Take on a series of individual missions or build your colony unfettered by any constraints in the [b]sandbox mode[/b].
+
+You take control of a team of self-replicating robots built to simulate human civilisation.  After escaping Earth, The Colonists are now free to roam the galaxy in search of a new home and construct their dream settlement.
+
+You'll advance through three different Ages as you build infrastructure for your colony by constructing road, boat and train transport systems.
+
+Harvest natural resources, set up farming and food production, create expeditions to discover new lands and research new technologies.
+
+With two separate mission tracks, The Colonists lets either you create sprawling settlements in peace or race to compete against AI colonies in military winner-takes-all scenarios.
+
+Explore, research, manage, tweak and refine to your heart's content.
+
+An extensive map editor and Steam Workshop support is included, so you can create, share and play custom maps.",,,1565
+ResearchPanel_L1Workshop,Text,,Level 1 Workshop,,,1566
+ResearchPanel_L2Workshop,Text,,Level 2 Workshop,,,1567
+ResearchPanel_L3Workshop,Text,,Level 3 Workshop,,,1568
+ResearchPanel_Requires,Text,(Workshop) requires (Energy LX),Requires,,,1569
+Day,Text,,Day,,,1570
+Days,Text,,Days,,,1571
+Month,Text,,Month,,,1572
+Months,Text,,Months,,,1573
+Year,Text,,Year,,,1574
+Years,Text,,Years,,,1575
+ResearchCosts,Text,,Costs,,,1576
+EntityTransportBoatReady_Construction,Text,,You cannot give instructions to this boat until construction has been completed.,,,1577
+EntityTransportBoatReady_Ready,Text,,"This boat is ready to sail! You can either assign this boat to an expedition, explore the seas and build a harbour on a new island or you can create a transport route between existing harbours.",,,1578
+EntityTransportBoatReady_Assign,Text,,Assign to expedition,,,1579
+EntityTransportBoatReady_TransportRouteHeader,Text,,Transport Route,,,1580
+EntityTransportBoatReady_TransportRouteNoPorts,Text,,You don't yet have enough harbours to be able to create a route.,,,1581
+EntityTransportBoatReady_TransportRouteCreate,Text,,Create Transport Route,,,1582
+MapPlayHARD,Text,,Play Hard,,,1583
+MapPlayNORMAL,Text,,Play Normal,,,1584
+MapPlayCASUAL,Text,,Play Casual,,,1585
+ConstructionPanel_Info,Text,,Info,,,1586
+ConstructionPanel_LevelLocked,Text,,Locked,,,1587
+Mission,Text,,Mission,,,1588
+CursorConstrained,Text,,Cursor Constrained,,,1589
+Yes,Text,Alert window - confirm,Yes,,,1590
+No,Text,Alert window - cancel,No,,,1591
+Begin,Text,,Begin,,,1592
+Tutorial,Text,,Tutorial,,,1593
+Skip,Text,,Skip,,,1594
+EntityConstruction_PauseConstruction,Text,,Pause Construction,,,1595
+EntityConstruction_ResumeConstruction,Text,,Resume Construction,,,1596
+EntityConstruction_ConstructionPaused,Text,,Construction Paused,,,1597
+EntityConstruction_InProgress,Text,,In Progress,,,1598
+NoBuildingsYet,Text,"{0} is plural of building, e.g. Blacksmiths",You haven't built any {0} yet!,,,1599
+NoTransportRules,Text,{0} is resource type e.g. Bricks,You don't have any transport rules that affect the movement of {0},,,1600
+NotRequiredYet,Text,{0} is resource type e.g. Bricks,No buildings require {0} yet,,,1601
+InPriorityOrder,Text,(The following list of demand types are) in priority order,In priority order,,,1602
+Next Mission,Text,(Go to) Next Mission,Next Mission,,,1603
+ConstructionMode_1,Text,Bottom right circle,Build,,,1604
+ConstructionMode_2,Text,Bottom right circle,Sculpt,,,1605
+ConstructionMode_3,Text,Bottom right circle,Destroy,,,1606
+ItemInfoOverview,Text,,Production & Demand,,,1607
+Tutorial_Nice,Text,,Nice!,,,1608
+SummaryUI_Destroy,Text,Destroy (a resource),Destroy,,,1609
+GlobalItemIconUI_Production_Tooltip,Text,"{0}: amount, {1}: resource e.g. ""5 Bricks surplus per day""",{0} {1} surplus per day,,,1610
+GlobalItemIconUI_Storage_Tooltip,Text,"{0}: amount, {1}: resource e.g. ""7 Coal in storage""",{0} {1} in storage,,,1611
+GlobalItemIconUI_Demand_Tooltip_Singular,Text,"{0}: amount of buildings, {1}: resource e.g. ""1 building needs Logs""",{0} building needs {1},,,1612
+GlobalItemIconUI_Demand_Tooltip_Plural,Text,"{0}: amount of buildings, {1}: resource e.g. ""3 buildings need Logs""",{0} buildings need {1},,,1613
+GlobalItemIconUI_NotProduced_Tooltip,Text,"{0}: resource e.g. ""You have not produced any Steel yet""",You have not produced any {0} yet,,,1614
+GraphStartTime_Day,Text,,1 day ago,,,1615
+GraphStartTime_Week,Text,,1 week ago,,,1616
+GraphStartTime_Month,Text,,1 month ago,,,1617
+GraphStartTime_Year,Text,,1 year ago,,,1618
+BotPrintedAge,Text,"{0}: bot name, {1} time e.g. ""Geoffbot was printed 3 years, 5 months, 19 days ago""",{0} was printed {1} ago,,,1619
+BotSleepingReason,Text,"{0}: bot name, {1} is reason e.g. ""Jillbot is sleeping because they're waiting for more Energy""",{0} is sleeping because {1},,,1620
+EntityProductionUI_ResourceRatio,Text,The production ratio between two resources,Resource Ratio,,,1621
+Natural Resource,Text,"Any of Coal, Iron etc",Natural Resource,,,1622
+Tree Type,Text,Which type of tree Forester is planting,Tree Type,,,1623
+EntityInfoBuildingStorageIncomingEmpty,Text,,There are no resources in the queue,,,1624
+EntityInfoBuildingStorageExportWhitelistHeader,Text,,Export Whitelist,,,1625
+EntityInfoBuildingStorageExportWhitelistDesc,Text,,Limit which buildings resources can be sent to:,,,1626
+EntityInfoBuildingStorageImportWhitelistHeader,Text,,Import Whitelist,,,1627
+EntityInfoBuildingStorageImportWhitelistDesc,Text,,Limit which buildings can send resources here:,,,1628
+UnknownItem,Text,Fallback if resource type is not known,Unknown resource,,,1629
+UnitState_Idle,Text,,Idle,,,1630
+UnitState_ReturningToIdle,Text,,Returning to idle,,,1631
+UnitState_GoingHome,Text,,Going home,,,1632
+UnitState_PickingUp,Text,"{0}: the resource that the bot is picking up e.g. ""Picking up Bread""",Picking up {0},,,1633
+UnitState_DroppingOff,Text,"{0}: the resource that the bot is picking up e.g. ""Dropping off Bread""",Dropping off {0},,,1634
+UnitState_Fetching,Text,"{0}: the resource that the bot is fetching e.g. ""Fetching Bread""",Fetching {0},,,1635
+UnitState_Planting,Text,{0}: tree being planted {1}: percent progress,Planting {0} - {1}%,,,1636
+UnitState_ImprovingRoad,Text,,Improving road,,,1637
+UnitState_Chopping,Text,{0}: tree being chopped down {1}: percent progress,Chopping down {0} - {1}%,,,1638
+UnitState_Reloading,Text,Guardbot reloading weapon,Reloading - {0}%,,,1639
+UnitState_Firing,Text,Guardbot firing weapon,Firing - {0}%,,,1640
+UnitState_ConstructingBoat,Text,,Constructing boat - {0}%,,,1641
+UnitState_Processing,Text,Fallback - bot is doing a generic process,Processing - {0}%,,,1642
+UnitState_ReturningHome,Text,Returning from work with resource,Returning home,,,1643
+UnitState_Constructing,Text,,Constructing,,,1644
+UnitState_HeadingTo,Text,{0}:tile or building that bot is heading to,Heading to {0},,,1645
+UnitState_Researching,Text,{0}: technology that bot is currently researching,Researching {0},,,1646
+UnitState_BeingPrinting,Text,Bot is being printed,Printing... {0}%,,,1647
+UnitState_Printed,Text,Bot has been printed,Printed,,,1648
+BuildingTransportConnectionsUI_RoadPosts,Text,Road posts that a building is connected to. {0}:amount,Road Posts ({0}),,,1649
+BuildingTransportConnectionsUI_Buildings,Text,Other buildings that a building is connected to. {0}:amount,Buildings ({0}),,,1650
+BuildingTransportConnectionsUI_Harbours,Text,Harbours that a building is connected to. {0}:amount,Boat Routes ({0}),,,1651
+BuildingTransportConnectionsUI_TrainStations,Text,Train Stations a building is connected to. {0}:amount,Train Routes ({0}),,,1652
+Tooltip_ItemHeadingTo,Text,{0}: building a resource is heading to,heading to {0},,,1653
+Tooltip_YieldsFish,Text,(Fish tile) yields (fish),yields <it>{0}</it>,,,1654
+Tooltip_YieldsNatResGrp,Text,(Resource deposit) yields {10} of {78} {Stone},yields {0} of {1} {2},,,1655
+Tooltip_YieldsNatRes,Text,(Resource deposit) yields {6} {Stone},yields {0} {1},,,1656
+Tooltip_YieldsTree,Text,(Tree) yields {1} {Logs},yields {0} {1},,,1657
+Tooltip_TreeGrowing,Text,{0}:percent that a tree has grown,{0}% grown,,,1658
+Tooltip_YieldsMineInfinite,Text,(Shaft mine) yields unlimited {Gold},yields unlimited {0},,,1659
+AgeNameShort_0,Text,Short for Level 1,L1,,,1660
+AgeNameShort_1,Text,Short for Level 2,L2,,,1661
+AgeNameShort_2,Text,Short for Level 3,L3,,,1662
+Tooltip_Build,Text,"{0}: building age, {1}: building type e.g. ""Build L2 Watchtower""",Build {0}{1},,,1663
+Tooltip_CantBuild,Text,"{0}: building age, {1}: building type e.g. ""Can't build L2 Watchtower""",Can't build {0}{1},,,1664
+Tooltip_Place,Text,"{0}: something user puts down instantly e.g. ""Place sheep field""",Place {0},,,1665
+Tooltip_CantPlace,Text,,Can't place {0},,,1666
+Tooltip_StartRoad,Text,,Start road,,,1667
+Tooltip_CantStartRoad,Text,,Can't start road,,,1668
+Tooltip_CompleteRoad,Text,,Complete road,,,1669
+Tooltip_CompleteRoadAtTile,Text,,Complete at highlighted tile,,,1670
+Tooltip_CantCompleteRoad,Text,,Can't complete road,,,1671
+Tooltip_StartPath,Text,,Start path,,,1672
+Tooltip_CantCompletePath,Text,,Complete path,,,1673
+Tooltip_CantStartPath,Text,,Can't start path,,,1674
+Tooltip_SetPathWaypoint,Text,,Set path waypoint,,,1675
+Tooltip_Sculpt,Text,{0}: sculpt mode,Sculpt {0},,,1676
+Tooltip_CantSculpt,Text,{0}: sculpt mode,Can't sculpt {0},,,1677
+Tooltip_Destroy,Text,{0}: object to be destroyed,Destroy {0},,,1678
+Tooltip_DestroyTrack,Text,Destroy track segment,Destroy track,,,1679
+Tooltip_CantDestroy,Text,{0}: object that cannot be destroyed,Can't destroy {0},,,1680
+Tooltip_CantDestroyBurningBuilding,Text,,Can't destroy burning building,,,1681
+Tooltip_SetTile,Text,Set (priority) tile (for e.g. lumberjack),Set tile,,,1682
+Tooltip_CantSetTile,Text,,Can't set tile,,,1683
+Tooltip_RemoveTile,Text,,Remove tile,,,1684
+MiscCat_0_Desc,Text,Tooltip info for Fish,available from fish tiles,,,1685
+MiscCat_10_Desc,Text,Tooltip info for Mining L1,basic mining,,,1686
+MiscCat_11_Desc,Text,Tooltip info for Mining L2,advanced mining,,,1687
+MiscCat_12_Desc,Text,Tooltip info for Mining L3,expert mining,,,1688
+MiscCat_1_Desc,Text,Tooltip info for water source for wells,available on green tiles,,,1689
+MiscCat_2_Desc,Text,Tooltip info for tree icon at lumberjack,any tree can be chopped down,,,1690
+MiscCat_3_Desc,Text,Tooltip info for wheat field icon,can be planted on green tiles,,,1691
+MiscCat_4_Desc,Text,Tooltip info for sapling at forester,can be planted in ground,,,1692
+MiscCat_5_Desc,Text,Tooltip info for upgrade at Road Improver L1,upgrades to stone roads and paths,,,1693
+MiscCat_6_Desc,Text,Tooltip info for apple tree icon at orchard,can be planted on green tiles,,,1694
+MiscCat_7_Desc,Text,Tooltip info for various resources at workshop,various resources,,,1695
+MiscCat_8_Desc,Text,Tooltip info for research icon at workshop,technology research,,,1696
+MiscCat_9_Desc,Text,Tooltip info for upgrade icon at Road Improver L2,upgrades to brick roads and paths,,,1697
+BuildMode_FilterInvalid,Text,In tutorial when building not in right location,Place on the highlighted tiles!,,,1698
+BuildMode_InvalidAge,Text,,You need to build the Level 1 {0}!,,,1699
+BuildMode_TechnologyUnresearched,Text,,Technology not researched yet!,,,1700
+OverlayDemandUI_UrgentSource,Text,"{0}: building, {1}: resource, {2}:purpose {3}:OverlayDemandUI_RulesAffected if applicable. E.g. ""Jane's Steel Mill is urgently trying to source Iron for production""",{0} is urgently trying to source {1} for {2}{3},,,1701
+OverlayDemandUI_RulesAffected,Text,"If, for example, a road post has a blacklist rule for Bread, then a building may have trouble sourcing Bread because of the transport rules a player has set up. This is shown directly underneath OverlayDemandUI_UrgentSource",Sourcing may be affected by transport rules,,,1702
+Alert,Text,General alert,Alert!,,,1703
+OverlayDemandUI_BuildingNotConnected,Text,,Building is not connected to a road post or path is too long,,,1704
+Under construction,Text,,Under construction,,,1705
+ExpeditionHarbour_NoExpedition,Text,,No expedition started,,,1706
+ExpeditionHarbour_ExpeditionReady,Text,,Expedition ready!,,,1707
+ExpeditionHarbour_ExpeditionAlreadyAssigned,Text,,Expedition already assigned,,,1708
+ExpeditionHarbour_ExpeditionCollectionProgress,Text,,Gathering expedition resources: {0}%,,,1709
+Tooltip_ResourceDemand,Text,{0}:resource name,{0} urgently needed,,,1710
+Tooltip_ResourceEnRoute,Text,"{0}:amount, {1}:resource",{0} {1} en route,,,1711
+Tooltip_ResourceProductionRate,Text,"{0}:amount, {1}:resource, {2}:rate",Producing {0} <it>{1}</it> at a rate of {2}/d,,,1712
+WorkshopUpgradeWarning1,Text,"{0}:building, {1}:research","Are you sure you want to upgrade <bd>{0}</bd>?
+
+You haven't yet researched <res>{1}</res> which you need to generate <it>Energy L3</it>.",,,1713
+BuildingUpgradeUI_LockUnderConstruction,Text,,Cannot upgrade whilst under construction,,,1714
+BuildingUpgradeUI_NotUnlocked,Text,,Technology not researched,,,1715
+BuildingUpgradeUI_LockWhileResearching,Text,,Cannot upgrade whilst researching,,,1716
+BuildingUpgradeUI_LockWhileRepairing,Text,,Cannot upgrade whilst repairing,,,1717
+BuildingLifetimeStats_ResourcesDelivered,Text,,Resources Delivered,,,1718
+RoadState_StartHighlightTile,Text,,Start road on highlighted tile,,,1719
+InputClick,Text,,Click,,,1720
+RoadState_ClickStartEmpty,Text,{0}:Click,[{0}] to place post and start road,,,1721
+RoadState_ClickStartRoadPost,Text,{0}:Click,[{0}] to start road from this post,,,1722
+RoadState_InvalidFilter,Text,,Place on the highlighted tile,,,1723
+RoadState_InvalidEndRoadMsg,Text,"{0}:min road length, {1}:Click","Minimum road length is {0} tiles
+
+[{1}] to set road waypoint",,,1724
+RoadState_InvalidEndRoadInvalidWaypointMsg,Text,,Minimum road length is {0} tiles,,,1725
+RoadState_InvalidRoadMsg,Text,,Cannot create road to this tile,,,1726
+RoadState_ValidEndRoadFlagMsg,Text,{0}:Click,[{0}] to complete road,,,1727
+RoadState_ValidEndRoadNoFlagMsg,Text,"{0}:Click, {1}:Ctrl","[{0}] to place post and complete road
+
+[{1}] to set waypoint",,,1728
+PathState_InvalidFilterMsg,Text,,Click on the highlighted tile,,,1729
+PathState_ClickToStart,Text,{0}:Click,[{0}] to start path,,,1730
+PathState_ClickToComplete,Text,{0}:Click,[{0}] to complete path,,,1731
+ResolutionVerify_Revert,Text,,Revert,,,1732
+ResolutionVerify_Confirm,Text,,Confirm,,,1733
+ResolutionVerify_Message,Text,{0}:number of seconds,Reverting in {0} seconds...,,,1734
+AutoSaveLength,Text,{0}:number of minutes,{0} minutes,,,1735
+ScenarioBrowser_NoResults,Text,,No maps found. Try using other filter settings!,,,1736
+ScenarioBrowser_SearchPlaceholder,Text,,Search,,,1737
+ScenarioBrowser_NewVersion,Text,,This map requires a newer version of The Colonists! Check Steam for the latest version.,,,1738
+ScenarioBrowser_FilterPlayers_0,Text,,Any Players,,,1739
+ScenarioBrowser_FilterPlayers_1,Text,,1 Player,,,1740
+ScenarioBrowser_FilterPlayers_2,Text,,2+ Players,,,1741
+MapEditorSelectMode_NothingSelected,Text,,Nothing selected,,,1742
+MapEditorMapTitlePlaceholder,Text,,Map title...,,,1743
+MapEditorMapDescriptionPlaceholder,Text,,Map description...,,,1744
+Flora_44_Name,Text,,Rock 2x1,,,1745
+MapEditorVerificationErrors_Single,Text,,There is 1 problem with this map!,,,1746
+MapEditorVerificationErrors_Plural,Text,{0}:number of problems,There are {0} problems with this map!,,,1747
+MapEditorPlayerPlayable,Text,,Playable,,,1748
+MapEditorPlayerSetStartLocation,Text,,Set Landing Location,,,1749
+PlayerName,Text,,Player {0},,,1750
+BaseColonyName,Text,{0}:Player/Steam name,{0}'s Colony,,,1751
+RoadPostRulesDisabledTutorial,Text,,Setting road post rules is disabled for the first mission.,,,1752
+DayShort,Text,,d,,,1753
+UnitTooltip_BuildingUnderConstruction,Text,,Building under construction,,,1754
+UnitTooltip_NotArrived,Text,,Worker bot hasn't arrived yet,,,1755
+TransportBoatColonyShip_Provisions,Text,,Provisions,,,1756
+TransportBoatColonyShip_ProvisionsLoading,Text,{0}:number of resources,Loading {0} more expedition resources,,,1757
+TransportBoatColonyShip_ProvisionsCollecting,Text,{0}:port,Heading to {0} to collect expedition provisions,,,1758
+TransportBoatColonyShip_Navigation,Text,,Navigation,,,1759
+TransportBoatColonyShip_NavigationDesc,Text,,Click a water tile for the boat to navigate to.,,,1760
+TransportBoatColonyShip_NewColony,Text,,New Colony,,,1761
+TransportBoatColonyShip_BuildHarbour,Text,,Build Harbour,,,1762
+TransportBoatColonyShip_BuildHarbourCancel,Text,Cancel (build mode),Cancel,,,1763
+TransportBoatColonyShip_CancelExpedition,Text,,Cancel Expedition,,,1764
+TransportBoatColonyShip_CancelExpeditionDesc,Text,,Cancel the expedition to assign this boat to a trade route instead.,,,1765
+TransportBoatColonyShip_BuildHarbourDesc2,Text,,"Find a suitable location to build a new harbour. Once built, you will need to create a transport connection to another harbour as you destroyed the original one.",,,1766
+TransportBoatColonyShip_BuildHarbourDesc1,Text,{0}:original harbour,"Find a suitable location to build a new harbour. Once built, this ship will automatically create a trade route between the new harbour and {0}",,,1767
+TransportBoatColonyShip_BuildHarbourDesc4,Text,,"Heading to new harbour. Once built, you will need to create a transport connection to another harbour as you destroyed the original one",,,1768
+TransportBoatColonyShip_BuildHarbourDesc3,Text,{0}:original harbour,"Heading to new harbour. Once built, this ship will automatically create a trade route between the new harbour and {0}",,,1769
+NewMapStartHeight,Text,Default height of newly created map,Start Height,,,1770
+EntityProductionUI_ProductionControl,Text,,Production Control,,,1771
+EntityProductionUI_HaltProduction,Text,,Halt Production,,,1772
+EntityProductionUI_ResumeProduction,Text,,Resume Production,,,1773
+FloorInvalidAlreadyPath,Text,,Path already on tile,,,1774
+FloorInvalidTileOutsideTerritory,Text,,Tile outside territory,,,1775
+FloorInvalidRoadPostExisting,Text,,New road must start at existing post,,,1776
+FloorInvalidRoadPostRoad,Text,,Can't place road post on existing road,,,1777
+FloorInvalidRoadComplete,Text,,Can't complete road on existing road,,,1778
+FloorInvalidHeightGap,Text,When there is not enough space under a railways bridge for example,Not enough height gap,,,1779
+ItemDetails_CreatedAt,Text,Building that the resource was created at,Created at,,,1780
+ItemDetails_Destination,Text,,Destination,,,1781
+ItemDetails_Departed,Text,(Resource) departed: (5 days ago),Departed:,,,1782
+ItemDetails_ArrivingIn,Text,(Resource) arriving in: (5 days ago),Arriving In:,,,1783
+ItemDetails_UnknownBuilding,Text,,Unknown building,,,1784
+ItemDetails_WaitingAssignment,Text,,Waiting for assignment,,,1785
+ItemDetails_JourneyTime,Text,Journey time: (5 days ago),Journey Time:,,,1786
+DaysAgo,Text,(5) days ago,Days ago,,,1787
+EntityStorageUI_Storage,Text,,Storage,,,1788
+EntityFlagStorageUI_Empty,Text,,There are no resources waiting to be collected,,,1789
+BuildState_ChangeHeight,Text,{0}:Ctrl,Hold [{0}] to change height,,,1790
+BuildState_Rotate,Text,,<hotkey>{0}</hotkey> to rotate,,,1791
+BuildState_RotateAndFlip,Text,,"<hotkey>{0}</hotkey> to rotate
+<hotkey>{1}</hotkey> to flip",,,1792
+SummaryUI_Yield,Text,This (Cypress tree) yield (1) (Logs),This {0} yields {1} <it>{2}</it>.,,,1793
+SummaryUI_YieldNatRes,Text,This (Stone Deposit) yields a total of (75) (Stone),This {0} yields a total of {1} <it>{2}</it>.,,,1794
+DestroyConfirm,Text,"{0}: building, {1}:hotkey","Are you sure you want to destroy {0}?
+
+Hold [{1}] to skip this message.",,,1795
+CancelExpeditionConfirm,Text,,Cancelling the expedition will throw expedition resources overboard and you will be able to either create a transport route or start a new expedition. Are you sure you want to cancel expedition?,,,1796
+BoatClearRoute,Text,,Are you sure you want to clear all harbour stops for {0}? This will destroy all resources on board,,,1797
+TrainClearRoute,Text,,Are you sure you want to clear all station stops for {0}? This will destroy all resources on board,,,1798
+MilitaryWatchtowersInRange_Single,Text,,1 watchtower in range,,,1799
+MilitaryWatchtowersInRange_Plural,Text,,{0} watchtowers in range,,,1800
+WatchtowerCantAttack,Text,,This building can't currently attack. Upgrade to Level 2 to attack other Watchtowers.,,,1801
+CantAttack,Text,," ""This building can't attack.""",,,1802
+MilitaryUI_AttackHeader,Text,,Attack,,,1803
+MilitaryUI_HitPoints,Text,,HIT POINTS,,,1804
+MilitaryUI_Collapsing,Text,,COLLAPSING,,,1805
+MilitaryUI_RepairHeader,Text,,Repair,,,1806
+MilitaryUI_DisableAttack,Text,,Disable,,,1807
+MilitaryUI_EnableAttack,Text,,Enable,,,1808
+MilitaryUI_NoTarget,Text,,No Target,,,1809
+MilitaryLogsUI_Header,Text,,Military Logs,,,1810
+FloorInvalidBelowWater,Text,,TileBelowWater,,,1811
+FloorInvalidType,Text,,Invalid tile type: {0},,,1812
+FloorInvalidOccupiedBy,Text,"{0}:building, road etc",Tile occupied by {0},,,1813
+AutoSaving,Text,,Auto-saving game,,,1814
+AlertCowFarmFields,Text,,You have not expanded your cow farm,,,1815
+AlertSheepFarmFields,Text,,You have not expanded your sheep farm,,,1816
+AlertStorageYardNoRules,Text,,You have not set any storage rules yet,,,1817
+AlertWheatFarmFields,Text,,You have not planted any wheat fields,,,1818
+AlertProductionStopped,Text,(at this building),Production has been stopped,,,1819
+PercentComplete,Text,,{0}% complete,,,1820
+TransportRuleBlacklist,Text,"{0}:can be blank, TransportRuleForExport or TransportRuleForImport {1}:resource, {2}: either blank or TransportRuleExceptStorage
+E.g. Export rule: Planks are banned except for storage",{0}<it>{1}</it> are banned{2},,,1821
+TransportRuleWhitelist,Text,"{0}:can be blank, TransportRuleForExport or TransportRuleForImport {1}:resource, {2}: either blank or TransportRuleOnlyStorage
+E.g. Export rule: Only Planks are allowed and only for storagt",{0} Only <it>{1}</it> are allowed{2},,,1822
+TransportRuleExceptStorage,Text,Only used as potential part of TransportRuleBlacklist,except for storage,,,1823
+TransportRuleOnlyStorage,Text,Only used as potential part of TransportRuleWhitelist,and only for storage,,,1824
+TransportRuleForExport,Text,Only used as potential part of TransportRuleBlacklist or TransportRuleWhitelist,Export rule:,,,1825
+TransportRuleForImport,Text,Only used as potential part of TransportRuleBlacklist or TransportRuleWhitelist,Import rule:,,,1826
+AlertOrchardFarmFields,Text,,You have not planted any apple trees,,,1827
+AlertMineNoResource,Text,,Minebot has no {0} in range,,,1828
+OverlayMilitaryHitPoints,Text,"{0}:current hit points, {1}:total hit points",Hit points: {0}/{1},,,1829
+VictoryCondition_Construction,Text,"{0}:amount, {1}:building type",Build {0} {1},,,1830
+VictoryCondition_Domination,Text,{0}:player name,Capture Colony Ship of {0},,,1831
+VictoryCondition_DominationDone,Text,{0}:player name,{0} is defeated!,,,1832
+VictoryCondition_Research,Text,{0}:name of tech,Research {0},,,1833
+MonthShort,Text,,m,,,1834
+YearShort,Text,,y,,,1835
+StructureState_Max,Text,{0}:e.g. sheep field,"Maximum amount of {0} reached.
+<hotkey>[Shift]</hotkey> to remove",,,1836
+TimeAgo,Text,(3 days) ago,ago,,,1837
+SaveGameWindow_Header,Text,,Save Game,,,1838
+SaveGameWindow_Action,Text,,Save,,,1839
+PostcardMode_Postcard,Text,Show the white border,Postcard,,,1840
+PostcardMode_Plain,Text,Blank,Plain,,,1841
+PostcardMode_Interface,Text,Show the User Interface,Interface,,,1842
+PostcardMode_SetTitle,Text,,Title:,,,1843
+PostcardMode_SetBorderSize,Text,Set size of white postcard border,Border size:,,,1844
+PostcardMode_Take,Text,[Enter] is shortcut key,Take Screenshot [Enter],,,1845
+PostcardMode_ViewExisting,Text,Open Steam screenshots or folder of previously taken screenshots,View Existing,,,1846
+PostcardMode_Captured,Text,,Screenshot captured!,,,1847
+ItemTooltip_WaitConsumed,Text,"{0}:amount, {1}:resource",{0}x {1} waiting to be consumed,,,1848
+ItemTooltip_WaitUsed,Text,,{0}x {1} waiting to be used,,,1849
+ItemTooltip_WaitAssignment,Text,,{0}x {1} waiting for assignment,,,1850
+ItemTooltip_EnRouteSingle,Text,,{0}x {1} on its way,,,1851
+ItemTooltip_EnRoutePlural,Text,,{0}x {1} on their way,,,1852
+ItemTooltip_InCargo,Text,In cargo of boat or train,{0}x {1} in cargo,,,1853
+OverlayProduction,Text,{0}: resource,{0} Production,,,1854
+OverlayProductionDetails,Text,"{0}: building, {1} amount, {2}:resource e.g. ""Harriet's Sawmill is producing 1.5 Planks per day",{0} is producing {1} {2} per day,,,1855
+GameUI_DeprioritiseBuilding,Text,Deprioritise (building),Deprioritise,,,1856
+ProductionGraphMin,Text,{0}: amount of sheep/cow fields e.g. Min: 50,Min: {0},,,1857
+ProductionChangeNaturalResource,Text,"For surface mines, this button lets player change the target of natural resource",Change Natural Resource,,,1858
+TooltipMoney,Text,,Money,,,1859
+TooltipMoneyDesc,Text,,The amount of money you currently have,,,1860
+BuildingUpgradeAction,Text,{0}: Level 2/3,Upgrade to {0},,,1861
+BuildingUpgradeStatus,Text,{0}: Level 2/3,Upgrading to {0},,,1862
+BuildingUpgradeCancel,Text,,Cancel Upgrade,,,1863
+Item_253_Desc,Text,,Various resources,,,1864
+Item_252_Desc,Text,,Tech research,,,1865
+Item_254_Desc,Text,,No resources,,,1866
+Item_255_Desc,Text,,All resources,,,1867
+MilitaryLogHitGiven,Text,{0}: enemy building,Hit {0},,,1868
+MilitaryLogHitTaken,Text,{0}: enemy building,Hit by {0},,,1869
+MilitaryLogCompletedRepairs,Text,,Completed repairs,,,1870
+TradeTerminalSellHeader,Text,,Sell Resources,,,1871
+TradeTerminalPurchaseHeader,Text,,Purchase Resources,,,1872
+TradeTerminalThisVisit,Text,,Resources loaded this visit:,,,1873
+TradeTerminalArrivingIn,Text,(Trade) Ship arriving in (5 days),Ship arriving in,,,1874
+TradeTerminalLanding,Text,(Trade) Ship (is) landing,Ship landing,,,1875
+TradeTerminalDepartingIn,Text,(Trade) Ship departing in (5 days),Ship departing in,,,1876
+TradeTerminalDeparting,Text,(Trade) Ship (is) departing,Ship departing,,,1877
+HarbourUIRoutesEmpty,Text,,No boats currently stop here,,,1878
+EntPanelHead_254,Text,Same as EntPanelHead_90 etc,Info,,,1879
+ExpeditionAssignToPort,Text,Assign (boat to harbour expedition),Assign,,,1880
+OverlayPrioritisedBuildingTooltip,Text,{0}: building type e.g. (this is the ) prioritised watchtower,Prioritised {0},,,1881
+FutureExpeditionHarbour,Text,The harbour that will be created as a result of completing the expedition,Expedition's Future Harbour,,,1882
+ProductionChangeTreeType,Text,,Change tree type,,,1883
+TrackEditorPrompt,Text,,Select an existing piece of track to start from,,,1884
+VehicleAverageJourney,Text,,Average journey: ,,,1885
+TrackEditorTrackConnected,Text,,Track connected!,,,1886
+TrackEditorInvalidElevationDirection,Text,,"Can't Place Track
+Invalid elevation & direction",,,1887
+TrackEditorInvalidTrack,Text,{0}: further error info,"Can't place land track!
+{0}",,,1888
+TrackEditorInvalidBridge,Text,{0}: further error info,"Can't place bridge!
+{0}",,,1889
+TraderReputationReward,Text,,+1 Space Port,,,1890
+BuildingStorageRules,Text,,Rules,,,1891
+BuildingStorageRulesDesc,Text,,This building does not automatically store resources. You can add rules to allow this.,,,1892
+VehicleStopsEmpty,Text,,No stops yet,,,1893
+EntitySidePanelAddStop,Text,Add (station or port stop),Add,,,1894
+EntitySidePanelBoatsStopping,Text,E.g. Boats stopping here: 2,Boats stopping here:,,,1895
+EntitySidePanelTrainsStopping,Text,E.g. Trains stopping here: 2,Trains stopping here:,,,1896
+EntityNameFormat,Text,{0}:owner {1} thing - e.g. Carol's Clipper,{0}'s {1},,,1897
+Rubble,Text,Rubble that is left by a destroyed building,Rubble,,,1898
+BoatStateMoving,Text,,Sailing,,,1899
+BoatStateMovingTo,Text,,Sailing to {0},,,1900
+VehicleStateLoadingResources,Text,,Loading resources,,,1901
+BoatStateQueueing,Text,,Waiting for space at harbour,,,1902
+VehicleStateIdle,Text,,Waiting for assignment,,,1903
+TrainStateMoving,Text,,Travelling,,,1904
+TrainStateMovingTo,Text,,Travelling to {0},,,1905
+TrainStateQueueing,Text,,Waiting for space at station,,,1906
+EntitySidePanelBoatTypeSelect,Text,Select (this boat type),Select,,,1907
+EntitySidePanelBoatTypeSelected,Text,(This boat type is) selected,Selected,,,1908
+EntityTradeTerminalRecurring,Text,recurring (sales order),(recurring),,,1909
+EntityTradeTerminalRecurringShort,Text,short for recurring,(rec.),,,1910
+EntityTradeTerminalOnce,Text,(An order which happens) once,(once),,,1911
+EntityTradeTerminalThisVisit,Text,This visit: (1/3 resources),This visit:,,,1912
+SidePanelSellingRuleSelectResource,Text,,Select a resource to sell,,,1913
+MaximumShort,Text,short for maximum,max,,,1914
+BuildingTradeTerminalSellingRuleType_0,Text,(An order which happens) once,Once,,,1915
+BuildingTradeTerminalSellingRuleType_1,Text,recurring (sales order),Recurring,,,1916
+SidePanelPurchaseRuleSelectResource,Text,,Select a resource to purchase,,,1917
+AnyAmount,Text,,any,,,1918
+RoadPostOverlayTooltip,Text,{0}: building,Road post for {0},,,1919
+RoadPostRulesDesc,Text,,Manage the movement of resources through your colony by setting up rules for this road post.,,,1920
+EntityFlagRulesBlacklistDesc,Text,,Resources banned from passing through this road post:,,,1921
+EntityFlagRulesBlacklistExcStorageDesc,Text,,Resources banned from passing through this road post unless they're headed for a storage yard:,,,1922
+EntityFlagRulesWhitelistDesc,Text,,Resources allowed through this road post:,,,1923
+EntityFlagRulesWhitelistOnlyStorageDesc,Text,,Resources allowed through this road post only if headed to a storage yard:,,,1924
+EntitySidePanelSelectResourceStore,Text,,Select a resource to store,,,1925
+EntitySidePanelSelectResource,Text,,Select a resource,,,1926
+EntitySidePanelRuleBlacklistConfirm,Text,,Ban resource,,,1927
+EntitySidePanelRuleBlacklistExcStorageConfirm,Text,,Ban resource except for storage,,,1928
+EntitySidePanelRuleWhitelistConfirm,Text,,Allow this resource,,,1929
+EntitySidePanelRuleWhitelistStorageOnlyConfirm,Text,,Allow this resource but only for storage,,,1930
+TrackEditorCantRemove,Text,{0}: further error info,"Can't Remove Track
+{0}",,,1931
+TrackCantRemoveReasonStation,Text,,Track is part of train station,,,1932
+NotificationLowStoneAmount,Text,{0}: amount of stone,{0} stone available!,,,1933
+UnitStateHeadingToRoad,Text,,Heading to road,,,1934
+LoadingGeneric,Text,"A general loading message, e.g. Loading a savegame",Loading,,,1935
+TutorialCantSave,Text,,"Sorry, the first tutorial mission cannot be saved. Don't worry, it doesn't take long to complete!",,,1936
+GameSaved,Text,,Game saved!,,,1937
+SavingGame,Text,,Saving game,,,1938
+NoSaveGames,Text,(You have) no saved games,No saved games,,,1939
+EnterFilenameText,Text,,Enter text...,,,1940
+CancelResearch,Text,,Cancel Research,,,1941
+CampaignWindow_Rankings,Text,,Rankings,,,1942
+CampaignWindow_BackToInfo,Text,(Return to) scenario info,Scenario Info,,,1943
+CampaignWindow_RankingsName,Text,Name (of player on leaderboard),Name,,,1944
+CampaignWindow_RankingsTime,Text,Time (of leadeboard entry),Time,,,1945
+ScenGameVerErr_7,Text,,Inaccessible shaft mine!,,,1946
+GameComplete_Gold,Text,,Amazing! You achieved a Gold medal!,,,1947
+GameComplete_Silver,Text,,Well done! You earned a silver medal!,,,1948
+GameComplete_Bronze,Text,,Well done! You earned a bronze medal!,,,1949
+GameComplete_NoMedal,Text,,"Well done! Although you didn't earn a medal, you completed the mission!",,,1950
+GameComplete_MilitarySingle,Text,,Well done! You captured their Colony Ship!,,,1951
+GameComplete_MilitaryPlural,Text,,Well done! You captured all the Colony Ships!,,,1952
+GameComplete_Title,Text,,Mission Complete!,,,1953
+GameComplete_NewRecord,Text,,New Record!,,,1954
+GameComplete_NewRank,Text,,New Leaderboard Rank!,,,1955
+GameComplete_Statistics,Text,Go to Statistics page,Statistics,,,1956
+GameComplete_Summary,Text,Go to Summary page,Summary,,,1957
+GameComplete_ContinuePlaying,Text,,Continue Playing,,,1958
+GameComplete_ScenarioScreen,Text,,To Scenario Screen,,,1959
+GameComplete_Stats_AvgProd,Text,,Average Productivity,,,1960
+GameComplete_Stats_MaxProdRate,Text,,Maximum Production Rate,,,1961
+GameComplete_Stats_MaxBlockedRoads,Text,,Maximum Blocked Roads,,,1962
+GameCompletePre_Click,Text,,[click to continue],,,1963
+GameComplete_Default,Text,,Well done! You completed the map!,,,1964
+ConstructionSpacePortPrompt,Text,,Gain Trader Reputation to build more!,,,1965
+Tip_19,Text,,Trains can be used to carry building resources to train stations that are under construction.,,,1966
+Tip_20,Text,,Use unsupported elevated railways to span gaps and obstacles that could otherwise not be reached.,,,1967
+Advice_31_Name,Text,,Check out the Market panel!,,,1968
+Advice_31_Desc,Text,,"Use the Market panel, accessible via the icon in the top-left, to check your money, market prices and your trader reputation.",,,1969
+Advice_32_Name,Text,,Build a <bd>Space Port</bd>!,,,1970
+Advice_32_Desc,Text,,Build a <bd>Space Port</bd> where you can buy and sell resources.,,,1971
+Scenario_10_Name,Text,,River Crossing,,,1972
+Scenario_10_Description,Text,,"As you explore the plains, build a Large Monument and set up Space Ports to trade resources and accumulate $10000.",,,1973
+Scenario_11_Name,Text,,Panning For Gold,,,1974
+Scenario_11_Description,Text,,Find your way around the archipelago as you build a Large Monument and accumulate $20000.,,,1975
+GameComplete_Leaderboard,Text,,Leaderboard,,,1976
+GameComplete_RateMap,Text,Open Steam Workshop for the map just played,Rate Map,,,1977
+GameComplete_CustomMaps,Text,,More Custom Maps,,,1978
+SavingMap,Text,,Saving map...,,,1979
+MapSaved,Text,,Map saved!,,,1980
+MapSavedFailVer,Text,,Map saved but cannot be published or played. Check the verification panel in the top right.,,,1981
+NoMapsYet,Text,(You have) no maps (saved) yet,No maps yet,,,1982
+ScenarioBrowser_MapBy,Text,(Map made) by (creator),by:,,,1983
+ScenarioBrowser_FavouriteAction,Text,Favourite (this map),Favourite,,,1984
+MapCantPlayVer,Text,,Map cannot be played as it is incomplete! Edit and check verification panel!,,,1985
+WorkshopVis_Public,Text,,Public,,,1986
+WorkshopVis_Friends,Text,,Friends Only,,,1987
+WorkshopVis_Private,Text,,Private,,,1988
+Player_Single,Text,{0}: number of players,{0} Player,,,1989
+Player_Plural,Text,{0}: number of players,{0} Players,,,1990
+MapWorkshopStatus_Pub,Text,,Published,,,1991
+MapWorkshopStatus_Unpub,Text,,Unpublished,,,1992
+Map_Modified,Text,Date map was modified,Modified:,,,1993
+Map_Created,Text,Date map was created,Created:,,,1994
+Map_WorkshopVis,Text,,Visibility:,,,1995
+NewVersion_Header,Text,,News,,,1996
+NewVersion_Body,Text,,The Colonists have been updated! Check the patch notes to see what's new.,,,1997
+NewVersion_OldV,Text,,Old version:,,,1998
+NewVersion_NewV,Text,,New version:,,,1999
+NewVersion_ViewPatchNotes,Text,,View Patch Notes,,,2000
+NewVersion_Continue,Text,,Continue,,,2001
+UpdateAvailable_Steam,Text,,"{0} is available!
+
+Check your Steam Downloads.",,,2002
+UpdateAvailable_NonSteam,Text,,"{0} is available!
+
+Check your downloads.",,,2003
+OK,Text,Alert window confirmation,OK,,,2004
+BugReport_Header,Text,,Bug Report Generated,,,2005
+BugReport_Body_Manual,Text,,Please send the following file to codebyfire@gmail.com or post it in Discord along with a short description of what has gone wrong.,,,2006
+BugReport_Body_Auto,Text,,An error has been caught and a bug report generated. Please send the following file to codebyfire@gmail.com or post it in Discord. Depending on the bug you may be able to continue playing.,,,2007
+BugReport_OpenFile,Text,,Open in Explorer,,,2008
+GenBugReport,Text,,Generating bug report...,,,2009
+AlertNoForestryTiles,Text,,Forestry has no tiles set,,,2010
+AlertLumberjackNoTrees,Text,,Lumberjack has no trees to chop,,,2011
+NatResReq,Text,{0}: level {1}:building e.g. Requires Level 1 Shaft Mine,Requires {0} {1},,,2012
+ResearchNotAvailable,Text,Tech research isn't available,Not available in this mission!,,,2013
+ResourceCatDemandTooltip_Single,Text,"{0}: amount, {1}: resource category, e.g. ""1 building needs a construction resource",{0} building need a {1} resource,,,2014
+ResourceCatDemandTooltip_Plural,Text,"{0}: amount, {1}: resource category, e.g. ""1 building needs a construction resource",{0} buildings need a {1} resource,,,2015
+OverwriteConfirm,Text,{0}:file name,Overwrite {0}?,,,2016
+TrackConstructionMode,Text,On main icon when constructing railway track,Track,,,2017
+ExpeditionHarbour_ExpeditionInvalid,Text,(shown for normal harbours when assigning lugger expedition),Harbour too small,,,2018
+EntityTransportVehicleStopsSetRoute,Text,Set a route for a boat or train,Set Route,,,2019
+EntityInfoSelectExportBuildingIntro_Empty,Text,When selecting export rules for a building,You currently have no buildings that {0} can export to.,,,2020
+EntityInfoSelectImportBuildingIntro_Empty,Text,When selecting import rules for a building,You currently have no buildings that {0} can import from.,,,2021
+TreeGrowthTime,Text,How long a tree takes to grow,Growth Time: {0},,,2022
+ExpeditionHarbour_ExpeditionInvalidClipper,Text,(shown for big harbourwhen assigning clipper expedition),Boat too small,,,2023
+TrackSection,Text,Any single piece of railway track,Track section,,,2024
+EntityBuildingStatsUI_DeliveredEmpty,Text,No resources have been delivered (to this building) yet,No resources have been delivered yet,,,2025
+DestroyResourceWarning,Text,"Warning before destroying a resource.
+{0} is the hotkey","Destroying this resource means it will no longer reach its destination and target building will try to locate another resource. Are you sure?
+
+Hold [{0}] to skip this message.",,,2026
+BuildingStorageUI_EnRoute_ImportList,Text,,Note: you have set import rules which limit where resources can be imported from.,,,2027
+Route_Via,Text,{0}: building name E.g. (This resource has arrived at Sara's Lumberjack Hut via Terry's Storage Yard,Via {0},,,2028
+GameSettingsInterfaceTextSize,Text,,Interface text size,,,
+GameSettingsInterfaceTextSize_Normal,Text,,Normal,,,
+GameSettingsInterfaceTextSize_Large,Text,,Large,,,
+ConstructionProximityBoost,Text,,Nearby Bot Bonus,,,
+EntPanelHead_24,Text,,Monument Bonus,,,
+SandboxUnlimitedSpacePorts,Text,,Unlimited Space Ports,,,
+SandboxUnlimitedMonuments,Text,,Unlimited Monuments,,,
+Roads,Text,,Roads,,,
+HelpPanel_38,Text,,"This panel shows all the resources currently on their way to this building as well as resources that have recently arrived.
+
+You can click on a resource in the list and it will show you the route the resource took from the building where it was created.
+
+A building will always source the nearest available resource at the time. Once a resource has been sourced its destination is fixed.
+
+Use rules at road posts, harbours and train stations to control where resources are sourced from, as well as import and export whitelists on buildings. ",,,
+Building_66_Description,Text,,Create <it>Vegetables</it> from vegetable plots.,,,
+Building_66_Name,Text,,Vegetable Farm,,,
+Building_66_Plural,Text,,Vegetable Farms,,,
+Building_66_Worker,Text,,Farmbot,,,
+Item_47_Desc,Text,,Vegetables are harvested at the <bd>Vegetable Farm</bd>.,,,
+Item_47_FullDesc,Text,,Vegetables are harvested at the <bd>Vegetable Farm</bd> from <it>Logs</it> and  and is consumed by <bd>Level 1 Residences</bd>.,,,
+Item_47_Name,Text,,Vegetables,,,
+Item_47_Past,Text,,Harvested,,,
+Item_47_Present,Text,,Harvesting,,,
