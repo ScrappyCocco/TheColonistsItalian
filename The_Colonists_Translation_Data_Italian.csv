@@ -1,4 +1,3 @@
-sep=,
 Key,Type,Desc,English,Italian,,Verify
 AI Players,Text,Computer-controlled players you compete against in the game,AI Players,,,2
 Advice_0_Desc,Text,,"Build some <bd>Residences</bd> to generate more <it>Energy</it> for lumbering, mining and technology research.",,,3
