@@ -980,300 +980,335 @@ Item_16_FullDesc,Text,,Meat is <cat>Food</cat> prepared at the <bd>Cow Farm</bd>
 Item_16_Name,Text,,Meat,Carne,,
 Item_16_Past,Text,,Prepared,Preparata,,
 Item_16_Present,Text,,Preparing,In preparazione,,
-Item_18_Desc,Text,,Paper is pressed at the <bd>Paper Mill</bd>.,,,750
-Item_18_FullDesc,Text,,Paper is pressed at the <bd>Paper Mill</bd> from <it>Logs</it> and <it>Water</it> and used by the <bd>Printing Press</bd> to create <it>Books</it>.,,,751
-Item_18_Name,Text,,Paper,,,752
-Item_18_Past,Text,,Pressed,,,753
-Item_18_Present,Text,,Pressing,,,754
-Item_19_Desc,Text,,Books are printed at the <bd>Printing Press</bd>.,,,755
-Item_19_FullDesc,Text,,Books are printed at the <bd>Printing Press</bd> using <it>Paper</it> and <it>Leather</it> and are used in research at the <bd>Level 3 Workshop</bd>.,,,756
-Item_19_Name,Text,,Books,,,757
-Item_19_Past,Text,,Printed,,,758
-Item_19_Present,Text,,Printing,,,759
-Item_1_Desc,Text,,Cider is an <cat>Alcohol</cat> made at the <bd>Cider Press</bd>.,,,760
-Item_1_FullDesc,Text,,Cider is an <cat>Alcohol</cat> made at the <bd>Cider Press</bd> from <it>Apples</it>.,,,761
-Item_1_Name,Text,,Cider,,,762
-Item_1_Past,Text,,Pressed,,,763
-Item_1_Present,Text,,Pressing,,,764
-Item_20_Desc,Text,,Iron Ore is mined by the <bd>Level 2 Surface Mine</bd> and the <bd>Level 1 Shaft Mine</bd>.,,,765
-Item_20_FullDesc,Text,,Iron Ore is mined by the <bd>Level 2 Surface Mine</bd> and the <bd>Level 1 Shaft Mine</bd> and is used by the <bd>Blast Furnace</bd> to create <it>Iron</it>.,,,766
-Item_20_Name,Text,,Iron Ore,,,767
-Item_20_Past,Text,,Mined,,,768
-Item_20_Present,Text,,Mining,,,769
-Item_24_Desc,Text,,Iron is smelted at the <bd>Blast Furnace</bd>.,,,770
+Item_18_Desc,Text,,Paper is pressed at the <bd>Paper Mill</bd>.,La carta viene pressata nella <bd>Cartiera</bd>.,,
+Item_18_FullDesc,Text,,Paper is pressed at the <bd>Paper Mill</bd> from <it>Logs</it> and <it>Water</it> and used by the <bd>Printing Press</bd> to create <it>Books</it>.,La carta viene pressata nella <bd>Cartiera</bd> da <it>Tronchi</it> e <it>Acqua</it> e usata nella <bd>Macchina da stampa</bd> per creare <it>Libri</it>.,,
+Item_18_Name,Text,,Paper,Carta,,
+Item_18_Past,Text,,Pressed,Pressata,,
+Item_18_Present,Text,,Pressing,In preparazione,,
+Item_19_Desc,Text,,Books are printed at the <bd>Printing Press</bd>.,I libri sono stampati nella <bd>Macchina da stampa</bd>.,,
+Item_19_FullDesc,Text,,Books are printed at the <bd>Printing Press</bd> using <it>Paper</it> and <it>Leather</it> and are used in research at the <bd>Level 3 Workshop</bd>.,I libri sono stampati nella <bd>Macchina da stampa</bd> usando <it>Carta</it> e <it>Pelle</it> e sono usati nelle ricerche nel <bd>Laboratorio Livello 3</bd>.,,
+Item_19_Name,Text,,Books,Libri,,
+Item_19_Past,Text,,Printed,Stampati,,
+Item_19_Present,Text,,Printing,In stampa,,
+Item_1_Desc,Text,,Cider is an <cat>Alcohol</cat> made at the <bd>Cider Press</bd>.,Il sidro è un <cat>Alcol</cat> prodotto dalla <bd>Pressa per Sidro</bd>.,,
+Item_1_FullDesc,Text,,Cider is an <cat>Alcohol</cat> made at the <bd>Cider Press</bd> from <it>Apples</it>.,Il sidro è un <cat>Alcol</cat> prodotto dalla <bd>Pressa per Sidro</bd> dalle <it>Mele</it>.,,
+Item_1_Name,Text,,Cider,Cidro,,
+Item_1_Past,Text,,Pressed,Pressato,,
+Item_1_Present,Text,,Pressing,In preparazione,,
+Item_20_Desc,Text,,Iron Ore is mined by the <bd>Level 2 Surface Mine</bd> and the <bd>Level 1 Shaft Mine</bd>.,Il ferro gresso è estratto dalla <bd>Miniera di Superficie Livello 2</bd> e dalla <bd>Miniera Livello 1</bd>.,,
+Item_20_FullDesc,Text,,Iron Ore is mined by the <bd>Level 2 Surface Mine</bd> and the <bd>Level 1 Shaft Mine</bd> and is used by the <bd>Blast Furnace</bd> to create <it>Iron</it>.,Il ferro gresso è estratto dalla <bd>Miniera di Superficie Livello 2</bd> e dalla <bd>Miniera Livello 1</bd> ed è usato nell'<bd>Altoforno</br> per creare <it>Ferro</it>.,,
+Item_20_Name,Text,,Iron Ore,Ferro grezzo,,
+Item_20_Past,Text,,Mined,Estratto,,
+Item_20_Present,Text,,Mining,In estrazione,,
+Item_24_Desc,Text,,Iron is smelted at the <bd>Blast Furnace</bd>.,Il ferro viene fuso nella <bd>Altoforno</bd>.,,
 Item_24_FullDesc,Text,,"Iron is smelted at the <bd>Blast Furnace</bd> from <it>Iron Ore</it>.
-It is used by the <bd>Blacksmith</bd> to create <it>Tools</it>, by the <bd>Steel Mill</bd> to create <it>Steel</it> and the <bd>Weaponsmith</bd> to make <it>Cannonballs</it> and in the construction of boats.",,,771
-Item_24_Name,Text,,Iron,,,772
-Item_24_Past,Text,,Smelted,,,773
-Item_24_Present,Text,,Smelting,,,774
-Item_252_Name,Text,,Research,,,775
-Item_253_Name,Text,,Natural Resource,,,776
-Item_254_Name,Text,,No Resources,,,777
-Item_255_Name,Text,,All Resources,,,778
-Item_25_Desc,Text,,Leather is created at the <bd>Tannery</bd>.,,,779
-Item_25_FullDesc,Text,,Leather is created at the <bd>Tannery</bd> from <it>Hide</it> and <it>Salt</it> and is used to create <it>Books</it> at the <bd>Printing Press</bd>.,,,780
-Item_25_Name,Text,,Leather,,,781
-Item_25_Past,Text,,Tanned,,,782
-Item_25_Present,Text,,Tanning,,,783
-Item_26_Desc,Text,,Quartz is mined by the <bd>Level 3 Surface Mine</bd> and the <bd>Level 2 Shaft Mine</bd>.,,,784
-Item_26_FullDesc,Text,,Quartz is mined by the <bd>Level 3 Surface Mine</bd> and the <bd>Level 2 Shaft Mine</bd> and is used by the <bd>Glassworks</bd> to create <it>Glass</it>.,,,785
-Item_26_Name,Text,,Quartz,,,786
-Item_26_Past,Text,,Mined,,,787
-Item_26_Present,Text,,Mining,,,788
-Item_27_Desc,Text,,Arrows are made at the <bd>Fletcher</bd>.,,,789
-Item_27_FullDesc,Text,,Arrows are made at the <bd>Fletcher</bd> from <it>Logs</it> and are used by Level 2 <bd>Watchtowers</bd> to attack enemy watchtowers.,,,790
-Item_27_Name,Text,,Arrows,,,791
-Item_27_Past,Text,,Crafted,,,792
-Item_27_Present,Text,,Crafting,,,793
-Item_29_Desc,Text,,Cannonballs are made at the <bd>Weaponsmith</bd>.,,,794
-Item_29_FullDesc,Text,,Cannonballs are made at the <bd>Weaponsmith</bd> from <it>Iron</it> using <cat>Fuel</cat> and are used by <bd>Level 2 Watchtowers</bd> to fire at enemy watchtowers.,,,795
-Item_29_Name,Text,,Cannonballs,,,796
-Item_29_Past,Text,,Crafted,,,797
-Item_29_Present,Text,,Crafting,,,798
-Item_2_Desc,Text,,Logs are chopped by the <bd>Lumberjack Hut</bd>.,,,799
+It is used by the <bd>Blacksmith</bd> to create <it>Tools</it>, by the <bd>Steel Mill</bd> to create <it>Steel</it> and the <bd>Weaponsmith</bd> to make <it>Cannonballs</it> and in the construction of boats.","Il ferro viene fuso nella <bd>Altoforno</bd> dal <it>Ferro grezzo</it>. È usato dal <bd>Fabbro</bd> per creare <it>Strumenti</it>, dall'<bd>Acciaieria</bd> per creare <it>Acciaio</it> e dall'<bd>Armaiolo</bd> per realizzare <it>Palle di cannone</it> e nella costruzione di barche.",,
+Item_24_Name,Text,,Iron,Ferro,,
+Item_24_Past,Text,,Smelted,Fuso,,
+Item_24_Present,Text,,Smelting,In fusione,,
+Item_252_Name,Text,,Research,Ricerca,,
+Item_253_Name,Text,,Natural Resource,Risorsa naturale,,
+Item_254_Name,Text,,No Resources,Nessuna risorsa,,
+Item_255_Name,Text,,All Resources,Tutte le risorse,,
+Item_25_Desc,Text,,Leather is created at the <bd>Tannery</bd>.,La pelle viene creata nella <bd>Conceria</bd>.,,
+Item_25_FullDesc,Text,,Leather is created at the <bd>Tannery</bd> from <it>Hide</it> and <it>Salt</it> and is used to create <it>Books</it> at the <bd>Printing Press</bd>.,La pelle viene creata nella <bd>Conceria</bd> da <it>Pelle animale</it> e <it>Sale</it> e viene utilizzata per creare <it>Libri</it> nella <bd>Macchina da stampa</ bd>.,,
+Item_25_Name,Text,,Leather,Pelle,,
+Item_25_Past,Text,,Tanned,Conciata,,
+Item_25_Present,Text,,Tanning,In conciatura,,
+Item_26_Desc,Text,,Quartz is mined by the <bd>Level 3 Surface Mine</bd> and the <bd>Level 2 Shaft Mine</bd>.,Il quarzo è estratto dalla <bd>Miniera di Superficie di Livello 3</bd> e dalla <bd>Miniera di Livello 2 </bd>.,,
+Item_26_FullDesc,Text,,Quartz is mined by the <bd>Level 3 Surface Mine</bd> and the <bd>Level 2 Shaft Mine</bd> and is used by the <bd>Glassworks</bd> to create <it>Glass</it>.,Il quarzo è estratto dalla <bd>Miniera di Superficie di Livello 3</bd> e dalla <bd>Miniera di Livello 2 </bd>. ed è usato dalla <bd>Vetreria</bd> per creare il <it>Vetro</it>.,,
+Item_26_Name,Text,,Quartz,Quarzo,,
+Item_26_Past,Text,,Mined,Estratto,,
+Item_26_Present,Text,,Mining,In estrazione,,
+Item_27_Desc,Text,,Arrows are made at the <bd>Fletcher</bd>.,Le frecce sono create nel <bd>Fletcher</bd>.,,
+Item_27_FullDesc,Text,,Arrows are made at the <bd>Fletcher</bd> from <it>Logs</it> and are used by Level 2 <bd>Watchtowers</bd> to attack enemy watchtowers.,Le frecce sono create nel <bd>Fletcher</bd> dai <it>Tronchi</it> e sono usate dalle <bd>Torri di guardia</bd> di Livello 2 per attaccare le torri nemiche.,,
+Item_27_Name,Text,,Arrows,Frecce,,
+Item_27_Past,Text,,Crafted,Create,,
+Item_27_Present,Text,,Crafting,In creazione,,
+Item_29_Desc,Text,,Cannonballs are made at the <bd>Weaponsmith</bd>.,Le palle di cannone vengono prodotte dall'<bd>Armaiolo</bd>.,,
+Item_29_FullDesc,Text,,Cannonballs are made at the <bd>Weaponsmith</bd> from <it>Iron</it> using <cat>Fuel</cat> and are used by <bd>Level 2 Watchtowers</bd> to fire at enemy watchtowers.,Le palle di cannone vengono prodotte dall'<bd>Armaiolo</bd> con <it>Ferro</it> utilizzando <cat>Carburante</cat> e sono usate dalle <bd>Torri di Guardia Livello 2</bd> per sparare alle torri nemiche.,,
+Item_29_Name,Text,,Cannonballs,Palle di cannone,,
+Item_29_Past,Text,,Crafted,Create,,
+Item_29_Present,Text,,Crafting,In creazione,,
+Item_2_Desc,Text,,Logs are chopped by the <bd>Lumberjack Hut</bd>.,I tronchi vengono tagliati dalla <bd>Capanna del Taglialegna</bd>.,,
 Item_2_FullDesc,Text,,"Logs are chopped by the <bd>Lumberjack Hut</bd> by chopping down trees. 
 
 Logs are used in the construction of basic buildings but are also needed to make <it>Planks</it> at the <bd>Sawmill</bd>, <it>Charcoal</it> at the <bd>Charcoal Burner</bd>, <it>Paper</it> at the <bd>Paper Mill</bd> and <it>Arrows</it> at the <bd>Fletcher</bd>.
 
-Watch out for warnings when your available trees run low and look at building <bd>Forestries</bd> to keep your Logs supplies going. Your <bd>Colony Ship</bd> also generates a slow supply of Logs so you never run out.",,,800
-Item_2_Name,Text,,Logs,,,801
-Item_2_Past,Text,,Chopped,,,802
-Item_2_Present,Text,,Chopping,,,803
-Item_30_Desc,Text,,Steel is smelted at the <bd>Steelworks</bd>.,,,804
-Item_30_FullDesc,Text,,Steel is smelted at the <bd>Steelworks</bd> from <it>Iron</it> using <cat>Fuel</cat> and is used in the construction of advanced buildings.,,,805
-Item_30_Name,Text,,Steel,,,806
-Item_30_Past,Text,,Smelted,,,807
-Item_30_Present,Text,,Smelting,,,808
-Item_33_Desc,Text,,Clay is harvested by the <bd>Level 2 Surface Mine</bd> or the <bd>Level 1 Shaft Mine</bd>.,,,809
-Item_33_FullDesc,Text,,Clay is harvested by the <bd>Level 2 Surface Mine</bd> or the <bd>Level 1 Shaft Mine</bd> and is used to make <it>Bricks</it> at the <bd>Brickyard</bd>.,,,810
-Item_33_Name,Text,,Clay,,,811
-Item_33_Past,Text,,Harvested,,,812
-Item_33_Present,Text,,Harvesting,,,813
-Item_34_Desc,Text,,Bricks are created at the <bd>Brickyard</bd>.,,,814
-Item_34_FullDesc,Text,,Bricks are created at the <bd>Brickyard</bd> from <it>Clay</it> using <cat>Fuel</cat> and are used in construction of advanced bulidings.,,,815
-Item_34_Name,Text,,Bricks,,,816
-Item_34_Past,Text,,Fired,,,817
-Item_34_Present,Text,,Firing,,,818
-Item_35_Desc,Text,,Salt is harvested by the <bd>Level 2 Surface Mine</bd> and the <bd>Level 1 Shaft Mine</bd>.,,,819
-Item_35_FullDesc,Text,,Salt is harvested by the <bd>Level 2 Surface Mine</bd> and the <bd>Level 1 Shaft Mine</bd> and is used by the <bd>Tannery</bd> to create <it>Leather</it>,,,820
-Item_35_Name,Text,,Salt,,,821
-Item_35_Past,Text,,Harvested,,,822
-Item_35_Present,Text,,Harvesting,,,823
-Item_36_Desc,Text,,Hide is skinned at the <bd>Cow Farm</bd>.,,,824
-Item_36_FullDesc,Text,,Hide is skinned at the <bd>Cow Farm</bd> and is used to make <it>Leather</it> at the <bd>Tannery</bd>.,,,825
-Item_36_Name,Text,,Hide,,,826
-Item_36_Past,Text,,Skinned,,,827
-Item_36_Present,Text,,Skinning,,,828
-Item_38_Desc,Text,,Gold is mined by the <bd>Level 3 Surface Mine</bd> and <bd>Level 2 Shaft Mine</bd>.,,,829
-Item_38_FullDesc,Text,,Gold is mined by the <bd>Level 3 Surface Mine</bd> and <bd>Level 2 Shaft Mine</bd> and is used in the construction of advanced buildings.,,,830
-Item_38_Name,Text,,Gold,,,831
-Item_38_Past,Text,,Mined,,,832
-Item_38_Present,Text,,Mining,,,833
-Item_3_Desc,Text,,Planks are created at the <bd>Sawmill</bd>.,,,834
-Item_3_FullDesc,Text,,Planks are created at the <bd>Sawmill</bd> from <it>Logs</it> and are used by the <bd>Blacksmith</bd> to create <it>Tools</it> and in the construction of buildings and boats.,,,835
-Item_3_Name,Text,,Planks,,,836
-Item_3_Past,Text,,Created,,,837
-Item_3_Present,Text,,Creating,,,838
-Item_40_Desc,Text,,Beer is brewed at the <bd>Brewery</bd>.,,,839
-Item_40_FullDesc,Text,,Beer is a <cat>Alcohol</cat> that is brewed at the <bd>Brewery</bd> from <it>Wheat</it> and <it>Water</it> and is used by <bd>Level 2 Residences</bd>.,,,840
-Item_40_Name,Text,,Beer,,,841
-Item_40_Past,Text,,Brewed,,,842
-Item_40_Present,Text,,Brewing,,,843
-Item_42_Desc,Text,,Tools are crafted by the <bd>Blacksmith</bd>.,,,844
-Item_42_FullDesc,Text,,Tools are crafted by the <bd>Blacksmith</bd> from <it>Iron</it> and <it>Planks</it> using <cat>Fuel</cat> and are used in research by the <bd>Level 2 Workshop</bd>.,,,845
-Item_42_Name,Text,,Tools,,,846
-Item_42_Past,Text,,Crafted,,,847
-Item_42_Present,Text,,Crafting,,,848
-Item_43_Desc,Text,,Energy L1 is generated at <bd>Level 1 Residences</bd>.,,,849
+Watch out for warnings when your available trees run low and look at building <bd>Forestries</bd> to keep your Logs supplies going. Your <bd>Colony Ship</bd> also generates a slow supply of Logs so you never run out.","I tronchi vengono tagliati dalla <bd>Capanna del Taglialegna</bd> tagliando gli alberi.
+
+I tronchi vengono utilizzati nella costruzione di edifici di base ma sono anche necessari per realizzare <it>Tavole</it> nella <bd>Segheria</bd>, <it>Carbone</it> nel <bd>Bruciatore di Carbonella</bd>, <it>Carta</it> nella <bd>Cartiera</bd> e <it>Frecce</it> nel <bd>Fletcher</bd>.
+
+Fai attenzione agli avvisi quando i tuoi alberi disponibili scarseggiano e ricorda di costruire <bd>Foreste</bd> per far andare avanti le scorte di tronchi. La tua <bd>nave della Colonia</bd> genera anche una fornitura lenta di tronchi in modo da non rimanere mai senza.",,
+Item_2_Name,Text,,Logs,Tronchi,,
+Item_2_Past,Text,,Chopped,Tagliati,,
+Item_2_Present,Text,,Chopping,In taglio,,
+Item_30_Desc,Text,,Steel is smelted at the <bd>Steelworks</bd>.,L'acciaio viene fuso nella <bd>Acciaieria</bd>.,,
+Item_30_FullDesc,Text,,Steel is smelted at the <bd>Steelworks</bd> from <it>Iron</it> using <cat>Fuel</cat> and is used in the construction of advanced buildings.,L'acciaio viene fuso nell'<bd Acciaieria</bd> dal <it>Ferro</it> usando <cat>Carburante</cat> e viene usato nella costruzione di edifici avanzati.,,
+Item_30_Name,Text,,Steel,Acciaio,,
+Item_30_Past,Text,,Smelted,Fuso,,
+Item_30_Present,Text,,Smelting,In fusione,,
+Item_33_Desc,Text,,Clay is harvested by the <bd>Level 2 Surface Mine</bd> or the <bd>Level 1 Shaft Mine</bd>.,L'argilla viene raccolta dalla <bd>Miniera di Superficie di Livello 2</bd> o dalla <bd>Miniera di Livello 1</bd>.,,
+Item_33_FullDesc,Text,,Clay is harvested by the <bd>Level 2 Surface Mine</bd> or the <bd>Level 1 Shaft Mine</bd> and is used to make <it>Bricks</it> at the <bd>Brickyard</bd>.,L'argilla viene raccolta dalla <bd>Miniera di Superficie di Livello 2</bd> o dalla <bd>Miniera di Livello 1</bd> e viene utilizzata per fare i <it>Mattoni</it> al <bd>Mattonificio</bd>.,,
+Item_33_Name,Text,,Clay,Argilla,,
+Item_33_Past,Text,,Harvested,Raccolta,,
+Item_33_Present,Text,,Harvesting,In raccolta,,
+Item_34_Desc,Text,,Bricks are created at the <bd>Brickyard</bd>.,I mattoni vengono creati nel <bd>Mattonificio</bd>.,,
+Item_34_FullDesc,Text,,Bricks are created at the <bd>Brickyard</bd> from <it>Clay</it> using <cat>Fuel</cat> and are used in construction of advanced bulidings.,I mattoni vengono creati nel <bd>Mattonificio</bd> dalla <it>Argilla</it> utilizzando <cat>Carburante</cat> e sono usati nella costruzione di edifici avanzati.,,
+Item_34_Name,Text,,Bricks,Mattoni,,
+Item_34_Past,Text,,Fired,Cotti,,
+Item_34_Present,Text,,Firing,In cottura,,
+Item_35_Desc,Text,,Salt is harvested by the <bd>Level 2 Surface Mine</bd> and the <bd>Level 1 Shaft Mine</bd>.,Il sale viene raccolto dalla <bd>Miniera di Superficie di Livello 2</bd> e dalla <bd>Miniera di Livello 1</bd>.,,
+Item_35_FullDesc,Text,,Salt is harvested by the <bd>Level 2 Surface Mine</bd> and the <bd>Level 1 Shaft Mine</bd> and is used by the <bd>Tannery</bd> to create <it>Leather</it>,Il sale viene raccolto dalla <bd>Miniera di Superficie di Livello 2</bd> e dalla <bd>Miniera di Livello 1</bd> e viene utilizzato dalla <bd>Conceria</bd> per creare <it>Pelle</it>,,
+Item_35_Name,Text,,Salt,Sale,,
+Item_35_Past,Text,,Harvested,Raccolto,,
+Item_35_Present,Text,,Harvesting,In raccolta,,
+Item_36_Desc,Text,,Hide is skinned at the <bd>Cow Farm</bd>.,La pelle animale è raccolta nell'<bd>Allevamento di Mucche</bd>.,,
+Item_36_FullDesc,Text,,Hide is skinned at the <bd>Cow Farm</bd> and is used to make <it>Leather</it> at the <bd>Tannery</bd>.,La pelle animale è raccolta nell'<bd>Allevamento di Mucche</bd>. ed è utilizzata per fare la <it>Pelle</it> alla <bd>Conceria</bd>.,,
+Item_36_Name,Text,,Hide,Pelle animale,,
+Item_36_Past,Text,,Skinned,Conciata,,
+Item_36_Present,Text,,Skinning,In conciatura,,
+Item_38_Desc,Text,,Gold is mined by the <bd>Level 3 Surface Mine</bd> and <bd>Level 2 Shaft Mine</bd>.,L'oro è estratto dalla <bd>Miniera di Superficie di Livello 3</bd> e <bd>Miniera di Livello 2</bd>.,,
+Item_38_FullDesc,Text,,Gold is mined by the <bd>Level 3 Surface Mine</bd> and <bd>Level 2 Shaft Mine</bd> and is used in the construction of advanced buildings.,L'oro è estratto dalla <bd>Miniera di Superficie di Livello 3</bd> e <bd>Miniera di Livello 2</bd> ed è usato nella costruzione di edifici avanzati.,,
+Item_38_Name,Text,,Gold,Oro,,
+Item_38_Past,Text,,Mined,Estratto,,
+Item_38_Present,Text,,Mining,In estrazione,,
+Item_3_Desc,Text,,Planks are created at the <bd>Sawmill</bd>.,Le assi vengono create nella <bd>Segheria</bd>.,,
+Item_3_FullDesc,Text,,Planks are created at the <bd>Sawmill</bd> from <it>Logs</it> and are used by the <bd>Blacksmith</bd> to create <it>Tools</it> and in the construction of buildings and boats.,Le Assi vengono create nella <bd>Segheria</bd> da <it>Tronchi</it> e vengono utilizzate dal <bd>Fabbro</bd> per creare <it>Strumenti</it> e nella costruzione di edifici e barche.,,
+Item_3_Name,Text,,Planks,Assi,,
+Item_3_Past,Text,,Created,Create,,
+Item_3_Present,Text,,Creating,In creazione,,
+Item_40_Desc,Text,,Beer is brewed at the <bd>Brewery</bd>.,La birra viene prodotta nel <bd>Birrificio</bd>.,,
+Item_40_FullDesc,Text,,Beer is a <cat>Alcohol</cat> that is brewed at the <bd>Brewery</bd> from <it>Wheat</it> and <it>Water</it> and is used by <bd>Level 2 Residences</bd>.,La birra è un <cat>Alcol</cat> che viene prodotta nel <bd>Birrificio</bd> da <it>Grano</it> e <it>Acqua</it> e viene utilizzata dalle <bd>Residenze di Livello 2</bd>.,,
+Item_40_Name,Text,,Beer,Birra,,
+Item_40_Past,Text,,Brewed,Prodotta,,
+Item_40_Present,Text,,Brewing,In produzione,,
+Item_42_Desc,Text,,Tools are crafted by the <bd>Blacksmith</bd>.,Gli Strumenti sono realizzati dal <bd>Fabbro</bd>.,,
+Item_42_FullDesc,Text,,Tools are crafted by the <bd>Blacksmith</bd> from <it>Iron</it> and <it>Planks</it> using <cat>Fuel</cat> and are used in research by the <bd>Level 2 Workshop</bd>.,Gli Strumenti sono realizzati dal <bd>Fabbro</bd> utilizzando <it>Ferro</it> e <it>Assi</it> con <cat>Carburante</cat> e sono usate nella ricerca dal <bd>Laboratorio Livello 2</bd>.,,
+Item_42_Name,Text,,Tools,Strumenti,,
+Item_42_Past,Text,,Crafted,Creati,,
+Item_42_Present,Text,,Crafting,In creazione,,
+Item_43_Desc,Text,,Energy L1 is generated at <bd>Level 1 Residences</bd>.,L'energia L1 viene generata dalle <bd>Residenze di livello 1</bd>.,,
 Item_43_FullDesc,Text,,"Energy L1 is generated at <bd>Level 1 Residences</bd> from <cat>Food</cat> and <it>Water</it>.
-It's used to power worker bots at the Level 1 <bd>Workshop</bd>, Level 1 <bd>Lumberjack Hut</bd> and Level 1 <bd>Surface Mine</bd>.",,,850
-Item_43_Name,Text,,Energy L1,,,851
-Item_43_Past,Text,,Generated,,,852
-Item_43_Present,Text,,Generating,,,853
-Item_45_Desc,Text,,Energy L2 is generated at <bd>Level 2 Residences</bd>.,,,854
+It's used to power worker bots at the Level 1 <bd>Workshop</bd>, Level 1 <bd>Lumberjack Hut</bd> and Level 1 <bd>Surface Mine</bd>.","L'energia L1 è generata dalle <bd>Residenze di Livello 1</bd> utilizzando <cat>Cibo</cat> e <it>Acqua</it>. È usata per potenziare i BotLavoratori al Livello 1 nel <bd>Laboratorio</bd>, le <bd>Capanne del Taglialegna</bd> al Livello 1, e le <bd>Miniere di Superficie</bd> al Livello 1.",,
+Item_43_Name,Text,,Energy L1,Energia L1,,
+Item_43_Past,Text,,Generated,Generata,,
+Item_43_Present,Text,,Generating,In generazione,,
+Item_45_Desc,Text,,Energy L2 is generated at <bd>Level 2 Residences</bd>.,L'energia L2 viene generata dalle <bd>Residenze di livello 2</bd>.,,
 Item_45_FullDesc,Text,,"Energy L2 is generated at <bd>Level 2 Residences</bd> from <cat>Food</cat>, <it>Water</it> and <cat>Alcohol</cat>.
-It's used to power worker bots at the Level 2 <bd>Workshop</bd>, Level 2 <bd>Lumberjack Hut</bd>, Level 2 <bd>Surface Mine</bd> and Level 1 <bd>Shaft Mine</bd>.",,,855
-Item_45_Name,Text,,Energy L2,,,856
-Item_45_Past,Text,,Generated,,,857
-Item_45_Present,Text,,Generating,,,858
-Item_46_Desc,Text,,Energy L3 is generated at <bd>Level 3 Residences</bd>.,,,859
+It's used to power worker bots at the Level 2 <bd>Workshop</bd>, Level 2 <bd>Lumberjack Hut</bd>, Level 2 <bd>Surface Mine</bd> and Level 1 <bd>Shaft Mine</bd>.","L'energia L2 è generata dalle <bd>Residenze di Livello 2</bd> utilizzando <cat>Cibo</cat>, <it>Acqua</it> e <cat>Alcol</cat>. È usata per potenziare i BotLavoratori al Livello 2 nel <bd>Laboratorio</bd>, le <bd>Capanne del Taglialegna</bd> al Livello 2, le <bd>Miniere di Superficie</bd> al Livello 2 e le <bd>Miniere</ bd> al Livello 1.",,
+Item_45_Name,Text,,Energy L2,Energia L2,,
+Item_45_Past,Text,,Generated,Generata,,
+Item_45_Present,Text,,Generating,In generazione,,
+Item_46_Desc,Text,,Energy L3 is generated at <bd>Level 3 Residences</bd>.,L'energia L3 viene generata dalle <bd>Residenze di livello 3</bd>.,,
 Item_46_FullDesc,Text,,"Energy L3 is generated at <bd>Level 3 Residences</bd> from <cat>Food</cat>, <it>Water</it> and <cat>Alcohol</cat>.
-It's used to power worker bots at the Level 3 <bd>Workshop</bd>, Level 3 <bd>Lumberjack Hut</bd>, Level 3 <bd>Surface Mine</bd> and Level 2 <bd>Shaft Mine</bd>.",,,860
-Item_46_Name,Text,,Energy L3,,,861
-Item_46_Past,Text,,Generated,,,862
-Item_46_Present,Text,,Generating,,,863
-Item_5_Desc,Text,,Stone is quarried by the <bd>Level 1 Surface Mine</bd> and <bd>Level 1 Shaft Mine</bd>.,,,864
-Item_5_FullDesc,Text,,Stone is quarried by the <bd>Level 1 Surface Mine</bd> and <bd>Level 1 Shaft Mine</bd> and is used in the construction of buildings.,,,865
-Item_5_Name,Text,,Stone,,,866
-Item_5_Past,Text,,Quarried,,,867
-Item_5_Present,Text,,Quarrying,,,868
-Item_6_Desc,Text,,Trees are planted by <bd>Forestries</bd>.,,,869
-Item_6_FullDesc,Text,,Trees are planted by <bd>Forestries</bd> and can be chopped down by when fully mature.,,,870
-Item_6_Name,Text,,Trees,,,871
-Item_6_Past,Text,,Grown,,,872
-Item_6_Present,Text,,Growing,,,873
-Item_7_Desc,Text,,Fish is a <cat>Food</cat> caught by the <bd>Fishing Hut</bd>.,,,874
-Item_7_FullDesc,Text,,Fish is a <cat>Food</cat> caught by the <bd>Fishing Hut</bd>.,,,875
-Item_7_Name,Text,,Fish,,,876
-Item_7_Past,Text,,Fished,,,877
-Item_7_Present,Text,,Fishing,,,878
-Item_8_Desc,Text,,Glass is blown at the <bd>Glassworks</bd>.,,,879
-Item_8_FullDesc,Text,,Glass is blown at the <bd>Glassworks</bd> and is used in the construction of advanced buildings.,,,880
-Item_8_Name,Text,,Glass,,,881
-Item_8_Past,Text,,Blown,,,882
-Item_8_Present,Text,,Blowing,,,883
-Item_9_Desc,Text,,Wheat is grown at the <bd>Wheat Farm</bd>.,,,884
-Item_9_FullDesc,Text,,Wheat is grown at the <bd>Wheat Farm</bd> and is used by the <bd>Flour Mill</bd> to make <it>Flour</it>.,,,885
-Item_9_Name,Text,,Wheat,,,886
-Item_9_Past,Text,,Harvested,,,887
-Item_9_Present,Text,,Harvesting,,,888
-Key Bindings,Text,,Key Bindings,,,889
-KeyBindingsResetAllToDefault,Text,Reset all hotkeys to their default key,Reset All To Default,,,890
+It's used to power worker bots at the Level 3 <bd>Workshop</bd>, Level 3 <bd>Lumberjack Hut</bd>, Level 3 <bd>Surface Mine</bd> and Level 2 <bd>Shaft Mine</bd>.","L'energia L3 è generata dalle <bd>Residenze di Livello 3</bd> utilizzando <cat>Cibo</cat>, <it>Acqua</it> e <cat>Alcol</cat>. È usata per potenziare i BotLavoratori al Livello 3 nel <bd>Laboratorio</bd>, le <bd>Capanne del Taglialegna</bd> al Livello 3, le <bd>Miniere di Superficie</bd> al Livello 3 e <bd>Miniere</ bd> al Livello 2.",,
+Item_46_Name,Text,,Energy L3,Energia L3,,
+Item_46_Past,Text,,Generated,Generata,,
+Item_46_Present,Text,,Generating,In generazione,,
+Item_5_Desc,Text,,Stone is quarried by the <bd>Level 1 Surface Mine</bd> and <bd>Level 1 Shaft Mine</bd>.,La pietra viene estratta dalla <bd>Miniera di superficie di Livello 1</bd> e <bd>Miniera di Livello 1</bd>.,,
+Item_5_FullDesc,Text,,Stone is quarried by the <bd>Level 1 Surface Mine</bd> and <bd>Level 1 Shaft Mine</bd> and is used in the construction of buildings.,La pietra viene estratta dalla <bd>Miniera di superficie di Livello 1</bd> e <bd>Miniera di Livello 1</bd> ed è usata nella costruzione degli edifici.,,
+Item_5_Name,Text,,Stone,Pietra,,
+Item_5_Past,Text,,Quarried,Estratto,,
+Item_5_Present,Text,,Quarrying,In estrazione,,
+Item_6_Desc,Text,,Trees are planted by <bd>Forestries</bd>.,Gli alberi sono piantati dalle <bd>Guardie Forestali</bd>.,,
+Item_6_FullDesc,Text,,Trees are planted by <bd>Forestries</bd> and can be chopped down by when fully mature.,Gli alberi sono piantati dalle <bd>Guardie Forestali</bd> e possono essere abbattuti quando sono completamente maturi.,,
+Item_6_Name,Text,,Trees,Alberi,,
+Item_6_Past,Text,,Grown,Cresciuti,,
+Item_6_Present,Text,,Growing,In crescita,,
+Item_7_Desc,Text,,Fish is a <cat>Food</cat> caught by the <bd>Fishing Hut</bd>.,Il pesce è un <cat>Cibo</cat> catturato dalla <bd>Capanna di pesca</bd>.,,
+Item_7_FullDesc,Text,,Fish is a <cat>Food</cat> caught by the <bd>Fishing Hut</bd>.,Il pesce è un <cat>Cibo</cat> catturato dalla <bd>Capanna di pesca</bd>.,,
+Item_7_Name,Text,,Fish,Pesce,,
+Item_7_Past,Text,,Fished,Pescato,,
+Item_7_Present,Text,,Fishing,In pesca,,
+Item_8_Desc,Text,,Glass is blown at the <bd>Glassworks</bd>.,Il vetro viene soffiato nella <bd>Vetreria</bd>.,,
+Item_8_FullDesc,Text,,Glass is blown at the <bd>Glassworks</bd> and is used in the construction of advanced buildings.,Il vetro viene soffiato nella <bd>Vetreria</bd> e viene utilizzato nella costruzione di edifici avanzati.,,
+Item_8_Name,Text,,Glass,Vetro,,
+Item_8_Past,Text,,Blown,Soffiato,,
+Item_8_Present,Text,,Blowing,In soffiatura,,
+Item_9_Desc,Text,,Wheat is grown at the <bd>Wheat Farm</bd>.,Il grano viene coltivato nella <bd>Fattoria di grano</bd>.,,
+Item_9_FullDesc,Text,,Wheat is grown at the <bd>Wheat Farm</bd> and is used by the <bd>Flour Mill</bd> to make <it>Flour</it>.,Il grano viene coltivato nella <bd>Fattoria di grano</bd> ed è usato dal <bd>Mulino</bd> per fare la <it>Farina</it>.,,
+Item_9_Name,Text,,Wheat,Grano,,
+Item_9_Past,Text,,Harvested,Raccolto,,
+Item_9_Present,Text,,Harvesting,In raccolta,,
+Key Bindings,Text,,Key Bindings,Associazione tasto,,
+KeyBindingsResetAllToDefault,Text,Reset all hotkeys to their default key,Reset All To Default,Ripristina tutto su predefinito,,
 LandRoute_0_Desc,Text,,"A path connects a building to a road or road post.
 
 A building's stackbot uses paths to collect and drop off resources at road posts.
 
 Paths do not have a maximum length but the longer the path, the more time it takes a stackbot to drop off and collect resources which may lead to delays.                                                    
 
-Paths can useful as they allow direct delivery between buildings which can reduce the traffic on your roads.",,,891
-LandRoute_0_Name,Text,,Path,,,892
+Paths can useful as they allow direct delivery between buildings which can reduce the traffic on your roads.","Un percorso collega un edificio a una strada o ad un palo stradale.
+
+Il BotImpilatore di un edificio utilizza percorsi per raccogliere e scaricare risorse sui pali stradali.
+
+I percorsi non hanno una lunghezza massima ma più lungo è il percorso, più tempo impiega un BotImilatore a scendere e raccogliere risorse che possono causare ritardi.
+
+I percorsi possono essere utili in quanto consentono la consegna diretta tra edifici che può ridurre il traffico sulle strade.",,
+LandRoute_0_Name,Text,,Path,Sentiero,,
 LandRoute_1_Desc,Text,,"A road is a connection between two road posts. Road posts can hold four resources and each road has a Carrybot who moves resources between the posts.
 
 Roads have a minimum length of 4 tiles and a maximum length of 6 tiles.
 
 To build a road, click on an existing road post and then click on the tile you want to end on.
 
-Hold <hotkey>[Ctrl]</hotkey> when clicking a tile to fix a waypoint in your prospective road.",,,893
-LandRoute_1_Name,Text,,Road,,,894
-LandRoute_2_Desc,Text,,Faster than a dirt path,,,895
-LandRoute_2_Name,Text,,Stone Path,,,896
-LandRoute_3_Desc,Text,,Faster than a dirt road,,,897
-LandRoute_3_Name,Text,,Stone Road,,,898
-LandRoute_4_Desc,Text,,Faster than a stone path,,,899
-LandRoute_4_Name,Text,,Brick Path,,,900
-LandRoute_5_Desc,Text,,Faster than a stone road,,,901
-LandRoute_5_Name,Text,,Brick Road,,,902
-Load Game,Text,,Load Game,,,903
-Load Map,Text,,Load Map,,,904
-Loading,Text,,Loading maps...,,,905
-MainMenu,Text,,Main Menu,,,906
-ManagerMyMaps,Text,,My Maps,,,907
-ManagerOpenMapFile,Text,Open Windows Explorer and show the selected map file,Open map file in Explorer,,,908
-Map,Text,,Map,,,909
-MapCasualAI,Text,,Casual - AI is less expansionist and generally more relaxed,,,910
-MapChangeNotes,Text,,Map Change Notes,,,911
-MapConfirmDelete,Text,Confirm deletion of a map,"Yes, Delete!",,,912
-MapEditorBrushSize,Text,,Brush Size,,,913
-MapEditorColour,Text,,Colour,,,914
-MapEditorColourRange_Flora,Text,,Flora {0},,,915
-MapEditorColourRange_Rocks,Text,,Rock {0},,,916
-MapEditorContourMode,Text,,Contour Mode,,,917
-MapEditorFishCount,Text,,Number of fish:,,,918
-MapEditorFloraRockObject,Text,,Object,,,919
-MapEditorFloraRocksLimit,Text,,Flora & Rock limit:,,,920
-MapEditorFloraRocksLimitReached,Text,,You need to remove flora before you can add more!,,,921
-MapEditorFloraRocksRandomScale,Text,,Random Scale (Min to Max),,,922
-MapEditorMapInfoHeader,Text,,Map Info,,,923
-MapEditorMapInfoTakeScreen,Text,Take a screenshot to use as the map image,Take Screen,,,924
-MapEditorMapSettingsHeader,Text,,Map Settings,,,925
-MapEditorMapSettingsMarketEnabled,Text,,Market enabled,,,926
-MapEditorMapVerificationHeader,Text,,Map Verification,,,927
-MapEditorMapVerificationPassed,Text,,Passed!,,,928
-MapEditorMapVerificationUnverified,Text,,Unverified,,,929
-MapEditorMapVerificationVerify,Text,,Verify,,,930
-MapEditorMenu_Header,Text,,Menu,,,931
-MapEditorMenu_MainMenu,Text,,Main Menu,,,932
-MapEditorMenu_MyMaps,Text,,My Maps,,,933
-MapEditorMenu_SaveMap,Text,,Save Map,,,934
-MapEditorMenu_TestMap,Text,,Test Map,,,935
+Hold <hotkey>[Ctrl]</hotkey> when clicking a tile to fix a waypoint in your prospective road.","Una strada è un collegamento tra due incroci. I pali stradali possono contenere quattro risorse e ogni strada ha un BotTrasportatore che sposta le risorse tra i pali.
+
+Le strade hanno una lunghezza minima di 4 caselle e una lunghezza massima di 6 caselle.
+
+Per costruire una strada, fai clic su un palo stradale esistente, quindi fai clic sul riquadro su cui vuoi terminare.
+
+Tieni premuto <hotkey>[Ctrl]</hotkey> quando fai clic su una casella per fissare un waypoint nella tua potenziale strada.",,
+LandRoute_1_Name,Text,,Road,Strada,,
+LandRoute_2_Desc,Text,,Faster than a dirt path,Più veloce di un sentiero sterrato,,
+LandRoute_2_Name,Text,,Stone Path,Sentiero di pietra,,
+LandRoute_3_Desc,Text,,Faster than a dirt road,Più veloce di una strada sterrata,,
+LandRoute_3_Name,Text,,Stone Road,Strada di pietra,,
+LandRoute_4_Desc,Text,,Faster than a stone path,Più veloce di un sentiero di pietra,,
+LandRoute_4_Name,Text,,Brick Path,Sentiero di mattoni,,
+LandRoute_5_Desc,Text,,Faster than a stone road,Più veloce di una strada di pietra,,
+LandRoute_5_Name,Text,,Brick Road,Strada di mattoni,,
+Load Game,Text,,Load Game,Carica gioco,,
+Load Map,Text,,Load Map,Carica mappa,,
+Loading,Text,,Loading maps...,Caricamento mappe in corso ...,,
+MainMenu,Text,,Main Menu,Menu principale,,
+ManagerMyMaps,Text,,My Maps,Le mie mappe,,
+ManagerOpenMapFile,Text,Open Windows Explorer and show the selected map file,Open map file in Explorer,Apri il file della mappa in Explorer,,
+Map,Text,,Map,Mappa,,
+MapCasualAI,Text,,Casual - AI is less expansionist and generally more relaxed,Facile: l'IA è meno espansionista e generalmente più rilassata,,
+MapChangeNotes,Text,,Map Change Notes,Note sulla modifica della mappa,,
+MapConfirmDelete,Text,Confirm deletion of a map,"Yes, Delete!","Sì, elimina!",,
+MapEditorBrushSize,Text,,Brush Size,Dimensione del pennello,,
+MapEditorColour,Text,,Colour,Colore,,
+MapEditorColourRange_Flora,Text,,Flora {0},Flora {0},,
+MapEditorColourRange_Rocks,Text,,Rock {0},Roccia {0},,
+MapEditorContourMode,Text,,Contour Mode,Modalità contorno,,
+MapEditorFishCount,Text,,Number of fish:,Numero di pesci:,,
+MapEditorFloraRockObject,Text,,Object,Oggetto,,
+MapEditorFloraRocksLimit,Text,,Flora & Rock limit:,Limite Flora & Rocce:,,
+MapEditorFloraRocksLimitReached,Text,,You need to remove flora before you can add more!,Devi rimuovere la flora prima di poterne aggiungere altra!,,
+MapEditorFloraRocksRandomScale,Text,,Random Scale (Min to Max),Scala casuale (da min a max),,
+MapEditorMapInfoHeader,Text,,Map Info,Informazioni sulla mappa,,
+MapEditorMapInfoTakeScreen,Text,Take a screenshot to use as the map image,Take Screen,Fai uno screenshot,,
+MapEditorMapSettingsHeader,Text,,Map Settings,Impostazioni della mappa,,
+MapEditorMapSettingsMarketEnabled,Text,,Market enabled,Mercato abilitato,,
+MapEditorMapVerificationHeader,Text,,Map Verification,Verifica della mappa,,
+MapEditorMapVerificationPassed,Text,,Passed!,Passato!,,
+MapEditorMapVerificationUnverified,Text,,Unverified,Non verificato,,
+MapEditorMapVerificationVerify,Text,,Verify,Verifica,,
+MapEditorMenu_Header,Text,,Menu,Menu,,
+MapEditorMenu_MainMenu,Text,,Main Menu,Menu principale,,
+MapEditorMenu_MyMaps,Text,,My Maps,Le mie mappe,,
+MapEditorMenu_SaveMap,Text,,Save Map,Salva mappa,,
+MapEditorMenu_TestMap,Text,,Test Map,Prova la mappa,,
 MapEditorMode_15_Desc,Text,,"Click and drag to paint primary terrain.
 [Alt] + slowly drag to paint border using primary and second types.
 [Ctrl] + Click to fill tile with primary terrain.
 [C] + Click to select primary terrain from tile.
 [V] + Click to select secondary terrain from tile.
-[B] + Click to flip terrain types on tile.",,,936
-MapEditorMode_15_Name,Text,,Paint Terrain,,,937
+[B] + Click to flip terrain types on tile.","Fai clic e trascina per dipingere il terreno principale.
+[Alt] + trascina lentamente per disegnare il bordo usando i tipi primario e secondo.
+[Ctrl] + clic per riempire la tessera con terreno primario.
+[C] + clic per selezionare il terreno principale dalla tessera.
+[V] + clic per selezionare il terreno secondario dalla tessera.
+[B] + clic per invertire i tipi di terreno sulla tessera. ",,
+MapEditorMode_15_Name,Text,,Paint Terrain,Dipingi terreno,,
 MapEditorMode_16_Desc,Text,,"Click and Hold to place/increase.
 [Shift] to reduce/remove.
-[Ctrl] to add/remove more slowly.",,,938
-MapEditorMode_16_Name,Text,,Surface Deposits,,,939
+[Ctrl] to add/remove more slowly.","Fai clic e tieni premuto per posizionare / aumentare.
+[Maiusc] per ridurre / rimuovere.
+[Ctrl] per aggiungere / rimuovere più lentamente.",,
+MapEditorMode_16_Name,Text,,Surface Deposits,Depositi di superficie,,
 MapEditorMode_17_Desc,Text,,"Click and drag to paint flora.
  [Ctrl] and click to place individually.
 Hold [F] + Wheel to change scale.
 Hold [R] + Wheel to change internal rotation.
-Hold [G] + Wheel to change rock height.",,,940
-MapEditorMode_17_Name,Text,,Flora & Rocks,,,941
+Hold [G] + Wheel to change rock height.","Fai clic e trascina per dipingere la flora.
+[Ctrl] e clic per posizionarlo singolarmente.
+Tieni premuto [F] + Rotella per cambiare scala.
+Tieni premuto [R] + Rotella per cambiare la rotazione interna.
+Tieni premuto [G] + Rotella per cambiare l'altezza della roccia.",,
+MapEditorMode_17_Name,Text,,Flora & Rocks,Flora & Rocce,,
 MapEditorMode_18_Desc,Text,,"Click to place starting location.
-[R] to rotate",,,942
-MapEditorMode_18_Name,Text,,Player Start Location,,,943
-MapEditorMode_20_Desc,Text,,Click and drag to adjust whole tile height,,,944
-MapEditorMode_20_Name,Text,,Tile Sculpt,,,945
-MapEditorMode_23_Desc,Text,,Click and drag to remove things within specified area.,,,946
-MapEditorMode_23_Name,Text,,Remove,,,947
+[R] to rotate","Clicca per piazzare la posizione iniziale.
+[R] per ruotare",,
+MapEditorMode_18_Name,Text,,Player Start Location,Posizione iniziale del giocatore,,
+MapEditorMode_20_Desc,Text,,Click and drag to adjust whole tile height,Fare clic e trascina per regolare l'intera altezza della casella,,
+MapEditorMode_20_Name,Text,,Tile Sculpt,Scolpisci casella,,
+MapEditorMode_23_Desc,Text,,Click and drag to remove things within specified area.,Fare clic e trascina per rimuovere le cose all'interno dell'area specificata.,,
+MapEditorMode_23_Name,Text,,Remove,Rimuovi,,
 MapEditorMode_25_Desc,Text,,"Click to place.
 [R] to rotate.
-[Shift] and click to remove.",,,948
-MapEditorMode_25_Name,Text,,Shaft Deposits,,,949
+[Shift] and click to remove.","Fai clic per posizionare.
+[R] per ruotare.
+[Maiusc] e clic per rimuovere.",,
+MapEditorMode_25_Name,Text,,Shaft Deposits,Depositi sotterranei,,
 MapEditorMode_26_Desc,Text,,"Click an empty water tile to add fish.
-[Shift] and click to remove fish",,,950
-MapEditorMode_26_Name,Text,,Fish,,,951
+[Shift] and click to remove fish","Fai clic su una casella d'acqua vuota per aggiungere pesci.
+[Maiusc] e clic per rimuovere i pesci",,
+MapEditorMode_26_Name,Text,,Fish,Pesce,,
 MapEditorMode_29_Desc,Text,,"Click to select an object.
 
-[Shift] + Click to remove an object.",,,952
-MapEditorMode_29_Name,Text,,Select,,,953
+[Shift] + Click to remove an object.","Clicca per selezionare un oggetto.
+
+[Shift] + Click per rimuovere un oggetto",,
+MapEditorMode_29_Name,Text,,Select,Seleziona,,
 MapEditorMode_7_Desc,Text,,"Click and hold to raise land
 Hold [Shift] to lower land
-Hold [Ctrl] to flatten land",,,954
-MapEditorMode_7_Name,Text,,Terrain Sculpt,,,955
-MapEditorMountainMineNaturalResource,Text,,Natural Resource,,,956
-MapEditorPlayersAddPlayer,Text,,Add Player,,,957
-MapEditorPlayersHeader,Text,,Players,,,958
-MapEditorPrimaryTerrainType,Text,,Primary Terrain Type,,,959
-MapEditorRemoveFish,Text,,Fish,,,960
-MapEditorRemoveFlora,Text,,Flora,,,961
-MapEditorRemoveNaturalResources,Text,,Natural Resources,,,962
-MapEditorRemoveRocks,Text,,Rocks,,,963
-MapEditorSculptAutoTerrain,Text,Whether terrain automatically updates when height is changed,Auto Terrain,,,964
-MapEditorSculptBrushSize,Text,,Brush Size ([F] + mouse wheel),,,965
-MapEditorSculptFlow,Text,,Flow ([G] + mouse wheel),,,966
-MapEditorSecondaryTerrainType,Text,,Secondary Terrain Type,,,967
-MapEditorSelectRotation,Text,,Rotation,,,968
-MapEditorSelectScale,Text,,Scale,,,969
-MapEditorSettings,Text,,Settings,,,970
-MapEditorSurfaceMineNaturalResource,Text,,Natural Resource,,,971
-MapEditorToolInfo,Text,,Info,,,972
-MapEditorTreesVisible,Text,,Trees Visible,,,973
-MapEditorVictoryConditionsAdd,Text,,Add Victory Condition,,,974
-MapEditorVictoryConditionsHeader,Text,,Victory Conditions,,,975
-MapEditorWaterVisible,Text,,Water Visible,,,976
-MapEditor_VisualOptions,Text,Header for visual options panel in map editor (contour mode etc),Visual Options,,,977
-MapFeaturesCombat,Text,,Features Combat,,,978
-MapOutOfDate,Text,,This map needs to be resaved in the map editor before it can be published!,,,979
-MapPublishChangeNotes,Text,,Publish with Change Notes,,,980
-MapPublishChangesIntro,Text,,Would you like to tell your subscribers about any changes to your map?,,,981
-MapPublishChangesPlaceholder,Text,,Add your change notes here!,,,982
-MapPublished,Text,,This map is published!,,,983
-MapSkipChangeNotes,Text,,Publish without Change Notes,,,984
-MapsLoading,Text,,Loading maps...,,,985
-MapsNoneFound,Text,,You haven't made any maps yet!,,,986
-Market,Text,System which allows buying and selling of resources,Market,,,987
-Market Prices,Text,,Market Prices,,,988
-MarketNextReputation,Text,,Next Reputation:,,,989
-MarketOverview,Text,,Overview,,,990
-MarketPurchaseCommission,Text,,Purchase Commission:,,,991
-MasterVolume,Text,,Master Volume,,,992
-MiscCat_0_Name,Text,,Fish,,,993
-MiscCat_10_Name,Text,,Mining L1,,,994
-MiscCat_11_Name,Text,,Mining L2,,,995
-MiscCat_12_Name,Text,,Mining L3,,,996
-MiscCat_1_Name,Text,,Water Source,,,997
-MiscCat_2_Name,Text,,Trees,,,998
-MiscCat_3_Name,Text,,Wheat Field,,,999
-MiscCat_4_Name,Text,,Seeds,,,1000
-MiscCat_5_Name,Text,,Orchard Plot,,,1001
-MiscCat_6_Name,Text,,Cobbled Roads,,,1002
-MiscCat_7_Name,Text,,Various Resources,,,1003
-MiscCat_8_Name,Text,,Research,,,1004
+Hold [Ctrl] to flatten land","Fai clic e tieni premuto per alzare il terreno
+Tieni premuto [Shift] per abbassare il terreno
+Tieni premuto [Ctrl] per appiattire il terreno",,
+MapEditorMode_7_Name,Text,,Terrain Sculpt,Scolpisci il terreno,,
+MapEditorMountainMineNaturalResource,Text,,Natural Resource,Risorsa naturale,,
+MapEditorPlayersAddPlayer,Text,,Add Player,Aggiungi giocatore,,
+MapEditorPlayersHeader,Text,,Players,Giocatori,,
+MapEditorPrimaryTerrainType,Text,,Primary Terrain Type,Tipo di terreno primario,,
+MapEditorRemoveFish,Text,,Fish,Pesce,,
+MapEditorRemoveFlora,Text,,Flora,Flora,,
+MapEditorRemoveNaturalResources,Text,,Natural Resources,Risorse naturali,,
+MapEditorRemoveRocks,Text,,Rocks,Rocce,,
+MapEditorSculptAutoTerrain,Text,Whether terrain automatically updates when height is changed,Auto Terrain,Terreno automatico,,
+MapEditorSculptBrushSize,Text,,Brush Size ([F] + mouse wheel),Dimensioni pennello ([F] + rotellina del mouse),,
+MapEditorSculptFlow,Text,,Flow ([G] + mouse wheel),Flusso ([G] + rotellina del mouse),,
+MapEditorSecondaryTerrainType,Text,,Secondary Terrain Type,Tipo di terreno secondario,,
+MapEditorSelectRotation,Text,,Rotation,Rotazione,,
+MapEditorSelectScale,Text,,Scale,Scala,,
+MapEditorSettings,Text,,Settings,Impostazioni,,
+MapEditorSurfaceMineNaturalResource,Text,,Natural Resource,Risorsa naturale,,
+MapEditorToolInfo,Text,,Info,Informazioni,,
+MapEditorTreesVisible,Text,,Trees Visible,Alberi visibili,,
+MapEditorVictoryConditionsAdd,Text,,Add Victory Condition,Aggiungi condizione di vittoria,,
+MapEditorVictoryConditionsHeader,Text,,Victory Conditions,Condizioni di vittoria,,
+MapEditorWaterVisible,Text,,Water Visible,Acqua visibile,,
+MapEditor_VisualOptions,Text,Header for visual options panel in map editor (contour mode etc),Visual Options,Opzioni visive,,
+MapFeaturesCombat,Text,,Features Combat,Caratteristiche di combattimento,,
+MapOutOfDate,Text,,This map needs to be resaved in the map editor before it can be published!,Questa mappa deve essere ri-salvata nell'editor della mappa prima di poter essere pubblicata!,,
+MapPublishChangeNotes,Text,,Publish with Change Notes,Pubblica con le note di modifica,,
+MapPublishChangesIntro,Text,,Would you like to tell your subscribers about any changes to your map?,Desideri informare i tuoi iscritti di eventuali modifiche alla tua mappa?,,
+MapPublishChangesPlaceholder,Text,,Add your change notes here!,Aggiungi qui le tue note di modifica!,,
+MapPublished,Text,,This map is published!,Questa mappa è stata pubblicata!,,
+MapSkipChangeNotes,Text,,Publish without Change Notes,Pubblica senza note di modifica,,
+MapsLoading,Text,,Loading maps...,Caricamento mappe in corso ...,,
+MapsNoneFound,Text,,You haven't made any maps yet!,Non hai ancora creato mappe!,,
+Market,Text,System which allows buying and selling of resources,Market,Mercato,,
+Market Prices,Text,,Market Prices,Prezzi di mercato,,
+MarketNextReputation,Text,,Next Reputation:,Prossima reputazione:,,
+MarketOverview,Text,,Overview,Panoramica,,
+MarketPurchaseCommission,Text,,Purchase Commission:,Commissione acquisti:,,
+MasterVolume,Text,,Master Volume,Volume generale,,
+MiscCat_0_Name,Text,,Fish,Pesce,,
+MiscCat_10_Name,Text,,Mining L1,Estrazione mineraria L1,,
+MiscCat_11_Name,Text,,Mining L2,Estrazione mineraria L2,,
+MiscCat_12_Name,Text,,Mining L3,Estrazione mineraria L3,,
+MiscCat_1_Name,Text,,Water Source,Sorgente d'acqua,,
+MiscCat_2_Name,Text,,Trees,Alberi,,
+MiscCat_3_Name,Text,,Wheat Field,Campo di grano,,
+MiscCat_4_Name,Text,,Seeds,Semi,,
+MiscCat_5_Name,Text,,Orchard Plot,Frutteto intrecciato,,
+MiscCat_6_Name,Text,,Cobbled Roads,Strade acciottolate,,
+MiscCat_7_Name,Text,,Various Resources,Varie risorse,,
+MiscCat_8_Name,Text,,Research,Ricerca,,
 MiscCat_9_Name,Text,,Brick Roads,,,1005
 MiscInfoPanelMode_0_Desc,Text,,Click on an empty to snap to neighbour heights.,,,1006
 MiscInfoPanelMode_0_Name,Text,,Snap Whole Tile,,,1007
