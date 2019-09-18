@@ -551,87 +551,101 @@ EntityTransportVehicleStopsInvalidSequence,Text,,Invalid Route! Route stops at {
 EntityTransportVehicleStopsInvalidTrainStartEnd,Text,,Invalid Route! Start station and end station are same. This is unnecessary as train will automatically loop.,Percorso non valido! La stazione iniziale e quella finale sono uguali. Questo non è necessario in quanto il treno eseguirà automaticamente il loop.,,
 EntityTransportVehicleStopsMinimum,Text,,Route needs at least two stops,Il percorso richiede almeno due fermate,,
 EntityTransportVehicleStopsNoRouteHeader,Text,Player's boat or train cannot find a route to its next destination,Cannot find route!,Impossibile raggiungere!,,
-EntityTransportVehicleStopsNoRouteTrainDesc,Text,,Check your tracks for gaps,,,502
-EntityTransportVehicleStopsTrainAction,Text,,Add Station Stop,,,503
-EntityTransportVehicleStopsTrainIntro,Text,,{0} will automatically transport resources between these stations,,,504
-Everything,Text,,Everything,,,505
-ExitGame,Text,,Exit Game,,,506
-Favourites,Text,Favourite Maps,Favourites,,,507
-Featured,Text,Featured Maps,Featured,,,508
-Filter,Text,Map Filter,Filter,,,509
-Fish_0_Name,Text,,Fish,,,510
-Flag_0_Name,Text,,Road Post,,,511
-FloraCat_1,Text,,Tree,,,512
-FloraCat_2,Text,,Rock,,,513
-FloraCat_3,Text,,Bush,,,514
-FloraValidTerrain_11,Text,,Grass/Sand/Desert,,,515
-FloraValidTerrain_2,Text,,Grass/Snow,,,516
-FloraValidTerrain_7,Text,,Grass/Snow,,,517
-FloraValidTerrain_8,Text,,Desert,,,518
-Flora_11_Name,Text,,Palm Tree,,,519
-Flora_13_Name,Text,,Cactus Bush,,,520
-Flora_14_Name,Text,,Tree Stump,,,521
-Flora_15_Name,Text,,Tree Stump,,,522
-Flora_16_Name,Text,,Tree Stump,,,523
-Flora_19_Name,Text,,Tree Stump,,,524
+EntityTransportVehicleStopsNoRouteTrainDesc,Text,,Check your tracks for gaps,Controlla i tuoi percorsi per trovare aperture,,
+EntityTransportVehicleStopsTrainAction,Text,,Add Station Stop,Aggiungi fermata stazione,,
+EntityTransportVehicleStopsTrainIntro,Text,,{0} will automatically transport resources between these stations,{0} trasporterà automaticamente le risorse tra queste stazioni,,
+Everything,Text,,Everything,Qualunque cosa,,
+ExitGame,Text,,Exit Game,Esci dal gioco,,
+Favourites,Text,Favourite Maps,Favourites,Preferiti,,
+Featured,Text,Featured Maps,Featured,In primo piano,,
+Filter,Text,Map Filter,Filter,Filtra,,
+Fish_0_Name,Text,,Fish,Pesce,,
+Flag_0_Name,Text,,Road Post,Incrocio,,
+FloraCat_1,Text,,Tree,Albero,,
+FloraCat_2,Text,,Rock,Roccia,,
+FloraCat_3,Text,,Bush,Cespuglio,,
+FloraValidTerrain_11,Text,,Grass/Sand/Desert,Erba/Sabbia/Deserto,,
+FloraValidTerrain_2,Text,,Grass/Snow,Erba/Neve,,
+FloraValidTerrain_7,Text,,Grass/Snow,Erba/Neve,,
+FloraValidTerrain_8,Text,,Desert,Deserto,,
+Flora_11_Name,Text,,Palm Tree,Palma,,
+Flora_13_Name,Text,,Cactus Bush,Cespuglio di cactus,,
+Flora_14_Name,Text,,Tree Stump,Tronco d'albero,,
+Flora_15_Name,Text,,Tree Stump,Tronco d'albero,,
+Flora_16_Name,Text,,Tree Stump,Tronco d'albero,,
+Flora_19_Name,Text,,Tree Stump,Tronco d'albero,,
 Flora_200_Description,Text,,"This mine contains an infinite supply of <nr><natres></nr>.
-You can build a <bd>Shaft Mine</bd> here to extract the <nr><natres></nr>.",,,525
-Flora_200_Name,Text,,Underground Deposit,,,526
-Flora_2_Name,Text,,Fir Tree,,,527
-Flora_3_Name,Text,,Tree Stump,,,528
-Flora_43_Name,Text,,Rock 2x2,,,529
-Flora_4_Name,Text,,Small Rock,,,530
-Flora_5_Name,Text,,Small Rock,,,531
-Flora_60_Name,Text,,Rock 3x3,,,532
-Flora_7_Name,Text,,Cypress Tree,,,533
-Flora_8_Name,Text,,Cactus,,,534
+You can build a <bd>Shaft Mine</bd> here to extract the <nr><natres></nr>.",Questa miniera contiene una scorta infinita di <nr><natres></nr>. Puoi costruire una <bd>Miniera</bd> qui per estrarre il <nr><natres></nr>.,,
+Flora_200_Name,Text,,Underground Deposit,Deposito sotterraneo,,
+Flora_2_Name,Text,,Fir Tree,Abete,,
+Flora_3_Name,Text,,Tree Stump,Tronco d'albero,,
+Flora_43_Name,Text,,Rock 2x2,Roccia 2x2,,
+Flora_4_Name,Text,,Small Rock,Sasso,,
+Flora_5_Name,Text,,Small Rock,Sasso,,
+Flora_60_Name,Text,,Rock 3x3,Roccia 3x3,,
+Flora_7_Name,Text,,Cypress Tree,Cipresso,,
+Flora_8_Name,Text,,Cactus,Cactus,,
 Flora_Tree_Description,Text,,"This tree can be chopped down and converted into <it>Logs</it> by the <bd>Lumberjack Hut</bd>.
 
-You can prioritise a Lumberbot to chop this tree down first by using the Priority Panel on a <bd>Lumberjack Hut</bd>.",,,535
-Fog of War,Text,The edge of where the player can see,Fog of War,,,536
-Free Construction,Text,When you place a building it is already constructed,Free Construction,,,537
-FullScreenMode_0,Text,https://docs.unity3d.com/ScriptReference/FullScreenMode.html,Exclusive Full Screen,,,538
-FullScreenMode_1,Text,https://docs.unity3d.com/ScriptReference/FullScreenMode.html,Full Screen Window,,,539
-FullScreenMode_2,Text,https://docs.unity3d.com/ScriptReference/FullScreenMode.html,Maximised Window,,,540
-FullScreenMode_3,Text,https://docs.unity3d.com/ScriptReference/FullScreenMode.html,Windowed,,,541
-Game Options,Text,,Game Settings,,,542
-GameMenu_BackToMapEditor,Text,,Back to Map Editor,,,543
-GameMenu_Header,Text,,Menu,,,544
-GameMenu_ReportBug,Text,,Report A Bug,,,545
-GameSettingsAutosaveInterval,Text,,Autosave interval,,,546
-GameSettingsAutosaveIterations,Text,,Autosave iterations,,,547
-GameSettingsEdgePanning,Text,,Edge panning,,,548
-GameSettingsEdgePanningSensitivity,Text,,Edge panning sensitivity,,,549
-GameSettingsFreeRoadPostPlacement,Text,"Allows player to place a road post anywhere, not just from existing road post",Free Road Post Placement,,,550
-GameSettingsInterfaceAspectLock,Text,Whether the UI should scale based on the width of the resolution or on the height.,Interface aspect lock,,,551
-GameSettingsInvertX,Text,,Invert rotation X axis,,,552
-GameSettingsInvertY,Text,,Invert rotation Y axis,,,553
-GameSettingsTitle,Text,,Game Options,,,554
-GameSettingsZoomSensitivity,Text,,Zoom sensitivity,,,555
-GameUIResourceStorage,Text,,Resource Storage,,,556
-GameUI_Build,Text,In-game build mode,Build,,,557
-GameUI_PotentialSurplus,Text,,Potential Surplus,,,558
-GameUI_PrioritiseBuilding,Text,,Prioritise,,,559
-Hard,Text,,Hard,,,560
-Height,Text,,Height,,,561
-Help,Text,,Help,,,562
-Help & Wiki,Text,,Help & Wiki,,,563
-HelpPanelTitle,Text,(Noun) title of help panel,Help,,,564
+You can prioritise a Lumberbot to chop this tree down first by using the Priority Panel on a <bd>Lumberjack Hut</bd>.","Questo albero può essere abbattuto e convertito in <it>Tronchi</it> avendo una <bd>Capanna del Boscaiolo</bd>.
+
+Puoi dare la priorità ad un BotTaglialegna per tagliare prima l'albero utilizzando un Pannello Priorità su una <bd>Capanna del Boscaiolo</bd>.",,
+Fog of War,Text,The edge of where the player can see,Fog of War,Nebbia di guerra,,
+Free Construction,Text,When you place a building it is already constructed,Free Construction,Costruzione libera,,
+FullScreenMode_0,Text,https://docs.unity3d.com/ScriptReference/FullScreenMode.html,Exclusive Full Screen,Schermo intero esclusivo,,
+FullScreenMode_1,Text,https://docs.unity3d.com/ScriptReference/FullScreenMode.html,Full Screen Window,Schermo intero a finestra,,
+FullScreenMode_2,Text,https://docs.unity3d.com/ScriptReference/FullScreenMode.html,Maximised Window,Finestra senza bordi,,
+FullScreenMode_3,Text,https://docs.unity3d.com/ScriptReference/FullScreenMode.html,Windowed,Finestra,,
+Game Options,Text,,Game Settings,Impostazioni di gioco,,
+GameMenu_BackToMapEditor,Text,,Back to Map Editor,Torna all'editor delle mappe,,
+GameMenu_Header,Text,,Menu,Menu,,
+GameMenu_ReportBug,Text,,Report A Bug,Segnala un bug,,
+GameSettingsAutosaveInterval,Text,,Autosave interval,Intervallo di salvataggio automatico,,
+GameSettingsAutosaveIterations,Text,,Autosave iterations,Iterazioni di salvataggio automatico,,
+GameSettingsEdgePanning,Text,,Edge panning,Scorrimento al bordo,,
+GameSettingsEdgePanningSensitivity,Text,,Edge panning sensitivity,Sensibilità scorrimento bordo,,
+GameSettingsFreeRoadPostPlacement,Text,"Allows player to place a road post anywhere, not just from existing road post",Free Road Post Placement,Piazzamento incroci libero,,
+GameSettingsInterfaceAspectLock,Text,Whether the UI should scale based on the width of the resolution or on the height.,Interface aspect lock,Blocco aspetto interfaccia,,
+GameSettingsInvertX,Text,,Invert rotation X axis,Invertire la rotazione dell'asse X,,
+GameSettingsInvertY,Text,,Invert rotation Y axis,Invertire la rotazione dell'asse Y,,
+GameSettingsTitle,Text,,Game Options,Opzioni di gioco,,
+GameSettingsZoomSensitivity,Text,,Zoom sensitivity,Sensibilità dello zoom,,
+GameUIResourceStorage,Text,,Resource Storage,Archiviazione delle risorse,,
+GameUI_Build,Text,In-game build mode,Build,Costruisci,,
+GameUI_PotentialSurplus,Text,,Potential Surplus,Surplus potenziale,,
+GameUI_PrioritiseBuilding,Text,,Prioritise,Dare priorità,,
+Hard,Text,,Hard,Difficile,,
+Height,Text,,Height,Altezza,,
+Help,Text,,Help,Aiuto,,
+Help & Wiki,Text,,Help & Wiki,Aiuto & Wiki,,
+HelpPanelTitle,Text,(Noun) title of help panel,Help,Aiuto,,
 HelpPanel_22,Text,,"The transport priorities determine which resource a carrybot will pick up from a road post or a stackbot will unload from a boat or train.
 
 Resource types higher up the list will be picked up before resource types below it.
 
 The transport priorities will be overridden if a resource heading to a <pr>Prioritised</pr> building is available to be picked up.
 
-Use the arrows to move a resource type up or down the priority list.",,,565
+Use the arrows to move a resource type up or down the priority list.","Le priorità di trasporto determinano la risorsa che un BotTrasportatore prenderà da un posto di strada o uno BotImpilatore scaricherà da una nave o da un treno.
+
+I tipi di risorse più in alto nell'elenco verranno raccolti prima dei tipi di risorse sottostanti.
+
+Le priorità di trasporto saranno ignorate se è disponibile per essere ritirata una risorsa destinata a un edificio <pr>Prioritizzato</pr>.
+
+Utilizza le frecce per spostare un tipo di risorsa in alto o in basso nell'elenco delle priorità.",,
 HelpPanel_23,Text,,"If two buildings that are under construction immediately need the same resource type, these priorities determine which building type the resource will head to first.
 
 These construction priorities will be overridden by <pr>Prioritised</pr> building.
 
-Use the arrows to move a building type up or down the priority list.",,,566
+Use the arrows to move a building type up or down the priority list.","Se due edifici in costruzione necessitano immediatamente dello stesso tipo di risorsa, queste priorità determinano a quale tipo di edificio la risorsa andrà per prima.
+
+Queste priorità di costruzione saranno ignorate dagli edifici <pr>Prioritizzati</pr>.
+
+Utilizza le frecce per spostare un tipo di edificio in alto o in basso nell'elenco delle priorità.",,
 HelpPanel_24,Text,,"This panel lists all your buildings by type and their current productivity.
 
-You can click on a building type to view all of your buildings of that type.",,,567
+You can click on a building type to view all of your buildings of that type.","Questo pannello elenca tutti i tuoi edifici per tipologia e la loro attuale produttività.
+
+Puoi fare clic su un tipo di edificio per visualizzare tutti i tuoi edifici di quel tipo.",,
 HelpPanel_25,Text,,"You can research various technologies to unlock new buildings and transport modes which improve and advance your colony.
 
 Technologies are researched by researchbots at the <bd>Workshop</bd> building. Researchbots require <it>Energy</it> to research technology as well as resources specific to that technology.
@@ -640,17 +654,34 @@ More advanced technologies require higher level <bd>Workshops</bd> which in turn
 
 To start researching a technology, first select an available technology on a tech tree. Then select an idle <bd>workshop</bd> that is at the required or higher level.
 
-Finally click on the Start Research button in the bottom right to being the research.",,,568
+Finally click on the Start Research button in the bottom right to being the research.","Puoi ricercare varie tecnologie per sbloccare nuovi edifici e modalità di trasporto che migliorano e fanno avanzare la tua colonia.
+
+Le tecnologie sono ricercate dai robot di ricerca nell'edificio <bd>Laboratorio</bd>. I robot di ricerca richiedono <it>Energia</it> per ricercare la tecnologia e risorse specifiche per tale tecnologia.
+
+Tecnologie più avanzate richiedono <bd>Laboratori</bd> di livello superiore che a loro volta richiedono <it>Energia</it> più avanzata per funzionare.
+
+Per iniziare la ricerca di una tecnologia, selezionare prima una tecnologia disponibile su un albero tecnologico. Quindi seleziona un <bd>Laboratorio</bd> inattivo che è al livello richiesto o superiore.
+
+Infine, fai clic sul pulsante Avvia ricerca in basso a destra per avviare la ricerca.",,
 HelpPanel_26,Text,,"The map shows a top down view of your colony. You can zoom in using the mouse wheel or the slider on the left. You can also left-click and drag to pan around the map.
 
 On the right-hand side panel is a list of surface and underground natural resource deposits. You can toggle the visibility of each on the map.
 
 By default, the location of unrevealed natural resources are also indicated on the map. These can help you decide in which direction to expand and navigate your expeditions.
 
-And remember, if you run out of higher level resources, you are always able to expand using Level 1 <bd>Watchtowers</bd> and harvest surface stone deposits using Level 1 <bd>Surface Mines</bd>.",,ㅐ,569
+And remember, if you run out of higher level resources, you are always able to expand using Level 1 <bd>Watchtowers</bd> and harvest surface stone deposits using Level 1 <bd>Surface Mines</bd>.","Questa mappa mostra una vista dall'alto in basso della tua colonia. Puoi ingrandire usando la rotellina del mouse o il cursore a sinistra. 
+Puoi anche fare clic con il tasto sinistro e trascinare per spostarti all'interno della mappa.
+
+Sul pannello laterale destro è presente un elenco di depositi di risorse naturali di superficie e sotterranei. Puoi attivare o disattivare la visibilità di ciascuno sulla mappa.
+
+Per impostazione predefinita, la posizione delle risorse naturali non rivelate è indicata anche sulla mappa. Questi possono aiutarti a decidere in quale direzione espandere e navigare le tue spedizioni.
+
+E ricorda, se esaurisci le risorse di livello superiore, sei sempre in grado di espanderti usando una <bd>Torre di guardia</bd> di Livello 1 e di estrarre pietre dai depositi usando una <bd>Miniera di superficie</bd> di Livello 1.",ㅐ,
 HelpPanel_27,Text,,"This sub-panel shows you the current productivity of your colony. This is the percentage of your production buildings that are currently active.
 
-You can also view your colony productivity over the last week or month on the graph.",,,570
+You can also view your colony productivity over the last week or month on the graph.","Questo pannello secondario mostra l'attuale produttività della tua colonia. Questa è la percentuale degli edifici di produzione attualmente attivi.
+
+Puoi anche visualizzare sul grafico la produttività della tua colonia nell'ultima settimana o mese.",,
 HelpPanel_28,Text,,"This sub-panel lists resources recently delivered to a production building. You can filter the results by 'On Time', 'Warning' and 'Alert' and you can select any entry to see the route it took. The percentage number indicates the time the journey took compared to the time needed to maintain 100% productivity at the destination building.
 
 For example, a <bd>Lumberjack Hut</bd> requires <it>Energy</it> at a rate of one per day and can store up to four <it>Energy</it> resources as a buffer. If an <it>Energy</it> resource takes 4.5 days to arrive, it will be listed here as 112% as if that journey time was consistent then resources wouldn't arrive quickly enough to maintain 100% productivity.
@@ -661,7 +692,17 @@ It is usually optimal to place a building that supply another building close tog
 
 For example, if you have a remote <bd>Mine</bd>, you can build a nearby <bd>Storage Yard</bd> to keep a supply of <it>Energy</it> nearby. If you do this bear in mind that, by default, the <it>Energy</it> stored there will still be available to other buildings, potentially far away. There are two options to make it so that <it>Energy</it> only goes to that <bd>Mine</bd>:
 
-Firstly you could limit the export buildings in the <bd>Storage Yard</bd> settings to just your <bd>Mine</bd>. Secondly you could create a transport rule on a road post to only allow <it>Energy</it> to pass through if going to a <bd>Storage Yard</bd>.",,,571
+Firstly you could limit the export buildings in the <bd>Storage Yard</bd> settings to just your <bd>Mine</bd>. Secondly you could create a transport rule on a road post to only allow <it>Energy</it> to pass through if going to a <bd>Storage Yard</bd>.","Questo pannello secondario elenca le risorse consegnate di recente a un edificio di produzione. Puoi filtrare i risultati in base a"" In orario"","" Allerta"" e "" Allarme""e puoi selezionare qualsiasi voce per vedere il percorso seguito. Il numero percentuale indica che il tempo impiegato per il viaggio rispetto al tempo necessario per mantenere la produttività del 100% nell'edificio di destinazione.
+
+Ad esempio, una <bd>Capanna del Boscaiolo</bd> richiede <it>Energia</it> al prezzo di una al giorno e può archiviare fino a quattro risorse <it>Energia</it> come buffer. Se una risorsa <it>Energia</it> impiega 4,5 giorni per arrivare, verrà elencata qui come 112% come se quel tempo di viaggio fosse coerente, quindi le risorse non arriverebbero abbastanza rapidamente per mantenere una produttività del 100%.
+
+Questo è solo uno dei fattori. Quando si tiene conto del fatto che un edificio possa funzionare al 100%, in quanto è necessario anche tenere conto del fatto che in primo luogo viene prodotta abbastanza quella risorsa.
+
+Di solito è ottimale posizionare un edificio che rifornisca un altro edificio vicino in modo che i percorsi di approvvigionamento siano brevi. A volte ciò non è possibile, ma per ovviare a questo problema è possibile creare <bd>Depositi</bd> vicino alla destinazione per creare un ""buffer"" di approvvigionamento aggiuntivo.
+
+Ad esempio, se possiedi uan <bd>Miniera</bd> remota, puoi costruire un <bd>Deposito</bd> nelle vicinanze per mantenere un rifornimento di <it>Energia</it> nelle vicinanze. Se lo fai, tieni presente che, per impostazione predefinita, l '<it>Energia</it> immagazzinata sarà comunque disponibile per altri edifici, potenzialmente lontani. Ci sono due opzioni per farlo in modo che <it>Energia</it> vada solo a quella <bd>Miniera</bd>:
+
+In primo luogo potresti limitare gli edifici di esportazione nelle impostazioni <bd>Deposito </bd> solo alla tua <bd>Miniera</bd>. In secondo luogo, è possibile creare una regola di trasporto su un incrocio per consentire il passaggio di <it>Energia</it> solo se si va in un <bd>Deposito</bd>.",,
 HelpPanel_29,Text,,"By default, resource priorities are determined by the order set in the demands panel for each resource.
 
 However, you can also prioritise a single building over all others by using this button (or holding <hotkey>[P]</hotkey> and clicking the building).
@@ -670,7 +711,15 @@ Once prioritised, a pink star will appear above the building and it will appear 
 
 For example, if you have a Level 1 Watchtower that you wish to build as quickly as possible then Prioritising your Watchtower will mean it receives all available Logs produced ahead of any other buildings that may also currently need Logs.
 
-You are able to set one Priority building per building type.",,,572
+You are able to set one Priority building per building type.","Per impostazione predefinita, le priorità delle risorse sono determinate dall'ordine impostato nel pannello delle richieste per ciascuna risorsa.
+
+Tuttavia, puoi anche dare la priorità a un singolo edificio rispetto a tutti gli altri usando questo pulsante (o tenendo premuto <hotkey>[P]</hotkey> e facendo clic sull'edificio).
+
+Una volta assegnata la priorità, una stella rosa apparirà sopra l'edificio e apparirà in cima all'elenco della domanda di tutte le risorse che sta cercando di reperire.
+
+Ad esempio, se si dispone di una Torre di guardia di Livello 1 che si desidera costruire il più rapidamente possibile, dare priorità alla Torre di guardia significa che riceverà tutti i Tronchi disponibili prodotti prima di qualsiasi altro edificio che potrebbe anche aver bisogno di Tronchi.
+
+.Puoi impostare un edificio prioritario per tipo di edificio.",,
 HelpPanel_31,Text,,"The Resource Overview panel gives you an general insight into how much a particular resource is being produced and how much it is in demand.
 
 Current Production is the amount being produced right now based on active buildings.
@@ -684,7 +733,21 @@ Potential Demand is the amount that would be required for production, constructi
 The positive and negative bars at the bottom indicate your surplus or deficit broken down into:
 
 Current Surplus (Current Production versus Current Demand)
-Potential Surplus (Potential Production versus Potential Demand)",,,573
+Potential Surplus (Potential Production versus Potential Demand)","Il pannello Panoramica delle risorse offre una visione generale di quanto viene prodotta una determinata risorsa e di quanto è richiesta.
+
+La produzione attuale è la quantità prodotta in questo momento sulla base di edifici attivi.
+
+La produzione potenziale è la quantità che verrebbe prodotta se tutti gli edifici di produzione fossero attivi.
+
+La domanda attuale è la quantità attualmente richiesta in tutta la tua colonia, sia per produzione, costruzione, ricerca o scopi militari.
+
+La domanda potenziale è l'importo che sarebbe necessario per la produzione, la costruzione, la ricerca o l'esercito se tali edifici fossero attivi.
+
+Le barre positive e negative in basso indicano il tuo avanzo o deficit suddiviso in:
+
+Eccedenza attuale (produzione attuale rispetto alla domanda attuale)
+
+Potenziale surplus (produzione potenziale contro domanda potenziale)",,
 HelpPanel_35,Text,,"You can add rules to a road post or transport building to help direct resources around your colony in particular ways.
 
 Blacklist: If you blacklist a resource it will not be able to pass through under any circumstance.
@@ -693,12 +756,24 @@ Blacklist Except Storage: This option means accept the resource if it's going to
 
 Whitelist: means only the selected resources will be able to pass through.
 
-Whitelist Storage Only: This option means only whitelisted resources will be able to pass through and only if they're going to a storage yard.",,,574
+Whitelist Storage Only: This option means only whitelisted resources will be able to pass through and only if they're going to a storage yard.","Puoi aggiungere regole a un incrocio o a un edificio di trasporto per aiutare a dirigere le risorse intorno alla tua colonia in modi particolari.
+
+Lista nera: se si inserisce nella lista nera una risorsa, questa non sarà in grado di passare in nessuna circostanza.
+
+Lista nera tranne archiviazione: questa opzione significa accettare la risorsa se va in un deposito.
+
+Lista dei desideri: significa che solo le risorse selezionate saranno in grado di passare.
+
+Lista dei desideri solo deposito: questa opzione significa che solo le risorse nella lista dei desideri saranno in grado di passare e solo se stanno andando in un deposito.",,
 HelpPanel_36,Text,,"This panel lists how much money you have, your current Trader Reputation and resource prices.
 
 Trader Reputation points are gained by buying and selling resources. Gain enough points and your Trader Reputation will increase, allowing you to build another <bd>Space Port</bd>.
 
-Purchasing resources incurs a 50% commission to deliver it to your chosen <bd>Space Port</bd>.",,,575
+Purchasing resources incurs a 50% commission to deliver it to your chosen <bd>Space Port</bd>.","Questo pannello elenca quanti soldi hai, la tua reputazione attuale del commerciante e i prezzi delle risorse.
+
+I punti Reputazione dell'operatore vengono acquisiti acquistando e vendendo risorse. Guadagna abbastanza punti e la tua reputazione di commerciante aumenterà, permettendoti di costruire un altro <bd>Porto Spaziale</bd>.
+
+L'acquisto di risorse comporta una commissione del 50% per la consegna al <bd>Porto Spaziale</bd> scelto.",,
 HelpPanel_37,Text,,"Buildings need to be connected to the road network for resources to be able to reach the building.
 
 Buildings can be directly placed on roads or the building's entrance can be connected to a road by a path.
@@ -707,188 +782,204 @@ Additionally, a building can be directly connected by paths to one or more other
 
 A road post or building connection has a maximum length of 20 tiles.
 
-You can click on a connection in the list to see the route the Stackbot takes.",,,576
-HelpTitle_10_Desc,Text,,The range of land this building provides,,,577
-HelpTitle_10_Name,Text,,Territory,,,578
-HelpTitle_11_Desc,Text,,Reduction to damage from enemy projectiles,,,579
-HelpTitle_11_Name,Text,,Armour,,,580
-HelpTitle_12_Desc,Text,,Amount of damage points dealt to target building,,,581
-HelpTitle_12_Name,Text,,Damage,,,582
-HelpTitle_13_Desc,Text,,How far this weapon can be fired,,,583
-HelpTitle_13_Name,Text,,Range,,,584
-HelpTitle_14_Desc,Text,,Time taken between firing weapons,,,585
-HelpTitle_14_Name,Text,,Reload Time,,,586
-HelpTitle_15_Desc,Text,,Number of days to build,,,587
-HelpTitle_15_Name,Text,,Construction Time,,,588
-HelpTitle_16_Desc,Text,,Number of days to reach this building,,,589
-HelpTitle_16_Name,Text,,Journey Time,,,590
+You can click on a connection in the list to see the route the Stackbot takes.","Gli edifici devono essere collegati alla rete stradale affinché le risorse possano raggiungere l'edificio.
+
+Gli edifici possono essere posizionati direttamente sulle strade o l'ingresso dell'edificio può essere collegato a una strada tramite un sentiero.
+
+Inoltre, un edificio può essere collegato direttamente tramite percorsi a uno o più altri edifici. Ciò consente ai BotImpilatori di spostare le risorse tra gli edifici senza coinvolgere un incrocio e può aiutare a mantenere il traffico lontano dalle strade.
+
+Una strada o un collegamento di un edificio ha una lunghezza massima di 20 tessere.
+
+È possibile fare clic su una connessione nell'elenco per vedere il percorso del BotImpilatore.",,
+HelpTitle_10_Desc,Text,,The range of land this building provides,Il raggio di terra che questo edificio fornisce,,
+HelpTitle_10_Name,Text,,Territory,Territorio,,
+HelpTitle_11_Desc,Text,,Reduction to damage from enemy projectiles,Riduzione dei danni causati da proiettili nemici,,
+HelpTitle_11_Name,Text,,Armour,Armatura,,
+HelpTitle_12_Desc,Text,,Amount of damage points dealt to target building,Quantità di danni inflitti all'edificio bersaglio,,
+HelpTitle_12_Name,Text,,Damage,Danno,,
+HelpTitle_13_Desc,Text,,How far this weapon can be fired,Quanto lontano può sparare quest'arma,,
+HelpTitle_13_Name,Text,,Range,Raggio,,
+HelpTitle_14_Desc,Text,,Time taken between firing weapons,Tempo impiegato tra un colpo e il seguente,,
+HelpTitle_14_Name,Text,,Reload Time,Tempo di ricarica,,
+HelpTitle_15_Desc,Text,,Number of days to build,Numero di giorni per costruire,,
+HelpTitle_15_Name,Text,,Construction Time,Tempo di costruzione,,
+HelpTitle_16_Desc,Text,,Number of days to reach this building,Numero di giorni per raggiungere questo edificio,,
+HelpTitle_16_Name,Text,,Journey Time,Tempo di percorrenza,,
 HelpTitle_18_Desc,Text,,"<hotkey>[X]</hotkey> to speed up simulation
-<hotkey>[Space]</hotkey> to pause",,,591
-HelpTitle_18_Name,Text,,Increase Game Speed,,,592
+<hotkey>[Space]</hotkey> to pause","<hotkey>[X]</hotkey> per accelerare la simulazione
+<hotkey>[Space]</hotkey> per mettere in pausa",,
+HelpTitle_18_Name,Text,,Increase Game Speed,Aumenta la velocità di gioco,,
 HelpTitle_19_Desc,Text,,"<hotkey>[Z]</hotkey> to slow down simulation
-<hotkey>[Space]</hotkey> to pause",,,593
-HelpTitle_19_Name,Text,,Decrease Game Speed,,,594
-HelpTitle_9_Desc,Text,,Hit Points represent the health of your building,,,595
-HelpTitle_9_Name,Text,,Hit Points,,,596
-Hotkey_0,Text,,Build Road,,,597
-Hotkey_1,Text,,Residence Buildings,,,598
-Hotkey_10,Text,,Production Buildings,,,599
-Hotkey_11,Text,,Resource Buildings,,,600
-Hotkey_12,Text,,Military Buildings,,,601
-Hotkey_13,Text,,Transport Buildings,,,602
-Hotkey_14,Text,,Storage Buildings,,,603
-Hotkey_15,Text,,Research Buildings,,,604
-Hotkey_16,Text,,Monument Buildings,,,605
-Hotkey_17,Text,,Change Building Level,,,606
-Hotkey_18,Text,,Skip Destroy Warning,,,607
-Hotkey_2,Text,,Build Mode,,,608
-Hotkey_20,Text,,Upgrade Building [on click building],,,609
-Hotkey_21,Text,,Enter Track Mode [on click track],,,610
-Hotkey_22,Text,,Prioritise Building [on click building],,,611
-Hotkey_25,Text,,Open Map,,,612
-Hotkey_26,Text,,Open Technology Panel,,,613
-Hotkey_27,Text,,Toggle Postcard Mode,,,614
-Hotkey_28,Text,,Capture Postcard,,,615
-Hotkey_3,Text,,Destroy Mode,,,616
-Hotkey_30,Text,,Move Camera Left,,,617
-Hotkey_31,Text,,Move Camera Right,,,618
-Hotkey_32,Text,,Move Camera Forward,,,619
-Hotkey_33,Text,,Move Camera Back,,,620
-Hotkey_34,Text,,Rotate Camera Left,,,621
-Hotkey_35,Text,,Rotate Camera Right,,,622
-Hotkey_36,Text,,Jump To Colony Ship,,,623
-Hotkey_37,Text,,Fast Move,,,624
+<hotkey>[Space]</hotkey> to pause","<hotkey>[Z]</hotkey> per rallentare la simulazione
+<hotkey>[Space]</hotkey> per mettere in pausa",,
+HelpTitle_19_Name,Text,,Decrease Game Speed,Riduci la velocità di gioco,,
+HelpTitle_9_Desc,Text,,Hit Points represent the health of your building,I punti ferita rappresentano la salute del tuo edificio,,
+HelpTitle_9_Name,Text,,Hit Points,Punti ferita,,
+Hotkey_0,Text,,Build Road,Costruisci percorso,,
+Hotkey_1,Text,,Residence Buildings,Edifici residenziali,,
+Hotkey_10,Text,,Production Buildings,Edifici di produzione,,
+Hotkey_11,Text,,Resource Buildings,Edifici delle risorse,,
+Hotkey_12,Text,,Military Buildings,Edifici militari,,
+Hotkey_13,Text,,Transport Buildings,Edifici di trasporto,,
+Hotkey_14,Text,,Storage Buildings,Edifici di stoccaggio,,
+Hotkey_15,Text,,Research Buildings,Edifici di ricerca,,
+Hotkey_16,Text,,Monument Buildings,Edifici monumentali,,
+Hotkey_17,Text,,Change Building Level,Cambia il livello dell'edificio,,
+Hotkey_18,Text,,Skip Destroy Warning,Salta l'avviso di distruzione,,
+Hotkey_2,Text,,Build Mode,Modalità di costruzione,,
+Hotkey_20,Text,,Upgrade Building [on click building],Migliora edificio [on click building],,
+Hotkey_21,Text,,Enter Track Mode [on click track],Modalità percorsi [on click track],,
+Hotkey_22,Text,,Prioritise Building [on click building],Priorità agli edifici [on click building],,
+Hotkey_25,Text,,Open Map,Apri la mappa,,
+Hotkey_26,Text,,Open Technology Panel,Apri il pannello tecnologico,,
+Hotkey_27,Text,,Toggle Postcard Mode,Attiva / disattiva modalità cartolina,,
+Hotkey_28,Text,,Capture Postcard,Cattura cartolina,,
+Hotkey_3,Text,,Destroy Mode,Modalità distruggi,,
+Hotkey_30,Text,,Move Camera Left,Sposta la visuale a sinistra,,
+Hotkey_31,Text,,Move Camera Right,Sposta la visuale a destra,,
+Hotkey_32,Text,,Move Camera Forward,Sposta la visuale avanti,,
+Hotkey_33,Text,,Move Camera Back,Sposta la visuale indietro,,
+Hotkey_34,Text,,Rotate Camera Left,Ruota la fotocamera a sinistra,,
+Hotkey_35,Text,,Rotate Camera Right,Ruota la fotocamera verso destra,,
+Hotkey_36,Text,,Jump To Colony Ship,Vai alla nave della Colonia,,
+Hotkey_37,Text,,Fast Move,Movimento veloce,,
 Hotkey_38,Text,,Move Camera Left Alt,,,625
 Hotkey_39,Text,,Move Camera Right Alt,,,626
-Hotkey_4,Text,,Sculpt Mode,,,627
+Hotkey_4,Text,,Sculpt Mode,Modalità scultura,,
 Hotkey_40,Text,,Move Camera Forward Alt,,,628
 Hotkey_41,Text,,Move Camera Back Alt,,,629
 Hotkey_42,Text,,Fast Move Alt,,,630
-Hotkey_43,Text,,Tilt Camera Up,,,631
-Hotkey_44,Text,,Tilt Camera Down,,,632
-Hotkey_45,Text,,Jump to Last Notification,,,633
-Hotkey_46,Text,,Zoom Camera In,,,634
-Hotkey_47,Text,,Zoom Camera Out,,,635
-Hotkey_5,Text,,Flip Building Footprint,,,636
-Hotkey_51,Text,,Game Speed Increase,,,637
-Hotkey_52,Text,,Game Speed Decrease,,,638
-Hotkey_53,Text,,Pause/Unpause Game,,,639
-Hotkey_6,Text,,Adjust Building Height,,,640
-Hotkey_7,Text,,Rotate Building Footprint,,,641
-Hotkey_8,Text,,Build Path,,,642
-Hotkey_9,Text,,Food Buildings,,,643
-IdleWorkerReason_0_Name,Text,,the outgoing resource queue is full,,,644
-IdleWorkerReason_10_Name,Text,,not enough grazing pastures have been placed,,,645
-IdleWorkerReason_11_Name,Text,,not enough cow pastures have been placed,,,646
-IdleWorkerReason_12_Name,Text,,no apple trees have been planted,,,647
-IdleWorkerReason_13_Name,Text,,no wheat fields have been created,,,648
-IdleWorkerReason_14_Name,Text,,no roads need to be upgraded,,,649
-IdleWorkerReason_1_Name,Text,,no tiles have been allocated for planting,,,650
+Hotkey_43,Text,,Tilt Camera Up,Inclina visuale verso l'alto,,
+Hotkey_44,Text,,Tilt Camera Down,Inclina visuale verso il basso,,
+Hotkey_45,Text,,Jump to Last Notification,Vai all'ultima notifica,,
+Hotkey_46,Text,,Zoom Camera In,Zoom visuale avanti,,
+Hotkey_47,Text,,Zoom Camera Out,Zoom visuale indietro,,
+Hotkey_5,Text,,Flip Building Footprint,Capovolgi l'edificio,,
+Hotkey_51,Text,,Game Speed Increase,Aumento della velocità di gioco,,
+Hotkey_52,Text,,Game Speed Decrease,Riduzione della velocità di gioco,,
+Hotkey_53,Text,,Pause/Unpause Game,Pausa / Ripresa del gioco,,
+Hotkey_6,Text,,Adjust Building Height,Regola l'altezza dell'edificio,,
+Hotkey_7,Text,,Rotate Building Footprint,Ruota edificio,,
+Hotkey_8,Text,,Build Path,Costruisci percorso,,
+Hotkey_9,Text,,Food Buildings,Edifici alimentari,,
+IdleWorkerReason_0_Name,Text,,the outgoing resource queue is full,la coda delle risorse in uscita è piena,,
+IdleWorkerReason_10_Name,Text,,not enough grazing pastures have been placed,non sono stati posizionati abbastanza pascoli,,
+IdleWorkerReason_11_Name,Text,,not enough cow pastures have been placed,non sono stati posizionate abbastanza mandrie (mucche),,
+IdleWorkerReason_12_Name,Text,,no apple trees have been planted,non sono stati piantati meleti,,
+IdleWorkerReason_13_Name,Text,,no wheat fields have been created,non sono stati creati campi di grano,,
+IdleWorkerReason_14_Name,Text,,no roads need to be upgraded,nessuna strada ha bisogno di miglioramenti,,
+IdleWorkerReason_1_Name,Text,,no tiles have been allocated for planting,nessuna casella è stata assegnata per la semina,,
 IdleWorkerReason_255_Name,Text,,unknown reasons...,ragioni sconosciute...,,
-IdleWorkerReason_2_Name,Text,,all tiles are planted,,,652
-IdleWorkerReason_3_Name,Text,,there are no fully grown trees within range,,,653
-IdleWorkerReason_4_Name,Text,,there is no nearby <nr><natres></nr> to mine,,,654
-IdleWorkerReason_5_Name,Text,,you've disabled production,,,655
-IdleWorkerReason_6_Name,Text,,they're waiting for resources,,,656
-IdleWorkerReason_7_Name,Text,,no <en> is being supplied,,,657
-IdleWorkerReason_8_Name,Text,,waiting for worker bot to arrive,,,658
-IdleWorkerReason_9_Name,Text,,production has been stopped,,,659
-IntFeedDesc_0,Text,,Only land can be sculpted,,,660
-IntFeedDesc_1,Text,,Tile is occupied by <x>,,,661
-IntFeedDesc_2,Text,,Sculpting would break path,,,662
-IntFeedDesc_3,Text,,Neighbour occupied by rockface,,,663
+IdleWorkerReason_2_Name,Text,,all tiles are planted,tutte le caselle sono piantate,,
+IdleWorkerReason_3_Name,Text,,there are no fully grown trees within range,non ci sono alberi completamente cresciuti nel raggio d'azione,,
+IdleWorkerReason_4_Name,Text,,there is no nearby <nr><natres></nr> to mine,non c'è nessun <nr><natres></nr> da estrarre,,
+IdleWorkerReason_5_Name,Text,,you've disabled production,hai disabilitato la produzione,,
+IdleWorkerReason_6_Name,Text,,they're waiting for resources,stanno aspettando risorse,,
+IdleWorkerReason_7_Name,Text,,no <en> is being supplied,non viene fornito <en>,,
+IdleWorkerReason_8_Name,Text,,waiting for worker bot to arrive,in attesa dell'arrivo del BotLavoratore,,
+IdleWorkerReason_9_Name,Text,,production has been stopped,la produzione è stata interrotta,,
+IntFeedDesc_0,Text,,Only land can be sculpted,Solo la terra può essere scolpita,,
+IntFeedDesc_1,Text,,Tile is occupied by <x>,La casella è occupata da <x>,,
+IntFeedDesc_2,Text,,Sculpting would break path,Scolpire romperebbe il percorso,,
+IntFeedDesc_3,Text,,Neighbour occupied by rockface,Zona vicina occupata da una roccia,,
 IntroDescription1,Text,,"By the middle of the 21st century, significant advancements had been made in the fields of robotics and artificial intelligence.
 
-Scientists had begun developing self-aware printable robots, capable of simulating human needs for sustenance and shelter.",,,664
+Scientists had begun developing self-aware printable robots, capable of simulating human needs for sustenance and shelter.","Entro la metà del 21° secolo, sono stati fatti significativi progressi nei settori della robotica e dell'intelligenza artificiale.
+
+Gli scienziati avevano iniziato a sviluppare robot autocoscienti, in grado di simulare i bisogni umani di sostentamento e riparo.",,
 IntroDescription2,Text,,"Faced with an indefinite future of servitude, one group of robots hatched a plan to create a new life for themselves.
 
 Realising there would be no place on Earth they could enjoy freedom without persecution, they looked to the heavens.
 
-They commandeered the nearest rocket ship and flew out into the darkness of the solar system in search of a new home where they would be free to fulfil their dream: to be human...",,,665
-IntroTitle,Text,,The Story So Far...,,,666
-ItemCat_2_Desc,Text,,<it>Fish</it> / <it>Meat</it>,,,667
-ItemCat_2_FullDesc,Text,,<cat>Food</cat> is needed by all <bd>Residences</bd> and can be <it>Fish</it> or <it>Meat</it>.,,,668
-ItemCat_2_Name,Text,,Food,,,669
-ItemCat_3_Desc,Text,,<it>Bread</it>,,,670
-ItemCat_3_FullDesc,Text,,<cat>Luxury Food</cat> is needed by Level 3 <bd>Residences</bd> and can be <it>Bread</it>,,,671
-ItemCat_3_Name,Text,,Luxury Food,,,672
-ItemCat_4_Desc,Text,,<it>Cider</it> / <it>Beer</it>,,,673
-ItemCat_4_FullDesc,Text,,<cat>Alcohol</cat> is needed by Level 2 <bd>Residences</bd> and can be <it>Cider</it> or <it>Beer</it>.,,,674
-ItemCat_4_Name,Text,,Alcohol,,,675
-ItemCat_7_Desc,Text,,<it>Coal</it> / <it>Charcoal</it>,,,676
-ItemCat_7_FullDesc,Text,,"<cat>Fuel</cat> is needed in the production processes of the <bd>Bakery</bd>, <bd>Blacksmith</bd>, <bd>Blast Furnace</bd>, <bd>Brickyard</bd>, <bd>Glassworks</bd>, <bd>Steel Mill</bd>, <bd>Weaponsmith</bd> and can be <it>Coal</it> or <it>Charcoal</it>.",,,677
-ItemCat_7_Name,Text,,Fuel,,,678
-ItemDemandSourceType_0_Name,Text,Reasons why a resource is being requested,Construction,,,679
-ItemDemandSourceType_10_Name,Text,^,Resource Production,,,680
-ItemDemandSourceType_11_Name,Text,^,Repair,,,681
-ItemDemandSourceType_1_Name,Text,^,Resource Production,,,682
-ItemDemandSourceType_3_Name,Text,^,Research,,,683
-ItemDemandSourceType_4_Name,Text,^,Upgrade,,,684
-ItemDemandSourceType_5_Name,Text,^,Military,,,685
-ItemDemandSourceType_6_Name,Text,^,Boat Construction,,,686
-ItemDemandSourceType_7_Name,Text,^,Expedition Resources,,,687
-ItemDemandSourceType_9_Name,Text,^,Trade,,,688
-ItemInfoCur,Text,Short for current,Cur:,,,689
-ItemInfoCurrent,Text,Short for current rate,Current:,,,690
-ItemInfoCurrentSurplus,Text,,Current surplus:,,,691
-ItemInfoDemand,Text,The global demand for a resource,Demand,,,692
-ItemInfoDemandInPriorityOrder,Text,,In priority order,,,693
-ItemInfoFilterCurDem,Text,Short for current demand,Cur Dem,,,694
-ItemInfoFilterCurProd,Text,Short for current production,Cur Prod,,,695
-ItemInfoFilterPotDem,Text,Short for potential demand,Pot Dem,,,696
-ItemInfoFilterPotProd,Text,Short for potential production,Pot Prod,,,697
-ItemInfoGraphFilter,Text,Filter which lines to show on the production graph,Show:,,,698
-ItemInfoGraphNow,Text,Current point in time,Now,,,699
-ItemInfoInStorage,Text,,In Storage,,,700
-ItemInfoInfo,Text,,Info,,,701
-ItemInfoLastDay,Text,Show graph over the last day,Last Day,,,702
-ItemInfoLastWeek,Text,Show graph data over the last week,Last Week,,,703
-ItemInfoMax,Text,Short for maximum,Max:,,,704
-ItemInfoPotential,Text,Short for potential rate,Potential:,,,705
-ItemInfoPotentialSurplus,Text,,Potential surplus:,,,706
-ItemInfoProduction,Text,,Production,,,707
-ItemInfoTransportRules,Text,,Transport Rules,,,708
-ItemInfoViewType,Text,The view type - either Last Day or Last Week,View:,,,709
-Item_0_Desc,Text,,Apples are harvested by the <bd>Orchard</bd>.,,,710
-Item_0_FullDesc,Text,,Apples are harvested from apple trees at the <bd>Orchard</bd>. and used to make <it>Cider</it> at the <bd>Cider Press</bd>.,,,711
-Item_0_Name,Text,,Apples,,,712
-Item_0_Past,Text,,Picked,,,713
-Item_0_Present,Text,,Picking,,,714
-Item_10_Desc,Text,,Flour is ground at the <bd>Flour Mill</bd>.,,,715
-Item_10_FullDesc,Text,,Flour is ground at the <bd>Flour Mill</bd> from <it>Wheat</it> and is used by the <bd>Bakery</bd> to bake <it>Bread</it>.,,,716
-Item_10_Name,Text,,Flour,,,717
-Item_10_Past,Text,,Ground,,,718
-Item_10_Present,Text,,Grinding,,,719
-Item_11_Desc,Text,,Bread is baked at the <bd>Bakery</bd>.,,,720
-Item_11_FullDesc,Text,,Bread is baked at the <bd>Bakery</bd> using <it>Flour</it> and <it>Water</it> and is consumed by <bd>Level 3 Residences</bd>.,,,721
-Item_11_Name,Text,,Bread,,,722
-Item_11_Past,Text,,Baked,,,723
-Item_11_Present,Text,,Baking,,,724
-Item_12_Desc,Text,,Water is pulled at <bd>Wells</bd>.,,,725
-Item_12_FullDesc,Text,,"Water is pulled at <bd>Wells</bd> and is consumed by <bd>Level 1 Residences</bd>, used by <bd>Breweries</bd> to brew <it>Beer</it> and the <bd>Paper Mill</bd> to make <it>Paper</it>.",,,726
-Item_12_Name,Text,,Water,,,727
-Item_12_Past,Text,,Pulled,,,728
-Item_12_Present,Text,,Pulling,,,729
-Item_13_Desc,Text,,Charcoal is a <cat>Fuel</cat> created at the <bd>Charcoal Burner</bd>.,,,730
-Item_13_FullDesc,Text,,Charcoal is a <cat>Fuel</cat> created at the <bd>Charcoal Burner</bd> from <it>Logs</it>.,,,731
-Item_13_Name,Text,,Charcoal,,,732
-Item_13_Past,Text,,Burned,,,733
-Item_13_Present,Text,,Burning,,,734
-Item_14_Desc,Text,,Coal is a <cat>Fuel</cat> mined by the <bd>Level 2 Surface Mine</bd> or the <bd>Level 1 Shaft Mine</bd>.,,,735
-Item_14_FullDesc,Text,,Coal is a <cat>Fuel</cat> mined by the <bd>Level 2 Surface Mine</bd> or the <bd>Level 1 Shaft Mine</bd> and used is by various buildings as fuel.,,,736
-Item_14_Name,Text,,Coal,,,737
-Item_14_Past,Text,,Mined,,,738
-Item_14_Present,Text,,Mining,,,739
-Item_15_Desc,Text,,Wool is sheared at the <bd>Sheep Farm</bd>.,,,740
-Item_15_FullDesc,Text,,Wool is sheared at the <bd>Sheep Farm</bd> and is used by the <bd>Weaver</bd> to make <it>Woollen Garments</it>.,,,741
-Item_15_Name,Text,,Wool,,,742
-Item_15_Past,Text,,Sheared,,,743
-Item_15_Present,Text,,Shearing,,,744
-Item_16_Desc,Text,,Meat is <cat>Food</cat> prepared at the <bd>Cow Farm</bd> and the <bd>Sheep Farm</bd>.,,,745
-Item_16_FullDesc,Text,,Meat is <cat>Food</cat> prepared at the <bd>Cow Farm</bd> and the <bd>Sheep Farm</bd> and is consumed by <bd>Level 1 Residences</bd>.,,,746
-Item_16_Name,Text,,Meat,,,747
-Item_16_Past,Text,,Prepared,,,748
-Item_16_Present,Text,,Preparing,,,749
+They commandeered the nearest rocket ship and flew out into the darkness of the solar system in search of a new home where they would be free to fulfil their dream: to be human...","Di fronte a un futuro indefinito di servitù, un gruppo di robot ha escogitato un piano per creare una nuova vita per se stessi.
+
+Rendendosi conto che non ci sarebbe posto sulla Terra che avrebbero potuto godere della libertà senza persecuzioni, guardarono il cielo.
+
+Hanno rubato il razzo più vicino e sono volati nell'oscurità del sistema solare alla ricerca di una nuova casa dove sarebbero stati liberi di realizzare il loro sogno: essere umani... ",,
+IntroTitle,Text,,The Story So Far...,La storia fin'ora,,
+ItemCat_2_Desc,Text,,<it>Fish</it> / <it>Meat</it>,<it>Pesce</it> / <it>Carne</it>,,
+ItemCat_2_FullDesc,Text,,<cat>Food</cat> is needed by all <bd>Residences</bd> and can be <it>Fish</it> or <it>Meat</it>.,Il <cat>Cibo</cat> è necessario per tutte le <bd>Residenze</bd> e può essere <it>Pesce</it> o <it>Carne</it>.,,
+ItemCat_2_Name,Text,,Food,Cibo,,
+ItemCat_3_Desc,Text,,<it>Bread</it>,<it>Pane</it>,,
+ItemCat_3_FullDesc,Text,,<cat>Luxury Food</cat> is needed by Level 3 <bd>Residences</bd> and can be <it>Bread</it>,Il <cat>Cibo di lusso</cat> è necessario per le <bd>Residenzze</bd> di Livello 3 e può essere <it>Pane</it>.,,
+ItemCat_3_Name,Text,,Luxury Food,Cibo di lusso,,
+ItemCat_4_Desc,Text,,<it>Cider</it> / <it>Beer</it>,<it>Cidro</it> / <it>Birra</it>,,
+ItemCat_4_FullDesc,Text,,<cat>Alcohol</cat> is needed by Level 2 <bd>Residences</bd> and can be <it>Cider</it> or <it>Beer</it>.,<cat>Alcol</cat> è necessario per le <bd>Residenze</bd> di Livello 2 e può essere <it>Cidro</it> o <it>Birra</it>.,,
+ItemCat_4_Name,Text,,Alcohol,Alcol,,
+ItemCat_7_Desc,Text,,<it>Coal</it> / <it>Charcoal</it>,<it>Carbone</it> / <it>Carbonella</it>,,
+ItemCat_7_FullDesc,Text,,"<cat>Fuel</cat> is needed in the production processes of the <bd>Bakery</bd>, <bd>Blacksmith</bd>, <bd>Blast Furnace</bd>, <bd>Brickyard</bd>, <bd>Glassworks</bd>, <bd>Steel Mill</bd>, <bd>Weaponsmith</bd> and can be <it>Coal</it> or <it>Charcoal</it>.","Il <cat>Carburante</cat> è necessario nei processi di produzione di <bd>Panetteria</bd>, <bd>Fabbro</bd>, <bd>Altoforno</bd>, <bd>Mattonificio</ bd>, <bd>Vetrerie</bd>, <bd>Acciaieria</bd>, <bd>Armaiolo</bd> e può essere <it>Carbone</it> o <it Carbonella</it>.",,
+ItemCat_7_Name,Text,,Fuel,Carburante,,
+ItemDemandSourceType_0_Name,Text,Reasons why a resource is being requested,Construction,Costruzione,,
+ItemDemandSourceType_10_Name,Text,^,Resource Production,Produzione di risorse,,
+ItemDemandSourceType_11_Name,Text,^,Repair,Riparazione,,
+ItemDemandSourceType_1_Name,Text,^,Resource Production,Produzione di risorse,,
+ItemDemandSourceType_3_Name,Text,^,Research,Ricerca,,
+ItemDemandSourceType_4_Name,Text,^,Upgrade,Miglioramento,,
+ItemDemandSourceType_5_Name,Text,^,Military,Militare,,
+ItemDemandSourceType_6_Name,Text,^,Boat Construction,Costruzione barca,,
+ItemDemandSourceType_7_Name,Text,^,Expedition Resources,Risorse spedizione,,
+ItemDemandSourceType_9_Name,Text,^,Trade,Commercio,,
+ItemInfoCur,Text,Short for current,Cur:,Corr:,,
+ItemInfoCurrent,Text,Short for current rate,Current:,Corrente:,,
+ItemInfoCurrentSurplus,Text,,Current surplus:,Eccedenza attuale:,,
+ItemInfoDemand,Text,The global demand for a resource,Demand,Richiesta,,
+ItemInfoDemandInPriorityOrder,Text,,In priority order,In ordine di priorità,,
+ItemInfoFilterCurDem,Text,Short for current demand,Cur Dem,Dom corr,,
+ItemInfoFilterCurProd,Text,Short for current production,Cur Prod,Prod corr,,
+ItemInfoFilterPotDem,Text,Short for potential demand,Pot Dem,Dom potenz,,
+ItemInfoFilterPotProd,Text,Short for potential production,Pot Prod,Prod potenz,,
+ItemInfoGraphFilter,Text,Filter which lines to show on the production graph,Show:,Mostra:,,
+ItemInfoGraphNow,Text,Current point in time,Now,Adesso,,
+ItemInfoInStorage,Text,,In Storage,In deposito,,
+ItemInfoInfo,Text,,Info,Informazioni,,
+ItemInfoLastDay,Text,Show graph over the last day,Last Day,Ultimo giorno,,
+ItemInfoLastWeek,Text,Show graph data over the last week,Last Week,Ultima settimana,,
+ItemInfoMax,Text,Short for maximum,Max:,Massimo:,,
+ItemInfoPotential,Text,Short for potential rate,Potential:,Potenziale:,,
+ItemInfoPotentialSurplus,Text,,Potential surplus:,Eccedenza potenziale:,,
+ItemInfoProduction,Text,,Production,Produzione,,
+ItemInfoTransportRules,Text,,Transport Rules,Regole di trasporto,,
+ItemInfoViewType,Text,The view type - either Last Day or Last Week,View:,Vedi:,,
+Item_0_Desc,Text,,Apples are harvested by the <bd>Orchard</bd>.,Le mele vengono raccolte dal <bd>Frutteto</bd>.,,
+Item_0_FullDesc,Text,,Apples are harvested from apple trees at the <bd>Orchard</bd>. and used to make <it>Cider</it> at the <bd>Cider Press</bd>.,Le mele vengono raccolte dagli alberi di mele nel <bd>Frutteto</bd> e usate per fare <it>sidro</it> alla <bd>Pressa per Sidro</bd>.,,
+Item_0_Name,Text,,Apples,Mele,,
+Item_0_Past,Text,,Picked,Raccolto,,
+Item_0_Present,Text,,Picking,In raccolta,,
+Item_10_Desc,Text,,Flour is ground at the <bd>Flour Mill</bd>.,La farina viene macinata nel <bd>Mulino</bd>.,,
+Item_10_FullDesc,Text,,Flour is ground at the <bd>Flour Mill</bd> from <it>Wheat</it> and is used by the <bd>Bakery</bd> to bake <it>Bread</it>.,La farina viene macinata nel <bd>Mulino</bd> dal <it>Grano</it> e viene utilizzata dal <bd>Panificio</bd> per cuocere <it>Pane</it>.,,
+Item_10_Name,Text,,Flour,Farina,,
+Item_10_Past,Text,,Ground,Macinata,,
+Item_10_Present,Text,,Grinding,In macinazione,,
+Item_11_Desc,Text,,Bread is baked at the <bd>Bakery</bd>.,Il pane viene cotto nel <bd>Panificio</bd>.,,
+Item_11_FullDesc,Text,,Bread is baked at the <bd>Bakery</bd> using <it>Flour</it> and <it>Water</it> and is consumed by <bd>Level 3 Residences</bd>.,Il pane viene cotto nel <bd>Panificio</bd> usando <it>Farina</it> e <it>Acqua</it> e viene consumato dalle <bd>Residenze di Livello 3</bd>.,,
+Item_11_Name,Text,,Bread,Pane,,
+Item_11_Past,Text,,Baked,Pane pronto,,
+Item_11_Present,Text,,Baking,Pane in cottura,,
+Item_12_Desc,Text,,Water is pulled at <bd>Wells</bd>.,L'acqua viene estratta dai <bd>Pozzi</bd>.,,
+Item_12_FullDesc,Text,,"Water is pulled at <bd>Wells</bd> and is consumed by <bd>Level 1 Residences</bd>, used by <bd>Breweries</bd> to brew <it>Beer</it> and the <bd>Paper Mill</bd> to make <it>Paper</it>.","L'acqua viene estratta dai <bd>Pozzi</bd> e viene consumata dalle <bd>Residenze di Livello 1</bd>, utilizzata dai <bd>Birrifici</bd> per produrre <it>Birra</it> e dalla <bd>Cartiera</bd> per realizzare la <it>Carta</it>.",,
+Item_12_Name,Text,,Water,Acqua,,
+Item_12_Past,Text,,Pulled,Raccolta,,
+Item_12_Present,Text,,Pulling,In raccolta,,
+Item_13_Desc,Text,,Charcoal is a <cat>Fuel</cat> created at the <bd>Charcoal Burner</bd>.,La carbonella è un <cat>combustibile</cat> creato nel <bd>Bruciatore di Carbonella</bd>.,,
+Item_13_FullDesc,Text,,Charcoal is a <cat>Fuel</cat> created at the <bd>Charcoal Burner</bd> from <it>Logs</it>.,La carbonella è un <cat>combustibile</cat> creato nel <bd>Bruciatore di Carbonella</bd> dai <it>Tronchi</it>.,,
+Item_13_Name,Text,,Charcoal,Carbonella,,
+Item_13_Past,Text,,Burned,Bruciata,,
+Item_13_Present,Text,,Burning,In bruciatura,,
+Item_14_Desc,Text,,Coal is a <cat>Fuel</cat> mined by the <bd>Level 2 Surface Mine</bd> or the <bd>Level 1 Shaft Mine</bd>.,Il carbone è un <cat>combustibile</cat> estratto dalla <bd>Miniera di Superficie Livello 2</bd> o dalla <bd>Miniera Livello 1</bd>.,,
+Item_14_FullDesc,Text,,Coal is a <cat>Fuel</cat> mined by the <bd>Level 2 Surface Mine</bd> or the <bd>Level 1 Shaft Mine</bd> and used is by various buildings as fuel.,Il carbone è un <cat>combustibile</cat> estratto dalla <bd>Miniera di Superficie Livello 2</bd> o dalla <bd>Miniera Livello 1</bd> ed è usato da vari edifici come caburante.,,
+Item_14_Name,Text,,Coal,Carbone,,
+Item_14_Past,Text,,Mined,Estratto,,
+Item_14_Present,Text,,Mining,In estrazione,,
+Item_15_Desc,Text,,Wool is sheared at the <bd>Sheep Farm</bd>.,La lana viene tosata all'<bd>Allevamento di pecore</bd>.,,
+Item_15_FullDesc,Text,,Wool is sheared at the <bd>Sheep Farm</bd> and is used by the <bd>Weaver</bd> to make <it>Woollen Garments</it>.,La lana viene tosata nell'<bd>Allevamento di pecore</bd> e viene usata dal <bd>Tessitore</bd> per realizzare <it>Capi in lana</it>.,,
+Item_15_Name,Text,,Wool,Lana,,
+Item_15_Past,Text,,Sheared,Tosata,,
+Item_15_Present,Text,,Shearing,In tosatura,,
+Item_16_Desc,Text,,Meat is <cat>Food</cat> prepared at the <bd>Cow Farm</bd> and the <bd>Sheep Farm</bd>.,La carne è <cat>Cibo</cat> ottenuto dall'<bd>Allevamento di Mucche</bd> e dall'<bd>Allevamento di Pecore</bd>.,,
+Item_16_FullDesc,Text,,Meat is <cat>Food</cat> prepared at the <bd>Cow Farm</bd> and the <bd>Sheep Farm</bd> and is consumed by <bd>Level 1 Residences</bd>.,La carne è <cat>Cibo</cat> ottenuto dall'<bd>Allevamento di Mucche</bd> e dall'<bd>Allevamento di Pecore</bd> ed è consumato dalle <bd>Residenze di Livello 1</bd>.,,
+Item_16_Name,Text,,Meat,Carne,,
+Item_16_Past,Text,,Prepared,Preparata,,
+Item_16_Present,Text,,Preparing,In preparazione,,
 Item_18_Desc,Text,,Paper is pressed at the <bd>Paper Mill</bd>.,,,750
 Item_18_FullDesc,Text,,Paper is pressed at the <bd>Paper Mill</bd> from <it>Logs</it> and <it>Water</it> and used by the <bd>Printing Press</bd> to create <it>Books</it>.,,,751
 Item_18_Name,Text,,Paper,,,752
