@@ -320,221 +320,236 @@ BuildingsPanelAllBuildings,Text,,<< All Buildings,<< Tutti gli edifici,,
 Campaign,Text,,Campaign,Campagna,,
 Campaign Maps,Text,,Campaign Maps,Mappe Campagna,,
 Cancel,Text,,Cancel,Annulla,,
-Casual,Text,Difficulty Level,Casual,,,303
-Change,Text,,Change,,,304
-Changes to this file have not been published to Steam Workshop.,Text,,Changes to this file have not been published to Steam Workshop.,,,305
-Choose Map,Text,,Choose Map,,,306
-Colony Colour,Text,Select your Colony Colour,Colony Colour,,,307
-Colony Statistics,Text,,Colony Statistics,,,308
-ColonyStatisticsCurrentProductivity,Text,,Current Productivity,,,309
-ColonyStatisticsFilterAlerts,Text,,Alerts,,,310
-ColonyStatisticsFilterOnTime,Text,,On Time,,,311
-ColonyStatisticsFilterType,Text,,Filter:,,,312
-ColonyStatisticsFilterWarnings,Text,,Warnings,,,313
-ColonyStatisticsFiltersOff,Text,,All filters are turned off!,,,314
-ColonyStatisticsIncomeHeader,Text,,Money Income,,,315
-ColonyStatisticsLateResourcesHeader,Text,,Recent Late Resources,,,316
-ColonyStatisticsNoMatch,Text,,No recently delivered resources match the filters.,,,317
-ColonyStatisticsProductivityHeader,Text,,Colony Productivity,,,318
-ColonyStatsTooltipBlockedRoadsDesc,Text,,The number of roads where a carrybot is blocked because a road post is full,,,319
-ColonyStatsTooltipBlockedRoadsTitle,Text,,Blocked Roads,,,320
-ColonyStatsTooltipIncomeRateDesc,Text,,The amount of money earned on average per day over the last month,,,321
-ColonyStatsTooltipIncomeRateTitle,Text,,Income Rate,,,322
-ColonyStatsTooltipProductivityDesc,Text,,The average productivity of all the buildings in your colony,,,323
-ColonyStatsTooltipProductivityTitle,Text,,Colony Productivity,,,324
-ColonyStatsTooltipResourceDeliveryDesc,Text,,The precentage of resources delivered in the last week that were on time,,,325
-ColonyStatsTooltipResourceDeliveryTitle,Text,,Resource Delivery,,,326
-ColonyStatsTooltipResourceProductionDesc,Text,,The combined production rate of all your production buildings,,,327
-ColonyStatsTooltipResourceProductionTitle,Text,,Colony Resource Production,,,328
-Construction Hint,Text,A tip when player is in construction mode,Construction Hint,,,329
-Construction Priorities,Text,,Construction Priorities,,,330
-ConstructionBuildingLimit,Text,Info if the player is only allowed to have a certain amount of a building,Building Limit,,,331
-ConstructionBuildingLimitHit,Text,,You have reached the maximum allowed!,,,332
-ConstructionCanMine,Text,Which resources can this building mine,Can Mine:,,,333
-ConstructionCapacity,Text,How many resources can be stored,Capacity,,,334
-ConstructionCosts,Text,Head of section listing construction costs,Construction,,,335
-ConstructionHintCtrl,Text,,Hold down [Ctrl] and move mouse up and down to raise or lower the building's height,,,336
-ConstructionMilitaryAttack,Text,Building military attacking stats,Military Attack,,,337
-ConstructionMilitaryCannotAttack,Text,,Cannot attack at this level,,,338
-ConstructionMilitaryDefence,Text,Building defence stats,Military Defence,,,339
-ConstructionRequirements,Text,Technology required to be able to build this building,Requirements,,,340
-Create New Map,Text,,Create New Map,,,341
-Credits,Text,,Credits,,,342
-Custom Maps,Text,,Custom Maps,,,343
-Difficulty,Text,,Difficulty,,,344
-Edit,Text,Open the map in the map editor,Edit,,,345
-EffectsVolume,Text,(Sound) Effects Volume,Effects Volume,,,346
-EntPanelHead_0,Text,Title of UI panel,Construction,,,347
-EntPanelHead_1,Text,,Production,,,348
-EntPanelHead_10,Text,,Boats,,,349
-EntPanelHead_100,Text,,Transport Route,,,350
-EntPanelHead_11,Text,,Expedition,,,351
-EntPanelHead_12,Text,,Trains,,,352
-EntPanelHead_13,Text,,Sell Resources,,,353
-EntPanelHead_14,Text,,<x>,,,354
-EntPanelHead_15,Text,,Buy Resources,,,355
-EntPanelHead_16,Text,,Resource Statistics,,,356
-EntPanelHead_17,Text,,Military Activity Log,,,357
-EntPanelHead_19,Text,,Production Statistics,,,358
-EntPanelHead_2,Text,,Resources,,,359
-EntPanelHead_20,Text,,Research Statistics,,,360
-EntPanelHead_21,Text,,Connections,,,361
-EntPanelHead_22,Text,,Resource Import Rules,,,362
-EntPanelHead_23,Text,,Resource Export Rules,,,363
-EntPanelHead_3,Text,,Military,,,364
-EntPanelHead_30,Text,,Resources,,,365
-EntPanelHead_31,Text,,Expedition,,,366
-EntPanelHead_32,Text,,Boat Instructions,,,367
-EntPanelHead_33,Text,,Transport Route,,,368
-EntPanelHead_4,Text,,Upgrade,,,369
-EntPanelHead_40,Text,,Boatyard Docks,,,370
-EntPanelHead_5,Text,,Research,,,371
-EntPanelHead_50,Text,,Transport Rules,,,372
-EntPanelHead_51,Text,,Resources,,,373
-EntPanelHead_52,Text,,Transport Connections,,,374
-EntPanelHead_60,Text,,Journey,,,375
-EntPanelHead_7,Text,,<x>,,,376
-EntPanelHead_72,Text,,Statistics,,,377
-EntPanelHead_8,Text,,Debug,,,378
-EntPanelHead_80,Text,,Info,,,379
-EntPanelHead_90,Text,,Info,,,380
-EntityBoatyardDockBeginConstruction,Text,,Begin Construction,,,381
-EntityBoatyardDockBoatBuilding,Text,,Building {0},,,382
-EntityBoatyardDockBoatCapacity,Text,,Capacity: {0},,,383
-EntityBoatyardDockBoatDimensions,Text,,"Length: {0}, Breadth: {1}",,,384
-EntityBoatyardDockBoatInfoHeader,Text,,Info,,,385
-EntityBoatyardDockBoatReady,Text,,{0} is ready!,,,386
-EntityBoatyardDockBoatReadyDesc,Text,,Select the boat and either create a transport route or prepare a colony expedition at a harbour.,,,387
-EntityBoatyardDockBoatSpeed,Text,,Speed: {0},,,388
-EntityBoatyardDockChangeBoat,Text,,Change Boat,,,389
-EntityBoatyardDockConstructionHeader,Text,,Construction,,,390
-EntityBuildingPriorityLayersChangeAction,Text,,Change Tiles ({0}),,,391
-EntityBuildingPriorityLayersClearTiles,Text,,Clear Tiles,,,392
-EntityBuildingPriorityLayersCount,Text,,Tiles selected: {0},,,393
+Casual,Text,Difficulty Level,Casual,Facile,,
+Change,Text,,Change,Cambia,,
+Changes to this file have not been published to Steam Workshop.,Text,,Changes to this file have not been published to Steam Workshop.,Le modifiche a questo file non sono state pubblicate nello Steam Workshop.,,
+Choose Map,Text,,Choose Map,Scegli mappa,,
+Colony Colour,Text,Select your Colony Colour,Colony Colour,Colore Colonia,,
+Colony Statistics,Text,,Colony Statistics,Statistiche Colonia,,
+ColonyStatisticsCurrentProductivity,Text,,Current Productivity,Produttività corrente,,
+ColonyStatisticsFilterAlerts,Text,,Alerts,Avvisi,,
+ColonyStatisticsFilterOnTime,Text,,On Time,Puntuale,,
+ColonyStatisticsFilterType,Text,,Filter:,Filtro:,,
+ColonyStatisticsFilterWarnings,Text,,Warnings,Avvertimenti,,
+ColonyStatisticsFiltersOff,Text,,All filters are turned off!,Tutti i filtri sono disattivati,,
+ColonyStatisticsIncomeHeader,Text,,Money Income,Reddito,,
+ColonyStatisticsLateResourcesHeader,Text,,Recent Late Resources,Risorse consegnate in ritardo di recente,,
+ColonyStatisticsNoMatch,Text,,No recently delivered resources match the filters.,Nessuna risorsa consegnata di recente corrisponde ai filtri,,
+ColonyStatisticsProductivityHeader,Text,,Colony Productivity,Produttività della Colonia,,
+ColonyStatsTooltipBlockedRoadsDesc,Text,,The number of roads where a carrybot is blocked because a road post is full,Il numero di strade in cui un BotTrasportatore è bloccato perchè un incrocio è pieno,,
+ColonyStatsTooltipBlockedRoadsTitle,Text,,Blocked Roads,Strade bloccate,,
+ColonyStatsTooltipIncomeRateDesc,Text,,The amount of money earned on average per day over the last month,la quantitò di denaro guadagnata in media al giorno nell'ultimo mese,,
+ColonyStatsTooltipIncomeRateTitle,Text,,Income Rate,Tasso di reddito,,
+ColonyStatsTooltipProductivityDesc,Text,,The average productivity of all the buildings in your colony,La produttivitò media di tutti gli edifici della tua colonia,,
+ColonyStatsTooltipProductivityTitle,Text,,Colony Productivity,Produttività della colonia,,
+ColonyStatsTooltipResourceDeliveryDesc,Text,,The precentage of resources delivered in the last week that were on time,Percentuale di risorse consegnate puntuali nell'ultima settimana,,
+ColonyStatsTooltipResourceDeliveryTitle,Text,,Resource Delivery,Consegna delle risorse,,
+ColonyStatsTooltipResourceProductionDesc,Text,,The combined production rate of all your production buildings,Il tasso di produzione combinato di tutti gli edifici di produzione,,
+ColonyStatsTooltipResourceProductionTitle,Text,,Colony Resource Production,Produzione di risorse della Colonia,,
+Construction Hint,Text,A tip when player is in construction mode,Construction Hint,Suggerimento per la costruzione,,
+Construction Priorities,Text,,Construction Priorities,Priorità di costruzione,,
+ConstructionBuildingLimit,Text,Info if the player is only allowed to have a certain amount of a building,Building Limit,Limite di costruzione,,
+ConstructionBuildingLimitHit,Text,,You have reached the maximum allowed!,Hai raggiunto il massimo consentito!,,
+ConstructionCanMine,Text,Which resources can this building mine,Can Mine:,Puoi estrarre:,,
+ConstructionCapacity,Text,How many resources can be stored,Capacity,Capacità,,
+ConstructionCosts,Text,Head of section listing construction costs,Construction,Costruzioni,,
+ConstructionHintCtrl,Text,,Hold down [Ctrl] and move mouse up and down to raise or lower the building's height,Tieni premuto [Ctrl] e muovi il mouse su e giù per alzare o abbassare l'altezza della costruzione,,
+ConstructionMilitaryAttack,Text,Building military attacking stats,Military Attack,Attacco militare,,
+ConstructionMilitaryCannotAttack,Text,,Cannot attack at this level,Impossibile attaccare a questo livello,,
+ConstructionMilitaryDefence,Text,Building defence stats,Military Defence,Difese militari,,
+ConstructionRequirements,Text,Technology required to be able to build this building,Requirements,Requisiti,,
+Create New Map,Text,,Create New Map,Crea una nuova mappa,,
+Credits,Text,,Credits,Crediti,,
+Custom Maps,Text,,Custom Maps,Mappe personalizzate,,
+Difficulty,Text,,Difficulty,Difficoltà,,
+Edit,Text,Open the map in the map editor,Edit,Modifica,,
+EffectsVolume,Text,(Sound) Effects Volume,Effects Volume,Volume effetti,,
+EntPanelHead_0,Text,Title of UI panel,Construction,Costruzione,,
+EntPanelHead_1,Text,,Production,Produzione,,
+EntPanelHead_10,Text,,Boats,Barche,,
+EntPanelHead_100,Text,,Transport Route,Percorsi di trasporto,,
+EntPanelHead_11,Text,,Expedition,Spedizione,,
+EntPanelHead_12,Text,,Trains,Treni,,
+EntPanelHead_13,Text,,Sell Resources,Vendi risorse,,
+EntPanelHead_14,Text,,<x>,<x>,,
+EntPanelHead_15,Text,,Buy Resources,Compra risorse,,
+EntPanelHead_16,Text,,Resource Statistics,Statistiche delle risorse,,
+EntPanelHead_17,Text,,Military Activity Log,Registro delle attività militari.,,
+EntPanelHead_19,Text,,Production Statistics,Statistiche di produzione,,
+EntPanelHead_2,Text,,Resources,Risorse,,
+EntPanelHead_20,Text,,Research Statistics,Statistiche di ricerca,,
+EntPanelHead_21,Text,,Connections,Connessioni,,
+EntPanelHead_22,Text,,Resource Import Rules,Regole di importazione delle risorse,,
+EntPanelHead_23,Text,,Resource Export Rules,Regole di esportazione delle risorse,,
+EntPanelHead_3,Text,,Military,Militare,,
+EntPanelHead_30,Text,,Resources,Risorse,,
+EntPanelHead_31,Text,,Expedition,Spedizione,,
+EntPanelHead_32,Text,,Boat Instructions,Istruzioni Barca,,
+EntPanelHead_33,Text,,Transport Route,Percorso di trasporto,,
+EntPanelHead_4,Text,,Upgrade,Miglioramento,,
+EntPanelHead_40,Text,,Boatyard Docks,Bacino cantiere navale,,
+EntPanelHead_5,Text,,Research,Ricerca,,
+EntPanelHead_50,Text,,Transport Rules,Regole di trasporto,,
+EntPanelHead_51,Text,,Resources,Risorse,,
+EntPanelHead_52,Text,,Transport Connections,Connessioni di trasporto,,
+EntPanelHead_60,Text,,Journey,Viaggio,,
+EntPanelHead_7,Text,,<x>,<x>,,
+EntPanelHead_72,Text,,Statistics,Statistiche,,
+EntPanelHead_8,Text,,Debug,Debug,,
+EntPanelHead_80,Text,,Info,Informazioni,,
+EntPanelHead_90,Text,,Info,Informazioni,,
+EntityBoatyardDockBeginConstruction,Text,,Begin Construction,Inizia costruzione,,
+EntityBoatyardDockBoatBuilding,Text,,Building {0},Edificio {0},,
+EntityBoatyardDockBoatCapacity,Text,,Capacity: {0},Capacità: {0},,
+EntityBoatyardDockBoatDimensions,Text,,"Length: {0}, Breadth: {1}","Lunghezza: {0}, Ampiezza: {1}",,
+EntityBoatyardDockBoatInfoHeader,Text,,Info,Informazioni,,
+EntityBoatyardDockBoatReady,Text,,{0} is ready!,{0} è pronto!,,
+EntityBoatyardDockBoatReadyDesc,Text,,Select the boat and either create a transport route or prepare a colony expedition at a harbour.,Seleziona la barca e crea una rotta di trasporto o prepara una spedizione al porto.,,
+EntityBoatyardDockBoatSpeed,Text,,Speed: {0},Velocità: {0},,
+EntityBoatyardDockChangeBoat,Text,,Change Boat,Camia barca,,
+EntityBoatyardDockConstructionHeader,Text,,Construction,Costruzione,,
+EntityBuildingPriorityLayersChangeAction,Text,,Change Tiles ({0}),Cambia caselle ({0}),,
+EntityBuildingPriorityLayersClearTiles,Text,,Clear Tiles,Cancella caselle,,
+EntityBuildingPriorityLayersCount,Text,,Tiles selected: {0},Caselle selezionate: {0},,
 EntityBuildingPriorityLayersDesc,Text,,"Click or click and drag to set tiles.
 
-<hotkey>[Shift]</hotkey> click a tile to unset it.",,,394
-EntityBuildingPriorityLayersFinishAction,Text,,Finish,,,395
+<hotkey>[Shift]</hotkey> click a tile to unset it.","Clicca o clicca e trascina per selezionare le caselle.
+
+<hotkey>[Shift]</hotkey> clicca una casella per de-selezionarla.",,
+EntityBuildingPriorityLayersFinishAction,Text,,Finish,Fine,,
 EntityBuildingPriorityLayersForestryDesc,Text,,"Set the area in which the treebot can plant trees.
 
 Click or click and drag to set tiles.
-<hotkey>[Shift]</hotkey> click a tile to unset it.",,,396
-EntityBuildingPriorityLayersForestryHeader,Text,,Planting Area,,,397
+<hotkey>[Shift]</hotkey> click a tile to unset it.","Seleziona l'area in cui il BotBoscaiolo può piantare alberi. 
+
+Clicca o clicca e trascina per selezionare le caselle.
+<hotkey>[Shift]</hotkey> clicca una casella per de-selezionarla.",,
+EntityBuildingPriorityLayersForestryHeader,Text,,Planting Area,Area di piantagione,,
 EntityBuildingPriorityLayersLumberjackHutDesc,Text,,"By default lumberbots will chop down the nearest tree but you can override this behaviour by prioritising selected tiles.
 
 Click or click and drag to set tiles.
-<hotkey>[Shift]</hotkey> click a tile to unset it.",,,398
-EntityBuildingPriorityLayersLumberjackHutHeader,Text,,Priority Chopping Area,,,399
+<hotkey>[Shift]</hotkey> click a tile to unset it.","Di default i BotTaglialegna taglieranno l'ablero più vicino, puoi cambiare questo comporamento prioritizzando le caselle selezionate.
+
+Clicca o clicca e trascina per selezionare le caselle.
+<hotkey>[Shift]</hotkey> clicca una casella per de-selezionarla.",,
+EntityBuildingPriorityLayersLumberjackHutHeader,Text,,Priority Chopping Area,Area di taglio prioritario,,
 EntityBuildingPriorityLayersRoadImproverDesc,Text,,"By default road layer bots will upgrade the nearest road/path tile but you can override this behaviour by prioritising selected tiles.
 
 <hotkey>[Click]</hotkey> and drag to set tiles.
-<hotkey>[Shift]</hotkey> + <hotkey>[Click]</hotkey> a tile to unset it.",,,400
-EntityBuildingPriorityLayersRoadImproverHeader,Text,,Priority Roads/Paths,,,401
+<hotkey>[Shift]</hotkey> + <hotkey>[Click]</hotkey> a tile to unset it.","Di default i BotAsfaltatori miglioreranno la strada/il sentiero più vicino, puoi cambiare questo comportamento prioritizzando le caselle selezionate.
+
+<hotkey>[Click]</hotkey> e trascina per selezionare le caselle.
+<hotkey>[Shift]</hotkey> + <hotkey>[Click]</hotkey> una casella per de-selezionarla.",,
+EntityBuildingPriorityLayersRoadImproverHeader,Text,,Priority Roads/Paths,Strade/Sentieri prioritizzati,,
 EntityBuildingPriorityLayersSurfaceMineDesc,Text,,"By default minebots will mine the nearest surface deposit of the target resource type but you can override this behaviour by prioritising selected deposits.
 
 <hotkey>[Click]</hotkey> and drag to set tiles.
-<hotkey>[Shift]</hotkey> + <hotkey>[Click]</hotkey> a tile to unset it.",,,402
-EntityBuildingPriorityLayersSurfaceMineHeader,Text,,Priority Mining Area,,,403
-EntityBuildingStructuresAutoPlace,Text,,Auto Place,,,404
-EntityBuildingTechResearchSelectResearch,Text,,Select Research,,,405
-EntityBuildingTechResearchStatsIdle,Text,,Researchbot is currently idle.,,,406
-EntityBuildingTechResearchStatsViewTypeResearch,Text,,Research,,,407
-EntityBuildingTransportConnectionsBoatRoutesHeader,Text,,Boat Routes,,,408
-EntityBuildingTransportConnectionsNoBoatRoutes,Text,,No boat routes,,,409
-EntityBuildingTransportConnectionsNoBuildings,Text,,No direct building connections,,,410
-EntityBuildingTransportConnectionsNoRoadPost,Text,,Not connected to a road post!,,,411
-EntityBuildingTransportConnectionsNoRoadPostsDesc,Text,,Connect entrance to a road post using roads or paths. Maximum distance is 20 tiles.,,,412
-EntityBuildingTransportConnectionsRoadPostsHeader,Text,,Road Posts,,,413
-EntityBuildingTransportRulesIncomingBlacklistDesc,Text,,Resources completely banned from being imported:,,,414
-EntityBuildingTransportRulesIncomingBlacklistExcStorageDesc,Text,,Resources banned from being imported unless they're headed for a storage yard:,,,415
+<hotkey>[Shift]</hotkey> + <hotkey>[Click]</hotkey> a tile to unset it.","Di default i BotMinatori estrarranno minerali dal deposito di superficie più vicino con la risorsa selezionata. Puoi cambiare questo comportamento prioritizzando i depositi delezionati.
+
+<hotkey>[Click]</hotkey> e trascina per selezionare le caselle.
+<hotkey>[Shift]</hotkey> + <hotkey>[Click]</hotkey> una casella per de-selezionarla.",,
+EntityBuildingPriorityLayersSurfaceMineHeader,Text,,Priority Mining Area,Area mineraria prioritaria,,
+EntityBuildingStructuresAutoPlace,Text,,Auto Place,Piazzamento automatico,,
+EntityBuildingTechResearchSelectResearch,Text,,Select Research,Seleziona ricerca,,
+EntityBuildingTechResearchStatsIdle,Text,,Researchbot is currently idle.,BotRicercatore è attualmente inattivo,,
+EntityBuildingTechResearchStatsViewTypeResearch,Text,,Research,Ricerca,,
+EntityBuildingTransportConnectionsBoatRoutesHeader,Text,,Boat Routes,Rotte barca,,
+EntityBuildingTransportConnectionsNoBoatRoutes,Text,,No boat routes,Nessuna rotta per la barca,,
+EntityBuildingTransportConnectionsNoBuildings,Text,,No direct building connections,Nessun collegamento diretto dell'edificio,,
+EntityBuildingTransportConnectionsNoRoadPost,Text,,Not connected to a road post!,Non connesso ad un incrocio!,,
+EntityBuildingTransportConnectionsNoRoadPostsDesc,Text,,Connect entrance to a road post using roads or paths. Maximum distance is 20 tiles.,Collega l'ingresso ad un incrocio utilizzando una strada o un sentiero. La distanza massima è 20 caselle.,,
+EntityBuildingTransportConnectionsRoadPostsHeader,Text,,Road Posts,Incroci,,
+EntityBuildingTransportRulesIncomingBlacklistDesc,Text,,Resources completely banned from being imported:,Risorse completamente vietate dall'importazione:,,
+EntityBuildingTransportRulesIncomingBlacklistExcStorageDesc,Text,,Resources banned from being imported unless they're headed for a storage yard:,Risorse vietate dall'importazione a meno che non siano dirette in un deposito:,,
 EntityBuildingTransportRulesIncomingDesc,Text,,"By default this building imports all resources.
-You can manage which resources can be imported by setting up rules.",,,416
-EntityBuildingTransportRulesIncomingWhitelistDesc,Text,,Resources allowed to be imported:,,,417
-EntityBuildingTransportRulesIncomingWhitelistOnlyStorageDesc,Text,,Resources allowed to be exported only if headed to a storage yard:,,,418
-EntityBuildingTransportRulesOutgoingBlacklistDesc,Text,,Resources completely banned from being exported:,,,419
-EntityBuildingTransportRulesOutgoingBlacklistExcStorageDesc,Text,,Resources banned from being exported unless they're headed for a storage yard:,,,420
+You can manage which resources can be imported by setting up rules.","Per impostazione predefinita, questo edificio importa tutte le risorse.Puoi gestire quali risorse possono essere importate impostando le regole.",,
+EntityBuildingTransportRulesIncomingWhitelistDesc,Text,,Resources allowed to be imported:,Risorse che possono essere importate:,,
+EntityBuildingTransportRulesIncomingWhitelistOnlyStorageDesc,Text,,Resources allowed to be exported only if headed to a storage yard:,Risorse autorizzate ad essere esportate solo se dirette verso un deposito:,,
+EntityBuildingTransportRulesOutgoingBlacklistDesc,Text,,Resources completely banned from being exported:,Risorse completamente vietate dall'esportazione:,,
+EntityBuildingTransportRulesOutgoingBlacklistExcStorageDesc,Text,,Resources banned from being exported unless they're headed for a storage yard:,Risorse vietate dall'esportazione a meno che non siano dirette verso un deposito:,,
 EntityBuildingTransportRulesOutgoingDesc,Text,,"By default this building exports all resources.
-You can manage which resources can be exported by setting up rules.",,,421
-EntityBuildingTransportRulesOutgoingWhitelistDesc,Text,,Resources allowed to be exported:,,,422
-EntityBuildingUpgradeConstructionHeader,Text,,Construction,,,423
-EntityBuildingUpgradeMilitaryInfoHeader,Text,,Military Info,,,424
-EntityBuildingUpgradeNeedsHeader,Text,,Needs,,,425
-EntityBuildingUpgradeProductionHeader,Text,,Production,,,426
-EntityBuildingUpgradeRequirementsHeader,Text,,Requirements,,,427
-EntityBuildingUpgradeStartUpgrade,Text,,Start Upgrade,,,428
-EntityInfoAddRule,Text,,Add Rule,,,429
-EntityInfoBuildingStorageDestinedEmpty,Text,,There are no resources en route,,,430
-EntityInfoBuildingStorageDestinedHeader,Text,,En Route ({0}),,,431
-EntityInfoBuildingStorageHeader,Text,,Storage ({0}),,,432
-EntityInfoBuildingStorageIncomingHeader,Text,,Incoming Queue ({0}),,,433
-EntityInfoBuildingStorageOutgoingEmpty,Text,,There are no resources waiting for assignment,,,434
-EntityInfoBuildingStorageOutgoingHeader,Text,,Outgoing Queue ({0}),,,435
-EntityInfoBuildingStorageProductionEmpty,Text,,There are no resources waiting to be used,,,436
-EntityInfoBuildingStorageProductionHeader,Text,,Production Queue ({0}),,,437
-EntityInfoBuildingStorageTransportIncomingEmpty,Text,,There are no resources waiting to be unloaded,,,438
-EntityInfoBuildingStorageTransportOutgoingEmpty,Text,,There are no resources waiting to be loaded,,,439
-EntityInfoBuildingStorageUnloadingHeader,Text,,Unloading ({0}),,,440
-EntityInfoItemSidePanelAddRule,Text,,Add Rule,,,441
-EntityInfoItemSidePanelHeader,Text,,Select resources to store,,,442
-EntityInfoMilitaryChangeTarget,Text,,Change Target,,,443
-EntityInfoMilitaryCollapsingWarning,Text,,This building is collapsing! Start repairs otherwise this building will be lost!,,,444
-EntityInfoMilitaryDamage,Text,,Damage:,,,445
-EntityInfoSelectBoatHeader,Text,,Select boat to build,,,446
-EntityInfoSelectExpeditionNoHarbours,Text,,You haven't built any harbours yet.,,,447
-EntityInfoSelectExpeditionPortHeader,Text,,Assign to Expedition,,,448
-EntityInfoSelectExportBuildingHeader,Text,,Select Export Buildings,,,449
-EntityInfoSelectExportBuildingIntro,Text,,Select a building from the list or click on it in the world,,,450
-EntityInfoSelectImportBuildingHeader,Text,,Select Import Buildings,,,451
-EntityInfoSelectMilitaryTargetHeader,Text,,Select target watchtower,,,452
-EntityInfoSelectNaturalResourceHeader,Text,,Select resource to mine,,,453
-EntityInfoSelectResource,Text,,Select resource,,,454
-EntityInfoSelectTreeHeader,Text,,Select tree to plant,,,455
-EntityInfoSelectVehicleStopHeader,Text,,Add Harbour Stop,,,456
-EntityInfoSelectVehicleStopTransportRulesHeader,Text,,Manage rules,,,457
-EntityInfoSellingAddPurchaseRule,Text,,Add Order,,,458
-EntityInfoSellingAddSaleRule,Text,,Add Sale Rule,,,459
-EntityInfoVehicleStopTransportRulesBlacklistDesc,Text,,Resources completely banned from being loaded at this stop:,,,460
-EntityInfoVehicleStopTransportRulesBlacklistExcStorageDesc,Text,,Resources banned from being loaded at this stop unless they're headed for a storage yard:,,,461
-EntityInfoVehicleStopTransportRulesBlacklistExcStorageHeader,Text,,Blacklist - Excluding Storage,,,462
-EntityInfoVehicleStopTransportRulesBlacklistHeader,Text,,Blacklist,,,463
-EntityInfoVehicleStopTransportRulesIntro,Text,,Control the resources that [vh] will load at this stop for <bd>[bd]</bd>.,,,464
-EntityInfoVehicleStopTransportRulesWhitelistDesc,Text,,Resources allowed to be loaded at this stop:,,,465
-EntityInfoVehicleStopTransportRulesWhitelistHeader,Text,,Whitelist,,,466
-EntityInfoVehicleStopTransportRulesWhitelistStorageOnlyDesc,Text,,Resources allowed to be loaded at this stop only if headed to a storage yard:,,,467
-EntityInfoVehicleStopTransportRulesWhitelistStorageOnlyHeader,Text,,Whitelist - Storage Only,,,468
-EntityPortColonyShipAssignBoatDesc,Text,,To begin the expedition select an available boat and assign it to this expedition.,,,469
-EntityPortColonyShipAssignBoatHeader,Text,,Assign Boat,,,470
-EntityPortColonyShipBoatEnRoute,Text,,{0} is on its way to collect expedition provisions,,,471
-EntityPortColonyShipBoatLoading,Text,,{0} is loading {1} more provisions...,,,472
-EntityPortColonyShipBoatWaiting,Text,,{0} is waiting for docking space to become available,,,473
-EntityPortColonyShipCollectingProvisions,Text,,Collecting provisions...,,,474
-EntityPortColonyShipColonyShipHeader,Text,,Expedition Boat,,,475
-EntityPortColonyShipGatherProvisions,Text,,Gather the required provisions to stock an expedition boat which can explore the seas and build a harbour on new land.,,,476
-EntityPortColonyShipPrepareCollectResources,Text,,Collect Resources,,,477
-EntityPortColonyShipPrepareIntro,Text,,Choose where this boat makes port and control the resources it can transport.,,,478
-EntityPortColonyShipPreparingCancel,Text,,Cancel Provision Collection,,,479
-EntityPortColonyShipProvisionsReady,Text,,Provisions ready!,,,480
-EntityStationTrainsCreateTrain,Text,,Create Train,,,481
-EntityStationTrainsEmptyDesc,Text,,No trains currently stop here,,,482
-EntityStructuresEditingChange,Text,,Change,,,483
-EntityStructuresEditingFinish,Text,,Finish,,,484
+You can manage which resources can be exported by setting up rules.","Per impostazione predefinita, questo edificio esporta tutte le risorse.Puoi gestire quali risorse possono essere esportate impostando le regole.",,
+EntityBuildingTransportRulesOutgoingWhitelistDesc,Text,,Resources allowed to be exported:,Risorse autorizzate ad essere esportate:,,
+EntityBuildingUpgradeConstructionHeader,Text,,Construction,Costruzione,,
+EntityBuildingUpgradeMilitaryInfoHeader,Text,,Military Info,Informazioni militari,,
+EntityBuildingUpgradeNeedsHeader,Text,,Needs,Esigenze,,
+EntityBuildingUpgradeProductionHeader,Text,,Production,Produzione,,
+EntityBuildingUpgradeRequirementsHeader,Text,,Requirements,Requisiti,,
+EntityBuildingUpgradeStartUpgrade,Text,,Start Upgrade,Avvia il miglioramento,,
+EntityInfoAddRule,Text,,Add Rule,Aggiungi regole,,
+EntityInfoBuildingStorageDestinedEmpty,Text,,There are no resources en route,Non ci sono risorse in arrivo,,
+EntityInfoBuildingStorageDestinedHeader,Text,,En Route ({0}),In arrivo ({0}),,
+EntityInfoBuildingStorageHeader,Text,,Storage ({0}),Deposito ({0}),,
+EntityInfoBuildingStorageIncomingHeader,Text,,Incoming Queue ({0}),Coda in entrata ({0}),,
+EntityInfoBuildingStorageOutgoingEmpty,Text,,There are no resources waiting for assignment,Non ci sono risorse in attesa di assegnazione,,
+EntityInfoBuildingStorageOutgoingHeader,Text,,Outgoing Queue ({0}),Cosa in uscita ({0}),,
+EntityInfoBuildingStorageProductionEmpty,Text,,There are no resources waiting to be used,Non ci sono risorse in attesa di essere utilizzate,,
+EntityInfoBuildingStorageProductionHeader,Text,,Production Queue ({0}),Coda di produzione ({0}),,
+EntityInfoBuildingStorageTransportIncomingEmpty,Text,,There are no resources waiting to be unloaded,Non ci sono risorse in attesa di essere scaricate,,
+EntityInfoBuildingStorageTransportOutgoingEmpty,Text,,There are no resources waiting to be loaded,Non ci sono risorse in attesa di essere caricate,,
+EntityInfoBuildingStorageUnloadingHeader,Text,,Unloading ({0}),Scarico ({0}),,
+EntityInfoItemSidePanelAddRule,Text,,Add Rule,Aggiungi regola,,
+EntityInfoItemSidePanelHeader,Text,,Select resources to store,Seleziona le risorse da depositare,,
+EntityInfoMilitaryChangeTarget,Text,,Change Target,Cambia obiettivo,,
+EntityInfoMilitaryCollapsingWarning,Text,,This building is collapsing! Start repairs otherwise this building will be lost!,Questo edificio sta crollando! Inizia le riparazioni altrimenti questo edificio andrà perso!,,
+EntityInfoMilitaryDamage,Text,,Damage:,Danno: ,,
+EntityInfoSelectBoatHeader,Text,,Select boat to build,Seleziona la barca da costruire,,
+EntityInfoSelectExpeditionNoHarbours,Text,,You haven't built any harbours yet.,Non hai ancora costruito alcun porto.,,
+EntityInfoSelectExpeditionPortHeader,Text,,Assign to Expedition,Assegna a spedizione,,
+EntityInfoSelectExportBuildingHeader,Text,,Select Export Buildings,Seleziona edifici per l'export,,
+EntityInfoSelectExportBuildingIntro,Text,,Select a building from the list or click on it in the world,Seleziona un edificio dall'elenco o fai clic su un edificio nel mondo,,
+EntityInfoSelectImportBuildingHeader,Text,,Select Import Buildings,Seleziona edifici per l'import,,
+EntityInfoSelectMilitaryTargetHeader,Text,,Select target watchtower,Seleziona la torre di guardia,,
+EntityInfoSelectNaturalResourceHeader,Text,,Select resource to mine,Seleziona la risorsa da estrarre,,
+EntityInfoSelectResource,Text,,Select resource,Seleziona risorsa,,
+EntityInfoSelectTreeHeader,Text,,Select tree to plant,Seleziona l'albero da piantare,,
+EntityInfoSelectVehicleStopHeader,Text,,Add Harbour Stop,Aggiungi fermata porto,,
+EntityInfoSelectVehicleStopTransportRulesHeader,Text,,Manage rules,Gestisci le regole,,
+EntityInfoSellingAddPurchaseRule,Text,,Add Order,Aggiungi ordine,,
+EntityInfoSellingAddSaleRule,Text,,Add Sale Rule,Aggiungi regole di vendita,,
+EntityInfoVehicleStopTransportRulesBlacklistDesc,Text,,Resources completely banned from being loaded at this stop:,Risorse completamente vietate dall'essere caricate in questa fermata:,,
+EntityInfoVehicleStopTransportRulesBlacklistExcStorageDesc,Text,,Resources banned from being loaded at this stop unless they're headed for a storage yard:,Risorse vietate dall'essere caricate in questa fermata a meno che non siano dirette in un deposito:,,
+EntityInfoVehicleStopTransportRulesBlacklistExcStorageHeader,Text,,Blacklist - Excluding Storage,Lista nera - Escluso deposito,,
+EntityInfoVehicleStopTransportRulesBlacklistHeader,Text,,Blacklist,Lista nera,,
+EntityInfoVehicleStopTransportRulesIntro,Text,,Control the resources that [vh] will load at this stop for <bd>[bd]</bd>.,Controlla le risorse che [vh] caricherà a questa fermata per <bd>[bd]</bd>,,
+EntityInfoVehicleStopTransportRulesWhitelistDesc,Text,,Resources allowed to be loaded at this stop:,Risorse che possono essere caricate in questa fermata:,,
+EntityInfoVehicleStopTransportRulesWhitelistHeader,Text,,Whitelist,Lista dei desideri,,
+EntityInfoVehicleStopTransportRulesWhitelistStorageOnlyDesc,Text,,Resources allowed to be loaded at this stop only if headed to a storage yard:,Risorse autorizzate a essere caricate a questa fermata solo se dirette verso un deposito:,,
+EntityInfoVehicleStopTransportRulesWhitelistStorageOnlyHeader,Text,,Whitelist - Storage Only,Lista dei desideri - solo deposito,,
+EntityPortColonyShipAssignBoatDesc,Text,,To begin the expedition select an available boat and assign it to this expedition.,Per iniziare la spedizione seleziona una barca disponibile e assegnala a questa spedizione.,,
+EntityPortColonyShipAssignBoatHeader,Text,,Assign Boat,Assegna barca,,
+EntityPortColonyShipBoatEnRoute,Text,,{0} is on its way to collect expedition provisions,{0} sta arrivando per raccogliere le risorse per la spedizione,,
+EntityPortColonyShipBoatLoading,Text,,{0} is loading {1} more provisions...,{0} sta caricando {1} altre provviste...,,
+EntityPortColonyShipBoatWaiting,Text,,{0} is waiting for docking space to become available,{0} è in attesa della disponibilità dello spazio di attracco,,
+EntityPortColonyShipCollectingProvisions,Text,,Collecting provisions...,Raccolta delle provviste...,,
+EntityPortColonyShipColonyShipHeader,Text,,Expedition Boat,Nave da spedizione,,
+EntityPortColonyShipGatherProvisions,Text,,Gather the required provisions to stock an expedition boat which can explore the seas and build a harbour on new land.,Raccogli le provviste necessarie per rifornire una nave da spedizione che può esplorare i mari e costruire un porto su nuove terre.,,
+EntityPortColonyShipPrepareCollectResources,Text,,Collect Resources,Raccogli risorse,,
+EntityPortColonyShipPrepareIntro,Text,,Choose where this boat makes port and control the resources it can transport.,Scegli dove questa barca si fermerà e controlla le risorse che può trasportare.,,
+EntityPortColonyShipPreparingCancel,Text,,Cancel Provision Collection,Annulla la raccolta di risorse,,
+EntityPortColonyShipProvisionsReady,Text,,Provisions ready!,Provviste pronte!,,
+EntityStationTrainsCreateTrain,Text,,Create Train,Crea treno,,
+EntityStationTrainsEmptyDesc,Text,,No trains currently stop here,Nessun treno attualmente si ferma qui,,
+EntityStructuresEditingChange,Text,,Change,Cambia,,
+EntityStructuresEditingFinish,Text,,Finish,Fne,,
 EntityStructuresFarmFieldDesc,Text,,"Add a new {0} by clicking next to an existing one.
-Remove a {1} by <hotkey>[Shift]</hotkey> + clicking.",,,485
-EntityStructuresManualAdd,Text,,Manual Add,,,486
-EntityTransportBoatStorageLoadingEmpty,Text,,There are no resources being loaded,,,487
-EntityTransportBoatStorageLoadingHeader,Text,,Loading ({0}),,,488
-EntityTransportBoatStorageOnBoardEmpty,Text,,There are no resources on board,,,489
-EntityTransportBoatStorageOnBoardHeader,Text,,On Board ({0}),,,490
-EntityTransportVehicleStopsBoatAction,Text,,Add Harbour Stop,,,491
-EntityTransportVehicleStopsBoatIntro,Text,,{0} will automatically transport resources between these harbours,,,492
-EntityTransportVehicleStopsCancel,Text,,Cancel,,,493
-EntityTransportVehicleStopsChangeRoute,Text,,Change Route,,,494
-EntityTransportVehicleStopsClearRoute,Text,,Clear Route,,,495
-EntityTransportVehicleStopsConfirm,Text,,Confirm,,,496
-EntityTransportVehicleStopsInvalidBoatStartEnd,Text,,Invalid Route! Start harbour and end harbour are same. This is unnecessary as boat will automatically loop.,,,497
-EntityTransportVehicleStopsInvalidSequence,Text,,Invalid Route! Route stops at {0} twice in a row!,,,498
-EntityTransportVehicleStopsInvalidTrainStartEnd,Text,,Invalid Route! Start station and end station are same. This is unnecessary as train will automatically loop.,,,499
-EntityTransportVehicleStopsMinimum,Text,,Route needs at least two stops,,,500
+Remove a {1} by <hotkey>[Shift]</hotkey> + clicking.","Aggiungi un nuovo ({0}) cliccando di fianco ad uno esistente.
+Rimuovi un ({0)) <hotkey>[Shift]</hotkey> + click.",,
+EntityStructuresManualAdd,Text,,Manual Add,Aggiunta manuale,,
+EntityTransportBoatStorageLoadingEmpty,Text,,There are no resources being loaded,Non ci sono risorse in caricamento,,
+EntityTransportBoatStorageLoadingHeader,Text,,Loading ({0}),Caricamento ({0}),,
+EntityTransportBoatStorageOnBoardEmpty,Text,,There are no resources on board,Non ci sono risorse a bordo,,
+EntityTransportBoatStorageOnBoardHeader,Text,,On Board ({0}),A bordo ({0}),,
+EntityTransportVehicleStopsBoatAction,Text,,Add Harbour Stop,Aggiungi fermata porto,,
+EntityTransportVehicleStopsBoatIntro,Text,,{0} will automatically transport resources between these harbours,{0} trasporterà automaticamente le risorse tra questi porti,,
+EntityTransportVehicleStopsCancel,Text,,Cancel,Annulla,,
+EntityTransportVehicleStopsChangeRoute,Text,,Change Route,Cambia percorso,,
+EntityTransportVehicleStopsClearRoute,Text,,Clear Route,Annulla pecorso,,
+EntityTransportVehicleStopsConfirm,Text,,Confirm,Conferma,,
+EntityTransportVehicleStopsInvalidBoatStartEnd,Text,,Invalid Route! Start harbour and end harbour are same. This is unnecessary as boat will automatically loop.,Percorso non valido! Il porto di partenza e di fine porto sono uguali. Questo non è necessario in quanto la barca effettuerà automaticamente il loop.,,
+EntityTransportVehicleStopsInvalidSequence,Text,,Invalid Route! Route stops at {0} twice in a row!,Percorso non valido! Il percorso si ferma a {0} due volte di seguito!,,
+EntityTransportVehicleStopsInvalidTrainStartEnd,Text,,Invalid Route! Start station and end station are same. This is unnecessary as train will automatically loop.,Percorso non valido! La stazione iniziale e quella finale sono uguali. Questo non è necessario in quanto il treno eseguirà automaticamente il loop.,,
+EntityTransportVehicleStopsMinimum,Text,,Route needs at least two stops,Il percorso richiede almeno due fermate,,
 EntityTransportVehicleStopsNoRouteHeader,Text,Player's boat or train cannot find a route to its next destination,Cannot find route!,Impossibile raggiungere!,,
 EntityTransportVehicleStopsNoRouteTrainDesc,Text,,Check your tracks for gaps,,,502
 EntityTransportVehicleStopsTrainAction,Text,,Add Station Stop,,,503
