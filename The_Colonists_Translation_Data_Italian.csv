@@ -1,70 +1,80 @@
 Key,Type,Desc,English,Italian,,Verify
-AI Players,Text,Computer-controlled players you compete against in the game,AI Players,,,2
-Advice_0_Desc,Text,,"Build some <bd>Residences</bd> to generate more <it>Energy</it> for lumbering, mining and technology research.",,,3
-Advice_0_Name,Text,,No <bd>Residences</bd>!,,,4
-Advice_10_Desc,Text,,Keep expanding until you find a <nr>Coal</nr> deposit and it's inside your territory.,,,5
-Advice_10_Name,Text,,Find <nr>Coal</nr>!,,,6
-Advice_11_Desc,Text,,Keep expanding until you find a <nr>Iron Ore</nr> deposit and it's inside your territory.,,,7
-Advice_11_Name,Text,,Find <nr>Iron Ore</nr>!,,,8
+AI Players,Text,Computer-controlled players you compete against in the game,AI Players,Giocatori I.A.,,
+Advice_0_Desc,Text,,"Build some <bd>Residences</bd> to generate more <it>Energy</it> for lumbering, mining and technology research.","Costruisci alcune <bd>Residenze</bd> per generare più <it>Energia</it> per tagliare la legna, estrarre minerali e ricercare nuova tecnologia.",,
+Advice_0_Name,Text,,No <bd>Residences</bd>!,Nessuna <bd>Residenza</bd>!,,
+Advice_10_Desc,Text,,Keep expanding until you find a <nr>Coal</nr> deposit and it's inside your territory.,Continua ad espanderti finchè non trovi un deposito di <nr>Carbone</nr> incluso nel tuo territorio.,,
+Advice_10_Name,Text,,Find <nr>Coal</nr>!,Trova del <nr>Carbone</nr>!,,
+Advice_11_Desc,Text,,Keep expanding until you find a <nr>Iron Ore</nr> deposit and it's inside your territory.,Continua ad espanderti finchè non trovi un deposito di <nr>Ferro</nr> incluso nel tuo territorio.,,
+Advice_11_Name,Text,,Find <nr>Iron Ore</nr>!,Trova del <nr>Ferro grezzo</nr>!,,
 Advice_12_Desc,Text,,"Research <res>Construction I</res> at the <bd>Workshop</bd> to be able to build more advanced buildings.
 
-To research a technology, open an idle <bd>Workshop</bd> or open the Technology panel in the top left of the screen.",,,9
-Advice_12_Name,Text,,Research <res>Construction I</res>!,,,10
+To research a technology, open an idle <bd>Workshop</bd> or open the Technology panel in the top left of the screen.","Ricerca <res>Costruzione I</res> al <bd>Laboratorio</bd> per costruire edifici più avanzati!
+
+Per ricercare una tecnologia, apri un <bd>Laboratorio</bd> inattivo oppure apri il pannello Tecnologia in alto a sinistra dello schermo",,
+Advice_12_Name,Text,,Research <res>Construction I</res>!,Ricerca <res>Costruzione I</res>!,,
 Advice_13_Desc,Text,,"You can upgrade <bd>Residences</bd> to produce Level 2 <it>Energy</it>.
 
 <it>Energy L2</it> is used by the upgraded <bd>Workshop</bd> to research more advanced technologies.
 
-<it>Energy L2</it> is also used by the <bd>Shaft Mine</bd> and Level 2 <bd>Surface Mine</bd> to excavate <nr>Coal</nr>, <nr>Iron Ore</nr>, <nr>Salt</nr> and <nr>Clay</nr>.",,,11
-Advice_13_Name,Text,,Upgrade a <bd>Residence</bd>!,,,12
+<it>Energy L2</it> is also used by the <bd>Shaft Mine</bd> and Level 2 <bd>Surface Mine</bd> to excavate <nr>Coal</nr>, <nr>Iron Ore</nr>, <nr>Salt</nr> and <nr>Clay</nr>.","Puoi migliorare le <bd>Residenze</bd> per produrre <it>Energia</it> di Livello 2.
+
+L'<it>Energia L2</it> è usata dal <bd>Laboratorio</bd> avanzato per ricercare tecnologie più avanzate
+
+L'<it>Energia L2</it> è inoltre usata dalla <bd>Miniera</bd> e dalla <bd>Miniera di Superficie</bd> Livello 2 per estrarre <nr>Carbone</nr>, <nr>Ferro grezzo</nr>, <nr>Sale</nr> e <nr>Argilla</nr>",,
+Advice_13_Name,Text,,Upgrade a <bd>Residence</bd>!,Migliora una <bd>Residenza</bd>!,,
 Advice_14_Desc,Text,,"Level 2 <bd>Residences</bd> need <cat>Alcohol</cat> to be able to generate the more powerful <it>Energy L2</it> needed at the Level 2 <bd>Workshop</bd> and to mine <it>Iron Ore</it> and <it>Coal</it>.
 
-Build an <bd>Orchard</bd> and <bd>Cider Press</bd> to start producing <it>Cider</it>.",,,13
-Advice_14_Name,Text,,Generate <it>Energy L2</it>!,,,14
-Advice_15_Desc,Text,,Begin mining <nr>Coal</nr> by building a Level 2 <bd>Surface Mine</bd> or <bd>Shaft Mine</bd> depending on whether it's a surface deposit or an underground deposit.,,,15
-Advice_15_Name,Text,,Start mining <nr>Coal</nr>!,,,16
-Advice_16_Desc,Text,,Begin mining <nr>Iron Ore</nr> by building a Level 2 <bd>Surface Mine</bd> or <bd>Shaft Mine</bd> depending on whether it's a surface deposit or an underground deposit.,,,17
-Advice_16_Name,Text,,Start mining <nr>Iron Ore</nr>!,,,18
-Advice_17_Desc,Text,,Build a <bd>Blast Furnace</bd> to create <it>Iron</it> from <it>Iron Ore</it> and <it>Coal</it>.,,,19
-Advice_17_Name,Text,,Start producing <it>Iron</it>!,,,20
-Advice_18_Desc,Text,,Build a <bd>Well</bd> to supply <it>Water</it> to your <bd>Residences</bd>.,,,21
-Advice_18_Name,Text,,No <bd>Well</bd>!,,,22
-Advice_19_Desc,Text,,Build a <bd>Harbour</bd> on the shore to discover new islands and more resources.,,,23
-Advice_19_Name,Text,,Build a <bd>Harbour</bd>!,,,24
-Advice_1_Desc,Text,,If you run out of trees your Log supply may fail. Build a <bd>Forester</bd> to plant more trees.,,,25
-Advice_1_Name,Text,,You only have <amount> trees remaining!,,,26
-Advice_20_Desc,Text,,Build a <bd>Boatyard</bd> on the shore line and construct your first boat so you can explore the high seas.,,,27
-Advice_20_Name,Text,,Build a boat!,,,28
-Advice_21_Desc,Text,,Before you can explore the seas you need the resources to build a new <bd>Harbour</bd> on newly discovered land. In the expedition tab at your existing <bd>Harbour</bd> start gathering the necessary resources.,,,29
-Advice_21_Name,Text,,Gather Expedition Resources!,,,30
-Advice_22_Desc,Text,,The expedition's resources are ready! Find an idle boat and assign it to the expedition.,,,31
-Advice_22_Name,Text,,Load Expedition Provisions,,,32
-Advice_23_Desc,Text,,By using the navigation tab on your boat you can freely sail around. When you discover new land build a new harbour on a suitable piece of shoreline. Once built the boat will automatically set up a trade route between the harbours.,,,33
-Advice_23_Name,Text,,Build a <bd>Harbour</bd> on a new island!,,,34
-Advice_24_Desc,Text,,Research <res>Mining I</res> at the Level 2 <bd>Workshop</bd> to unlock Level 2 <bd>Surface Mine</bd> and Level 1 <bd>Shaft Mine</nr> and be able to mine <nr>Coal</nr> and <nr>Iron ore</nr>.,,,35
-Advice_24_Name,Text,,Research <res>Mining I</res>!,,,36
-Advice_25_Desc,Text,,You can upgrade <bd>Workshops</bd> in order to research more advanced technologies including ore mining.,,,37
-Advice_25_Name,Text,,Upgrade a <bd>Workshop</bd>!,,,38
-Advice_26_Desc,Text,,You can instruct your Lumberbots to chop down specific trees via the priority panel on a <bd>Lumberjack Hut</bd>.,,,39
-Advice_26_Name,Text,,Try <bd>Lumberjack Hut</bd> Prioritisation!,,,40
+Build an <bd>Orchard</bd> and <bd>Cider Press</bd> to start producing <it>Cider</it>.","Le <bd>Residenze</bd> Livello 2 hanno bisogno di <cat>Alcohol</cat> per poter generare <it>Energia L2</it> necessaria al <bd>Laboratorio</bd> di Livello 2 e per estrarre <it>Ferro grezzo</it> e <it>Carbone</it>.
+
+Costruisci un <bd>Frutteto</bd> e una <bd>Pressa per Sidro</bd> per iniziare a produrre del <it>Sidro</it>.",,
+Advice_14_Name,Text,,Generate <it>Energy L2</it>!,Genera <it>Energia L2</it>!,,
+Advice_15_Desc,Text,,Begin mining <nr>Coal</nr> by building a Level 2 <bd>Surface Mine</bd> or <bd>Shaft Mine</bd> depending on whether it's a surface deposit or an underground deposit.,Inizia ad estrarre del <nr>Carbone</nr> costruendo una <bd>Miniera di Superficie</bd> Livello 2 o una <bd>Miniera</bd> a seconda se è un deposito in superficie o sotterraneo,,
+Advice_15_Name,Text,,Start mining <nr>Coal</nr>!,Inizia ad estrarre del <nr>Carbone</nr>!,,
+Advice_16_Desc,Text,,Begin mining <nr>Iron Ore</nr> by building a Level 2 <bd>Surface Mine</bd> or <bd>Shaft Mine</bd> depending on whether it's a surface deposit or an underground deposit.,Inizia ad estrarre <nr>Ferro grezzo</nr> costruendo una <bd>Miniera di Superficie</bd> di Livello 2 o una <bd>Miniera</bd> a seconda se è un deposito in superficie o sotterraneo.,,
+Advice_16_Name,Text,,Start mining <nr>Iron Ore</nr>!,Inizia ad estrarre del <nr>Ferro grezzo</nr>!,,
+Advice_17_Desc,Text,,Build a <bd>Blast Furnace</bd> to create <it>Iron</it> from <it>Iron Ore</it> and <it>Coal</it>.,Costruisci un <bd>Altoforno</bd> per ottenere <it>Ferro</it> dal <it>Ferro grezzo</it> e <it>Carbone</it>.,,
+Advice_17_Name,Text,,Start producing <it>Iron</it>!,Comincia a produrre <it>Ferro</it>!,,
+Advice_18_Desc,Text,,Build a <bd>Well</bd> to supply <it>Water</it> to your <bd>Residences</bd>.,Costruisci un <bd>Pozzo</bd> per fornire <it>Acqua</it> alle tue <bd>Residenze</bd>.,,
+Advice_18_Name,Text,,No <bd>Well</bd>!,Nessun <bd>Pozzo</bd>!,,
+Advice_19_Desc,Text,,Build a <bd>Harbour</bd> on the shore to discover new islands and more resources.,Costruisci un <bd>Porto</bd> sulla costa per scoprire nuove isole e altre risorse.,,
+Advice_19_Name,Text,,Build a <bd>Harbour</bd>!,Costruisci un <bd>Porto</bd>!,,
+Advice_1_Desc,Text,,If you run out of trees your Log supply may fail. Build a <bd>Forester</bd> to plant more trees.,Se finisci gli alberi la tua produzione di Tronchi potrebbe interrompersi. Costruisci una <bd>Guardia Forestale</bd> per piantare altri alberi.,,
+Advice_1_Name,Text,,You only have <amount> trees remaining!,Hai soltanto <amount> alberi rimanenti!,,
+Advice_20_Desc,Text,,Build a <bd>Boatyard</bd> on the shore line and construct your first boat so you can explore the high seas.,Costruisci un <bd>Cantiere Navale</bd> sulla costa e costruisci la tua prima barca per esplorare il mare.,,
+Advice_20_Name,Text,,Build a boat!,Costruisci una barca!,,
+Advice_21_Desc,Text,,Before you can explore the seas you need the resources to build a new <bd>Harbour</bd> on newly discovered land. In the expedition tab at your existing <bd>Harbour</bd> start gathering the necessary resources.,Prima che tu possa esplorare il mare hai bisogno di risorse per costruire un nuovo <bd>Porto</bd> nella zona scoperta. Inizia a prepare le risorse nella scheda Spedizione del tuo <bd>Porto</bd>.,,
+Advice_21_Name,Text,,Gather Expedition Resources!,Prepara le risorse per la Spedizione!,,
+Advice_22_Desc,Text,,The expedition's resources are ready! Find an idle boat and assign it to the expedition.,Le risorse per la spedizione sono pronte! Trova una barca inattiva per assegnarla alla spedizione.,,
+Advice_22_Name,Text,,Load Expedition Provisions,Carica provviste Spedizione,,
+Advice_23_Desc,Text,,By using the navigation tab on your boat you can freely sail around. When you discover new land build a new harbour on a suitable piece of shoreline. Once built the boat will automatically set up a trade route between the harbours.,"Usando la scheda Navigazione sulla tua barca puoi navigare liberamente. Quando scopri una nuova zona costruisci un porto su una zona costiera adatta. Una volta costruito, la barca imposterà automaticamente una rotta commerciale tra i due porti.",,
+Advice_23_Name,Text,,Build a <bd>Harbour</bd> on a new island!,Costruisci un <bd>Porto</bd> su una nuova isola!,,
+Advice_24_Desc,Text,,Research <res>Mining I</res> at the Level 2 <bd>Workshop</bd> to unlock Level 2 <bd>Surface Mine</bd> and Level 1 <bd>Shaft Mine</nr> and be able to mine <nr>Coal</nr> and <nr>Iron ore</nr>.,Ricerca <res>Estrazione I</res> al <bd>Laboratorio</bd> Livello 2 per sbloccare la <bd>Miniera di Superficie</bd> Livello 2 e la <bd>Miniera</bd> Livello 1 in modo da poter estrarre <nr>Carbone</nr> e <nr>Ferro gresso</nr>,,
+Advice_24_Name,Text,,Research <res>Mining I</res>!,Ricerca <res>Estrazione I</res>,,
+Advice_25_Desc,Text,,You can upgrade <bd>Workshops</bd> in order to research more advanced technologies including ore mining.,"Puoi migliorare i <bd>Laboratori</bd> in modo da poter ricercare tecnologie più avanzate, inclusa l'estrazione del Ferro.",,
+Advice_25_Name,Text,,Upgrade a <bd>Workshop</bd>!,Migliora un <bd>Laboratorio</bd>!,,
+Advice_26_Desc,Text,,You can instruct your Lumberbots to chop down specific trees via the priority panel on a <bd>Lumberjack Hut</bd>.,Puoi istruire i tuoi BotTaglialegna per tagliare specifici alberi nel pannello priorità in una <bd>Capanna del Taglialegna</bd>.,,
+Advice_26_Name,Text,,Try <bd>Lumberjack Hut</bd> Prioritisation!,Prova a prioritizzare la <bd>Capanna del Taglialegna</bd>!,,
 Advice_27_Desc,Text,,"To construct a <bd>Small Monument</bd> you're going to need to start producing <it>Iron</it>.
 
-Build a <bd>Blast Furnace</bd>.",,,41
-Advice_27_Name,Text,,Generate <it>Iron</it>!,,,42
-Advice_28_Desc,Text,,"Use the Map, accessible via the icon in the top-left, to see how much of a natural resource you have available and in which direction there are more resources to reveal.",,,43
-Advice_28_Name,Text,,Check out the Map!,,,44
-Advice_29_Desc,Text,,Consider placing related supply and demands building closer as well as using transport rules at road posts or harbours to control how resources move around your colony. Click on any roads to find out more.,,,45
-Advice_29_Name,Text,,You have some blocked roads!,,,46
-Advice_2_Desc,Text,,Always start a colony by building a <bd>Lumberjack Hut</bd> to make sure you have a steady supply of <it>Logs</it>.,,,47
-Advice_2_Name,Text,,No <bd>Lumberjack Huts</bd>!,,,48
-Advice_30_Desc,Text,,To create <it>Iron</it> a <bd>Blast Furnace</bd> needs either <it>Charcoal</it> from a <bd>Charcoal Burner</bd> or <it>Coal</it> from a <bd>Surface Mine</bd> or <bd>Shaft Mine</bd>.,,,49
-Advice_30_Name,Text,,Create <cat>Fuel</cat>!,,,50
-Advice_3_Desc,Text,,Use paths to connect buildings to a road.,,,51
-Advice_3_Name,Text,,<amount> of your buildings <isare> not connected to your road network!,,,52
-Advice_6_Desc,Text,,A <bd>Forestry</bd> won't plant trees until you assign it tiles.,,,53
-Advice_6_Name,Text,,You have <amount> <bd>Forestries</bd> without any tiles set!,,,54
-Advice_7_Desc,Text,,Use your idle <bd>Workshop</bd> to research technologies.,,,55
-Advice_7_Name,Text,,<amount> Workshop available!,,,56
-Advice_8_Desc,Text,,Build a <bd>Watchtower</bd> near your borders to expand your territory.,,,57
+Build a <bd>Blast Furnace</bd>.","Per costruire un <bd>Piccolo Monumento</bd> hai bisogno di iniziare a produrre del <it>Ferro</it>.
+
+Costruisci un <bd>Altoforno</bd>.",,
+Advice_27_Name,Text,,Generate <it>Iron</it>!,Genera <ir>Ferro</it>!,,
+Advice_28_Desc,Text,,"Use the Map, accessible via the icon in the top-left, to see how much of a natural resource you have available and in which direction there are more resources to reveal.","Utilizza la Mappa, accessibile tramite l'icona in alto a sinistra, per visualizzare quante risorse naturali hai a dispozione e in che direzione ci sono altre risorse da trovare.",,
+Advice_28_Name,Text,,Check out the Map!,Controlla la Mappa!,,
+Advice_29_Desc,Text,,Consider placing related supply and demands building closer as well as using transport rules at road posts or harbours to control how resources move around your colony. Click on any roads to find out more.,"Considera di piazzare gli edifici per la produzione di risorse vicini a quelli che le richiedono, oltre ad usare le regole di trasporto agli incroci e i porti per controllare come le risorse vengono trasportate nella tua colonia. Clicca su una strada per scoprire di più",,
+Advice_29_Name,Text,,You have some blocked roads!,Hai delle strade bloccate!,,
+Advice_2_Desc,Text,,Always start a colony by building a <bd>Lumberjack Hut</bd> to make sure you have a steady supply of <it>Logs</it>.,Inizia sempre una colonia costruendo una <bd>Capanna del Taglialegna</bd> per avere una fornitura costante di <it>Tronchi</it>.,,
+Advice_2_Name,Text,,No <bd>Lumberjack Huts</bd>!,Nessuna <bd>Capanna del Taglialegna</bd>!,,
+Advice_30_Desc,Text,,To create <it>Iron</it> a <bd>Blast Furnace</bd> needs either <it>Charcoal</it> from a <bd>Charcoal Burner</bd> or <it>Coal</it> from a <bd>Surface Mine</bd> or <bd>Shaft Mine</bd>.,Per creare <it>Ferro</it> un <bd>Altoforno</bd> ha bisogno di <it>Carbonella</it> da un <bd>Bruciatore di Carbonella</bd> o di <it>Carbone</it> da una <bd>Miniera di Superficie</bd> o da una <bd>Miniera</bd>,,
+Advice_30_Name,Text,,Create <cat>Fuel</cat>!,Crea del <cat>Carbutante</cat>!,,
+Advice_3_Desc,Text,,Use paths to connect buildings to a road.,Usa i sentieri per collegare gli edifici ad una strada.,,
+Advice_3_Name,Text,,<amount> of your buildings <isare> not connected to your road network!,<amount> dei tuoi edifici <isare> non sono connessi alla tua rete stradale!,,
+Advice_6_Desc,Text,,A <bd>Forestry</bd> won't plant trees until you assign it tiles.,Una <bd>Guardia Forestale</bd> non pianterà alberi finchè non le assegnerai le caselle.,,
+Advice_6_Name,Text,,You have <amount> <bd>Forestries</bd> without any tiles set!,Hai <amount> <bd>Guardia(e) Forestale</bd> senza nessuna casella impostata!,,
+Advice_7_Desc,Text,,Use your idle <bd>Workshop</bd> to research technologies.,Usa i tuoi <bd>Laboratori</bd> inattivi per ricercare tecnologie.,,
+Advice_7_Name,Text,,<amount> Workshop available!,<amount> Laboratoro(i) disponibili!,,
+Advice_8_Desc,Text,,Build a <bd>Watchtower</bd> near your borders to expand your territory.,Costruisci una <bd>Torre di Osservazione</bd> vicino ai tuoi confini per espandere il tuo territorio.,,
 Advice_8_Name,Text,,Expand your territory!,,,58
 Advice_9_Desc,Text,,Build a <bd>Workshop</bd> so you can research new technologies.,,,59
 Advice_9_Name,Text,,No <bd>Workshop</bd>!,,,60
@@ -525,7 +535,7 @@ EntityTransportVehicleStopsInvalidBoatStartEnd,Text,,Invalid Route! Start harbou
 EntityTransportVehicleStopsInvalidSequence,Text,,Invalid Route! Route stops at {0} twice in a row!,,,498
 EntityTransportVehicleStopsInvalidTrainStartEnd,Text,,Invalid Route! Start station and end station are same. This is unnecessary as train will automatically loop.,,,499
 EntityTransportVehicleStopsMinimum,Text,,Route needs at least two stops,,,500
-EntityTransportVehicleStopsNoRouteHeader,Text,Player's boat or train cannot find a route to its next destination,Cannot find route!,,,501
+EntityTransportVehicleStopsNoRouteHeader,Text,Player's boat or train cannot find a route to its next destination,Cannot find route!,Impossibile raggiungere!,,
 EntityTransportVehicleStopsNoRouteTrainDesc,Text,,Check your tracks for gaps,,,502
 EntityTransportVehicleStopsTrainAction,Text,,Add Station Stop,,,503
 EntityTransportVehicleStopsTrainIntro,Text,,{0} will automatically transport resources between these stations,,,504
@@ -759,7 +769,7 @@ IdleWorkerReason_12_Name,Text,,no apple trees have been planted,,,647
 IdleWorkerReason_13_Name,Text,,no wheat fields have been created,,,648
 IdleWorkerReason_14_Name,Text,,no roads need to be upgraded,,,649
 IdleWorkerReason_1_Name,Text,,no tiles have been allocated for planting,,,650
-IdleWorkerReason_255_Name,Text,,unknown reasons...,,,651
+IdleWorkerReason_255_Name,Text,,unknown reasons...,ragioni sconosciute...,,
 IdleWorkerReason_2_Name,Text,,all tiles are planted,,,652
 IdleWorkerReason_3_Name,Text,,there are no fully grown trees within range,,,653
 IdleWorkerReason_4_Name,Text,,there is no nearby <nr><natres></nr> to mine,,,654
@@ -2330,11 +2340,11 @@ A building will always source the nearest available resource at the time. Once a
 
 Use rules at road posts, harbours and train stations to control where resources are sourced from, as well as import and export whitelists on buildings. ",,,
 Building_66_Description,Text,,Create <it>Vegetables</it> from vegetable plots.,,,
-Building_66_Name,Text,,Vegetable Farm,,,
-Building_66_Plural,Text,,Vegetable Farms,,,
-Building_66_Worker,Text,,Farmbot,,,
-Item_47_Desc,Text,,Vegetables are harvested at the <bd>Vegetable Farm</bd>.,,,
-Item_47_FullDesc,Text,,Vegetables are harvested at the <bd>Vegetable Farm</bd> from <it>Logs</it> and  and is consumed by <bd>Level 1 Residences</bd>.,,,
-Item_47_Name,Text,,Vegetables,,,
-Item_47_Past,Text,,Harvested,,,
-Item_47_Present,Text,,Harvesting,,,
+Building_66_Name,Text,,Vegetable Farm,Fattoria di Verdure,,
+Building_66_Plural,Text,,Vegetable Farms,Fattorie di Verdure,,
+Building_66_Worker,Text,,Farmbot,BotContadino,,
+Item_47_Desc,Text,,Vegetables are harvested at the <bd>Vegetable Farm</bd>.,Le Verdure sono raccolte alla <bd>Fattoria di Verdure</bd>.,,
+Item_47_FullDesc,Text,,Vegetables are harvested at the <bd>Vegetable Farm</bd> from <it>Logs</it> and  and is consumed by <bd>Level 1 Residences</bd>.,Le Verdure sono raccolte alla <bd>Fattoria di Verdure</bd> dai <it>Tronchi</it> e sono consumate dalle <bd>Residenze Livello 1</bd>.,,
+Item_47_Name,Text,,Vegetables,Verdure,,
+Item_47_Past,Text,,Harvested,Raccolti,,
+Item_47_Present,Text,,Harvesting,Raccogliendo,,
