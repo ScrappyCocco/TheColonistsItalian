@@ -75,251 +75,251 @@ Advice_6_Name,Text,,You have <amount> <bd>Forestries</bd> without any tiles set!
 Advice_7_Desc,Text,,Use your idle <bd>Workshop</bd> to research technologies.,Usa i tuoi <bd>Laboratori</bd> inattivi per ricercare tecnologie.,,
 Advice_7_Name,Text,,<amount> Workshop available!,<amount> Laboratoro(i) disponibili!,,
 Advice_8_Desc,Text,,Build a <bd>Watchtower</bd> near your borders to expand your territory.,Costruisci una <bd>Torre di Osservazione</bd> vicino ai tuoi confini per espandere il tuo territorio.,,
-Advice_8_Name,Text,,Expand your territory!,,,58
-Advice_9_Desc,Text,,Build a <bd>Workshop</bd> so you can research new technologies.,,,59
-Advice_9_Name,Text,,No <bd>Workshop</bd>!,,,60
-Advisor,Text,In-game advice panel,Advisor,,,61
-AdvisorColonyAdvice,Text,,Colony Advice,,,62
-AdvisorGeneralTips,Text,,General Tips,,,63
-AdvisorMissionGoals,Text,,Mission Goals,,,64
-AgeName_0,Text,Level of buildings in the game,Level 1,,,65
-AgeName_1,Text,,Level 2,,,66
-AgeName_2,Text,,Level 3,,,67
-All,Text,All Maps,All,,,68
-Animal_0_Name,Text,,Sheep,,,69
-Animal_2_Name,Text,,Cow,,,70
-Audio Settings,Text,,Audio Settings,,,71
-Back,Text,Navigate to previous screen,Back,,,72
-BdPlVaResults_0_Name,Text,Short message when trying to place a building for example,Success!,,,73
-BdPlVaResults_10_Name,Text,,Tile is off map,,,74
-BdPlVaResults_11_Name,Text,{0}: name of building or thing obstructing the placement of new building,Tile occupied by {0},,,75
-BdPlVaResults_12_Name,Text,,Too steep,,,76
-BdPlVaResults_13_Name,Text,,Can't adjust tiles,,,77
-BdPlVaResults_14_Name,Text,,No route can be made,,,78
-BdPlVaResults_15_Name,Text,,Tile is outside territory,,,79
-BdPlVaResults_16_Name,Text,,Not available,,,80
-BdPlVaResults_17_Name,Text,,Not aligned with underground deposit entrance,,,81
-BdPlVaResults_18_Name,Text,,Not aligned with fish tile,,,82
-BdPlVaResults_19_Name,Text,,No adjacent pier,,,83
-BdPlVaResults_1_Name,Text,,Incorrect terrain type,,,84
-BdPlVaResults_20_Name,Text,,Not adjacent,,,85
-BdPlVaResults_21_Name,Text,,Not enough adjacent structures,,,86
-BdPlVaResults_22_Name,Text,,Invalid end of path tile,,,87
-BdPlVaResults_23_Name,Text,,No route found,,,88
-BdPlVaResults_24_Name,Text,,Banned,,,89
-BdPlVaResults_255_Name,Text,,Unknown,,,90
-BdPlVaResults_25_Name,Text,,Higher level <bd>Shaft Mine</bd> required,,,91
-BdPlVaResults_26_Name,Text,,Land too high,,,92
-BdPlVaResults_27_Name,Text,,Land too low,,,93
-BdPlVaResults_28_Name,Text,,Track would break road,,,94
-BdPlVaResults_29_Name,Text,,Invalid road/path crossing,,,95
-BdPlVaResults_2_Name,Text,,Below water,,,96
-BdPlVaResults_30_Name,Text,,Track cannot cross multiple road or path tiles,,,97
-BdPlVaResults_31_Name,Text,,Below water,,,98
-BdPlVaResults_32_Name,Text,,Below ground,,,99
-BdPlVaResults_33_Name,Text,,Obstruction,,,100
-BdPlVaResults_34_Name,Text,,Not enough space above,,,101
-BdPlVaResults_35_Name,Text,,Bridge needs support,,,102
-BdPlVaResults_36_Name,Text,,Too high for bridge supports,,,103
-BdPlVaResults_37_Name,Text,,Not enough height,,,104
-BdPlVaResults_38_Name,Text,,Cannot create train - blocked,,,105
-BdPlVaResults_39_Name,Text,,Support blocked by road or path,,,106
-BdPlVaResults_3_Name,Text,,Below water,,,107
-BdPlVaResults_4_Name,Text,,Not below water,,,108
-BdPlVaResults_5_Name,Text,,Outside territory,,,109
-BdPlVaResults_6_Name,Text,,Maximum amount reached,,,110
-BdPlVaResults_7_Name,Text,,Entrance tile occupied,,,111
-BdPlVaResults_8_Name,Text,,Entrance tile below water,,,112
-BdPlVaResults_9_Name,Text,,Entrance outside territory,,,113
-Best Time,Text,,Best Times,,,114
-Boat_1_Name,Text,,Clipper,,,115
-Boat_2_Name,Text,,Lugger,,,116
-BuildingCat_0,Text,,Residential,,,117
-BuildingCat_1,Text,,Food Production,,,118
-BuildingCat_2,Text,,Production,,,119
-BuildingCat_3,Text,,Resource Collection,,,120
-BuildingCat_5,Text,,Military,,,121
-BuildingCat_6,Text,,Transport,,,122
-BuildingCat_7,Text,,Storage,,,123
-BuildingCat_8,Text,,Research,,,124
-Building_0_Description,Text,,Your Colony ship is the starting hub of your colony and slowly generates <it>Logs</it> and <it>Energy L1</it>,,,125
-Building_0_Name,Text,,Colony Ship,,,126
-Building_0_Plural,Text,,Colony Ships,,,127
-Building_0_Worker,Text,,Stackbot,,,128
-Building_11_Description,Text,,Plants saplings which mature into fully grown trees.,,,129
-Building_11_Name,Text,,Forestry,,,130
-Building_11_Plural,Text,,Forestries,,,131
-Building_11_Worker,Text,,Treebot,,,132
-Building_13_Description,Text,,Grows <it>Wheat</it> from wheat fields.,,,133
-Building_13_Name,Text,,Wheat Farm,,,134
-Building_13_Plural,Text,,Wheat Farms,,,135
-Building_13_Worker,Text,,Farmbot,,,136
-Building_14_Description,Text,,Mines natural resources from surface deposits.,,,137
-Building_14_Name,Text,,Surface Mine,,,138
-Building_14_Plural,Text,,Surface Mines,,,139
-Building_14_Worker,Text,,Axebot,,,140
-Building_15_Description,Text,,Bakes <it>Bread</it> from <it>Flour</it> and <it>Water</it> using <cat>Coal</cat>.,,,141
-Building_15_Name,Text,,Bakery,,,142
-Building_15_Plural,Text,,Bakeries,,,143
-Building_15_Worker,Text,,Bakerbot,,,144
-Building_16_Description,Text,,Mills <it>Flour</it> from <it>Wheat</it>.,,,145
-Building_16_Name,Text,,Flour Mill,,,146
-Building_16_Plural,Text,,Flour Mills,,,147
-Building_16_Worker,Text,,Millerbot,,,148
-Building_18_Description,Text,,Creates <it>Meat</it> and <it>Hide</it> from cows.,,,149
-Building_18_Name,Text,,Cow Farm,,,150
-Building_18_Plural,Text,,Cow Farms,,,151
-Building_18_Worker,Text,,Farmbot,,,152
-Building_19_Description,Text,,Pulls <it>Water</it> from an underground source.,,,153
-Building_19_Name,Text,,Well,,,154
-Building_19_Plural,Text,,Wells,,,155
-Building_19_Worker,Text,,Waterbot,,,156
-Building_1_Description,Text,,Grows <it>Apples</it>.,,,157
-Building_1_Name,Text,,Orchard,,,158
-Building_1_Plural,Text,,Orchards,,,159
-Building_1_Worker,Text,,Farmbot,,,160
-Building_20_Description,Text,,Creates <it>Charcoal</it> from <it>Logs</it>.,,,161
-Building_20_Name,Text,,Charcoal Burner,,,162
-Building_20_Plural,Text,,Charcoal Burners,,,163
-Building_20_Worker,Text,,Burnerbot,,,164
-Building_21_Description,Text,,Creates <it>Meat</it> from sheep.,,,165
-Building_21_Name,Text,,Sheep Farm,,,166
-Building_21_Plural,Text,,Sheep Farms,,,167
-Building_21_Worker,Text,,Shepherdbot,,,168
-Building_22_Description,Text,,Allows transportation of resources using boats.,,,169
-Building_22_Name,Text,,Harbour,,,170
-Building_22_Plural,Text,,Harbours,,,171
-Building_22_Worker,Text,,Dockbot,,,172
-Building_23_Description,Text,,Creates <it>Paper</it> using <it>Logs</it> and <it>Water</it>.,,,173
-Building_23_Name,Text,,Paper Mill,,,174
-Building_23_Plural,Text,,Paper Mills,,,175
-Building_23_Worker,Text,,Paperbot,,,176
-Building_254_Name,Text,,Expedition,,,177
-Building_25_Description,Text,,Creates <it>Tools</it> from <it>Iron</it> and <it>Planks</it> using <cat>Fuel</cat>.,,,178
-Building_25_Name,Text,,Blacksmith,,,179
-Building_25_Plural,Text,,Blacksmiths,,,180
-Building_25_Worker,Text,,Smithbot,,,181
-Building_26_Description,Text,,Creates <it>Books</it> using <it>Paper</it> and <it>Leather</it>.,,,182
-Building_26_Name,Text,,Printing Press,,,183
-Building_26_Plural,Text,,Printing Presses,,,184
-Building_26_Worker,Text,,Printbot,,,185
-Building_27_Description,Text,,Creates <it>Iron</it> from <it>Iron Ore</it> using <cat>Fuel</cat>.,,,186
-Building_27_Name,Text,,Blast Furnace,,,187
-Building_27_Plural,Text,,Blast Furnaces,,,188
-Building_27_Worker,Text,,Smeltbot,,,189
-Building_29_Description,Text,,Creates <it>Woollen Garments</it> from <it>Wool</it>.,,,190
-Building_29_Name,Text,,Weaver,,,191
-Building_29_Plural,Text,,Weavers,,,192
-Building_29_Worker,Text,,Weaverbot,,,193
-Building_2_Description,Text,,Makes <it>Cider</it> from <it>Apples</it>.,,,194
-Building_2_Name,Text,,Cider Press,,,195
-Building_2_Plural,Text,,Cider Presses,,,196
-Building_2_Worker,Text,,Pressbot,,,197
-Building_30_Description,Text,,Creates <it>Glass</it> from <it>Quartz</it>.,,,198
-Building_30_Name,Text,,Glassworks,,,199
-Building_30_Plural,Text,,Glassworks,,,200
-Building_30_Worker,Text,,Blowbot,,,201
-Building_32_Description,Text,,Constructs boats,,,202
-Building_32_Name,Text,,Boat Yard,,,203
-Building_32_Plural,Text,,Boat Yards,,,204
-Building_32_Worker,Text,,Shipwrightbot,,,205
-Building_33_Description,Text,,Expands territory and can attack enemy watchtowers.,,,206
-Building_33_Name,Text,,Watchtower,,,207
-Building_33_Plural,Text,,Watchtowers,,,208
-Building_33_Worker,Text,,Guardbot,,,209
-Building_34_Description,Text,,Produces <it>Arrows</it> from <it>Logs</it>.,,,210
-Building_34_Name,Text,,Fletcher,,,211
-Building_34_Plural,Text,,Fletchers,,,212
-Building_34_Worker,Text,,Fletchbot,,,213
-Building_35_Description,Text,,Creates <it>Cannonballs</it> from <it>Iron</it> using <cat>Fuel</cat>.,,,214
-Building_35_Name,Text,,Weaponsmith,,,215
-Building_35_Plural,Text,,Weaponsmiths,,,216
-Building_35_Worker,Text,,Smithbot,,,217
-Building_38_Description,Text,,Catches <it>Fish</it> from a fishing tile.,,,218
-Building_38_Name,Text,,Fishing Hut,,,219
-Building_38_Plural,Text,,Fishing Huts,,,220
-Building_38_Worker,Text,,Fisherbot,,,221
-Building_39_Description,Text,,Research new technologies.,,,222
-Building_39_Name,Text,,Workshop,,,223
-Building_39_Plural,Text,,Workshops,,,224
-Building_39_Worker,Text,,Researchbot,,,225
-Building_3_Description,Text,,Create <it>Logs</it> by chopping down trees.,,,226
-Building_3_Name,Text,,Lumberjack Hut,,,227
-Building_3_Plural,Text,,Lumberjack Huts,,,228
-Building_3_Worker,Text,,Lumberbot,,,229
-Building_40_Description,Text,,Allows you to buy and sell resources.,,,230
-Building_40_Name,Text,,Space Port,,,231
-Building_40_Plural,Text,,Space Ports,,,232
-Building_40_Worker,Text,,Stackbot,,,233
-Building_41_Description,Text,,Creates <it>Energy</it> from <it>Water</it> and <cat>Food</cat>.,,,234
-Building_41_Name,Text,,Residence,,,235
-Building_41_Plural,Text,,Residences,,,236
-Building_41_Worker,Text,,Housebot,,,237
-Building_45_Description,Text,,Creates <it>Steel</it> from <it>Iron</it> using <cat>Fuel</cat>.,,,238
-Building_45_Name,Text,,Steelworks,,,239
-Building_45_Plural,Text,,Steelworks,,,240
-Building_45_Worker,Text,,Steelbot,,,241
-Building_47_Description,Text,,Creates <it>Bricks</it> from <it>Clay</it> using <cat>Fuel</cat>.,,,242
-Building_47_Name,Text,,Brickyard,,,243
-Building_47_Plural,Text,,Brickyards,,,244
-Building_47_Worker,Text,,Brickbot,,,245
-Building_49_Description,Text,,Boosts the productivity of nearby bots.,,,246
-Building_49_Name,Text,,Large Monument,,,247
-Building_49_Plural,Text,,Large Monuments,,,248
-Building_49_Worker,Text,,Stackbot,,,249
-Building_4_Description,Text,,Creates <it>Planks</it> from <it>Logs</it>.,,,250
-Building_4_Name,Text,,Sawmill,,,251
-Building_4_Plural,Text,,Sawmills,,,252
-Building_4_Worker,Text,,Carpenterbot,,,253
-Building_50_Description,Text,,Creates <it>Leather</it> from <it>Hide</it> and <it>Salt</it>.,,,254
-Building_50_Name,Text,,Tannery,,,255
-Building_50_Plural,Text,,Tanneries,,,256
-Building_50_Worker,Text,,Tannerbot,,,257
-Building_51_Description,Text,,Extracts natural resources from underground mines.,,,258
-Building_51_Name,Text,,Shaft Mine,,,259
-Building_51_Plural,Text,,Shaft Mines,,,260
-Building_51_Worker,Text,,Minebot,,,261
-Building_57_Description,Text,,"Upgrades roads and paths, improving transport speed.",,,262
-Building_57_Name,Text,,Road Layer,,,263
-Building_57_Plural,Text,,Road Layers,,,264
-Building_57_Worker,Text,,Roadbot,,,265
-Building_58_Description,Text,,Brews <it>Beer</it> from <it>Flour</it> and <it>Water</it>.,,,266
-Building_58_Name,Text,,Brewery,,,267
-Building_58_Plural,Text,,Breweries,,,268
-Building_58_Worker,Text,,Beerbot,,,269
-Building_5_Description,Text,,Store resources which are not immediately needed.,,,270
-Building_5_Name,Text,,Storage Yard,,,271
-Building_5_Plural,Text,,Storage Yards,,,272
-Building_5_Worker,Text,,Stackbot,,,273
-Building_60_Description,Text,,Boosts the productivity of nearby bots.,,,274
-Building_60_Name,Text,,Small Monument,,,275
-Building_60_Plural,Text,,Small Monuments,,,276
-Building_60_Worker,Text,,Stackbot,,,277
-Building_61_Description,Text,,Store resources which are not immediately needed.,,,278
-Building_61_Name,Text,,Small Storage Yard,,,279
-Building_61_Plural,Text,,Small Storage Yards,,,280
-Building_61_Worker,Text,,Stackbot,,,281
-Building_62_Description,Text,,Boosts the productivity of nearby bots.,,,282
-Building_62_Name,Text,,Medium Monument,,,283
-Building_62_Plural,Text,,Medium Monuments,,,284
-Building_62_Worker,Text,,Stackbot,,,285
-Building_63_Description,Text,,Allows transportation of resources using boats.,,,286
-Building_63_Name,Text,,Large Harbour,,,287
-Building_63_Plural,Text,,Large Harbours,,,288
-Building_63_Worker,Text,,Dockbot,,,289
-Building_65_Description,Text,,Store resources which are not immediately needed.,,,290
-Building_65_Name,Text,,Large Storage Yard,,,291
-Building_65_Plural,Text,,Large Storage Yards,,,292
-Building_65_Worker,Text,,Stackbot,,,293
-Building_6_Description,Text,,Allows transportation of resources with trains.,,,294
-Building_6_Name,Text,,Train Station,,,295
-Building_6_Plural,Text,,Train Stations,,,296
-Building_6_Worker,Text,,Stationbot,,,297
-Buildings,Text,,Buildings,,,298
-BuildingsPanelAllBuildings,Text,,<< All Buildings,,,299
-Campaign,Text,,Campaign,,,300
-Campaign Maps,Text,,Campaign Maps,,,301
-Cancel,Text,,Cancel,,,302
+Advice_8_Name,Text,,Expand your territory!,Espandi il tuo territorio!,,
+Advice_9_Desc,Text,,Build a <bd>Workshop</bd> so you can research new technologies.,Costruisci un <bd>Laboratorio</bd> in modo da ricercare nuove tecnologie.,,
+Advice_9_Name,Text,,No <bd>Workshop</bd>!,Nessun <bd>Laboratorio</bd>!,,
+Advisor,Text,In-game advice panel,Advisor,Consulente,,
+AdvisorColonyAdvice,Text,,Colony Advice,Consigli Colonia,,
+AdvisorGeneralTips,Text,,General Tips,Suggerimenti Generali,,
+AdvisorMissionGoals,Text,,Mission Goals,Obiettivi di Missione,,
+AgeName_0,Text,Level of buildings in the game,Level 1,Livello 1,,
+AgeName_1,Text,,Level 2,Livello 2,,
+AgeName_2,Text,,Level 3,Livello 3,,
+All,Text,All Maps,All,Tutte,,
+Animal_0_Name,Text,,Sheep,Pecora,,
+Animal_2_Name,Text,,Cow,Mucca,,
+Audio Settings,Text,,Audio Settings,Impostazioni Audio,,
+Back,Text,Navigate to previous screen,Back,Indietro,,
+BdPlVaResults_0_Name,Text,Short message when trying to place a building for example,Success!,Successo!,,
+BdPlVaResults_10_Name,Text,,Tile is off map,La casella è fuori dalla mappa.,,
+BdPlVaResults_11_Name,Text,{0}: name of building or thing obstructing the placement of new building,Tile occupied by {0},La casella è occupata da {0},,
+BdPlVaResults_12_Name,Text,,Too steep,Troppo ripido,,
+BdPlVaResults_13_Name,Text,,Can't adjust tiles,Impossibile regolare la casella,,
+BdPlVaResults_14_Name,Text,,No route can be made,Non è possibile creare una strada,,
+BdPlVaResults_15_Name,Text,,Tile is outside territory,La casella è fuori dal territorio,,
+BdPlVaResults_16_Name,Text,,Not available,Non disponibile,,
+BdPlVaResults_17_Name,Text,,Not aligned with underground deposit entrance,Non allineato con l'ingresso del deposito sotterraneo,,
+BdPlVaResults_18_Name,Text,,Not aligned with fish tile,Non allineato con la casella pesce,,
+BdPlVaResults_19_Name,Text,,No adjacent pier,Nessun molo adiacente,,
+BdPlVaResults_1_Name,Text,,Incorrect terrain type,Tipo di terreno non valido,,
+BdPlVaResults_20_Name,Text,,Not adjacent,Non adiacente,,
+BdPlVaResults_21_Name,Text,,Not enough adjacent structures,Non ci sono abbastanza strutture adiacenti,,
+BdPlVaResults_22_Name,Text,,Invalid end of path tile,Casella di fine percorso non valida,,
+BdPlVaResults_23_Name,Text,,No route found,Nessuna percorso trovata,,
+BdPlVaResults_24_Name,Text,,Banned,Bannato,,
+BdPlVaResults_255_Name,Text,,Unknown,Sconosciuto,,
+BdPlVaResults_25_Name,Text,,Higher level <bd>Shaft Mine</bd> required,<bd>Miniera</bd> di livello superiore richiesta,,
+BdPlVaResults_26_Name,Text,,Land too high,Terra troppo alta,,
+BdPlVaResults_27_Name,Text,,Land too low,Terra troppo bassa,,
+BdPlVaResults_28_Name,Text,,Track would break road,Il tracciato romperebbe la strada,,
+BdPlVaResults_29_Name,Text,,Invalid road/path crossing,Incrocio strada/sentiero non valido,,
+BdPlVaResults_2_Name,Text,,Below water,Sott'acqua,,
+BdPlVaResults_30_Name,Text,,Track cannot cross multiple road or path tiles,Il tracciato non può incrociare più strade o sentieri,,
+BdPlVaResults_31_Name,Text,,Below water,Sott'acqua,,
+BdPlVaResults_32_Name,Text,,Below ground,Sotto terra,,
+BdPlVaResults_33_Name,Text,,Obstruction,Ostruito,,
+BdPlVaResults_34_Name,Text,,Not enough space above,Spazio sopra insufficiente,,
+BdPlVaResults_35_Name,Text,,Bridge needs support,Il ponte necessita di supporti,,
+BdPlVaResults_36_Name,Text,,Too high for bridge supports,Troppo alto per i supporti del ponte,,
+BdPlVaResults_37_Name,Text,,Not enough height,Altezza insufficiente,,
+BdPlVaResults_38_Name,Text,,Cannot create train - blocked,Impossibile crare il treno - bloccato,,
+BdPlVaResults_39_Name,Text,,Support blocked by road or path,Supporto bloccato da strada o sentiero,,
+BdPlVaResults_3_Name,Text,,Below water,Sott'acqua,,
+BdPlVaResults_4_Name,Text,,Not below water,Non sott'acqua,,
+BdPlVaResults_5_Name,Text,,Outside territory,Fuori dal territorio,,
+BdPlVaResults_6_Name,Text,,Maximum amount reached,Massima quantità raggiunta,,
+BdPlVaResults_7_Name,Text,,Entrance tile occupied,Casella di entrata occupata,,
+BdPlVaResults_8_Name,Text,,Entrance tile below water,Casella di entrata sott'acqua,,
+BdPlVaResults_9_Name,Text,,Entrance outside territory,L'entrata è fuori dal territorio,,
+Best Time,Text,,Best Times,Tempi migliori,,
+Boat_1_Name,Text,,Clipper,Clipper,,
+Boat_2_Name,Text,,Lugger,Lugger,,
+BuildingCat_0,Text,,Residential,Residenziale,,
+BuildingCat_1,Text,,Food Production,Produzione di cibo,,
+BuildingCat_2,Text,,Production,Produzione di cibo,,
+BuildingCat_3,Text,,Resource Collection,Raccolta risorse,,
+BuildingCat_5,Text,,Military,Militare,,
+BuildingCat_6,Text,,Transport,Trasporto,,
+BuildingCat_7,Text,,Storage,Stoccaggio,,
+BuildingCat_8,Text,,Research,Ricerca,,
+Building_0_Description,Text,,Your Colony ship is the starting hub of your colony and slowly generates <it>Logs</it> and <it>Energy L1</it>,La tua astronave della Colonia è l'hub iniziale della tua colonia e lentamente genera <it>Tronchi</it> e </it>Energia L1</it>,,
+Building_0_Name,Text,,Colony Ship,Nave della Colonia,,
+Building_0_Plural,Text,,Colony Ships,Navi della Colonia,,
+Building_0_Worker,Text,,Stackbot,BotImpilatore,,
+Building_11_Description,Text,,Plants saplings which mature into fully grown trees.,Pianta alberelli che cresceranno fino a diventare alberi.,,
+Building_11_Name,Text,,Forestry,Guardia Forestale,,
+Building_11_Plural,Text,,Forestries,Guardie Forestali,,
+Building_11_Worker,Text,,Treebot,BotForestale,,
+Building_13_Description,Text,,Grows <it>Wheat</it> from wheat fields.,Fa crescere il <it>Grano</it> dai campi di grano.,,
+Building_13_Name,Text,,Wheat Farm,Fattoria di Grano,,
+Building_13_Plural,Text,,Wheat Farms,Fattorie di Grano,,
+Building_13_Worker,Text,,Farmbot,BotContadino,,
+Building_14_Description,Text,,Mines natural resources from surface deposits.,Estrae risorse naturali dai depositi di superficie.,,
+Building_14_Name,Text,,Surface Mine,Miniera di Superficie,,
+Building_14_Plural,Text,,Surface Mines,Miniere di Superficie,,
+Building_14_Worker,Text,,Axebot,BotMinatore,,
+Building_15_Description,Text,,Bakes <it>Bread</it> from <it>Flour</it> and <it>Water</it> using <cat>Coal</cat>.,Prepara il <it>Pane</it> con <it>Farina</it> e </it>Acqua</it> utilizzando <cat>Carbone</cat>,,
+Building_15_Name,Text,,Bakery,Panificio,,
+Building_15_Plural,Text,,Bakeries,Panifici,,
+Building_15_Worker,Text,,Bakerbot,BotFornaio,,
+Building_16_Description,Text,,Mills <it>Flour</it> from <it>Wheat</it>.,Macina il <it>Grano</it> in <it>Farina</it>,,
+Building_16_Name,Text,,Flour Mill,Mulino,,
+Building_16_Plural,Text,,Flour Mills,Mulini,,
+Building_16_Worker,Text,,Millerbot,BotMugnaio,,
+Building_18_Description,Text,,Creates <it>Meat</it> and <it>Hide</it> from cows.,Ottiene <it>Carne</it> e <it>Pelle Animale</it> dalle mucche.,,
+Building_18_Name,Text,,Cow Farm,Allevamento di mucche,,
+Building_18_Plural,Text,,Cow Farms,Allevamenti di mucche,,
+Building_18_Worker,Text,,Farmbot,BotAllevatore,,
+Building_19_Description,Text,,Pulls <it>Water</it> from an underground source.,Estrae <it>Acqua</it> da una fonte sotterranea.,,
+Building_19_Name,Text,,Well,Pozzo,,
+Building_19_Plural,Text,,Wells,Pozzi,,
+Building_19_Worker,Text,,Waterbot,AcquaBot,,
+Building_1_Description,Text,,Grows <it>Apples</it>.,Fa crescere le <it>Mele</it>.,,
+Building_1_Name,Text,,Orchard,Frutteto,,
+Building_1_Plural,Text,,Orchards,Frutteti,,
+Building_1_Worker,Text,,Farmbot,BotColtivatore,,
+Building_20_Description,Text,,Creates <it>Charcoal</it> from <it>Logs</it>.,Crea <it>Carbonella</it> dai <it>Tronchi</it>,,
+Building_20_Name,Text,,Charcoal Burner,Bruciatore di Carbonella,,
+Building_20_Plural,Text,,Charcoal Burners,Bruciatori di Carbonella,,
+Building_20_Worker,Text,,Burnerbot,BotBruciatore,,
+Building_21_Description,Text,,Creates <it>Meat</it> from sheep.,Ottiene <it>Carne</it> dalle pecore.,,
+Building_21_Name,Text,,Sheep Farm,Fattoria di Pecore,,
+Building_21_Plural,Text,,Sheep Farms,Fattorie di Pecore,,
+Building_21_Worker,Text,,Shepherdbot,BotPastore,,
+Building_22_Description,Text,,Allows transportation of resources using boats.,Permette il trasporto di risorse tramite barche.,,
+Building_22_Name,Text,,Harbour,Porto,,
+Building_22_Plural,Text,,Harbours,Porti,,
+Building_22_Worker,Text,,Dockbot,BotScaricatore,,
+Building_23_Description,Text,,Creates <it>Paper</it> using <it>Logs</it> and <it>Water</it>.,Crea <it>Carta</it> utilizzando <it>Tronchi</it> e <it>Acquz</it>.,,
+Building_23_Name,Text,,Paper Mill,Cartiera,,
+Building_23_Plural,Text,,Paper Mills,Cartiere,,
+Building_23_Worker,Text,,Paperbot,BotCartiere,,
+Building_254_Name,Text,,Expedition,Spedizione,,
+Building_25_Description,Text,,Creates <it>Tools</it> from <it>Iron</it> and <it>Planks</it> using <cat>Fuel</cat>.,Crea <it>Strumenti</it> da <it>Ferro</it> e <it>Assi</it> utilizzando <cat>Carburante</cat>,,
+Building_25_Name,Text,,Blacksmith,Fabbro,,
+Building_25_Plural,Text,,Blacksmiths,Fabbri,,
+Building_25_Worker,Text,,Smithbot,BotFabbro,,
+Building_26_Description,Text,,Creates <it>Books</it> using <it>Paper</it> and <it>Leather</it>.,Crea <it>Libri</it> utilizzando <it>Carta</it> e <it>Pelle</it>,,
+Building_26_Name,Text,,Printing Press,Stampatrice,,
+Building_26_Plural,Text,,Printing Presses,Stampatrici,,
+Building_26_Worker,Text,,Printbot,BotStampatore,,
+Building_27_Description,Text,,Creates <it>Iron</it> from <it>Iron Ore</it> using <cat>Fuel</cat>.,Crea <it>Ferro</it> da <it>Ferro gresso</it> utilizzando <cat>Carbutante</cat>,,
+Building_27_Name,Text,,Blast Furnace,Altoforno,,
+Building_27_Plural,Text,,Blast Furnaces,Altiforni,,
+Building_27_Worker,Text,,Smeltbot,BotFondatore,,
+Building_29_Description,Text,,Creates <it>Woollen Garments</it> from <it>Wool</it>.,Crea <it>Indumenti di Lana<it> dalla <it>Lana</it>.,,
+Building_29_Name,Text,,Weaver,Tessitore,,
+Building_29_Plural,Text,,Weavers,Tessitori,,
+Building_29_Worker,Text,,Weaverbot,BotTessitore,,
+Building_2_Description,Text,,Makes <it>Cider</it> from <it>Apples</it>.,Crea <it>Sidro</it> dalle <it>Mele</it>.,,
+Building_2_Name,Text,,Cider Press,Pressa di Sidro,,
+Building_2_Plural,Text,,Cider Presses,Presse di Sidro,,
+Building_2_Worker,Text,,Pressbot,BotPressatore,,
+Building_30_Description,Text,,Creates <it>Glass</it> from <it>Quartz</it>.,Crea <it>Vetro</it> da <it>Quarzo</it>.,,
+Building_30_Name,Text,,Glassworks,Vetreria,,
+Building_30_Plural,Text,,Glassworks,Vetrerie,,
+Building_30_Worker,Text,,Blowbot,BotVetraio,,
+Building_32_Description,Text,,Constructs boats,Costruisce barche,,
+Building_32_Name,Text,,Boat Yard,Cantiere Navale,,
+Building_32_Plural,Text,,Boat Yards,Cantieri Navali,,
+Building_32_Worker,Text,,Shipwrightbot,BotCostruttore,,
+Building_33_Description,Text,,Expands territory and can attack enemy watchtowers.,Espande il territorio e può attaccare le torri nemiche.,,
+Building_33_Name,Text,,Watchtower,Torre di osservazione,,
+Building_33_Plural,Text,,Watchtowers,Torri di osservazione,,
+Building_33_Worker,Text,,Guardbot,BotGuardia,,
+Building_34_Description,Text,,Produces <it>Arrows</it> from <it>Logs</it>.,Produce <it>Frecce</it> dai <it>Tronchi</it>:,,
+Building_34_Name,Text,,Fletcher,??? - TODO,,
+Building_34_Plural,Text,,Fletchers,??? - TODO,,
+Building_34_Worker,Text,,Fletchbot,??? - TODO,,
+Building_35_Description,Text,,Creates <it>Cannonballs</it> from <it>Iron</it> using <cat>Fuel</cat>.,Crea <it>Palle di cannone</it> da <it>Ferro</it> utilizzando <cat>Carburante</cat>.,,
+Building_35_Name,Text,,Weaponsmith,Armaiolo,,
+Building_35_Plural,Text,,Weaponsmiths,Armaioli,,
+Building_35_Worker,Text,,Smithbot,BotArmaiolo,,
+Building_38_Description,Text,,Catches <it>Fish</it> from a fishing tile.,Cattura <it>Pesci</it> da una casella di pesca.,,
+Building_38_Name,Text,,Fishing Hut,Capanna da pesca,,
+Building_38_Plural,Text,,Fishing Huts,Capanne da pesca,,
+Building_38_Worker,Text,,Fisherbot,BotPescatore,,
+Building_39_Description,Text,,Research new technologies.,Ricerca nuove tecnologie,,
+Building_39_Name,Text,,Workshop,Laboratorio,,
+Building_39_Plural,Text,,Workshops,Laboratori,,
+Building_39_Worker,Text,,Researchbot,BotRicercatore,,
+Building_3_Description,Text,,Create <it>Logs</it> by chopping down trees.,Crea <it>Tronchi</it> tagliando gli alberi.,,
+Building_3_Name,Text,,Lumberjack Hut,Capanna del taglialegna,,
+Building_3_Plural,Text,,Lumberjack Huts,Capanne del taglialegna,,
+Building_3_Worker,Text,,Lumberbot,BotTaglialegna,,
+Building_40_Description,Text,,Allows you to buy and sell resources.,Permette di comprare e vendere risorse.,,
+Building_40_Name,Text,,Space Port,Porto Spaziale,,
+Building_40_Plural,Text,,Space Ports,Porti Spaziali,,
+Building_40_Worker,Text,,Stackbot,BotImpilatore,,
+Building_41_Description,Text,,Creates <it>Energy</it> from <it>Water</it> and <cat>Food</cat>.,Crea <it>Energia</it> da <it>Acqua</it> e <cat>Cubi</cat>.,,
+Building_41_Name,Text,,Residence,Residenza,,
+Building_41_Plural,Text,,Residences,Residenze,,
+Building_41_Worker,Text,,Housebot,BotCasalingo,,
+Building_45_Description,Text,,Creates <it>Steel</it> from <it>Iron</it> using <cat>Fuel</cat>.,Crea <it>Acciaio</it> da <it>Ferro</it> utilizzando <cat>Carburante</cat>,,
+Building_45_Name,Text,,Steelworks,Acciaieria,,
+Building_45_Plural,Text,,Steelworks,Acciaierie,,
+Building_45_Worker,Text,,Steelbot,BotFabbro,,
+Building_47_Description,Text,,Creates <it>Bricks</it> from <it>Clay</it> using <cat>Fuel</cat>.,Crea <it>Mattoni</it> da <it>Argilla</it> utilizzando <cat>Carburante</cat>.,,
+Building_47_Name,Text,,Brickyard,Mattonificio,,
+Building_47_Plural,Text,,Brickyards,Mattonifici,,
+Building_47_Worker,Text,,Brickbot,BotMattonaio,,
+Building_49_Description,Text,,Boosts the productivity of nearby bots.,Aumenta la produttività dei Bot vicini.,,
+Building_49_Name,Text,,Large Monument,Monumento grande,,
+Building_49_Plural,Text,,Large Monuments,Monumenti grandi,,
+Building_49_Worker,Text,,Stackbot,BotImpilatore,,
+Building_4_Description,Text,,Creates <it>Planks</it> from <it>Logs</it>.,Crea <it>Assi</it> da <it>Tronchi</it>.,,
+Building_4_Name,Text,,Sawmill,Segheria,,
+Building_4_Plural,Text,,Sawmills,Segherie,,
+Building_4_Worker,Text,,Carpenterbot,BotCarpentiere,,
+Building_50_Description,Text,,Creates <it>Leather</it> from <it>Hide</it> and <it>Salt</it>.,Crea <it>Pelle</it> da <it>Pelle Animale</it> e <it>Sale</it>.,,
+Building_50_Name,Text,,Tannery,Conceria,,
+Building_50_Plural,Text,,Tanneries,Concerie,,#REF!
+Building_50_Worker,Text,,Tannerbot,BotConciatore,,
+Building_51_Description,Text,,Extracts natural resources from underground mines.,Estrae risorse naturali da miniere sotterranee.,,
+Building_51_Name,Text,,Shaft Mine,Miniera,,
+Building_51_Plural,Text,,Shaft Mines,Miniere,,
+Building_51_Worker,Text,,Minebot,BotMinatore,,
+Building_57_Description,Text,,"Upgrades roads and paths, improving transport speed.","Migliora strade e sentieri, incrementando la velocità di trasporto.",,
+Building_57_Name,Text,,Road Layer,Manto Stradale,,
+Building_57_Plural,Text,,Road Layers,Manti Stradlae,,
+Building_57_Worker,Text,,Roadbot,BotAsfaltatore,,
+Building_58_Description,Text,,Brews <it>Beer</it> from <it>Flour</it> and <it>Water</it>.,Produce <it>Birra</it> da <it>Farina</it> e <it>Acqua</it>.,,
+Building_58_Name,Text,,Brewery,Fabbrica di birra,,
+Building_58_Plural,Text,,Breweries,Fabbriche di birra,,
+Building_58_Worker,Text,,Beerbot,BotBirraio,,
+Building_5_Description,Text,,Store resources which are not immediately needed.,Conserva risorse che non sono immediatamente necessarie.,,
+Building_5_Name,Text,,Storage Yard,Deposito,,
+Building_5_Plural,Text,,Storage Yards,Depositi,,
+Building_5_Worker,Text,,Stackbot,BotImpilatore,,
+Building_60_Description,Text,,Boosts the productivity of nearby bots.,Aumenta la produttività dei Bot vicini.,,
+Building_60_Name,Text,,Small Monument,Monumento piccolo,,
+Building_60_Plural,Text,,Small Monuments,Monumenti piccoli,,
+Building_60_Worker,Text,,Stackbot,BotImpilatore,,
+Building_61_Description,Text,,Store resources which are not immediately needed.,Conserva risorse che non sono immediatamente necessarie.,,
+Building_61_Name,Text,,Small Storage Yard,Deposito piccolo,,
+Building_61_Plural,Text,,Small Storage Yards,Depositi piccoli,,
+Building_61_Worker,Text,,Stackbot,BotImpilatore,,
+Building_62_Description,Text,,Boosts the productivity of nearby bots.,Aumenta la produttività dei Bot vicini.,,
+Building_62_Name,Text,,Medium Monument,Monumento medio,,
+Building_62_Plural,Text,,Medium Monuments,Monumenti medi,,
+Building_62_Worker,Text,,Stackbot,BotImpilatore,,
+Building_63_Description,Text,,Allows transportation of resources using boats.,Permette il trasporto di risorse tramite barche.,,
+Building_63_Name,Text,,Large Harbour,Porto grande,,
+Building_63_Plural,Text,,Large Harbours,Porti grandi,,
+Building_63_Worker,Text,,Dockbot,BotScaricatore,,
+Building_65_Description,Text,,Store resources which are not immediately needed.,Conserva risorse che non sono immediatamente necessarie.,,
+Building_65_Name,Text,,Large Storage Yard,Deposito grande,,
+Building_65_Plural,Text,,Large Storage Yards,Depositi grandi,,
+Building_65_Worker,Text,,Stackbot,BotImpilatore,,
+Building_6_Description,Text,,Allows transportation of resources with trains.,Permette il trasporto di risorse tramite treni.,,
+Building_6_Name,Text,,Train Station,Stazione dei treni,,
+Building_6_Plural,Text,,Train Stations,Stazioni dei treni,,
+Building_6_Worker,Text,,Stationbot,??? - TODO,,
+Buildings,Text,,Buildings,Edifici,,
+BuildingsPanelAllBuildings,Text,,<< All Buildings,<< Tutti gli edifici,,
+Campaign,Text,,Campaign,Campagna,,
+Campaign Maps,Text,,Campaign Maps,Mappe Campagna,,
+Cancel,Text,,Cancel,Annulla,,
 Casual,Text,Difficulty Level,Casual,,,303
 Change,Text,,Change,,,304
 Changes to this file have not been published to Steam Workshop.,Text,,Changes to this file have not been published to Steam Workshop.,,,305
