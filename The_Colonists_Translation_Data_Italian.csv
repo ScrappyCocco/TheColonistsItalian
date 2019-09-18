@@ -336,7 +336,7 @@ ColonyStatisticsIncomeHeader,Text,,Money Income,Reddito,,
 ColonyStatisticsLateResourcesHeader,Text,,Recent Late Resources,Risorse consegnate in ritardo di recente,,
 ColonyStatisticsNoMatch,Text,,No recently delivered resources match the filters.,Nessuna risorsa consegnata di recente corrisponde ai filtri,,
 ColonyStatisticsProductivityHeader,Text,,Colony Productivity,Produttività della Colonia,,
-ColonyStatsTooltipBlockedRoadsDesc,Text,,The number of roads where a carrybot is blocked because a road post is full,Il numero di strade in cui un BotTrasportatore è bloccato perchè un incrocio è pieno,,
+ColonyStatsTooltipBlockedRoadsDesc,Text,,The number of roads where a carrybot is blocked because a road post is full,Il numero di strade in cui un BotTrasportatore è bloccato perchè un palo stradale è pieno,,
 ColonyStatsTooltipBlockedRoadsTitle,Text,,Blocked Roads,Strade bloccate,,
 ColonyStatsTooltipIncomeRateDesc,Text,,The amount of money earned on average per day over the last month,la quantitò di denaro guadagnata in media al giorno nell'ultimo mese,,
 ColonyStatsTooltipIncomeRateTitle,Text,,Income Rate,Tasso di reddito,,
@@ -420,7 +420,7 @@ EntityBuildingPriorityLayersFinishAction,Text,,Finish,Fine,,
 EntityBuildingPriorityLayersForestryDesc,Text,,"Set the area in which the treebot can plant trees.
 
 Click or click and drag to set tiles.
-<hotkey>[Shift]</hotkey> click a tile to unset it.","Seleziona l'area in cui il BotBoscaiolo può piantare alberi. 
+<hotkey>[Shift]</hotkey> click a tile to unset it.","Seleziona l'area in cui il BotTaglialegna può piantare alberi. 
 
 Clicca o clicca e trascina per selezionare le caselle.
 <hotkey>[Shift]</hotkey> clicca una casella per de-selezionarla.",,
@@ -456,8 +456,8 @@ EntityBuildingTechResearchStatsViewTypeResearch,Text,,Research,Ricerca,,
 EntityBuildingTransportConnectionsBoatRoutesHeader,Text,,Boat Routes,Rotte barca,,
 EntityBuildingTransportConnectionsNoBoatRoutes,Text,,No boat routes,Nessuna rotta per la barca,,
 EntityBuildingTransportConnectionsNoBuildings,Text,,No direct building connections,Nessun collegamento diretto dell'edificio,,
-EntityBuildingTransportConnectionsNoRoadPost,Text,,Not connected to a road post!,Non connesso ad un incrocio!,,
-EntityBuildingTransportConnectionsNoRoadPostsDesc,Text,,Connect entrance to a road post using roads or paths. Maximum distance is 20 tiles.,Collega l'ingresso ad un incrocio utilizzando una strada o un sentiero. La distanza massima è 20 caselle.,,
+EntityBuildingTransportConnectionsNoRoadPost,Text,,Not connected to a road post!,Non connesso ad un palo stradale!,,
+EntityBuildingTransportConnectionsNoRoadPostsDesc,Text,,Connect entrance to a road post using roads or paths. Maximum distance is 20 tiles.,Collega l'ingresso ad un palo stradale utilizzando una strada o un sentiero. La distanza massima è 20 caselle.,,
 EntityBuildingTransportConnectionsRoadPostsHeader,Text,,Road Posts,Incroci,,
 EntityBuildingTransportRulesIncomingBlacklistDesc,Text,,Resources completely banned from being imported:,Risorse completamente vietate dall'importazione:,,
 EntityBuildingTransportRulesIncomingBlacklistExcStorageDesc,Text,,Resources banned from being imported unless they're headed for a storage yard:,Risorse vietate dall'importazione a meno che non siano dirette in un deposito:,,
@@ -513,9 +513,9 @@ EntityInfoVehicleStopTransportRulesBlacklistExcStorageHeader,Text,,Blacklist - E
 EntityInfoVehicleStopTransportRulesBlacklistHeader,Text,,Blacklist,Lista nera,,
 EntityInfoVehicleStopTransportRulesIntro,Text,,Control the resources that [vh] will load at this stop for <bd>[bd]</bd>.,Controlla le risorse che [vh] caricherà a questa fermata per <bd>[bd]</bd>,,
 EntityInfoVehicleStopTransportRulesWhitelistDesc,Text,,Resources allowed to be loaded at this stop:,Risorse che possono essere caricate in questa fermata:,,
-EntityInfoVehicleStopTransportRulesWhitelistHeader,Text,,Whitelist,Lista dei desideri,,
+EntityInfoVehicleStopTransportRulesWhitelistHeader,Text,,Whitelist,Lista delle richieste,,
 EntityInfoVehicleStopTransportRulesWhitelistStorageOnlyDesc,Text,,Resources allowed to be loaded at this stop only if headed to a storage yard:,Risorse autorizzate a essere caricate a questa fermata solo se dirette verso un deposito:,,
-EntityInfoVehicleStopTransportRulesWhitelistStorageOnlyHeader,Text,,Whitelist - Storage Only,Lista dei desideri - solo deposito,,
+EntityInfoVehicleStopTransportRulesWhitelistStorageOnlyHeader,Text,,Whitelist - Storage Only,Lista delle richieste - solo deposito,,
 EntityPortColonyShipAssignBoatDesc,Text,,To begin the expedition select an available boat and assign it to this expedition.,Per iniziare la spedizione seleziona una barca disponibile e assegnala a questa spedizione.,,
 EntityPortColonyShipAssignBoatHeader,Text,,Assign Boat,Assegna barca,,
 EntityPortColonyShipBoatEnRoute,Text,,{0} is on its way to collect expedition provisions,{0} sta arrivando per raccogliere le risorse per la spedizione,,
@@ -560,7 +560,7 @@ Favourites,Text,Favourite Maps,Favourites,Preferiti,,
 Featured,Text,Featured Maps,Featured,In primo piano,,
 Filter,Text,Map Filter,Filter,Filtra,,
 Fish_0_Name,Text,,Fish,Pesce,,
-Flag_0_Name,Text,,Road Post,Incrocio,,
+Flag_0_Name,Text,,Road Post,Palo stradale,,
 FloraCat_1,Text,,Tree,Albero,,
 FloraCat_2,Text,,Rock,Roccia,,
 FloraCat_3,Text,,Bush,Cespuglio,,
@@ -587,9 +587,9 @@ Flora_7_Name,Text,,Cypress Tree,Cipresso,,
 Flora_8_Name,Text,,Cactus,Cactus,,
 Flora_Tree_Description,Text,,"This tree can be chopped down and converted into <it>Logs</it> by the <bd>Lumberjack Hut</bd>.
 
-You can prioritise a Lumberbot to chop this tree down first by using the Priority Panel on a <bd>Lumberjack Hut</bd>.","Questo albero può essere abbattuto e convertito in <it>Tronchi</it> avendo una <bd>Capanna del Boscaiolo</bd>.
+You can prioritise a Lumberbot to chop this tree down first by using the Priority Panel on a <bd>Lumberjack Hut</bd>.","Questo albero può essere abbattuto e convertito in <it>Tronchi</it> avendo una <bd>Capanna del Taglialegna</bd>.
 
-Puoi dare la priorità ad un BotTaglialegna per tagliare prima l'albero utilizzando un Pannello Priorità su una <bd>Capanna del Boscaiolo</bd>.",,
+Puoi dare la priorità ad un BotTaglialegna per tagliare prima l'albero utilizzando un Pannello Priorità su una <bd>Capanna del Taglialegna</bd>.",,
 Fog of War,Text,The edge of where the player can see,Fog of War,Nebbia di guerra,,
 Free Construction,Text,When you place a building it is already constructed,Free Construction,Costruzione libera,,
 FullScreenMode_0,Text,https://docs.unity3d.com/ScriptReference/FullScreenMode.html,Exclusive Full Screen,Schermo intero esclusivo,,
@@ -692,17 +692,17 @@ It is usually optimal to place a building that supply another building close tog
 
 For example, if you have a remote <bd>Mine</bd>, you can build a nearby <bd>Storage Yard</bd> to keep a supply of <it>Energy</it> nearby. If you do this bear in mind that, by default, the <it>Energy</it> stored there will still be available to other buildings, potentially far away. There are two options to make it so that <it>Energy</it> only goes to that <bd>Mine</bd>:
 
-Firstly you could limit the export buildings in the <bd>Storage Yard</bd> settings to just your <bd>Mine</bd>. Secondly you could create a transport rule on a road post to only allow <it>Energy</it> to pass through if going to a <bd>Storage Yard</bd>.","Questo pannello secondario elenca le risorse consegnate di recente a un edificio di produzione. Puoi filtrare i risultati in base a"" In orario"","" Allerta"" e "" Allarme""e puoi selezionare qualsiasi voce per vedere il percorso seguito. Il numero percentuale indica che il tempo impiegato per il viaggio rispetto al tempo necessario per mantenere la produttività del 100% nell'edificio di destinazione.
+Firstly you could limit the export buildings in the <bd>Storage Yard</bd> settings to just your <bd>Mine</bd>. Secondly you could create a transport rule on a road post to only allow <it>Energy</it> to pass through if going to a <bd>Storage Yard</bd>.","Questo pannello secondario elenca le risorse consegnate di recente a un edificio di produzione. Puoi filtrare i risultati in base a"" In orario"","" Allerta"" e ""Allarme"" e puoi selezionare qualsiasi voce per vedere il percorso seguito. Il numero percentuale indica che il tempo impiegato per il viaggio rispetto al tempo necessario per mantenere la produttività del 100% nell'edificio di destinazione.
 
-Ad esempio, una <bd>Capanna del Boscaiolo</bd> richiede <it>Energia</it> al prezzo di una al giorno e può archiviare fino a quattro risorse <it>Energia</it> come buffer. Se una risorsa <it>Energia</it> impiega 4,5 giorni per arrivare, verrà elencata qui come 112% come se quel tempo di viaggio fosse coerente, quindi le risorse non arriverebbero abbastanza rapidamente per mantenere una produttività del 100%.
+Ad esempio, una <bd>Capanna del Taglialegna</bd> richiede <it>Energia</it> al prezzo di una al giorno e può archiviare fino a quattro risorse <it>Energia</it> come buffer. Se una risorsa <it>Energia</it> impiega 4,5 giorni per arrivare, verrà elencata qui come 112% come se quel tempo di viaggio fosse coerente, quindi le risorse non arriverebbero abbastanza rapidamente per mantenere una produttività del 100%.
 
-Questo è solo uno dei fattori. Quando si tiene conto del fatto che un edificio possa funzionare al 100%, in quanto è necessario anche tenere conto del fatto che in primo luogo viene prodotta abbastanza quella risorsa.
+Questo è solo uno dei fattori. Quando si tiene conto del fatto che un edificio possa funzionare al 100%, si deve anche tenere conto del fatto che in primo luogo viene prodotta abbastanza quella risorsa.
 
 Di solito è ottimale posizionare un edificio che rifornisca un altro edificio vicino in modo che i percorsi di approvvigionamento siano brevi. A volte ciò non è possibile, ma per ovviare a questo problema è possibile creare <bd>Depositi</bd> vicino alla destinazione per creare un ""buffer"" di approvvigionamento aggiuntivo.
 
 Ad esempio, se possiedi uan <bd>Miniera</bd> remota, puoi costruire un <bd>Deposito</bd> nelle vicinanze per mantenere un rifornimento di <it>Energia</it> nelle vicinanze. Se lo fai, tieni presente che, per impostazione predefinita, l '<it>Energia</it> immagazzinata sarà comunque disponibile per altri edifici, potenzialmente lontani. Ci sono due opzioni per farlo in modo che <it>Energia</it> vada solo a quella <bd>Miniera</bd>:
 
-In primo luogo potresti limitare gli edifici di esportazione nelle impostazioni <bd>Deposito </bd> solo alla tua <bd>Miniera</bd>. In secondo luogo, è possibile creare una regola di trasporto su un incrocio per consentire il passaggio di <it>Energia</it> solo se si va in un <bd>Deposito</bd>.",,
+In primo luogo potresti limitare gli edifici di esportazione nelle impostazioni <bd>Deposito </bd> solo alla tua <bd>Miniera</bd>. In secondo luogo, è possibile creare una regola di trasporto su un Palo Stradale per consentire il passaggio di <it>Energia</it> solo se si va in un <bd>Deposito</bd>.",,
 HelpPanel_29,Text,,"By default, resource priorities are determined by the order set in the demands panel for each resource.
 
 However, you can also prioritise a single building over all others by using this button (or holding <hotkey>[P]</hotkey> and clicking the building).
@@ -756,15 +756,15 @@ Blacklist Except Storage: This option means accept the resource if it's going to
 
 Whitelist: means only the selected resources will be able to pass through.
 
-Whitelist Storage Only: This option means only whitelisted resources will be able to pass through and only if they're going to a storage yard.","Puoi aggiungere regole a un incrocio o a un edificio di trasporto per aiutare a dirigere le risorse intorno alla tua colonia in modi particolari.
+Whitelist Storage Only: This option means only whitelisted resources will be able to pass through and only if they're going to a storage yard.","Puoi aggiungere regole a un Palo Stradale o a un edificio di trasporto per aiutare a dirigere le risorse intorno alla tua colonia in modi particolari.
 
 Lista nera: se si inserisce nella lista nera una risorsa, questa non sarà in grado di passare in nessuna circostanza.
 
-Lista nera tranne archiviazione: questa opzione significa accettare la risorsa se va in un deposito.
+Lista nera (tranne archiviazione): questa opzione significa accettare la risorsa se va in un deposito.
 
-Lista dei desideri: significa che solo le risorse selezionate saranno in grado di passare.
+Lista delle richieste: significa che solo le risorse selezionate saranno in grado di passare.
 
-Lista dei desideri solo deposito: questa opzione significa che solo le risorse nella lista dei desideri saranno in grado di passare e solo se stanno andando in un deposito.",,
+Lista delle richieste (solo deposito): questa opzione significa che solo le risorse nella lista deelle richieste saranno in grado di passare e solo se stanno andando in un deposito.",,
 HelpPanel_36,Text,,"This panel lists how much money you have, your current Trader Reputation and resource prices.
 
 Trader Reputation points are gained by buying and selling resources. Gain enough points and your Trader Reputation will increase, allowing you to build another <bd>Space Port</bd>.
@@ -786,7 +786,7 @@ You can click on a connection in the list to see the route the Stackbot takes.",
 
 Gli edifici possono essere posizionati direttamente sulle strade o l'ingresso dell'edificio può essere collegato a una strada tramite un sentiero.
 
-Inoltre, un edificio può essere collegato direttamente tramite percorsi a uno o più altri edifici. Ciò consente ai BotImpilatori di spostare le risorse tra gli edifici senza coinvolgere un incrocio e può aiutare a mantenere il traffico lontano dalle strade.
+Inoltre, un edificio può essere collegato direttamente tramite percorsi a uno o più altri edifici. Ciò consente ai BotImpilatori di spostare le risorse tra gli edifici senza coinvolgere un palo stradale e può aiutare a mantenere il traffico lontano dalle strade.
 
 Una strada o un collegamento di un edificio ha una lunghezza massima di 20 tessere.
 
