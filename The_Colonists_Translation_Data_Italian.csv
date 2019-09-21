@@ -131,7 +131,7 @@ BdPlVaResults_6_Name,Text,,Maximum amount reached,Massima quantità raggiunta,,
 BdPlVaResults_7_Name,Text,,Entrance tile occupied,Casella di entrata occupata,,
 BdPlVaResults_8_Name,Text,,Entrance tile below water,Casella di entrata sott'acqua,,
 BdPlVaResults_9_Name,Text,,Entrance outside territory,L'entrata è fuori dal territorio,,
-Best Time,Text,,Best Times,Tempi migliori,,
+Best Time,Text,,Best Times,Miglior tempo,,
 Boat_1_Name,Text,,Clipper,Clipper,,
 Boat_2_Name,Text,,Lugger,Lugger,,
 BuildingCat_0,Text,,Residential,Residenziale,,
@@ -554,7 +554,7 @@ EntityTransportVehicleStopsNoRouteHeader,Text,Player's boat or train cannot find
 EntityTransportVehicleStopsNoRouteTrainDesc,Text,,Check your tracks for gaps,Controlla i tuoi percorsi per trovare aperture,,
 EntityTransportVehicleStopsTrainAction,Text,,Add Station Stop,Aggiungi fermata stazione,,
 EntityTransportVehicleStopsTrainIntro,Text,,{0} will automatically transport resources between these stations,{0} trasporterà automaticamente le risorse tra queste stazioni,,
-Everything,Text,,Everything,Qualunque cosa,,
+Everything,Text,,Everything,Tutto,,
 ExitGame,Text,,Exit Game,Esci dal gioco,,
 Favourites,Text,Favourite Maps,Favourites,Preferiti,,
 Featured,Text,Featured Maps,Featured,In primo piano,,
@@ -1282,7 +1282,7 @@ MapEditorVictoryConditionsAdd,Text,,Add Victory Condition,Aggiungi condizione di
 MapEditorVictoryConditionsHeader,Text,,Victory Conditions,Condizioni di vittoria,,
 MapEditorWaterVisible,Text,,Water Visible,Acqua visibile,,
 MapEditor_VisualOptions,Text,Header for visual options panel in map editor (contour mode etc),Visual Options,Opzioni visive,,
-MapFeaturesCombat,Text,,Features Combat,Caratteristiche di combattimento,,
+MapFeaturesCombat,Text,,Features Combat,Combattimento presente,,
 MapOutOfDate,Text,,This map needs to be resaved in the map editor before it can be published!,Questa mappa deve essere ri-salvata nell'editor della mappa prima di poter essere pubblicata!,,
 MapPublishChangeNotes,Text,,Publish with Change Notes,Pubblica con le note di modifica,,
 MapPublishChangesIntro,Text,,Would you like to tell your subscribers about any changes to your map?,Desideri informare i tuoi iscritti di eventuali modifiche alla tua mappa?,,
@@ -1348,10 +1348,10 @@ Natural Resources,Text,,Natural Resources,,,1036
 New Scenario,Text,(Create a) New Map,New Map,,,1037
 NewMapCreate,Text,,Create,,,1038
 NewMapSize,Text,,Size,,,1039
-Next,Text,,Next,,,1040
-No saved games,Text,,No savegames,,,1041
+Next,Text,,Next,Avanti,,
+No saved games,Text,,No savegames,Nessuna partita salvata,,
 None,Text,,None,,,1042
-Normal,Text,Difficulty Level,Normal,,,1043
+Normal,Text,Difficulty Level,Normal,Normale,,
 NotificationCollapsingWatchtowerOne,Text,,You have an collapsing watchtower!,,,1044
 NotificationCollapsingWatchtowerPlural,Text,,You have {0} collapsing watchtowers!,,,1045
 NotificationCollapsingWatchtowerTitle,Text,,Watchtower Collapsing!,,,1046
@@ -1450,8 +1450,8 @@ Sandbox,Text,Sandbox Mode,Sandbox,,,1138
 SandboxChooseMap,Text,,Choose Map,,,1139
 SandboxIntro,Text,,Play and experiment with any existing map using the various settings below:,,,1140
 SandboxUpgradedRoads,Text,Option that makes roads and paths automatically the highest level when placed,Upgraded Road & Path Placement,,,1141
-SaveGame,Text,,Save Game,,,1142
-Savegames,Text,,Savegames,,,1143
+SaveGame,Text,,Save Game,Salva,,
+Savegames,Text,,Savegames,Partite salvate,,
 ScenGameVerErr_0,Text,,No playable players!,,,1144
 ScenGameVerErr_1,Text,,No landing site for <p>,,,1145
 ScenGameVerErr_2,Text,,Invalid landing site for <p>,,,1146
@@ -1495,9 +1495,9 @@ Scenario_8_Description,Text,,In hostile environment make best use of the limited
 Scenario_8_Name,Text,,In The Desert,,,1184
 Scenario_9_Description,Text,,Claim victory over your anthrobotic foe.,,,1185
 Scenario_9_Name,Text,,A Hostile Environment,,,1186
-Scenario_Difficulty_0,Text,,Casual,,,1187
-Scenario_Difficulty_1,Text,,Normal,,,1188
-Scenario_Difficulty_2,Text,,Hard,,,1189
+Scenario_Difficulty_0,Text,,Casual,Facile,,
+Scenario_Difficulty_1,Text,,Normal,Normale,,
+Scenario_Difficulty_2,Text,,Hard,Difficile,,
 Screen Settings,Text,,Screen Settings,Impostazioni Schermo,,
 ScreenSettingsApply,Text,,Apply,Applica,,
 SculptMode_0_Name,Text,,Full,,,1192
@@ -1507,7 +1507,7 @@ SculptMode_3_Name,Text,,Vertex,,,1195
 SculptMode_4_Name,Text,,Reset,,,1196
 SculptMode_5_Name,Text,,Side Snap,,,1197
 Soundtrack,Text,,Soundtrack,Colonna sonora,,
-Start Game,Text,,Start Game,,,1199
+Start Game,Text,,Start Game,Inizia partita,,
 Structure_0_Name,Text,,Train Platform,,,1200
 Structure_0_Plural,Text,,Train Platforms,,,1201
 Structure_1_Name,Text,,Wheat Field,,,1202
@@ -1643,7 +1643,7 @@ Tech_76_Desc,Text,,Unlocks <bd>Level 2 Road Layer</bd> who can upgrade roads and
 Tech_76_Name,Text,,Brick Roads,,,1331
 Tech_7_Desc,Text,,Increase construction speed by <amount>%,,,1332
 Tech_7_Name,Text,,Construction Speed III,,,1333
-Technology Researched,Text,Teh technology the player has researched,Technology Researched,,,1334
+Technology Researched,Text,Teh technology the player has researched,Technology Researched,Tecnologia ricercata,,
 TerrainType_0,Text,,None,,,1335
 TerrainType_1,Text,,Grass,,,1336
 TerrainType_10,Text,,Desert A,,,1337
@@ -1663,7 +1663,7 @@ TerrainType_6,Text,,Seabed,,,1350
 TerrainType_7,Text,,Ice,,,1351
 TerrainType_8,Text,,Dirt,,,1352
 TerrainType_9,Text,,Swamp A,,,1353
-Territory,Text,The area which the player owns,Territory,,,1354
+Territory,Text,The area which the player owns,Territory,Territorio,,
 This map is incomplete! Open in the map editor and check the verification panel.,Text,,This map is incomplete! Open in the map editor and check the verification panel.,,,1355
 Tip_0,Text,,You are always able to construct Level 1 buildings if you run out of resources for higher level ones.,,,1356
 Tip_1,Text,,You will always be able to find an underground deposit of <nr>Stone</nr> on the map somewhere.,,,1357
@@ -1941,8 +1941,8 @@ Unit_7_Name,Text,,Shipwrightbot,,,1538
 Unit_8_Name,Text,,Treebot,,,1539
 Unit_9_Name,Text,,Fisherbot,,,1540
 Unsubscribe,Text,Unsubscribe from a map,Unsubscribe,,,1541
-User Maps,Text,,User Maps,,,1542
-Username,Text,,Username,,,1543
+User Maps,Text,,User Maps,Mappe degli utenti,,
+Username,Text,,Username,Username,,
 Utility_0_Name,Text,In map editor the marker on the terrain for where a player starts,Player Start Marker,,,1544
 ViewTypeLastMonth,Text,,Last Month,,,1545
 ViewTypeLastYear,Text,,Last Year,,,1546
@@ -1961,7 +1961,7 @@ StartHeight_3,Text,,High land,,,1558
 StartHeight_4,Text,,Mountain,,,1559
 GameSpeed_Paused,Text,,Paused,,,1560
 GameSpeed_Speed,Text,,Speed,,,1561
-GameMenu_UnsavedProgress,Text,,You have unsaved progress. Quit anyway?,,,1562
+GameMenu_UnsavedProgress,Text,,You have unsaved progress. Quit anyway?,Hai progressi non salvati. Uscire comunque?,,
 ChooseLanguage,Text,,Choose Language,Scegli la Lingua,,
 Store_Promo,Text,Change English to your language,The Colonists is now available in English!,,,1564
 Store_Description,Text,,"The Colonists is a relaxing settlement building game inspired by classic titles like The Settlers and the Anno series.
@@ -1996,18 +1996,18 @@ EntityTransportBoatReady_Assign,Text,,Assign to expedition,,,1579
 EntityTransportBoatReady_TransportRouteHeader,Text,,Transport Route,,,1580
 EntityTransportBoatReady_TransportRouteNoPorts,Text,,You don't yet have enough harbours to be able to create a route.,,,1581
 EntityTransportBoatReady_TransportRouteCreate,Text,,Create Transport Route,,,1582
-MapPlayHARD,Text,,Play Hard,,,1583
-MapPlayNORMAL,Text,,Play Normal,,,1584
-MapPlayCASUAL,Text,,Play Casual,,,1585
+MapPlayHARD,Text,,Play Hard,Gioca a Difficile,,
+MapPlayNORMAL,Text,,Play Normal,Gioca a Normale,,
+MapPlayCASUAL,Text,,Play Casual,Gioca a Facile,,
 ConstructionPanel_Info,Text,,Info,,,1586
 ConstructionPanel_LevelLocked,Text,,Locked,,,1587
 Mission,Text,,Mission,,,1588
 CursorConstrained,Text,,Cursor Constrained,Mouse bloccato (nella finestra),,
 Yes,Text,Alert window - confirm,Yes,Sì,,
 No,Text,Alert window - cancel,No,No,,
-Begin,Text,,Begin,,,1592
-Tutorial,Text,,Tutorial,,,1593
-Skip,Text,,Skip,,,1594
+Begin,Text,,Begin,Inizia,,
+Tutorial,Text,,Tutorial,Tutorial,,
+Skip,Text,,Skip,Salta,,
 EntityConstruction_PauseConstruction,Text,,Pause Construction,,,1595
 EntityConstruction_ResumeConstruction,Text,,Resume Construction,,,1596
 EntityConstruction_ConstructionPaused,Text,,Construction Paused,,,1597
@@ -2154,7 +2154,7 @@ PathState_ClickToComplete,Text,{0}:Click,[{0}] to complete path,,,1731
 ResolutionVerify_Revert,Text,,Revert,,,1732
 ResolutionVerify_Confirm,Text,,Confirm,,,1733
 ResolutionVerify_Message,Text,{0}:number of seconds,Reverting in {0} seconds...,,,1734
-AutoSaveLength,Text,{0}:number of minutes,{0} minutes,{0} minutes,,
+AutoSaveLength,Text,{0}:number of minutes,{0} minutes,{0} minuti,,
 ScenarioBrowser_NoResults,Text,,No maps found. Try using other filter settings!,,,1736
 ScenarioBrowser_SearchPlaceholder,Text,,Search,,,1737
 ScenarioBrowser_NewVersion,Text,,This map requires a newer version of The Colonists! Check Steam for the latest version.,,,1738
@@ -2263,11 +2263,11 @@ YearShort,Text,,y,,,1835
 StructureState_Max,Text,{0}:e.g. sheep field,"Maximum amount of {0} reached.
 <hotkey>[Shift]</hotkey> to remove",,,1836
 TimeAgo,Text,(3 days) ago,ago,,,1837
-SaveGameWindow_Header,Text,,Save Game,,,1838
-SaveGameWindow_Action,Text,,Save,,,1839
-PostcardMode_Postcard,Text,Show the white border,Postcard,,,1840
-PostcardMode_Plain,Text,Blank,Plain,,,1841
-PostcardMode_Interface,Text,Show the User Interface,Interface,,,1842
+SaveGameWindow_Header,Text,,Save Game,Salva il gioco,,
+SaveGameWindow_Action,Text,,Save,Salva,,
+PostcardMode_Postcard,Text,Show the white border,Postcard,Cartolina,,
+PostcardMode_Plain,Text,Blank,Plain,Semplice,,
+PostcardMode_Interface,Text,Show the User Interface,Interface,Interfaccia,,
 PostcardMode_SetTitle,Text,,Title:,,,1843
 PostcardMode_SetBorderSize,Text,Set size of white postcard border,Border size:,,,1844
 PostcardMode_Take,Text,[Enter] is shortcut key,Take Screenshot [Enter],,,1845
@@ -2364,11 +2364,11 @@ TrackEditorCantRemove,Text,{0}: further error info,"Can't Remove Track
 TrackCantRemoveReasonStation,Text,,Track is part of train station,,,1932
 NotificationLowStoneAmount,Text,{0}: amount of stone,{0} stone available!,,,1933
 UnitStateHeadingToRoad,Text,,Heading to road,,,1934
-LoadingGeneric,Text,"A general loading message, e.g. Loading a savegame",Loading,,,1935
+LoadingGeneric,Text,"A general loading message, e.g. Loading a savegame",Loading,Caricamento,,
 TutorialCantSave,Text,,"Sorry, the first tutorial mission cannot be saved. Don't worry, it doesn't take long to complete!",,,1936
 GameSaved,Text,,Game saved!,,,1937
 SavingGame,Text,,Saving game,,,1938
-NoSaveGames,Text,(You have) no saved games,No saved games,,,1939
+NoSaveGames,Text,(You have) no saved games,No saved games,Nessuna partita salvata,,
 EnterFilenameText,Text,,Enter text...,,,1940
 CancelResearch,Text,,Cancel Research,,,1941
 CampaignWindow_Rankings,Text,,Rankings,,,1942
@@ -2427,10 +2427,10 @@ Map_Created,Text,Date map was created,Created:,,,1994
 Map_WorkshopVis,Text,,Visibility:,,,1995
 NewVersion_Header,Text,,News,,,1996
 NewVersion_Body,Text,,The Colonists have been updated! Check the patch notes to see what's new.,,,1997
-NewVersion_OldV,Text,,Old version:,,,1998
-NewVersion_NewV,Text,,New version:,,,1999
-NewVersion_ViewPatchNotes,Text,,View Patch Notes,,,2000
-NewVersion_Continue,Text,,Continue,,,2001
+NewVersion_OldV,Text,,Old version:,Vecchia versione:,,
+NewVersion_NewV,Text,,New version:,Nuova versione:,,
+NewVersion_ViewPatchNotes,Text,,View Patch Notes,Vedi novità,,
+NewVersion_Continue,Text,,Continue,Continua,,
 UpdateAvailable_Steam,Text,,"{0} is available!
 
 Check your Steam Downloads.",,,2002
@@ -2441,8 +2441,8 @@ OK,Text,Alert window confirmation,OK,,,2004
 BugReport_Header,Text,,Bug Report Generated,,,2005
 BugReport_Body_Manual,Text,,Please send the following file to codebyfire@gmail.com or post it in Discord along with a short description of what has gone wrong.,,,2006
 BugReport_Body_Auto,Text,,An error has been caught and a bug report generated. Please send the following file to codebyfire@gmail.com or post it in Discord. Depending on the bug you may be able to continue playing.,,,2007
-BugReport_OpenFile,Text,,Open in Explorer,,,2008
-GenBugReport,Text,,Generating bug report...,,,2009
+BugReport_OpenFile,Text,,Open in Explorer,Apri in Esplora Risorse,,
+GenBugReport,Text,,Generating bug report...,Generazione bug-report...,,
 AlertNoForestryTiles,Text,,Forestry has no tiles set,,,2010
 AlertLumberjackNoTrees,Text,,Lumberjack has no trees to chop,,,2011
 NatResReq,Text,{0}: level {1}:building e.g. Requires Level 1 Shaft Mine,Requires {0} {1},,,2012
@@ -2470,8 +2470,8 @@ GameSettingsInterfaceTextSize_Normal,Text,,Normal,Normale,,
 GameSettingsInterfaceTextSize_Large,Text,,Large,Largo,,
 ConstructionProximityBoost,Text,,Nearby Bot Bonus,,,
 EntPanelHead_24,Text,,Monument Bonus,,,
-SandboxUnlimitedSpacePorts,Text,,Unlimited Space Ports,,,
-SandboxUnlimitedMonuments,Text,,Unlimited Monuments,,,
+SandboxUnlimitedSpacePorts,Text,,Unlimited Space Ports,Porti Spaziali illimitati,,
+SandboxUnlimitedMonuments,Text,,Unlimited Monuments,Monumenti illimitati,,
 Roads,Text,,Roads,,,
 HelpPanel_38,Text,,"This panel shows all the resources currently on their way to this building as well as resources that have recently arrived.
 
