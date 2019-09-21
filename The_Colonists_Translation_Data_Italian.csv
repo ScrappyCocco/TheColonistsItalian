@@ -379,8 +379,8 @@ EntPanelHead_19,Text,,Production Statistics,Statistiche di produzione,,
 EntPanelHead_2,Text,,Resources,Risorse,,
 EntPanelHead_20,Text,,Research Statistics,Statistiche di ricerca,,
 EntPanelHead_21,Text,,Connections,Connessioni,,
-EntPanelHead_22,Text,,Resource Import Rules,Regole di importazione delle risorse,,
-EntPanelHead_23,Text,,Resource Export Rules,Regole di esportazione delle risorse,,
+EntPanelHead_23,Text,,Resource Import Rules,Regole di importazione delle risorse,,
+EntPanelHead_22,Text,,Resource Export Rules,Regole di esportazione delle risorse,,
 EntPanelHead_3,Text,,Military,Militare,,
 EntPanelHead_30,Text,,Resources,Risorse,,
 EntPanelHead_31,Text,,Expedition,Spedizione,,
@@ -464,7 +464,7 @@ EntityBuildingTransportRulesIncomingBlacklistExcStorageDesc,Text,,Resources bann
 EntityBuildingTransportRulesIncomingDesc,Text,,"By default this building imports all resources.
 You can manage which resources can be imported by setting up rules.","Per impostazione predefinita, questo edificio importa tutte le risorse.Puoi gestire quali risorse possono essere importate impostando le regole.",,
 EntityBuildingTransportRulesIncomingWhitelistDesc,Text,,Resources allowed to be imported:,Risorse che possono essere importate:,,
-EntityBuildingTransportRulesIncomingWhitelistOnlyStorageDesc,Text,,Resources allowed to be exported only if headed to a storage yard:,Risorse autorizzate ad essere esportate solo se dirette verso un deposito:,,
+EntityBuildingTransportRulesIncomingWhitelistOnlyStorageDesc,Text,,Resources allowed to be imported only if headed to a storage yard:,Risorse autorizzate ad essere esportate solo se dirette verso un deposito:,,
 EntityBuildingTransportRulesOutgoingBlacklistDesc,Text,,Resources completely banned from being exported:,Risorse completamente vietate dall'esportazione:,,
 EntityBuildingTransportRulesOutgoingBlacklistExcStorageDesc,Text,,Resources banned from being exported unless they're headed for a storage yard:,Risorse vietate dall'esportazione a meno che non siano dirette verso un deposito:,,
 EntityBuildingTransportRulesOutgoingDesc,Text,,"By default this building exports all resources.
@@ -601,10 +601,10 @@ GameMenu_BackToMapEditor,Text,,Back to Map Editor,Torna all'editor delle mappe,,
 GameMenu_Header,Text,,Menu,Menu,,
 GameMenu_ReportBug,Text,,Report A Bug,Segnala un bug,,
 GameSettingsAutosaveInterval,Text,,Autosave interval,Intervallo di salvataggio automatico,,
-GameSettingsAutosaveIterations,Text,,Autosave iterations,Iterazioni di salvataggio automatico,,
+GameSettingsAutosaveIterations,Text,,Autosave iterations,Numero di salvataggi automatici,,
 GameSettingsEdgePanning,Text,,Edge panning,Scorrimento al bordo,,
 GameSettingsEdgePanningSensitivity,Text,,Edge panning sensitivity,Sensibilità scorrimento bordo,,
-GameSettingsFreeRoadPostPlacement,Text,"Allows player to place a road post anywhere, not just from existing road post",Free Road Post Placement,Piazzamento incroci libero,,
+GameSettingsFreeRoadPostPlacement,Text,"Allows player to place a road post anywhere, not just from existing road post",Free Road Post Placement,Piazzamento libero pali stradali,,
 GameSettingsInterfaceAspectLock,Text,Whether the UI should scale based on the width of the resolution or on the height.,Interface aspect lock,Blocco aspetto interfaccia,,
 GameSettingsInvertX,Text,,Invert rotation X axis,Invertire la rotazione dell'asse X,,
 GameSettingsInvertY,Text,,Invert rotation Y axis,Invertire la rotazione dell'asse Y,,
@@ -1131,7 +1131,7 @@ Item_9_FullDesc,Text,,Wheat is grown at the <bd>Wheat Farm</bd> and is used by t
 Item_9_Name,Text,,Wheat,Grano,,
 Item_9_Past,Text,,Harvested,Raccolto,,
 Item_9_Present,Text,,Harvesting,In raccolta,,
-Key Bindings,Text,,Key Bindings,Associazione tasto,,
+Key Bindings,Text,,Key Bindings,Associazione tasti,,
 KeyBindingsResetAllToDefault,Text,Reset all hotkeys to their default key,Reset All To Default,Ripristina tutto su predefinito,,
 LandRoute_0_Desc,Text,,"A path connects a building to a road or road post.
 
@@ -1325,7 +1325,7 @@ MiscInfoPanelMode_4_Desc,Text,,"Click and drag up or down in the corner of an em
 Hold <hotkey>[Ctrl]</hotkey> to snap to neighbour tile.",,,1014
 MiscInfoPanelMode_4_Name,Text,,Adjust Tile Corner,,,1015
 Money,Text,,Money:,,,1016
-MusicVolume,Text,,Music Volume,,,1017
+MusicVolume,Text,,Music Volume,Volume musica,,
 My Maps,Text,,My Maps,,,1018
 My Scenarios,Text,,My Maps,,,1019
 NatRes_0_Desc,Text,,This Stone deposit can be harvested by the <bd>Level 1 Surface Mine</bd>.,,,1020
@@ -1421,29 +1421,29 @@ Notification_5_Desc,Text,,<boat> has finished loading expedition provisions,,,11
 Notification_5_Name,Text,,Expedition boat ready!,,,1110
 Notification_6_Desc,Text,,<building> is under fire from <player>!,,,1111
 Notification_6_Name,Text,,Watchtower Under Attack!,,,1112
-Off,Text,Opposite to On,Off,,,1113
-On,Text,Opposite to Off,On,,,1114
-Options,Text,Game Settings,Options,,,1115
+Off,Text,Opposite to On,Off,Off,,
+On,Text,Opposite to Off,On,On,,
+Options,Text,Game Settings,Options,Opzioni,,
 PerDay,Text,,/day,,,1116
 PerDayShort,Text,,/d,,,1117
-Play,Text,Play the selected map,Play,,,1118
-PostcardMode_Title,Text,,Screenshot Mode,,,1119
+Play,Text,Play the selected map,Play,Gioca,,
+PostcardMode_Title,Text,,Screenshot Mode,Modalità foto,,
 Prioritise,Text,Prioritise (a building),Prioritise,,,1120
 Productivity,Text,,Productivity,,,1121
 Publish,Text,,Publish,,,1122
 Publish Changes,Text,,Publish Changes,,,1123
-Quality Settings,Text,,Quality Settings,,,1124
-QualityAmbientOcclusion,Text,,Ambient Occlusion,,,1125
-QualityCustom,Text,,Custom,,,1126
-QualityDepthOfField,Text,,Depth Of Field,,,1127
-QualityHigh,Text,,High,,,1128
-QualityLODBias,Text,,LOD Bias,,,1129
-QualityLow,Text,,Low,,,1130
-QualityMedium,Text,,Medium,,,1131
-QualityShadowDistance,Text,,Shadow Distance,,,1132
-QualityShadows,Text,,Shadows,,,1133
-QualityVignette,Text,,Vignette,,,1134
-Quit,Text,,Quit,,,1135
+Quality Settings,Text,,Quality Settings,Impostazioni Grafiche,,
+QualityAmbientOcclusion,Text,,Ambient Occlusion,Occlusione ambientale,,
+QualityCustom,Text,,Custom,Personalizzata,,
+QualityDepthOfField,Text,,Depth Of Field,Profondità di campo,,
+QualityHigh,Text,,High,Alta,,
+QualityLODBias,Text,,LOD Bias,LOD Bias,,
+QualityLow,Text,,Low,Bassa,,
+QualityMedium,Text,,Medium,Media,,
+QualityShadowDistance,Text,,Shadow Distance,Distanza ombre,,
+QualityShadows,Text,,Shadows,Ombre,,
+QualityVignette,Text,,Vignette,Vignettatura,,
+Quit,Text,,Quit,Esci,,
 Refresh,Text,Refresh Map Search,Refresh,,,1136
 Replay Game,Text,,Replay Game,,,1137
 Sandbox,Text,Sandbox Mode,Sandbox,,,1138
@@ -1498,15 +1498,15 @@ Scenario_9_Name,Text,,A Hostile Environment,,,1186
 Scenario_Difficulty_0,Text,,Casual,,,1187
 Scenario_Difficulty_1,Text,,Normal,,,1188
 Scenario_Difficulty_2,Text,,Hard,,,1189
-Screen Settings,Text,,Screen Settings,,,1190
-ScreenSettingsApply,Text,,Apply,,,1191
+Screen Settings,Text,,Screen Settings,Impostazioni Schermo,,
+ScreenSettingsApply,Text,,Apply,Applica,,
 SculptMode_0_Name,Text,,Full,,,1192
 SculptMode_1_Name,Text,,Side,,,1193
 SculptMode_2_Name,Text,,Corner,,,1194
 SculptMode_3_Name,Text,,Vertex,,,1195
 SculptMode_4_Name,Text,,Reset,,,1196
 SculptMode_5_Name,Text,,Side Snap,,,1197
-Soundtrack,Text,,Soundtrack,,,1198
+Soundtrack,Text,,Soundtrack,Colonna sonora,,
 Start Game,Text,,Start Game,,,1199
 Structure_0_Name,Text,,Train Platform,,,1200
 Structure_0_Plural,Text,,Train Platforms,,,1201
@@ -1946,7 +1946,7 @@ Username,Text,,Username,,,1543
 Utility_0_Name,Text,In map editor the marker on the terrain for where a player starts,Player Start Marker,,,1544
 ViewTypeLastMonth,Text,,Last Month,,,1545
 ViewTypeLastYear,Text,,Last Year,,,1546
-Width,Text,,Width,,,1547
+Width,Text,,Width,Larghezza,,
 Workshop,Text,,Workshop,,,1548
 Workshop Browser,Text,,Workshop Browser,,,1549
 Workshop Maps,Text,,Workshop Maps,,,1550
@@ -1962,7 +1962,7 @@ StartHeight_4,Text,,Mountain,,,1559
 GameSpeed_Paused,Text,,Paused,,,1560
 GameSpeed_Speed,Text,,Speed,,,1561
 GameMenu_UnsavedProgress,Text,,You have unsaved progress. Quit anyway?,,,1562
-ChooseLanguage,Text,,Choose Language,,,1563
+ChooseLanguage,Text,,Choose Language,Scegli la Lingua,,
 Store_Promo,Text,Change English to your language,The Colonists is now available in English!,,,1564
 Store_Description,Text,,"The Colonists is a relaxing settlement building game inspired by classic titles like The Settlers and the Anno series.
 
@@ -2002,9 +2002,9 @@ MapPlayCASUAL,Text,,Play Casual,,,1585
 ConstructionPanel_Info,Text,,Info,,,1586
 ConstructionPanel_LevelLocked,Text,,Locked,,,1587
 Mission,Text,,Mission,,,1588
-CursorConstrained,Text,,Cursor Constrained,,,1589
-Yes,Text,Alert window - confirm,Yes,,,1590
-No,Text,Alert window - cancel,No,,,1591
+CursorConstrained,Text,,Cursor Constrained,Mouse bloccato (nella finestra),,
+Yes,Text,Alert window - confirm,Yes,Sì,,
+No,Text,Alert window - cancel,No,No,,
 Begin,Text,,Begin,,,1592
 Tutorial,Text,,Tutorial,,,1593
 Skip,Text,,Skip,,,1594
@@ -2154,7 +2154,7 @@ PathState_ClickToComplete,Text,{0}:Click,[{0}] to complete path,,,1731
 ResolutionVerify_Revert,Text,,Revert,,,1732
 ResolutionVerify_Confirm,Text,,Confirm,,,1733
 ResolutionVerify_Message,Text,{0}:number of seconds,Reverting in {0} seconds...,,,1734
-AutoSaveLength,Text,{0}:number of minutes,{0} minutes,,,1735
+AutoSaveLength,Text,{0}:number of minutes,{0} minutes,{0} minutes,,
 ScenarioBrowser_NoResults,Text,,No maps found. Try using other filter settings!,,,1736
 ScenarioBrowser_SearchPlaceholder,Text,,Search,,,1737
 ScenarioBrowser_NewVersion,Text,,This map requires a newer version of The Colonists! Check Steam for the latest version.,,,1738
@@ -2465,9 +2465,9 @@ DestroyResourceWarning,Text,"Warning before destroying a resource.
 Hold [{0}] to skip this message.",,,2026
 BuildingStorageUI_EnRoute_ImportList,Text,,Note: you have set import rules which limit where resources can be imported from.,,,2027
 Route_Via,Text,{0}: building name E.g. (This resource has arrived at Sara's Lumberjack Hut via Terry's Storage Yard,Via {0},,,2028
-GameSettingsInterfaceTextSize,Text,,Interface text size,,,
-GameSettingsInterfaceTextSize_Normal,Text,,Normal,,,
-GameSettingsInterfaceTextSize_Large,Text,,Large,,,
+GameSettingsInterfaceTextSize,Text,,Interface text size,Dimensioni testo interfaccia,,
+GameSettingsInterfaceTextSize_Normal,Text,,Normal,Normale,,
+GameSettingsInterfaceTextSize_Large,Text,,Large,Largo,,
 ConstructionProximityBoost,Text,,Nearby Bot Bonus,,,
 EntPanelHead_24,Text,,Monument Bonus,,,
 SandboxUnlimitedSpacePorts,Text,,Unlimited Space Ports,,,
@@ -2489,3 +2489,4 @@ Item_47_FullDesc,Text,,Vegetables are harvested at the <bd>Vegetable Farm</bd> f
 Item_47_Name,Text,,Vegetables,Verdure,,
 Item_47_Past,Text,,Harvested,Raccolti,,
 Item_47_Present,Text,,Harvesting,Raccogliendo,,
+EntityBuildingTransportRulesOutgoingWhitelistOnlyStorageDesc,Text,,Resources allowed to be exported only if headed to a storage yard:,,,
