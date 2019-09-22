@@ -1012,7 +1012,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Best Times",
-    "Italian": "Tempi migliori",
+    "Italian": "Miglior tempo",
     "": "",
     "Verify": ""
   },
@@ -3240,7 +3240,7 @@
     "Verify": ""
   },
   {
-    "Key": "EntPanelHead_22",
+    "Key": "EntPanelHead_23",
     "Type": "Text",
     "Desc": "",
     "English": "Resource Import Rules",
@@ -3249,7 +3249,7 @@
     "Verify": ""
   },
   {
-    "Key": "EntPanelHead_23",
+    "Key": "EntPanelHead_22",
     "Type": "Text",
     "Desc": "",
     "English": "Resource Export Rules",
@@ -3747,7 +3747,7 @@
     "Key": "EntityBuildingTransportRulesIncomingWhitelistOnlyStorageDesc",
     "Type": "Text",
     "Desc": "",
-    "English": "Resources allowed to be exported only if headed to a storage yard:",
+    "English": "Resources allowed to be imported only if headed to a storage yard:",
     "Italian": "Risorse autorizzate ad essere esportate solo se dirette verso un deposito:",
     "": "",
     "Verify": ""
@@ -4531,7 +4531,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Everything",
-    "Italian": "Qualunque cosa",
+    "Italian": "Tutto",
     "": "",
     "Verify": ""
   },
@@ -4909,7 +4909,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Autosave iterations",
-    "Italian": "Iterazioni di salvataggio automatico",
+    "Italian": "Numero di salvataggi automatici",
     "": "",
     "Verify": ""
   },
@@ -4936,7 +4936,7 @@
     "Type": "Text",
     "Desc": "Allows player to place a road post anywhere, not just from existing road post",
     "English": "Free Road Post Placement",
-    "Italian": "Piazzamento incroci libero",
+    "Italian": "Piazzamento libero pali stradali",
     "": "",
     "Verify": ""
   },
@@ -5611,18 +5611,18 @@
     "Type": "Text",
     "Desc": "",
     "English": "Move Camera Left Alt",
-    "Italian": "",
+    "Italian": "??? - TODO",
     "": "",
-    "Verify": 625
+    "Verify": ""
   },
   {
     "Key": "Hotkey_39",
     "Type": "Text",
     "Desc": "",
     "English": "Move Camera Right Alt",
-    "Italian": "",
+    "Italian": "??? - TODO",
     "": "",
-    "Verify": 626
+    "Verify": ""
   },
   {
     "Key": "Hotkey_4",
@@ -5638,27 +5638,27 @@
     "Type": "Text",
     "Desc": "",
     "English": "Move Camera Forward Alt",
-    "Italian": "",
+    "Italian": "??? - TODO",
     "": "",
-    "Verify": 628
+    "Verify": ""
   },
   {
     "Key": "Hotkey_41",
     "Type": "Text",
     "Desc": "",
     "English": "Move Camera Back Alt",
-    "Italian": "",
+    "Italian": "??? - TODO",
     "": "",
-    "Verify": 629
+    "Verify": ""
   },
   {
     "Key": "Hotkey_42",
     "Type": "Text",
     "Desc": "",
     "English": "Fast Move Alt",
-    "Italian": "",
+    "Italian": "??? - TODO",
     "": "",
-    "Verify": 630
+    "Verify": ""
   },
   {
     "Key": "Hotkey_43",
@@ -7987,7 +7987,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Key Bindings",
-    "Italian": "Associazione tasto",
+    "Italian": "Associazione tasti",
     "": "",
     "Verify": ""
   },
@@ -8788,7 +8788,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Features Combat",
-    "Italian": "Caratteristiche di combattimento",
+    "Italian": "Combattimento presente",
     "": "",
     "Verify": ""
   },
@@ -9031,3150 +9031,3150 @@
     "Type": "Text",
     "Desc": "",
     "English": "Brick Roads",
-    "Italian": "",
+    "Italian": "Strade di mattoni",
     "": "",
-    "Verify": 1005
+    "Verify": ""
   },
   {
     "Key": "MiscInfoPanelMode_0_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Click on an empty to snap to neighbour heights.",
-    "Italian": "",
+    "Italian": "Clicca una cella vuota per trasformarla all'altezza dei vicini",
     "": "",
-    "Verify": 1006
+    "Verify": ""
   },
   {
     "Key": "MiscInfoPanelMode_0_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Snap Whole Tile",
-    "Italian": "",
+    "Italian": "Trasforma intera cella",
     "": "",
-    "Verify": 1007
+    "Verify": ""
   },
   {
     "Key": "MiscInfoPanelMode_1_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Sometimes it can be useful to remove a wall to allow roads or paths in certain directions.\n\nClick on the edge of a valid empty tile to snap its height to that of the neighbouring tile.",
-    "Italian": "",
+    "Italian": "A volte può essere utile rimuovere un muro per creare strade o percorsi in determinate direzioni.\n\nFai clic sul bordo di una cella vuota valida per impostarne l'altezza a quella della cella vicina.",
     "": "",
-    "Verify": 1008
+    "Verify": ""
   },
   {
     "Key": "MiscInfoPanelMode_1_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Tile Height Snap",
-    "Italian": "",
+    "Italian": "Trasforma altezza cella",
     "": "",
-    "Verify": 1009
+    "Verify": ""
   },
   {
     "Key": "MiscInfoPanelMode_2_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Click on a building, road, path, boat or train to destroy it.",
-    "Italian": "",
+    "Italian": "Clicca su un edificio, una strada, un percorso, una barca o un treno per distruggerlo.",
     "": "",
-    "Verify": 1010
+    "Verify": ""
   },
   {
     "Key": "MiscInfoPanelMode_2_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Remove",
-    "Italian": "",
+    "Italian": "Rimuovi",
     "": "",
-    "Verify": 1011
+    "Verify": ""
   },
   {
     "Key": "MiscInfoPanelMode_3_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Click and drag up or down on an empty tile to adjust it.",
-    "Italian": "",
+    "Italian": "Clicca e trascina verso l'alto o verso il basso una casella vuota per regolarla.",
     "": "",
-    "Verify": 1012
+    "Verify": ""
   },
   {
     "Key": "MiscInfoPanelMode_3_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Adjust Whole Tile",
-    "Italian": "",
+    "Italian": "Regola intera casella",
     "": "",
-    "Verify": 1013
+    "Verify": ""
   },
   {
     "Key": "MiscInfoPanelMode_4_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Click and drag up or down in the corner of an empty tile to adjust its corner height.\n\nHold <hotkey>[Ctrl]</hotkey> to snap to neighbour tile.",
-    "Italian": "",
+    "Italian": "Fai clic e trascina verso l'alto o il basso nell'angolo di una cella vuota per regolarne l'altezza.\n\nTieni premuto <hotkey>[Ctrl]</hotkey> per agganciare la cella vicina.",
     "": "",
-    "Verify": 1014
+    "Verify": ""
   },
   {
     "Key": "MiscInfoPanelMode_4_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Adjust Tile Corner",
-    "Italian": "",
+    "Italian": "Regola angolo casella",
     "": "",
-    "Verify": 1015
+    "Verify": ""
   },
   {
     "Key": "Money",
     "Type": "Text",
     "Desc": "",
     "English": "Money:",
-    "Italian": "",
+    "Italian": "Soldi:",
     "": "",
-    "Verify": 1016
+    "Verify": ""
   },
   {
     "Key": "MusicVolume",
     "Type": "Text",
     "Desc": "",
     "English": "Music Volume",
-    "Italian": "",
+    "Italian": "Volume musica",
     "": "",
-    "Verify": 1017
+    "Verify": ""
   },
   {
     "Key": "My Maps",
     "Type": "Text",
     "Desc": "",
     "English": "My Maps",
-    "Italian": "",
+    "Italian": "Le mie mappe",
     "": "",
-    "Verify": 1018
+    "Verify": ""
   },
   {
     "Key": "My Scenarios",
     "Type": "Text",
     "Desc": "",
     "English": "My Maps",
-    "Italian": "",
+    "Italian": "Le mie mappe",
     "": "",
-    "Verify": 1019
+    "Verify": ""
   },
   {
     "Key": "NatRes_0_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "This Stone deposit can be harvested by the <bd>Level 1 Surface Mine</bd>.",
-    "Italian": "",
+    "Italian": "Questo deposito di Pietra può essere estratto con la <bd>Miniera di Superficie Livello 1</bd>",
     "": "",
-    "Verify": 1020
+    "Verify": ""
   },
   {
     "Key": "NatRes_0_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Stone Deposit",
-    "Italian": "",
+    "Italian": "Deposito di pietra",
     "": "",
-    "Verify": 1021
+    "Verify": ""
   },
   {
     "Key": "NatRes_1_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "This Iron Ore deposit can be harvested by the <bd>Level 2 Surface Mine</bd>.",
-    "Italian": "",
+    "Italian": "Questo deposito di Ferro grezzo può essere estratto con la <bd>Miniera di Superficie Livello 2</bd>",
     "": "",
-    "Verify": 1022
+    "Verify": ""
   },
   {
     "Key": "NatRes_1_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Iron Ore Deposit",
-    "Italian": "",
+    "Italian": "Deposito di Ferro grezzo",
     "": "",
-    "Verify": 1023
+    "Verify": ""
   },
   {
     "Key": "NatRes_253_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Unknown Natural Resources",
-    "Italian": "",
+    "Italian": "Risorse naturali sconosciute",
     "": "",
-    "Verify": 1024
+    "Verify": ""
   },
   {
     "Key": "NatRes_254_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Any Natural Resources",
-    "Italian": "",
+    "Italian": "Qualsiasi risorsa naturale",
     "": "",
-    "Verify": 1025
+    "Verify": ""
   },
   {
     "Key": "NatRes_2_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "This Coal deposit can be harvested by the <bd>Level 2 Surface Mine</bd>.",
-    "Italian": "",
+    "Italian": "Questo deposito di Carbone può essere estratto con la <bd>Miniera di Superficie Livello 2</bd>",
     "": "",
-    "Verify": 1026
+    "Verify": ""
   },
   {
     "Key": "NatRes_2_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Coal Deposit",
-    "Italian": "",
+    "Italian": "Deposito di carbone",
     "": "",
-    "Verify": 1027
+    "Verify": ""
   },
   {
     "Key": "NatRes_3_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "This Quartz deposit can be harvested by the <bd>Level 3 Surface Mine</bd>.",
-    "Italian": "",
+    "Italian": "Questo deposito di Quarzo può essere estratto con la <bd>Miniera di Superficie Livello 3</bd>",
     "": "",
-    "Verify": 1028
+    "Verify": ""
   },
   {
     "Key": "NatRes_3_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Quartz Deposit",
-    "Italian": "",
+    "Italian": "Deposito di quarzo",
     "": "",
-    "Verify": 1029
+    "Verify": ""
   },
   {
     "Key": "NatRes_4_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "This Gold deposit can be harvested by the <bd>Level 3 Surface Mine</bd>.",
-    "Italian": "",
+    "Italian": "Questo deposito di Oro può essere estratto con la <bd>MIniera di Superficie Livello 3</bd>",
     "": "",
-    "Verify": 1030
+    "Verify": ""
   },
   {
     "Key": "NatRes_4_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Gold Deposit",
-    "Italian": "",
+    "Italian": "Deposito di oro",
     "": "",
-    "Verify": 1031
+    "Verify": ""
   },
   {
     "Key": "NatRes_5_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "This Clay deposit can be harvested by the <bd>Level 2 Surface Mine</bd>.",
-    "Italian": "",
+    "Italian": "Questo deposito di Argilla può essere estratto con la <bd>MIniera di Superficie Livello 2</bd>",
     "": "",
-    "Verify": 1032
+    "Verify": ""
   },
   {
     "Key": "NatRes_5_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Clay Deposit",
-    "Italian": "",
+    "Italian": "Deposito di argilla",
     "": "",
-    "Verify": 1033
+    "Verify": ""
   },
   {
     "Key": "NatRes_6_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "This Salt deposit can be harvested by the <bd>Level 2 Surface Mine</bd>.",
-    "Italian": "",
+    "Italian": "Questo deposito di Sale può essere estratto con la <bd>MIniera di Superficie Livello 2</bd>",
     "": "",
-    "Verify": 1034
+    "Verify": ""
   },
   {
     "Key": "NatRes_6_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Salt Deposit",
-    "Italian": "",
+    "Italian": "Deposito di Sale",
     "": "",
-    "Verify": 1035
+    "Verify": ""
   },
   {
     "Key": "Natural Resources",
     "Type": "Text",
     "Desc": "",
     "English": "Natural Resources",
-    "Italian": "",
+    "Italian": "Risorse naturali",
     "": "",
-    "Verify": 1036
+    "Verify": ""
   },
   {
     "Key": "New Scenario",
     "Type": "Text",
     "Desc": "(Create a) New Map",
     "English": "New Map",
-    "Italian": "",
+    "Italian": "Nuova mappa",
     "": "",
-    "Verify": 1037
+    "Verify": ""
   },
   {
     "Key": "NewMapCreate",
     "Type": "Text",
     "Desc": "",
     "English": "Create",
-    "Italian": "",
+    "Italian": "Crea",
     "": "",
-    "Verify": 1038
+    "Verify": ""
   },
   {
     "Key": "NewMapSize",
     "Type": "Text",
     "Desc": "",
     "English": "Size",
-    "Italian": "",
+    "Italian": "Dimensione",
     "": "",
-    "Verify": 1039
+    "Verify": ""
   },
   {
     "Key": "Next",
     "Type": "Text",
     "Desc": "",
     "English": "Next",
-    "Italian": "",
+    "Italian": "Avanti",
     "": "",
-    "Verify": 1040
+    "Verify": ""
   },
   {
     "Key": "No saved games",
     "Type": "Text",
     "Desc": "",
     "English": "No savegames",
-    "Italian": "",
+    "Italian": "Nessuna partita salvata",
     "": "",
-    "Verify": 1041
+    "Verify": ""
   },
   {
     "Key": "None",
     "Type": "Text",
     "Desc": "",
     "English": "None",
-    "Italian": "",
+    "Italian": "Nessuno",
     "": "",
-    "Verify": 1042
+    "Verify": ""
   },
   {
     "Key": "Normal",
     "Type": "Text",
     "Desc": "Difficulty Level",
     "English": "Normal",
-    "Italian": "",
+    "Italian": "Normale",
     "": "",
-    "Verify": 1043
+    "Verify": ""
   },
   {
     "Key": "NotificationCollapsingWatchtowerOne",
     "Type": "Text",
     "Desc": "",
     "English": "You have an collapsing watchtower!",
-    "Italian": "",
+    "Italian": "Una torre di guardia sta crollando!",
     "": "",
-    "Verify": 1044
+    "Verify": ""
   },
   {
     "Key": "NotificationCollapsingWatchtowerPlural",
     "Type": "Text",
     "Desc": "",
     "English": "You have {0} collapsing watchtowers!",
-    "Italian": "",
+    "Italian": "Hai {0} torri di guardia che stanno crollando!",
     "": "",
-    "Verify": 1045
+    "Verify": ""
   },
   {
     "Key": "NotificationCollapsingWatchtowerTitle",
     "Type": "Text",
     "Desc": "",
     "English": "Watchtower Collapsing!",
-    "Italian": "",
+    "Italian": "Torre di guarda che crolla!",
     "": "",
-    "Verify": 1046
+    "Verify": ""
   },
   {
     "Key": "NotificationIdleBoatOne",
     "Type": "Text",
     "Desc": "",
     "English": "You have an idle boat!",
-    "Italian": "",
+    "Italian": "Hai una barca inattiva!",
     "": "",
-    "Verify": 1047
+    "Verify": ""
   },
   {
     "Key": "NotificationIdleBoatPlural",
     "Type": "Text",
     "Desc": "",
     "English": "You have {0} idle boats!",
-    "Italian": "",
+    "Italian": "Hai {0} barche inattive!",
     "": "",
-    "Verify": 1048
+    "Verify": ""
   },
   {
     "Key": "NotificationIdleBoatTitle",
     "Type": "Text",
     "Desc": "",
     "English": "Boat Available!",
-    "Italian": "",
+    "Italian": "Barca disponibile!",
     "": "",
-    "Verify": 1049
+    "Verify": ""
   },
   {
     "Key": "NotificationIdleTrainOne",
     "Type": "Text",
     "Desc": "",
     "English": "You have an idle train!",
-    "Italian": "",
+    "Italian": "Hai un treno inattivo!",
     "": "",
-    "Verify": 1050
+    "Verify": ""
   },
   {
     "Key": "NotificationIdleTrainPlural",
     "Type": "Text",
     "Desc": "",
     "English": "You have {0} idle trains!",
-    "Italian": "",
+    "Italian": "Hai {0} treni inattivi!",
     "": "",
-    "Verify": 1051
+    "Verify": ""
   },
   {
     "Key": "NotificationIdleTrainTitle",
     "Type": "Text",
     "Desc": "",
     "English": "Train Available!",
-    "Italian": "",
+    "Italian": "Treno disponibile!",
     "": "",
-    "Verify": 1052
+    "Verify": ""
   },
   {
     "Key": "NotificationIdleWorkshopOne",
     "Type": "Text",
     "Desc": "",
     "English": "You have an idle workshop!",
-    "Italian": "",
+    "Italian": "Hai un laboratorio inattivo!",
     "": "",
-    "Verify": 1053
+    "Verify": ""
   },
   {
     "Key": "NotificationIdleWorkshopPlural",
     "Type": "Text",
     "Desc": "",
     "English": "You have {0} idle workshops!",
-    "Italian": "",
+    "Italian": "Hai {0} laboratori inattivi!",
     "": "",
-    "Verify": 1054
+    "Verify": ""
   },
   {
     "Key": "NotificationIdleWorkshopTitle",
     "Type": "Text",
     "Desc": "",
     "English": "Workshop Available!",
-    "Italian": "",
+    "Italian": "Laboratorio disponibile!",
     "": "",
-    "Verify": 1055
+    "Verify": ""
   },
   {
     "Key": "NotificationLowStoneDesc",
     "Type": "Text",
     "Desc": "",
     "English": "Expand your territory to find more!",
-    "Italian": "",
+    "Italian": "Espandi il tuo territorio per trovarne di più!",
     "": "",
-    "Verify": 1056
+    "Verify": ""
   },
   {
     "Key": "NotificationLowStoneNone",
     "Type": "Text",
     "Desc": "",
     "English": "No Stone!",
-    "Italian": "",
+    "Italian": "Pietra mancante!",
     "": "",
-    "Verify": 1057
+    "Verify": ""
   },
   {
     "Key": "NotificationLowTreesExtraHasForestries",
     "Type": "Text",
     "Desc": "",
     "English": "Check your Forestries are planting!",
-    "Italian": "",
+    "Italian": "Controlla che le tue Guardie Forestali stiano piantando!",
     "": "",
-    "Verify": 1058
+    "Verify": ""
   },
   {
     "Key": "NotificationLowTreesExtraNoForestries",
     "Type": "Text",
     "Desc": "",
     "English": "Build a Forestry to plant more!",
-    "Italian": "",
+    "Italian": "Costruisci una Guardia Forestale per piantarne ancora!",
     "": "",
-    "Verify": 1059
+    "Verify": ""
   },
   {
     "Key": "NotificationLowTreesNoTreesDesc",
     "Type": "Text",
     "Desc": "{0} adds either \"NotificationLowTreesExtraHasForestries\" or \"NotificationLowTreesExtraNoForestries\" based on whether the player has any forestries",
     "English": "You have no trees left! {0}",
-    "Italian": "",
+    "Italian": "Non hai alberi rimanenti! {0}",
     "": "",
-    "Verify": 1060
+    "Verify": ""
   },
   {
     "Key": "NotificationLowTreesSomeTreesDesc",
     "Type": "Text",
     "Desc": "{0} is the number of trees left. {1} adds either \"NotificationLowTreesExtraHasForestries\" or \"NotificationLowTreesExtraNoForestries\" based on whether the player has any forestries",
     "English": "You only have {0} trees left! {1}",
-    "Italian": "",
+    "Italian": "Hai soltanto {0} alberi rimanenti! {1}",
     "": "",
-    "Verify": 1061
+    "Verify": ""
   },
   {
     "Key": "NotificationStickTrainTitle",
     "Type": "Text",
     "Desc": "",
     "English": "Stuck Train!",
-    "Italian": "",
+    "Italian": "Treno bloccato!",
     "": "",
-    "Verify": 1062
+    "Verify": ""
   },
   {
     "Key": "NotificationStuckTrainDesc",
     "Type": "Text",
     "Desc": "",
     "English": "A train cannot find a route! Check your track!",
-    "Italian": "",
+    "Italian": "Un treno non può trovare un percorso valido! Controlla il percorso!",
     "": "",
-    "Verify": 1063
+    "Verify": ""
   },
   {
     "Key": "NotificationWarningTitle",
     "Type": "Text",
     "Desc": "",
     "English": "Warning!",
-    "Italian": "",
+    "Italian": "Attenzione!",
     "": "",
-    "Verify": 1064
+    "Verify": ""
   },
   {
     "Key": "Notification_0_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "<building> has finished construction",
-    "Italian": "",
+    "Italian": "<building> ha terminato la costruzione",
     "": "",
-    "Verify": 1065
+    "Verify": ""
   },
   {
     "Key": "Notification_0_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Construction complete!",
-    "Italian": "",
+    "Italian": "Costruzione completata!",
     "": "",
-    "Verify": 1066
+    "Verify": ""
   },
   {
     "Key": "Notification_11_Desc",
     "Type": "Text",
     "Desc": "When a Guardbot arrives at a watchtower and occupies the building",
     "English": "<building> is now occupied",
-    "Italian": "",
+    "Italian": "<building> è ora occupata",
     "": "",
-    "Verify": 1067
+    "Verify": ""
   },
   {
     "Key": "Notification_11_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Territory gained!",
-    "Italian": "",
+    "Italian": "Territorio guadagnato!",
     "": "",
-    "Verify": 1068
+    "Verify": ""
   },
   {
     "Key": "Notification_13_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "<req>",
-    "Italian": "",
+    "Italian": "<req>",
     "": "",
-    "Verify": 1069
+    "Verify": ""
   },
   {
     "Key": "Notification_13_Name",
     "Type": "Text",
     "Desc": "",
     "English": "New trade contract",
-    "Italian": "",
+    "Italian": "Nuovo contratto commerciale",
     "": "",
-    "Verify": 1070
+    "Verify": ""
   },
   {
     "Key": "Notification_14_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "You earned <reputation_amount> reputation and $<cashmoney_amount>",
-    "Italian": "",
+    "Italian": "Hai guadagnato <reputation_amount> reputazione e $<cashmoney_amount>",
     "": "",
-    "Verify": 1071
+    "Verify": ""
   },
   {
     "Key": "Notification_14_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Trade contract complete!",
-    "Italian": "",
+    "Italian": "Contratto commerciale completato!",
     "": "",
-    "Verify": 1072
+    "Verify": ""
   },
   {
     "Key": "Notification_15_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "<nr><natres></nr> has been spotted outside your borders",
-    "Italian": "",
+    "Italian": "<nr><natres></nr> è stato indiduato fuori dai tuoi confini",
     "": "",
-    "Verify": 1073
+    "Verify": ""
   },
   {
     "Key": "Notification_15_Name",
     "Type": "Text",
     "Desc": "",
     "English": "<nr> discovered!",
-    "Italian": "",
+    "Italian": "<nr> scoperto!",
     "": "",
-    "Verify": 1074
+    "Verify": ""
   },
   {
     "Key": "Notification_16_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "<nr><natres></nr> can now be mined",
-    "Italian": "",
+    "Italian": "<nr><natres></nr> può ora essere estratto",
     "": "",
-    "Verify": 1075
+    "Verify": ""
   },
   {
     "Key": "Notification_16_Name",
     "Type": "Text",
     "Desc": "",
     "English": "<nr> available!",
-    "Italian": "",
+    "Italian": "<nr> disponibile",
     "": "",
-    "Verify": 1076
+    "Verify": ""
   },
   {
     "Key": "Notification_17_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "<amount> <nr><natres></nr> has been spotted outside your borders",
-    "Italian": "",
+    "Italian": "<amount> <nr><natres></nr> è stato individuato fuori dai tuoi confini",
     "": "",
-    "Verify": 1077
+    "Verify": ""
   },
   {
     "Key": "Notification_17_Name",
     "Type": "Text",
     "Desc": "",
     "English": "<nr> discovered!",
-    "Italian": "",
+    "Italian": "<nr> scoperto!",
     "": "",
-    "Verify": 1078
+    "Verify": ""
   },
   {
     "Key": "Notification_18_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "<amount> <nr><natres></nr> can now be mined",
-    "Italian": "",
+    "Italian": "<amount> <nr><natres></nr> può ora essere estratto",
     "": "",
-    "Verify": 1079
+    "Verify": ""
   },
   {
     "Key": "Notification_18_Name",
     "Type": "Text",
     "Desc": "",
     "English": "<nr> available!",
-    "Italian": "",
+    "Italian": "<nr> disponibile!",
     "": "",
-    "Verify": 1080
+    "Verify": ""
   },
   {
     "Key": "Notification_19_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "<player> has declared war upon you!",
-    "Italian": "",
+    "Italian": "<player> ti ha dichiarato guerra!",
     "": "",
-    "Verify": 1081
+    "Verify": ""
   },
   {
     "Key": "Notification_19_Name",
     "Type": "Text",
     "Desc": "",
     "English": "You've met a hostile colony!",
-    "Italian": "",
+    "Italian": "Hai inconrato una colonia ostile!",
     "": "",
-    "Verify": 1082
+    "Verify": ""
   },
   {
     "Key": "Notification_1_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "<research> has been completed at <building>",
-    "Italian": "",
+    "Italian": "<research> è stata completata presso <building>",
     "": "",
-    "Verify": 1083
+    "Verify": ""
   },
   {
     "Key": "Notification_1_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Research complete!",
-    "Italian": "",
+    "Italian": "Ricerca completata!",
     "": "",
-    "Verify": 1084
+    "Verify": ""
   },
   {
     "Key": "Notification_20_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "<player> states they wish you no harm.",
-    "Italian": "",
+    "Italian": "<player> afferma che non ti farà del male.",
     "": "",
-    "Verify": 1085
+    "Verify": ""
   },
   {
     "Key": "Notification_20_Name",
     "Type": "Text",
     "Desc": "",
     "English": "You've met a friendly colony!",
-    "Italian": "",
+    "Italian": "Hai incontrato una colonia amichevole!",
     "": "",
-    "Verify": 1086
+    "Verify": ""
   },
   {
     "Key": "Notification_21_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "You're now at war with <player>",
-    "Italian": "",
+    "Italian": "Sei ora in guerra con <player>",
     "": "",
-    "Verify": 1087
+    "Verify": ""
   },
   {
     "Key": "Notification_21_Name",
     "Type": "Text",
     "Desc": "",
     "English": "War Declared!",
-    "Italian": "",
+    "Italian": "Guerra dichiarata!",
     "": "",
-    "Verify": 1088
+    "Verify": ""
   },
   {
     "Key": "Notification_22_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "You're now at peace with <player>",
-    "Italian": "",
+    "Italian": "Sei ora in pace con <player>",
     "": "",
-    "Verify": 1089
+    "Verify": ""
   },
   {
     "Key": "Notification_22_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Peace Declared!",
-    "Italian": "",
+    "Italian": "Pace dichiarata!",
     "": "",
-    "Verify": 1090
+    "Verify": ""
   },
   {
     "Key": "Notification_23_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "You've discovered a new island!",
-    "Italian": "",
+    "Italian": "Hai scoperto una nuova isola!",
     "": "",
-    "Verify": 1091
+    "Verify": ""
   },
   {
     "Key": "Notification_23_Name",
     "Type": "Text",
     "Desc": "",
     "English": "New Island!",
-    "Italian": "",
+    "Italian": "Nuova isola!",
     "": "",
-    "Verify": 1092
+    "Verify": ""
   },
   {
     "Key": "Notification_24_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "<unit> has generated the colony's first <it><item></it>!",
-    "Italian": "",
+    "Italian": "<unit> ha generato il primo <it><item></it> della colonia!",
     "": "",
-    "Verify": 1093
+    "Verify": ""
   },
   {
     "Key": "Notification_24_Name",
     "Type": "Text",
     "Desc": "",
     "English": "<item> created!",
-    "Italian": "",
+    "Italian": "<item> creato!",
     "": "",
-    "Verify": 1094
+    "Verify": ""
   },
   {
     "Key": "Notification_25_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "You lost territory to <player>!",
-    "Italian": "",
+    "Italian": "Hai perso del territorio per colpa di <player>!",
     "": "",
-    "Verify": 1095
+    "Verify": ""
   },
   {
     "Key": "Notification_25_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Territory Lost!",
-    "Italian": "",
+    "Italian": "Territorio perso!",
     "": "",
-    "Verify": 1096
+    "Verify": ""
   },
   {
     "Key": "Notification_26_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "You've captured a <bd>Watchtower</bd> from <player>!",
-    "Italian": "",
+    "Italian": "Hai catturato una <bd>Torre di Guardia</bd> da <player>!",
     "": "",
-    "Verify": 1097
+    "Verify": ""
   },
   {
     "Key": "Notification_26_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Watchtower Captured!",
-    "Italian": "",
+    "Italian": "Torre di Guardia catturata!",
     "": "",
-    "Verify": 1098
+    "Verify": ""
   },
   {
     "Key": "Notification_27_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "<player> has captured one of your <bd>Watchtowers</bd>!",
-    "Italian": "",
+    "Italian": "<player> ha catturato una delle tue <bd>Torri di Guardia</bd>!",
     "": "",
-    "Verify": 1099
+    "Verify": ""
   },
   {
     "Key": "Notification_27_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Watchtower Lost!",
-    "Italian": "",
+    "Italian": "Torre di Guardia persa!",
     "": "",
-    "Verify": 1100
+    "Verify": ""
   },
   {
     "Key": "Notification_28_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "You've reached <rep>!",
-    "Italian": "",
+    "Italian": "Hai raggiunto <rep>!",
     "": "",
-    "Verify": 1101
+    "Verify": ""
   },
   {
     "Key": "Notification_28_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Trader Reputation Increased!",
-    "Italian": "",
+    "Italian": "Reputazione commerciale aumentata!",
     "": "",
-    "Verify": 1102
+    "Verify": ""
   },
   {
     "Key": "Notification_2_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "<building> has been upgraded to <age>",
-    "Italian": "",
+    "Italian": "<building> è stato migliorato a <age>",
     "": "",
-    "Verify": 1103
+    "Verify": ""
   },
   {
     "Key": "Notification_2_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Upgrade complete!",
-    "Italian": "",
+    "Italian": "Miglioramento completato!",
     "": "",
-    "Verify": 1104
+    "Verify": ""
   },
   {
     "Key": "Notification_3_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Construction of <boat> is complete",
-    "Italian": "",
+    "Italian": "La costruzione di una <boat> è completa",
     "": "",
-    "Verify": 1105
+    "Verify": ""
   },
   {
     "Key": "Notification_3_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Boat ready!",
-    "Italian": "",
+    "Italian": "Barca pronta!",
     "": "",
-    "Verify": 1106
+    "Verify": ""
   },
   {
     "Key": "Notification_4_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Expedition provisions are ready at <building>",
-    "Italian": "",
+    "Italian": "Le risorse per la spedizione sono pronte presso <building>",
     "": "",
-    "Verify": 1107
+    "Verify": ""
   },
   {
     "Key": "Notification_4_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Expedition provisions ready!",
-    "Italian": "",
+    "Italian": "Risorse per la spedizione pronte!",
     "": "",
-    "Verify": 1108
+    "Verify": ""
   },
   {
     "Key": "Notification_5_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "<boat> has finished loading expedition provisions",
-    "Italian": "",
+    "Italian": "<boat> ha finito di caricare le risorse per la spedizione",
     "": "",
-    "Verify": 1109
+    "Verify": ""
   },
   {
     "Key": "Notification_5_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Expedition boat ready!",
-    "Italian": "",
+    "Italian": "Barca pronta per la spedizione!",
     "": "",
-    "Verify": 1110
+    "Verify": ""
   },
   {
     "Key": "Notification_6_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "<building> is under fire from <player>!",
-    "Italian": "",
+    "Italian": "<building> è sotto attacco da <player>!",
     "": "",
-    "Verify": 1111
+    "Verify": ""
   },
   {
     "Key": "Notification_6_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Watchtower Under Attack!",
-    "Italian": "",
+    "Italian": "Toprre di Guardia sotto attacco!",
     "": "",
-    "Verify": 1112
+    "Verify": ""
   },
   {
     "Key": "Off",
     "Type": "Text",
     "Desc": "Opposite to On",
     "English": "Off",
-    "Italian": "",
+    "Italian": "Off",
     "": "",
-    "Verify": 1113
+    "Verify": ""
   },
   {
     "Key": "On",
     "Type": "Text",
     "Desc": "Opposite to Off",
     "English": "On",
-    "Italian": "",
+    "Italian": "On",
     "": "",
-    "Verify": 1114
+    "Verify": ""
   },
   {
     "Key": "Options",
     "Type": "Text",
     "Desc": "Game Settings",
     "English": "Options",
-    "Italian": "",
+    "Italian": "Opzioni",
     "": "",
-    "Verify": 1115
+    "Verify": ""
   },
   {
     "Key": "PerDay",
     "Type": "Text",
     "Desc": "",
     "English": "/day",
-    "Italian": "",
+    "Italian": "/day",
     "": "",
-    "Verify": 1116
+    "Verify": ""
   },
   {
     "Key": "PerDayShort",
     "Type": "Text",
     "Desc": "",
     "English": "/d",
-    "Italian": "",
+    "Italian": "/d",
     "": "",
-    "Verify": 1117
+    "Verify": ""
   },
   {
     "Key": "Play",
     "Type": "Text",
     "Desc": "Play the selected map",
     "English": "Play",
-    "Italian": "",
+    "Italian": "Gioca",
     "": "",
-    "Verify": 1118
+    "Verify": ""
   },
   {
     "Key": "PostcardMode_Title",
     "Type": "Text",
     "Desc": "",
     "English": "Screenshot Mode",
-    "Italian": "",
+    "Italian": "Modalità foto",
     "": "",
-    "Verify": 1119
+    "Verify": ""
   },
   {
     "Key": "Prioritise",
     "Type": "Text",
     "Desc": "Prioritise (a building)",
     "English": "Prioritise",
-    "Italian": "",
+    "Italian": "Prioritizza",
     "": "",
-    "Verify": 1120
+    "Verify": ""
   },
   {
     "Key": "Productivity",
     "Type": "Text",
     "Desc": "",
     "English": "Productivity",
-    "Italian": "",
+    "Italian": "Produttività",
     "": "",
-    "Verify": 1121
+    "Verify": ""
   },
   {
     "Key": "Publish",
     "Type": "Text",
     "Desc": "",
     "English": "Publish",
-    "Italian": "",
+    "Italian": "Pubblica",
     "": "",
-    "Verify": 1122
+    "Verify": ""
   },
   {
     "Key": "Publish Changes",
     "Type": "Text",
     "Desc": "",
     "English": "Publish Changes",
-    "Italian": "",
+    "Italian": "Pubblica modifiche",
     "": "",
-    "Verify": 1123
+    "Verify": ""
   },
   {
     "Key": "Quality Settings",
     "Type": "Text",
     "Desc": "",
     "English": "Quality Settings",
-    "Italian": "",
+    "Italian": "Impostazioni Grafiche",
     "": "",
-    "Verify": 1124
+    "Verify": ""
   },
   {
     "Key": "QualityAmbientOcclusion",
     "Type": "Text",
     "Desc": "",
     "English": "Ambient Occlusion",
-    "Italian": "",
+    "Italian": "Occlusione ambientale",
     "": "",
-    "Verify": 1125
+    "Verify": ""
   },
   {
     "Key": "QualityCustom",
     "Type": "Text",
     "Desc": "",
     "English": "Custom",
-    "Italian": "",
+    "Italian": "Personalizzata",
     "": "",
-    "Verify": 1126
+    "Verify": ""
   },
   {
     "Key": "QualityDepthOfField",
     "Type": "Text",
     "Desc": "",
     "English": "Depth Of Field",
-    "Italian": "",
+    "Italian": "Profondità di campo",
     "": "",
-    "Verify": 1127
+    "Verify": ""
   },
   {
     "Key": "QualityHigh",
     "Type": "Text",
     "Desc": "",
     "English": "High",
-    "Italian": "",
+    "Italian": "Alta",
     "": "",
-    "Verify": 1128
+    "Verify": ""
   },
   {
     "Key": "QualityLODBias",
     "Type": "Text",
     "Desc": "",
     "English": "LOD Bias",
-    "Italian": "",
+    "Italian": "LOD Bias",
     "": "",
-    "Verify": 1129
+    "Verify": ""
   },
   {
     "Key": "QualityLow",
     "Type": "Text",
     "Desc": "",
     "English": "Low",
-    "Italian": "",
+    "Italian": "Bassa",
     "": "",
-    "Verify": 1130
+    "Verify": ""
   },
   {
     "Key": "QualityMedium",
     "Type": "Text",
     "Desc": "",
     "English": "Medium",
-    "Italian": "",
+    "Italian": "Media",
     "": "",
-    "Verify": 1131
+    "Verify": ""
   },
   {
     "Key": "QualityShadowDistance",
     "Type": "Text",
     "Desc": "",
     "English": "Shadow Distance",
-    "Italian": "",
+    "Italian": "Distanza ombre",
     "": "",
-    "Verify": 1132
+    "Verify": ""
   },
   {
     "Key": "QualityShadows",
     "Type": "Text",
     "Desc": "",
     "English": "Shadows",
-    "Italian": "",
+    "Italian": "Ombre",
     "": "",
-    "Verify": 1133
+    "Verify": ""
   },
   {
     "Key": "QualityVignette",
     "Type": "Text",
     "Desc": "",
     "English": "Vignette",
-    "Italian": "",
+    "Italian": "Vignettatura",
     "": "",
-    "Verify": 1134
+    "Verify": ""
   },
   {
     "Key": "Quit",
     "Type": "Text",
     "Desc": "",
     "English": "Quit",
-    "Italian": "",
+    "Italian": "Esci",
     "": "",
-    "Verify": 1135
+    "Verify": ""
   },
   {
     "Key": "Refresh",
     "Type": "Text",
     "Desc": "Refresh Map Search",
     "English": "Refresh",
-    "Italian": "",
+    "Italian": "Aggiorna",
     "": "",
-    "Verify": 1136
+    "Verify": ""
   },
   {
     "Key": "Replay Game",
     "Type": "Text",
     "Desc": "",
     "English": "Replay Game",
-    "Italian": "",
+    "Italian": "Rigioca partita",
     "": "",
-    "Verify": 1137
+    "Verify": ""
   },
   {
     "Key": "Sandbox",
     "Type": "Text",
     "Desc": "Sandbox Mode",
     "English": "Sandbox",
-    "Italian": "",
+    "Italian": "Sandbox",
     "": "",
-    "Verify": 1138
+    "Verify": ""
   },
   {
     "Key": "SandboxChooseMap",
     "Type": "Text",
     "Desc": "",
     "English": "Choose Map",
-    "Italian": "",
+    "Italian": "Scegli mappa",
     "": "",
-    "Verify": 1139
+    "Verify": ""
   },
   {
     "Key": "SandboxIntro",
     "Type": "Text",
     "Desc": "",
     "English": "Play and experiment with any existing map using the various settings below:",
-    "Italian": "",
+    "Italian": "Gioca e sperimenta con qualsiasi mappa esistente usando le varie impostazioni qui sotto:",
     "": "",
-    "Verify": 1140
+    "Verify": ""
   },
   {
     "Key": "SandboxUpgradedRoads",
     "Type": "Text",
     "Desc": "Option that makes roads and paths automatically the highest level when placed",
     "English": "Upgraded Road & Path Placement",
-    "Italian": "",
+    "Italian": "Piazzamento di strade e percorsi migliorati",
     "": "",
-    "Verify": 1141
+    "Verify": ""
   },
   {
     "Key": "SaveGame",
     "Type": "Text",
     "Desc": "",
     "English": "Save Game",
-    "Italian": "",
+    "Italian": "Salva",
     "": "",
-    "Verify": 1142
+    "Verify": ""
   },
   {
     "Key": "Savegames",
     "Type": "Text",
     "Desc": "",
     "English": "Savegames",
-    "Italian": "",
+    "Italian": "Partite salvate",
     "": "",
-    "Verify": 1143
+    "Verify": ""
   },
   {
     "Key": "ScenGameVerErr_0",
     "Type": "Text",
     "Desc": "",
     "English": "No playable players!",
-    "Italian": "",
+    "Italian": "Nessun giocatore giocabile!",
     "": "",
-    "Verify": 1144
+    "Verify": ""
   },
   {
     "Key": "ScenGameVerErr_1",
     "Type": "Text",
     "Desc": "",
     "English": "No landing site for <p>",
-    "Italian": "",
+    "Italian": "Nessuna zona di atterraggio per <p>",
     "": "",
-    "Verify": 1145
+    "Verify": ""
   },
   {
     "Key": "ScenGameVerErr_2",
     "Type": "Text",
     "Desc": "",
     "English": "Invalid landing site for <p>",
-    "Italian": "",
+    "Italian": "Zona di atterraggio non valido per <p>",
     "": "",
-    "Verify": 1146
+    "Verify": ""
   },
   {
     "Key": "ScenGameVerErr_3",
     "Type": "Text",
     "Desc": "",
     "English": "A title needs to be set!",
-    "Italian": "",
+    "Italian": "Una casella deve essere impostata!",
     "": "",
-    "Verify": 1147
+    "Verify": ""
   },
   {
     "Key": "ScenGameVerErr_4",
     "Type": "Text",
     "Desc": "",
     "English": "A preview image needs to be set!",
-    "Italian": "",
+    "Italian": "Un'immagine di anteprima deve essere impostata!",
     "": "",
-    "Verify": 1148
+    "Verify": ""
   },
   {
     "Key": "ScenGameVerErr_5",
     "Type": "Text",
     "Desc": "",
     "English": "Domination victory requires other colonies!",
-    "Italian": "",
+    "Italian": "La vittoria in Dominazione richiede altre colonie!",
     "": "",
-    "Verify": 1149
+    "Verify": ""
   },
   {
     "Key": "ScenGameVerErr_6",
     "Type": "Text",
     "Desc": "",
     "English": "Market needs to be abled for $ victories!",
-    "Italian": "",
+    "Italian": "Il mercato deve essere abilitato per $ vittorie!",
     "": "",
-    "Verify": 1150
+    "Verify": ""
   },
   {
     "Key": "ScenVict_0_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Capture enemy colony ships.",
-    "Italian": "",
+    "Italian": "Cattura le navi nemiche della colonia.",
     "": "",
-    "Verify": 1151
+    "Verify": ""
   },
   {
     "Key": "ScenVict_0_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Domination",
-    "Italian": "",
+    "Italian": "Dominazione",
     "": "",
-    "Verify": 1152
+    "Verify": ""
   },
   {
     "Key": "ScenVict_1_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Build <amount> <building>.",
-    "Italian": "",
+    "Italian": "Costruisci <amount> <buildng>.",
     "": "",
-    "Verify": 1153
+    "Verify": ""
   },
   {
     "Key": "ScenVict_1_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Construct Building",
-    "Italian": "",
+    "Italian": "Costruisci edificio",
     "": "",
-    "Verify": 1154
+    "Verify": ""
   },
   {
     "Key": "ScenVict_5_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Have $<amount> in bank.",
-    "Italian": "",
+    "Italian": "Hai $<amount> in banca.",
     "": "",
-    "Verify": 1155
+    "Verify": ""
   },
   {
     "Key": "ScenVict_5_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Cash Balance",
-    "Italian": "",
+    "Italian": "Bilancio",
     "": "",
-    "Verify": 1156
+    "Verify": ""
   },
   {
     "Key": "ScenVict_7_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Research <tech>.",
-    "Italian": "",
+    "Italian": "Ricerca <tech>.",
     "": "",
-    "Verify": 1157
+    "Verify": ""
   },
   {
     "Key": "ScenVict_7_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Research Tech",
-    "Italian": "",
+    "Italian": "Ricerca tecnologia",
     "": "",
-    "Verify": 1158
+    "Verify": ""
   },
   {
     "Key": "ScenVict_8_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Gain Reputation: <reputation>.",
-    "Italian": "",
+    "Italian": "Ottieni reputazione: <reputation>",
     "": "",
-    "Verify": 1159
+    "Verify": ""
   },
   {
     "Key": "ScenVict_8_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Trader Reputation",
-    "Italian": "",
+    "Italian": "Reputazione del commerciante",
     "": "",
-    "Verify": 1160
+    "Verify": ""
   },
   {
     "Key": "Scenario_0_Description",
     "Type": "Text",
     "Desc": "",
     "English": "After countless years travelling through space, you find a habitable planet...",
-    "Italian": "",
+    "Italian": "Dopo innumerevoli anni di viaggio attraverso lo spazio, hai trovato un pianeta abitabile...",
     "": "",
-    "Verify": 1161
+    "Verify": ""
   },
   {
     "Key": "Scenario_0_Name",
     "Type": "Text",
     "Desc": "",
     "English": "A New Dawn",
-    "Italian": "",
+    "Italian": "Una nuova alba",
     "": "",
-    "Verify": 1162
+    "Verify": ""
   },
   {
     "Key": "Scenario_1_Description",
     "Type": "Text",
     "Desc": "",
     "English": "Grow your colony and build a monument to celebrate your new home.",
-    "Italian": "",
+    "Italian": "Fai crescere la tua colonia e costruisci un monumento per celebrare la tua nuova casa.",
     "": "",
-    "Verify": 1163
+    "Verify": ""
   },
   {
     "Key": "Scenario_1_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Expansion",
-    "Italian": "",
+    "Italian": "Espansione",
     "": "",
-    "Verify": 1164
+    "Verify": ""
   },
   {
     "Key": "Scenario_253_Description",
     "Type": "Text",
     "Desc": "",
     "English": "[Unassigned]",
-    "Italian": "",
+    "Italian": "[Unassigned]",
     "": "",
-    "Verify": 1165
+    "Verify": ""
   },
   {
     "Key": "Scenario_253_Name",
     "Type": "Text",
     "Desc": "",
     "English": "[Unassigned]",
-    "Italian": "",
+    "Italian": "[Unassigned]",
     "": "",
-    "Verify": 1166
+    "Verify": ""
   },
   {
     "Key": "Scenario_254_Description",
     "Type": "Text",
     "Desc": "",
     "English": "[WIP]",
-    "Italian": "",
+    "Italian": "[WIP]",
     "": "",
-    "Verify": 1167
+    "Verify": ""
   },
   {
     "Key": "Scenario_254_Name",
     "Type": "Text",
     "Desc": "",
     "English": "[WIP]",
-    "Italian": "",
+    "Italian": "[WIP]",
     "": "",
-    "Verify": 1168
+    "Verify": ""
   },
   {
     "Key": "Scenario_255_Description",
     "Type": "Text",
     "Desc": "",
     "English": "[Unassigned]",
-    "Italian": "",
+    "Italian": "[Unassigned]",
     "": "",
-    "Verify": 1169
+    "Verify": ""
   },
   {
     "Key": "Scenario_255_Name",
     "Type": "Text",
     "Desc": "",
     "English": "[Unassigned]",
-    "Italian": "",
+    "Italian": "[Unassigned]",
     "": "",
-    "Verify": 1170
+    "Verify": ""
   },
   {
     "Key": "Scenario_2_Description",
     "Type": "Text",
     "Desc": "",
     "English": "Explore the oceans and expand your colony.",
-    "Italian": "",
+    "Italian": "Esplora gli oceani ed espandi la tua colonia",
     "": "",
-    "Verify": 1171
+    "Verify": ""
   },
   {
     "Key": "Scenario_2_Name",
     "Type": "Text",
     "Desc": "",
     "English": "The High Seas",
-    "Italian": "",
+    "Italian": "Il mare aperto",
     "": "",
-    "Verify": 1172
+    "Verify": ""
   },
   {
     "Key": "Scenario_3_Description",
     "Type": "Text",
     "Desc": "",
     "English": "You meet someone familiar.",
-    "Italian": "",
+    "Italian": "Incontri qualcuno di familiare",
     "": "",
-    "Verify": 1173
+    "Verify": ""
   },
   {
     "Key": "Scenario_3_Name",
     "Type": "Text",
     "Desc": "",
     "English": "The Mirror",
-    "Italian": "",
+    "Italian": "Lo specchio",
     "": "",
-    "Verify": 1174
+    "Verify": ""
   },
   {
     "Key": "Scenario_4_Description",
     "Type": "Text",
     "Desc": "",
     "English": "Advance your colony and build the greatest monument to your anthrobotic achievements.",
-    "Italian": "",
+    "Italian": "Fai avanzare la tua colonia e costruisci il monumento più grande per i tuoi successi umanoidi.",
     "": "",
-    "Verify": 1175
+    "Verify": ""
   },
   {
     "Key": "Scenario_4_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Gold In Them Thar Hills",
-    "Italian": "",
+    "Italian": "C'è dell'oro nelle colline",
     "": "",
-    "Verify": 1176
+    "Verify": ""
   },
   {
     "Key": "Scenario_5_Description",
     "Type": "Text",
     "Desc": "",
     "English": "Claim victory over your anthrobotic foe.",
-    "Italian": "",
+    "Italian": "Guadagnati la vittoria sui tuoi nemici umanoidi.",
     "": "",
-    "Verify": 1177
+    "Verify": ""
   },
   {
     "Key": "Scenario_5_Name",
     "Type": "Text",
     "Desc": "",
     "English": "The Valley",
-    "Italian": "",
+    "Italian": "La valle",
     "": "",
-    "Verify": 1178
+    "Verify": ""
   },
   {
     "Key": "Scenario_6_Description",
     "Type": "Text",
     "Desc": "",
     "English": "Navigate the seas to locate the resources you need and build another monument to a successful colony.",
-    "Italian": "",
+    "Italian": "Naviga i mari per trovare le risorse necessarie a costruire un altro monumento per una colonia di successo.",
     "": "",
-    "Verify": 1179
+    "Verify": ""
   },
   {
     "Key": "Scenario_6_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Island Hopping",
-    "Italian": "",
+    "Italian": "Da un'isola all'altra",
     "": "",
-    "Verify": 1180
+    "Verify": ""
   },
   {
     "Key": "Scenario_7_Description",
     "Type": "Text",
     "Desc": "",
     "English": "Claim victory over your anthrobotic foe.",
-    "Italian": "",
+    "Italian": "Guadagnati la vittoria sui tuoi nemici umanoidi.",
     "": "",
-    "Verify": 1181
+    "Verify": ""
   },
   {
     "Key": "Scenario_7_Name",
     "Type": "Text",
     "Desc": "",
     "English": "A Rocky Start",
-    "Italian": "",
+    "Italian": "Un inizio duro come la roccia",
     "": "",
-    "Verify": 1182
+    "Verify": ""
   },
   {
     "Key": "Scenario_8_Description",
     "Type": "Text",
     "Desc": "",
     "English": "In hostile environment make best use of the limited resources and construct two glorious monuments for your colony.",
-    "Italian": "",
+    "Italian": "In un ambiente ostile, usa le risorse limitate al meglio e costruisci due gloriosi monumenti per la tua colonia.",
     "": "",
-    "Verify": 1183
+    "Verify": ""
   },
   {
     "Key": "Scenario_8_Name",
     "Type": "Text",
     "Desc": "",
     "English": "In The Desert",
-    "Italian": "",
+    "Italian": "Nel deserto",
     "": "",
-    "Verify": 1184
+    "Verify": ""
   },
   {
     "Key": "Scenario_9_Description",
     "Type": "Text",
     "Desc": "",
     "English": "Claim victory over your anthrobotic foe.",
-    "Italian": "",
+    "Italian": "Guadagnati la vittoria sui tuoi nemici umanoidi.",
     "": "",
-    "Verify": 1185
+    "Verify": ""
   },
   {
     "Key": "Scenario_9_Name",
     "Type": "Text",
     "Desc": "",
     "English": "A Hostile Environment",
-    "Italian": "",
+    "Italian": "Un ambiente ostile",
     "": "",
-    "Verify": 1186
+    "Verify": ""
   },
   {
     "Key": "Scenario_Difficulty_0",
     "Type": "Text",
     "Desc": "",
     "English": "Casual",
-    "Italian": "",
+    "Italian": "Facile",
     "": "",
-    "Verify": 1187
+    "Verify": ""
   },
   {
     "Key": "Scenario_Difficulty_1",
     "Type": "Text",
     "Desc": "",
     "English": "Normal",
-    "Italian": "",
+    "Italian": "Normale",
     "": "",
-    "Verify": 1188
+    "Verify": ""
   },
   {
     "Key": "Scenario_Difficulty_2",
     "Type": "Text",
     "Desc": "",
     "English": "Hard",
-    "Italian": "",
+    "Italian": "Difficile",
     "": "",
-    "Verify": 1189
+    "Verify": ""
   },
   {
     "Key": "Screen Settings",
     "Type": "Text",
     "Desc": "",
     "English": "Screen Settings",
-    "Italian": "",
+    "Italian": "Impostazioni Schermo",
     "": "",
-    "Verify": 1190
+    "Verify": ""
   },
   {
     "Key": "ScreenSettingsApply",
     "Type": "Text",
     "Desc": "",
     "English": "Apply",
-    "Italian": "",
+    "Italian": "Applica",
     "": "",
-    "Verify": 1191
+    "Verify": ""
   },
   {
     "Key": "SculptMode_0_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Full",
-    "Italian": "",
+    "Italian": "Pieno",
     "": "",
-    "Verify": 1192
+    "Verify": ""
   },
   {
     "Key": "SculptMode_1_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Side",
-    "Italian": "",
+    "Italian": "Lato",
     "": "",
-    "Verify": 1193
+    "Verify": ""
   },
   {
     "Key": "SculptMode_2_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Corner",
-    "Italian": "",
+    "Italian": "Angolo",
     "": "",
-    "Verify": 1194
+    "Verify": ""
   },
   {
     "Key": "SculptMode_3_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Vertex",
-    "Italian": "",
+    "Italian": "Vertice",
     "": "",
-    "Verify": 1195
+    "Verify": ""
   },
   {
     "Key": "SculptMode_4_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Reset",
-    "Italian": "",
+    "Italian": "Ripristina",
     "": "",
-    "Verify": 1196
+    "Verify": ""
   },
   {
     "Key": "SculptMode_5_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Side Snap",
-    "Italian": "",
+    "Italian": "Trasformazione laterale",
     "": "",
-    "Verify": 1197
+    "Verify": ""
   },
   {
     "Key": "Soundtrack",
     "Type": "Text",
     "Desc": "",
     "English": "Soundtrack",
-    "Italian": "",
+    "Italian": "Colonna sonora",
     "": "",
-    "Verify": 1198
+    "Verify": ""
   },
   {
     "Key": "Start Game",
     "Type": "Text",
     "Desc": "",
     "English": "Start Game",
-    "Italian": "",
+    "Italian": "Inizia partita",
     "": "",
-    "Verify": 1199
+    "Verify": ""
   },
   {
     "Key": "Structure_0_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Train Platform",
-    "Italian": "",
+    "Italian": "Stazione",
     "": "",
-    "Verify": 1200
+    "Verify": ""
   },
   {
     "Key": "Structure_0_Plural",
     "Type": "Text",
     "Desc": "",
     "English": "Train Platforms",
-    "Italian": "",
+    "Italian": "Stazioni",
     "": "",
-    "Verify": 1201
+    "Verify": ""
   },
   {
     "Key": "Structure_1_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Wheat Field",
-    "Italian": "",
+    "Italian": "Campo di grano",
     "": "",
-    "Verify": 1202
+    "Verify": ""
   },
   {
     "Key": "Structure_1_Plural",
     "Type": "Text",
     "Desc": "",
     "English": "Wheat Fields",
-    "Italian": "",
+    "Italian": "Campi di grano",
     "": "",
-    "Verify": 1203
+    "Verify": ""
   },
   {
     "Key": "Structure_3_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Sheep Pasture",
-    "Italian": "",
+    "Italian": "Pascolo",
     "": "",
-    "Verify": 1204
+    "Verify": ""
   },
   {
     "Key": "Structure_3_Plural",
     "Type": "Text",
     "Desc": "",
     "English": "Sheep Pastures",
-    "Italian": "",
+    "Italian": "Pascoli",
     "": "",
-    "Verify": 1205
+    "Verify": ""
   },
   {
     "Key": "Structure_4_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Cow Field",
-    "Italian": "",
+    "Italian": "Mandria (mucche)",
     "": "",
-    "Verify": 1206
+    "Verify": ""
   },
   {
     "Key": "Structure_4_Plural",
     "Type": "Text",
     "Desc": "",
     "English": "Cow Fields",
-    "Italian": "",
+    "Italian": "Mandrie (mucche)",
     "": "",
-    "Verify": 1207
+    "Verify": ""
   },
   {
     "Key": "Structure_5_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Pier",
-    "Italian": "",
+    "Italian": "Molo",
     "": "",
-    "Verify": 1208
+    "Verify": ""
   },
   {
     "Key": "Structure_5_Plural",
     "Type": "Text",
     "Desc": "",
     "English": "Piers",
-    "Italian": "",
+    "Italian": "Moli",
     "": "",
-    "Verify": 1209
+    "Verify": ""
   },
   {
     "Key": "Structure_7_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Orchard Plot",
-    "Italian": "",
+    "Italian": "Frutteto",
     "": "",
-    "Verify": 1210
+    "Verify": ""
   },
   {
     "Key": "Structure_7_Plural",
     "Type": "Text",
     "Desc": "",
     "English": "Orchard Plots",
-    "Italian": "",
+    "Italian": "Frutteti",
     "": "",
-    "Verify": 1211
+    "Verify": ""
   },
   {
     "Key": "Subscribe",
     "Type": "Text",
     "Desc": "Subscribe to a map",
     "English": "Subscribe",
-    "Italian": "",
+    "Italian": "Sottoscrivi",
     "": "",
-    "Verify": 1212
+    "Verify": ""
   },
   {
     "Key": "Subscribed",
     "Type": "Text",
     "Desc": "Subscribed Maps tab",
     "English": "Subscribed",
-    "Italian": "",
+    "Italian": "Sottoscritto",
     "": "",
-    "Verify": 1213
+    "Verify": ""
   },
   {
     "Key": "TechTreeAgriculture",
     "Type": "Text",
     "Desc": "Tech research category",
     "English": "Agriculture",
-    "Italian": "",
+    "Italian": "Agricoltura",
     "": "",
-    "Verify": 1214
+    "Verify": ""
   },
   {
     "Key": "TechTreeButtonSelectIdleWorkshop",
     "Type": "Text",
     "Desc": "",
     "English": "Select Idle Workshop",
-    "Italian": "",
+    "Italian": "Seleziona un Laboratorio inattivo",
     "": "",
-    "Verify": 1215
+    "Verify": ""
   },
   {
     "Key": "TechTreeButtonSelectResearchIdleWorkshop",
     "Type": "Text",
     "Desc": "",
     "English": "Select Research &\nIdle Workshop",
-    "Italian": "",
+    "Italian": "Seleziona Riceca e Laboratorio inattivo",
     "": "",
-    "Verify": 1216
+    "Verify": ""
   },
   {
     "Key": "TechTreeButtonStartResearch",
     "Type": "Text",
     "Desc": "",
     "English": "Start Research",
-    "Italian": "",
+    "Italian": "Inizia ricerca",
     "": "",
-    "Verify": 1217
+    "Verify": ""
   },
   {
     "Key": "TechTreeConstruction",
     "Type": "Text",
     "Desc": "Tech research category",
     "English": "Construction",
-    "Italian": "",
+    "Italian": "Costruzione",
     "": "",
-    "Verify": 1218
+    "Verify": ""
   },
   {
     "Key": "TechTreeErrorNeedsHigherLevelWorkshop",
     "Type": "Text",
     "Desc": "",
     "English": "Needs Higher Level Workshop",
-    "Italian": "",
+    "Italian": "Hai bisogno di un Laboratorio di livello superiore",
     "": "",
-    "Verify": 1219
+    "Verify": ""
   },
   {
     "Key": "TechTreeHeader",
     "Type": "Text",
     "Desc": "",
     "English": "Technology Overview",
-    "Italian": "",
+    "Italian": "Panoramica della tecnologia",
     "": "",
-    "Verify": 1220
+    "Verify": ""
   },
   {
     "Key": "TechTreeMilitary",
     "Type": "Text",
     "Desc": "Tech research category",
     "English": "Military",
-    "Italian": "",
+    "Italian": "Militare",
     "": "",
-    "Verify": 1221
+    "Verify": ""
   },
   {
     "Key": "TechTreeMining",
     "Type": "Text",
     "Desc": "Tech research category",
     "English": "Mining",
-    "Italian": "",
+    "Italian": "Estrazione mineraria",
     "": "",
-    "Verify": 1222
+    "Verify": ""
   },
   {
     "Key": "TechTreeScienceIndustry",
     "Type": "Text",
     "Desc": "Tech research category",
     "English": "Science & Industry",
-    "Italian": "",
+    "Italian": "Scienza & Industria",
     "": "",
-    "Verify": 1223
+    "Verify": ""
   },
   {
     "Key": "TechTreeSelect",
     "Type": "Text",
     "Desc": "",
     "English": "Select A Technology",
-    "Italian": "",
+    "Italian": "Seleziona una tecnologia",
     "": "",
-    "Verify": 1224
+    "Verify": ""
   },
   {
     "Key": "TechTreeSelectResearch",
     "Type": "Text",
     "Desc": "",
     "English": "Select Research",
-    "Italian": "",
+    "Italian": "Seleziona ricerca",
     "": "",
-    "Verify": 1225
+    "Verify": ""
   },
   {
     "Key": "TechTreeSelectWorkshop",
     "Type": "Text",
     "Desc": "",
     "English": "Select A Workshop",
-    "Italian": "",
+    "Italian": "Seleziona Laboratorio",
     "": "",
-    "Verify": 1226
+    "Verify": ""
   },
   {
     "Key": "TechTreeTransportation",
     "Type": "Text",
     "Desc": "Tech research category",
     "English": "Transportation",
-    "Italian": "",
+    "Italian": "Trasporti",
     "": "",
-    "Verify": 1227
+    "Verify": ""
   },
   {
     "Key": "TechTreeWorkshopStateActive",
     "Type": "Text",
     "Desc": "",
     "English": "Active",
-    "Italian": "",
+    "Italian": "Attivo",
     "": "",
-    "Verify": 1228
+    "Verify": ""
   },
   {
     "Key": "TechTreeWorkshopStateIdle",
     "Type": "Text",
     "Desc": "",
     "English": "Idle",
-    "Italian": "",
+    "Italian": "Inattivo",
     "": "",
-    "Verify": 1229
+    "Verify": ""
   },
   {
     "Key": "TechTreeWorkshopStateUnderConstruction",
     "Type": "Text",
     "Desc": "",
     "English": "Under Construction",
-    "Italian": "",
+    "Italian": "In costruzione",
     "": "",
-    "Verify": 1230
+    "Verify": ""
   },
   {
     "Key": "TechTreeWorkshopStateUpgrading",
     "Type": "Text",
     "Desc": "",
     "English": "Upgrading",
-    "Italian": "",
+    "Italian": "In miglioramento",
     "": "",
-    "Verify": 1231
+    "Verify": ""
   },
   {
     "Key": "Tech_0_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Increase sapling growth speed by <amount>%",
-    "Italian": "",
+    "Italian": "Aumenta la velocità di crescita degli alberelli dell'<amount>%",
     "": "",
-    "Verify": 1232
+    "Verify": ""
   },
   {
     "Key": "Tech_0_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Coppicing I",
-    "Italian": "",
+    "Italian": "Taglialegna I",
     "": "",
-    "Verify": 1233
+    "Verify": ""
   },
   {
     "Key": "Tech_100_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Unlocks <bd>Printing Press</bd>",
-    "Italian": "",
+    "Italian": "Sblocca la <bd>Macchina da Stampa</bd>",
     "": "",
-    "Verify": 1234
+    "Verify": ""
   },
   {
     "Key": "Tech_100_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Printing I",
-    "Italian": "",
+    "Italian": "Stampa I",
     "": "",
-    "Verify": 1235
+    "Verify": ""
   },
   {
     "Key": "Tech_101_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Improves production speed of <bd>Printing Press</bd> by <amount>%",
-    "Italian": "",
+    "Italian": "Migliora la velocità di produzione della <bd>Macchina da Stampa</bd> dell'<amount>%",
     "": "",
-    "Verify": 1236
+    "Verify": ""
   },
   {
     "Key": "Tech_101_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Printing II",
-    "Italian": "",
+    "Italian": "Stampa II",
     "": "",
-    "Verify": 1237
+    "Verify": ""
   },
   {
     "Key": "Tech_105_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Unlocks <bd>Flour Mill</bd> and <bd>Bakery</bd>",
-    "Italian": "",
+    "Italian": "Sblocca il <bd>Mulino</bd> e il <bd>Panificio</bd>",
     "": "",
-    "Verify": 1238
+    "Verify": ""
   },
   {
     "Key": "Tech_105_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Breadmaking I",
-    "Italian": "",
+    "Italian": "Panificazione I",
     "": "",
-    "Verify": 1239
+    "Verify": ""
   },
   {
     "Key": "Tech_106_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Improves production speed of <bd>Bakery</bd> by <amount>%",
-    "Italian": "",
+    "Italian": "Migliora la velocità di produzione del <bd>Panificio</bd> dell'<amount>%",
     "": "",
-    "Verify": 1240
+    "Verify": ""
   },
   {
     "Key": "Tech_106_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Breadmaking II",
-    "Italian": "",
+    "Italian": "Panificazione II",
     "": "",
-    "Verify": 1241
+    "Verify": ""
   },
   {
     "Key": "Tech_107_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Unlocks <bd>Brewery</bd>",
-    "Italian": "",
+    "Italian": "Sblocca il <bd>Fabbrica di Birra</bd>",
     "": "",
-    "Verify": 1242
+    "Verify": ""
   },
   {
     "Key": "Tech_107_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Brewing I",
-    "Italian": "",
+    "Italian": "Fermentazione I",
     "": "",
-    "Verify": 1243
+    "Verify": ""
   },
   {
     "Key": "Tech_108_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Improves production speed of <bd>Brewery</bd> by <amount>%",
-    "Italian": "",
+    "Italian": "Migliora la velocità di produzione della <bd>Fabbrica di Birra</bd> dell'<amount>%",
     "": "",
-    "Verify": 1244
+    "Verify": ""
   },
   {
     "Key": "Tech_108_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Brewing II",
-    "Italian": "",
+    "Italian": "Fermentazione II",
     "": "",
-    "Verify": 1245
+    "Verify": ""
   },
   {
     "Key": "Tech_110_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Unlocks <bd>Wheat Farm</bd>",
-    "Italian": "",
+    "Italian": "Sblocca la <bd>Fattoria di Grano</bd>",
     "": "",
-    "Verify": 1246
+    "Verify": ""
   },
   {
     "Key": "Tech_110_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Wheat Farming",
-    "Italian": "",
+    "Italian": "Coltivazione del grano",
     "": "",
-    "Verify": 1247
+    "Verify": ""
   },
   {
     "Key": "Tech_115_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Unlocks construction of <bd>Train Station</bd>, trains and rail track",
-    "Italian": "",
+    "Italian": "Sblocca la costruzione della <bd>Stazione Ferroviaria</bd>, dei treni e delle rotaie",
     "": "",
-    "Verify": 1248
+    "Verify": ""
   },
   {
     "Key": "Tech_115_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Steam Engines I",
-    "Italian": "",
+    "Italian": "Motori a vapore I",
     "": "",
-    "Verify": 1249
+    "Verify": ""
   },
   {
     "Key": "Tech_116_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Adds additional capacity to your train hoppers",
-    "Italian": "",
+    "Italian": "Aggiunge capacità alle tramogge dei treni",
     "": "",
-    "Verify": 1250
+    "Verify": ""
   },
   {
     "Key": "Tech_116_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Steam Engines II",
-    "Italian": "",
+    "Italian": "Motori a vapore II",
     "": "",
-    "Verify": 1251
+    "Verify": ""
   },
   {
     "Key": "Tech_120_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Increases research speed by <amount>%",
-    "Italian": "",
+    "Italian": "Migliora la velocità di ricerca dell'<amount>%",
     "": "",
-    "Verify": 1252
+    "Verify": ""
   },
   {
     "Key": "Tech_120_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Science I",
-    "Italian": "",
+    "Italian": "Scienza I",
     "": "",
-    "Verify": 1253
+    "Verify": ""
   },
   {
     "Key": "Tech_121_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Increases research speed by <amount>%",
-    "Italian": "",
+    "Italian": "Migliora la velocità di ricerca dell'<amount>%",
     "": "",
-    "Verify": 1254
+    "Verify": ""
   },
   {
     "Key": "Tech_121_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Science II",
-    "Italian": "",
+    "Italian": "Scienza II",
     "": "",
-    "Verify": 1255
+    "Verify": ""
   },
   {
     "Key": "Tech_122_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Increases research speed by <amount>%",
-    "Italian": "",
+    "Italian": "Migliora la velocità di ricerca dell'<amount>%",
     "": "",
-    "Verify": 1256
+    "Verify": ""
   },
   {
     "Key": "Tech_122_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Science III",
-    "Italian": "",
+    "Italian": "Scienza III",
     "": "",
-    "Verify": 1257
+    "Verify": ""
   },
   {
     "Key": "Tech_1_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Increase sapling growth speed by <amount>%",
-    "Italian": "",
+    "Italian": "Aumenta la velocità di crescita degli alberelli dell'<amount>%",
     "": "",
-    "Verify": 1258
+    "Verify": ""
   },
   {
     "Key": "Tech_1_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Coppicing II",
-    "Italian": "",
+    "Italian": "Taglialegna II",
     "": "",
-    "Verify": 1259
+    "Verify": ""
   },
   {
     "Key": "Tech_20_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Unlocks creation of <it>Arrows</it> at the <bd>Fletcher</bd> and firing of <it>Arrows</it> from <bd>Watchtowers</bd>",
-    "Italian": "",
+    "Italian": "Sblocca la creazione delle <it>Frecce</it> presso il <bd>??? - TODO</bd> e l'abilità di sparare <it>Frecce</it> dalle <bd>Torri di Guardia</bd>",
     "": "",
-    "Verify": 1260
+    "Verify": ""
   },
   {
     "Key": "Tech_20_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Arrows I",
-    "Italian": "",
+    "Italian": "Frecce I",
     "": "",
-    "Verify": 1261
+    "Verify": ""
   },
   {
     "Key": "Tech_21_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Increases damage dealt by your arrows by <amount>%",
-    "Italian": "",
+    "Italian": "Aumenta il danno inflitto dalle tue frecce dell'<amount>%",
     "": "",
-    "Verify": 1262
+    "Verify": ""
   },
   {
     "Key": "Tech_21_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Arrows II",
-    "Italian": "",
+    "Italian": "Frecce II",
     "": "",
-    "Verify": 1263
+    "Verify": ""
   },
   {
     "Key": "Tech_22_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Increases damage dealt by your arrows by <amount>%",
-    "Italian": "",
+    "Italian": "Aumenta il danno inflitto dalle tue frecce dell'<amount>%",
     "": "",
-    "Verify": 1264
+    "Verify": ""
   },
   {
     "Key": "Tech_22_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Arrows III",
-    "Italian": "",
+    "Italian": "Frecce III",
     "": "",
-    "Verify": 1265
+    "Verify": ""
   },
   {
     "Key": "Tech_25_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Unlocks creation of <it>Cannonballs</it> at the <bd>Weaponsmith</bd> and firing of <it>cannonballs</it> from <bd>Watchtowers</bd>",
-    "Italian": "",
+    "Italian": "Sblocca la creazione delle <it>Palle di Cannone</it> presso il <bd>Fabbro</bd> e la possibilità di sparare <it>Palle di Cannone</it> dalle <bd>Torri di Guardia</bd>",
     "": "",
-    "Verify": 1266
+    "Verify": ""
   },
   {
     "Key": "Tech_25_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Cannons I",
-    "Italian": "",
+    "Italian": "Cannoni I",
     "": "",
-    "Verify": 1267
+    "Verify": ""
   },
   {
     "Key": "Tech_26_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Increases damage dealt by your cannonballs by <amount>%",
-    "Italian": "",
+    "Italian": "Aumenta il danno inflitto dalle tue palle di cannone dell'<amount>%",
     "": "",
-    "Verify": 1268
+    "Verify": ""
   },
   {
     "Key": "Tech_26_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Cannons II",
-    "Italian": "",
+    "Italian": "Cannoni II",
     "": "",
-    "Verify": 1269
+    "Verify": ""
   },
   {
     "Key": "Tech_27_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Increases damage dealt by your cannonballs by <amount>%",
-    "Italian": "",
+    "Italian": "Aumenta il danno inflitto dalle tue palle di cannone dell'<amount>%",
     "": "",
-    "Verify": 1270
+    "Verify": ""
   },
   {
     "Key": "Tech_27_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Cannons III",
-    "Italian": "",
+    "Italian": "Cannoni III",
     "": "",
-    "Verify": 1271
+    "Verify": ""
   },
   {
     "Key": "Tech_2_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Increase sapling growth speed by <amount>%",
-    "Italian": "",
+    "Italian": "Aumenta la velocità di crescita degli alberelli dell'<amount>%",
     "": "",
-    "Verify": 1272
+    "Verify": ""
   },
   {
     "Key": "Tech_2_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Coppicing III",
-    "Italian": "",
+    "Italian": "Taglialegna III",
     "": "",
-    "Verify": 1273
+    "Verify": ""
   },
   {
     "Key": "Tech_30_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Reduces damage dealt to your military buildings by <amount>%",
-    "Italian": "",
+    "Italian": "Riduce il danno ricevuto dai tuoi edifici militari dell'<amount>%",
     "": "",
-    "Verify": 1274
+    "Verify": ""
   },
   {
     "Key": "Tech_30_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Armour I",
-    "Italian": "",
+    "Italian": "Armatura I",
     "": "",
-    "Verify": 1275
+    "Verify": ""
   },
   {
     "Key": "Tech_31_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Reduces damage dealt to your military buildings by <amount>%",
-    "Italian": "",
+    "Italian": "Riduce il danno ricevuto dai tuoi edifici militari dell'<amount>%",
     "": "",
-    "Verify": 1276
+    "Verify": ""
   },
   {
     "Key": "Tech_31_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Armour II",
-    "Italian": "",
+    "Italian": "Armatura II",
     "": "",
-    "Verify": 1277
+    "Verify": ""
   },
   {
     "Key": "Tech_32_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Reduces damage dealt to your military buildings by <amount>%",
-    "Italian": "",
+    "Italian": "Riduce il danno ricevuto dai tuoi edifici militari dell'<amount>%",
     "": "",
-    "Verify": 1278
+    "Verify": ""
   },
   {
     "Key": "Tech_32_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Armour III",
-    "Italian": "",
+    "Italian": "Armatura III",
     "": "",
-    "Verify": 1279
+    "Verify": ""
   },
   {
     "Key": "Tech_35_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Increases repair speed by <amount>%",
-    "Italian": "",
+    "Italian": "Aumenta la velocità di riparazione dell'<amount>%",
     "": "",
-    "Verify": 1280
+    "Verify": ""
   },
   {
     "Key": "Tech_35_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Repair I",
-    "Italian": "",
+    "Italian": "Riparazione I",
     "": "",
-    "Verify": 1281
+    "Verify": ""
   },
   {
     "Key": "Tech_36_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Increases repair speed by <amount>%",
-    "Italian": "",
+    "Italian": "Aumenta la velocità di riparazione dell'<amount>%",
     "": "",
-    "Verify": 1282
+    "Verify": ""
   },
   {
     "Key": "Tech_36_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Repair II",
-    "Italian": "",
+    "Italian": "Riparazione II",
     "": "",
-    "Verify": 1283
+    "Verify": ""
   },
   {
     "Key": "Tech_37_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Increases repair speed by <amount>%",
-    "Italian": "",
+    "Italian": "Aumenta la velocità di riparazione dell'<amount>%",
     "": "",
-    "Verify": 1284
+    "Verify": ""
   },
   {
     "Key": "Tech_37_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Repair III",
-    "Italian": "",
+    "Italian": "Riparazione III",
     "": "",
-    "Verify": 1285
+    "Verify": ""
   },
   {
     "Key": "Tech_40_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Unlocks mining of <nr>Coal</nr>, <nr>Iron Ore</nr>, <nr>Clay</nr> at <bd>Level 2 Surface Mine</bd> and <bd>Level 1 Shaft Mine</bd>.",
-    "Italian": "",
+    "Italian": "Sblocca l'estrazione di <nr>Carbone</nr>, <nr>Ferro gresso</nr>, <nr>Argilla</nr> presso <bd>Miniera di Superficie Livello 2</br> e <bd>Miniera Livello 1</bd>",
     "": "",
-    "Verify": 1286
+    "Verify": ""
   },
   {
     "Key": "Tech_40_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Mining I",
-    "Italian": "",
+    "Italian": "Estrazione mineraria I",
     "": "",
-    "Verify": 1287
+    "Verify": ""
   },
   {
     "Key": "Tech_41_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Unlocks mining of <nr>Salt</nr>, <nr>Quartz</nr> and <nr>Gold</nr> at <bd>Level 3 Surface Mine</bd> and <bd>Level 2 Shaft Mine</bd>.",
-    "Italian": "",
+    "Italian": "Sblocca l'estrazione di <nr>Sale</nr>, <nr>Quarzo</nr> e <nr>Oro</nr> presso <br>Miniera di Superficie Livello 3</br> e <bd>Miniera Livello 2</bd>",
     "": "",
-    "Verify": 1288
+    "Verify": ""
   },
   {
     "Key": "Tech_41_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Mining II",
-    "Italian": "",
+    "Italian": "Estrazione mineraria II",
     "": "",
-    "Verify": 1289
+    "Verify": ""
   },
   {
     "Key": "Tech_43_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Improves mining speed of <bd>Surface Mines</bd> and <bd>Shaft Mines</bd> by <amount>%",
-    "Italian": "",
+    "Italian": "Migliora la velocità di estrazione della <bd>Miniera di Superficie</bd> e della <bd>Miniera</bd> dell'<amount>%",
     "": "",
-    "Verify": 1290
+    "Verify": ""
   },
   {
     "Key": "Tech_43_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Mining Speed I",
-    "Italian": "",
+    "Italian": "Velocità estrazione mineraria I",
     "": "",
-    "Verify": 1291
+    "Verify": ""
   },
   {
     "Key": "Tech_44_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Improves mining speed of <bd>Surface Mines</bd> and <bd>Shaft Mines</bd> by <amount>%",
-    "Italian": "",
+    "Italian": "Migliora la velocità di estrazione della <bd>Miniera di Superficie</bd> e della <bd>Miniera</bd> dell'<amount>%",
     "": "",
-    "Verify": 1292
+    "Verify": ""
   },
   {
     "Key": "Tech_44_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Mining Speed II",
-    "Italian": "",
+    "Italian": "Velocità estrazione mineraria II",
     "": "",
-    "Verify": 1293
+    "Verify": ""
   },
   {
     "Key": "Tech_45_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Improves mining speed of <bd>Surface Mines</bd> and <bd>Shaft Mines</bd> by <amount>%",
-    "Italian": "",
+    "Italian": "Migliora la velocità di estrazione della <bd>Miniera di Superficie</bd> e della <bd>Miniera</bd> dell'<amount>%",
     "": "",
-    "Verify": 1294
+    "Verify": ""
   },
   {
     "Key": "Tech_45_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Mining Speed III",
-    "Italian": "",
+    "Italian": "Velocità estrazione mineraria III",
     "": "",
-    "Verify": 1295
+    "Verify": ""
   },
   {
     "Key": "Tech_50_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Unlocks construction of more advanced buildings.",
-    "Italian": "",
+    "Italian": "Sblocca la costruzione di edifici più avanzati",
     "": "",
-    "Verify": 1296
+    "Verify": ""
   },
   {
     "Key": "Tech_50_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Construction I",
-    "Italian": "",
+    "Italian": "Costruzione I",
     "": "",
-    "Verify": 1297
+    "Verify": ""
   },
   {
     "Key": "Tech_51_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Unlocks construction of more advanced buildings.",
-    "Italian": "",
+    "Italian": "Sblocca la costruzione di edifici più avanzati",
     "": "",
-    "Verify": 1298
+    "Verify": ""
   },
   {
     "Key": "Tech_51_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Construction II",
-    "Italian": "",
+    "Italian": "Costruzione II",
     "": "",
-    "Verify": 1299
+    "Verify": ""
   },
   {
     "Key": "Tech_52_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Unlocks <res>Construction I</res>",
-    "Italian": "",
+    "Italian": "Sblocca <res>Costruzione I</res>",
     "": "",
-    "Verify": 1300
+    "Verify": ""
   },
   {
     "Key": "Tech_52_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Stonemasonry",
-    "Italian": "",
+    "Italian": "Muratura in pietra",
     "": "",
-    "Verify": 1301
+    "Verify": ""
   },
   {
     "Key": "Tech_54_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Unlocks <res>Construction I</res>",
-    "Italian": "",
+    "Italian": "Sblocca <res>Costruzione I</res>",
     "": "",
-    "Verify": 1302
+    "Verify": ""
   },
   {
     "Key": "Tech_54_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Scaffolding I",
-    "Italian": "",
+    "Italian": "Impalcature I",
     "": "",
-    "Verify": 1303
+    "Verify": ""
   },
   {
     "Key": "Tech_55_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Unlocks <res>Construction II</res>",
-    "Italian": "",
+    "Italian": "Sblocca <res>Costruzione II</res>",
     "": "",
-    "Verify": 1304
+    "Verify": ""
   },
   {
     "Key": "Tech_55_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Scaffolding II",
-    "Italian": "",
+    "Italian": "Impalcature II",
     "": "",
-    "Verify": 1305
+    "Verify": ""
   },
   {
     "Key": "Tech_56_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Unlocks <bd>Brickyard</bd> and <res>Construction II</res>",
-    "Italian": "",
+    "Italian": "Sblocca <bd>Mattonificioi</bd> e <res>Costruzione II</res>",
     "": "",
-    "Verify": 1306
+    "Verify": ""
   },
   {
     "Key": "Tech_56_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Brickmaking I",
-    "Italian": "",
+    "Italian": "Produzione di Mattoni I",
     "": "",
-    "Verify": 1307
+    "Verify": ""
   },
   {
     "Key": "Tech_57_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Unlocks <bd>Glassworks</bd> and <res>Construction III</res>",
-    "Italian": "",
+    "Italian": "Sblocca la <bd>Vetreria</bd> e <res>Costruzione III</res>",
     "": "",
-    "Verify": 1308
+    "Verify": ""
   },
   {
     "Key": "Tech_57_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Glassmaking",
-    "Italian": "",
+    "Italian": "Produzione del vetro",
     "": "",
-    "Verify": 1309
+    "Verify": ""
   },
   {
     "Key": "Tech_58_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Unlocks <res>Construction III</res>",
-    "Italian": "",
+    "Italian": "Sblocca <res>Costruzione III</res>",
     "": "",
-    "Verify": 1310
+    "Verify": ""
   },
   {
     "Key": "Tech_58_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Scaffolding III",
-    "Italian": "",
+    "Italian": "Impalcature III",
     "": "",
-    "Verify": 1311
+    "Verify": ""
   },
   {
     "Key": "Tech_59_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Unlocks construction of more advanced buildings.",
-    "Italian": "",
+    "Italian": "Sblocca la costruzione di edifici più avanzati",
     "": "",
-    "Verify": 1312
+    "Verify": ""
   },
   {
     "Key": "Tech_59_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Construction III",
-    "Italian": "",
+    "Italian": "Costruzione III",
     "": "",
-    "Verify": 1313
+    "Verify": ""
   },
   {
     "Key": "Tech_5_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Increase construction speed by <amount>%",
-    "Italian": "",
+    "Italian": "Migliora la velocità di costruzione dell'<amount>%",
     "": "",
-    "Verify": 1314
+    "Verify": ""
   },
   {
     "Key": "Tech_5_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Construction Speed I",
-    "Italian": "",
+    "Italian": "Velocità di costruzione I",
     "": "",
-    "Verify": 1315
+    "Verify": ""
   },
   {
     "Key": "Tech_65_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Unlocks construction of boats at the <bd>Boatyard</bd>",
-    "Italian": "",
+    "Italian": "Sblocca la costruzione di barche presso il <bd>Cantiere navale</bd>",
     "": "",
-    "Verify": 1316
+    "Verify": ""
   },
   {
     "Key": "Tech_65_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Boatbuilding I",
-    "Italian": "",
+    "Italian": "Costruzione barche I",
     "": "",
-    "Verify": 1317
+    "Verify": ""
   },
   {
     "Key": "Tech_66_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Reduces boat construction time by <amount>%",
-    "Italian": "",
+    "Italian": "Riduce il tempo di costruzione delle barche dell'<amount>%",
     "": "",
-    "Verify": 1318
+    "Verify": ""
   },
   {
     "Key": "Tech_66_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Boatbuilding II",
-    "Italian": "",
+    "Italian": "Costruzione barche II",
     "": "",
-    "Verify": 1319
+    "Verify": ""
   },
   {
     "Key": "Tech_6_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Increase construction speed by <amount>%",
-    "Italian": "",
+    "Italian": "Aumenta la velocità di costruzione dell'<amount>%",
     "": "",
-    "Verify": 1320
+    "Verify": ""
   },
   {
     "Key": "Tech_6_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Construction Speed II",
-    "Italian": "",
+    "Italian": "Velocità di costruzione II",
     "": "",
-    "Verify": 1321
+    "Verify": ""
   },
   {
     "Key": "Tech_70_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Improves ship speed by <amount>%",
-    "Italian": "",
+    "Italian": "Aumenta la velocità delle barche dell'<amount>%",
     "": "",
-    "Verify": 1322
+    "Verify": ""
   },
   {
     "Key": "Tech_70_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Astronomy",
-    "Italian": "",
+    "Italian": "Astronomia",
     "": "",
-    "Verify": 1323
+    "Verify": ""
   },
   {
     "Key": "Tech_71_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Increases speed of your boats and trains by <amount>%",
-    "Italian": "",
+    "Italian": "Migliora la velocità di barche e treni dell'<amount>%",
     "": "",
-    "Verify": 1324
+    "Verify": ""
   },
   {
     "Key": "Tech_71_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Engineering I",
-    "Italian": "",
+    "Italian": "Ingegneria I",
     "": "",
-    "Verify": 1325
+    "Verify": ""
   },
   {
     "Key": "Tech_72_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Increases speed of your boats and trains by <amount>%",
-    "Italian": "",
+    "Italian": "Migliora la velocità di barche e treni dell'<amount>%",
     "": "",
-    "Verify": 1326
+    "Verify": ""
   },
   {
     "Key": "Tech_72_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Engineering II",
-    "Italian": "",
+    "Italian": "Ingegneria II",
     "": "",
-    "Verify": 1327
+    "Verify": ""
   },
   {
     "Key": "Tech_75_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Unlocks <bd>Level 1 Road Layer</bd> who can upgrade roads and paths allowing bot to travel faster",
-    "Italian": "",
+    "Italian": "Sblocca <bd>Manto Stradale Livello 1</bd> che può migliorare strade e percorsi per far viaggiare i bot più veloci",
     "": "",
-    "Verify": 1328
+    "Verify": ""
   },
   {
     "Key": "Tech_75_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Cobbled Roads",
-    "Italian": "",
+    "Italian": "Strade di ciottoli",
     "": "",
-    "Verify": 1329
+    "Verify": ""
   },
   {
     "Key": "Tech_76_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Unlocks <bd>Level 2 Road Layer</bd> who can upgrade roads and paths allowing bot to travel faster",
-    "Italian": "",
+    "Italian": "Sblocca <bd>Manto Stradale Livello 2</bd> che può migliorare strade e percorsi per far viaggiare i bot più veloci",
     "": "",
-    "Verify": 1330
+    "Verify": ""
   },
   {
     "Key": "Tech_76_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Brick Roads",
-    "Italian": "",
+    "Italian": "Strade di mattoni",
     "": "",
-    "Verify": 1331
+    "Verify": ""
   },
   {
     "Key": "Tech_7_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Increase construction speed by <amount>%",
-    "Italian": "",
+    "Italian": "Incrementa la velocità di costruzione dell'<amount>%",
     "": "",
-    "Verify": 1332
+    "Verify": ""
   },
   {
     "Key": "Tech_7_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Construction Speed III",
-    "Italian": "",
+    "Italian": "Velocità di costruzione III",
     "": "",
-    "Verify": 1333
+    "Verify": ""
   },
   {
     "Key": "Technology Researched",
     "Type": "Text",
     "Desc": "Teh technology the player has researched",
     "English": "Technology Researched",
-    "Italian": "",
+    "Italian": "Tecnologia ricercata",
     "": "",
-    "Verify": 1334
+    "Verify": ""
   },
   {
     "Key": "TerrainType_0",
     "Type": "Text",
     "Desc": "",
     "English": "None",
-    "Italian": "",
+    "Italian": "Nessuno",
     "": "",
-    "Verify": 1335
+    "Verify": ""
   },
   {
     "Key": "TerrainType_1",
     "Type": "Text",
     "Desc": "",
     "English": "Grass",
-    "Italian": "",
+    "Italian": "Erba",
     "": "",
-    "Verify": 1336
+    "Verify": ""
   },
   {
     "Key": "TerrainType_10",
     "Type": "Text",
     "Desc": "",
     "English": "Desert A",
-    "Italian": "",
+    "Italian": "Deserto A",
     "": "",
-    "Verify": 1337
+    "Verify": ""
   },
   {
     "Key": "TerrainType_11",
     "Type": "Text",
     "Desc": "",
     "English": "Rock B",
-    "Italian": "",
+    "Italian": "Roccioso B",
     "": "",
-    "Verify": 1338
+    "Verify": ""
   },
   {
     "Key": "TerrainType_12",
     "Type": "Text",
     "Desc": "",
     "English": "Sand B",
-    "Italian": "",
+    "Italian": "Sabbioso B",
     "": "",
-    "Verify": 1339
+    "Verify": ""
   },
   {
     "Key": "TerrainType_13",
     "Type": "Text",
     "Desc": "",
     "English": "Desert B",
-    "Italian": "",
+    "Italian": "Deserto B",
     "": "",
-    "Verify": 1340
+    "Verify": ""
   },
   {
     "Key": "TerrainType_14",
     "Type": "Text",
     "Desc": "",
     "English": "Rock A",
-    "Italian": "",
+    "Italian": "Roccioso A",
     "": "",
-    "Verify": 1341
+    "Verify": ""
   },
   {
     "Key": "TerrainType_15",
     "Type": "Text",
     "Desc": "",
     "English": "Prairie",
-    "Italian": "",
+    "Italian": "Prateria",
     "": "",
-    "Verify": 1342
+    "Verify": ""
   },
   {
     "Key": "TerrainType_16",
     "Type": "Text",
     "Desc": "",
     "English": "Scrub",
-    "Italian": "",
+    "Italian": "Prato con arbusti",
     "": "",
-    "Verify": 1343
+    "Verify": ""
   },
   {
     "Key": "TerrainType_17",
     "Type": "Text",
     "Desc": "",
     "English": "Forest",
-    "Italian": "",
+    "Italian": "Foresta",
     "": "",
-    "Verify": 1344
+    "Verify": ""
   },
   {
     "Key": "TerrainType_18",
     "Type": "Text",
     "Desc": "",
     "English": "Swamp B",
-    "Italian": "",
+    "Italian": "Paludoso B",
     "": "",
-    "Verify": 1345
+    "Verify": ""
   },
   {
     "Key": "TerrainType_2",
     "Type": "Text",
     "Desc": "",
     "English": "Sand",
-    "Italian": "",
+    "Italian": "Sabbioso",
     "": "",
-    "Verify": 1346
+    "Verify": ""
   },
   {
     "Key": "TerrainType_3",
     "Type": "Text",
     "Desc": "",
     "English": "Meadow",
-    "Italian": "",
+    "Italian": "Prato",
     "": "",
-    "Verify": 1347
+    "Verify": ""
   },
   {
     "Key": "TerrainType_4",
     "Type": "Text",
     "Desc": "",
     "English": "Rock A",
-    "Italian": "",
+    "Italian": "Roccioso A",
     "": "",
-    "Verify": 1348
+    "Verify": ""
   },
   {
     "Key": "TerrainType_5",
     "Type": "Text",
     "Desc": "",
     "English": "Snow",
-    "Italian": "",
+    "Italian": "Nevoso",
     "": "",
-    "Verify": 1349
+    "Verify": ""
   },
   {
     "Key": "TerrainType_6",
     "Type": "Text",
     "Desc": "",
     "English": "Seabed",
-    "Italian": "",
+    "Italian": "Fondale marino",
     "": "",
-    "Verify": 1350
+    "Verify": ""
   },
   {
     "Key": "TerrainType_7",
     "Type": "Text",
     "Desc": "",
     "English": "Ice",
-    "Italian": "",
+    "Italian": "Ghiacciato",
     "": "",
-    "Verify": 1351
+    "Verify": ""
   },
   {
     "Key": "TerrainType_8",
     "Type": "Text",
     "Desc": "",
     "English": "Dirt",
-    "Italian": "",
+    "Italian": "Fangoso",
     "": "",
-    "Verify": 1352
+    "Verify": ""
   },
   {
     "Key": "TerrainType_9",
     "Type": "Text",
     "Desc": "",
     "English": "Swamp A",
-    "Italian": "",
+    "Italian": "Paludoso A",
     "": "",
-    "Verify": 1353
+    "Verify": ""
   },
   {
     "Key": "Territory",
     "Type": "Text",
     "Desc": "The area which the player owns",
     "English": "Territory",
-    "Italian": "",
+    "Italian": "Territorio",
     "": "",
-    "Verify": 1354
+    "Verify": ""
   },
   {
     "Key": "This map is incomplete! Open in the map editor and check the verification panel.",
@@ -13864,18 +13864,18 @@
     "Type": "Text",
     "Desc": "",
     "English": "User Maps",
-    "Italian": "",
+    "Italian": "Mappe degli utenti",
     "": "",
-    "Verify": 1542
+    "Verify": ""
   },
   {
     "Key": "Username",
     "Type": "Text",
     "Desc": "",
     "English": "Username",
-    "Italian": "",
+    "Italian": "Username",
     "": "",
-    "Verify": 1543
+    "Verify": ""
   },
   {
     "Key": "Utility_0_Name",
@@ -13909,9 +13909,9 @@
     "Type": "Text",
     "Desc": "",
     "English": "Width",
-    "Italian": "",
+    "Italian": "Larghezza",
     "": "",
-    "Verify": 1547
+    "Verify": ""
   },
   {
     "Key": "Workshop",
@@ -14044,18 +14044,18 @@
     "Type": "Text",
     "Desc": "",
     "English": "You have unsaved progress. Quit anyway?",
-    "Italian": "",
+    "Italian": "Hai progressi non salvati. Uscire comunque?",
     "": "",
-    "Verify": 1562
+    "Verify": ""
   },
   {
     "Key": "ChooseLanguage",
     "Type": "Text",
     "Desc": "",
     "English": "Choose Language",
-    "Italian": "",
+    "Italian": "Scegli la Lingua",
     "": "",
-    "Verify": 1563
+    "Verify": ""
   },
   {
     "Key": "Store_Promo",
@@ -14233,27 +14233,27 @@
     "Type": "Text",
     "Desc": "",
     "English": "Play Hard",
-    "Italian": "",
+    "Italian": "Gioca a Difficile",
     "": "",
-    "Verify": 1583
+    "Verify": ""
   },
   {
     "Key": "MapPlayNORMAL",
     "Type": "Text",
     "Desc": "",
     "English": "Play Normal",
-    "Italian": "",
+    "Italian": "Gioca a Normale",
     "": "",
-    "Verify": 1584
+    "Verify": ""
   },
   {
     "Key": "MapPlayCASUAL",
     "Type": "Text",
     "Desc": "",
     "English": "Play Casual",
-    "Italian": "",
+    "Italian": "Gioca a Facile",
     "": "",
-    "Verify": 1585
+    "Verify": ""
   },
   {
     "Key": "ConstructionPanel_Info",
@@ -14287,54 +14287,54 @@
     "Type": "Text",
     "Desc": "",
     "English": "Cursor Constrained",
-    "Italian": "",
+    "Italian": "Mouse bloccato (nella finestra)",
     "": "",
-    "Verify": 1589
+    "Verify": ""
   },
   {
     "Key": "Yes",
     "Type": "Text",
     "Desc": "Alert window - confirm",
     "English": "Yes",
-    "Italian": "",
+    "Italian": "Sì",
     "": "",
-    "Verify": 1590
+    "Verify": ""
   },
   {
     "Key": "No",
     "Type": "Text",
     "Desc": "Alert window - cancel",
     "English": "No",
-    "Italian": "",
+    "Italian": "No",
     "": "",
-    "Verify": 1591
+    "Verify": ""
   },
   {
     "Key": "Begin",
     "Type": "Text",
     "Desc": "",
     "English": "Begin",
-    "Italian": "",
+    "Italian": "Inizia",
     "": "",
-    "Verify": 1592
+    "Verify": ""
   },
   {
     "Key": "Tutorial",
     "Type": "Text",
     "Desc": "",
     "English": "Tutorial",
-    "Italian": "",
+    "Italian": "Tutorial",
     "": "",
-    "Verify": 1593
+    "Verify": ""
   },
   {
     "Key": "Skip",
     "Type": "Text",
     "Desc": "",
     "English": "Skip",
-    "Italian": "",
+    "Italian": "Salta",
     "": "",
-    "Verify": 1594
+    "Verify": ""
   },
   {
     "Key": "EntityConstruction_PauseConstruction",
@@ -15601,9 +15601,9 @@
     "Type": "Text",
     "Desc": "{0}:number of minutes",
     "English": "{0} minutes",
-    "Italian": "",
+    "Italian": "{0} minuti",
     "": "",
-    "Verify": 1735
+    "Verify": ""
   },
   {
     "Key": "ScenarioBrowser_NoResults",
@@ -16528,45 +16528,45 @@
     "Type": "Text",
     "Desc": "",
     "English": "Save Game",
-    "Italian": "",
+    "Italian": "Salva il gioco",
     "": "",
-    "Verify": 1838
+    "Verify": ""
   },
   {
     "Key": "SaveGameWindow_Action",
     "Type": "Text",
     "Desc": "",
     "English": "Save",
-    "Italian": "",
+    "Italian": "Salva",
     "": "",
-    "Verify": 1839
+    "Verify": ""
   },
   {
     "Key": "PostcardMode_Postcard",
     "Type": "Text",
     "Desc": "Show the white border",
     "English": "Postcard",
-    "Italian": "",
+    "Italian": "Cartolina",
     "": "",
-    "Verify": 1840
+    "Verify": ""
   },
   {
     "Key": "PostcardMode_Plain",
     "Type": "Text",
     "Desc": "Blank",
     "English": "Plain",
-    "Italian": "",
+    "Italian": "Semplice",
     "": "",
-    "Verify": 1841
+    "Verify": ""
   },
   {
     "Key": "PostcardMode_Interface",
     "Type": "Text",
     "Desc": "Show the User Interface",
     "English": "Interface",
-    "Italian": "",
+    "Italian": "Interfaccia",
     "": "",
-    "Verify": 1842
+    "Verify": ""
   },
   {
     "Key": "PostcardMode_SetTitle",
@@ -17401,9 +17401,9 @@
     "Type": "Text",
     "Desc": "A general loading message, e.g. Loading a savegame",
     "English": "Loading",
-    "Italian": "",
+    "Italian": "Caricamento",
     "": "",
-    "Verify": 1935
+    "Verify": ""
   },
   {
     "Key": "TutorialCantSave",
@@ -17437,9 +17437,9 @@
     "Type": "Text",
     "Desc": "(You have) no saved games",
     "English": "No saved games",
-    "Italian": "",
+    "Italian": "Nessuna partita salvata",
     "": "",
-    "Verify": 1939
+    "Verify": ""
   },
   {
     "Key": "EnterFilenameText",
@@ -17968,36 +17968,36 @@
     "Type": "Text",
     "Desc": "",
     "English": "Old version:",
-    "Italian": "",
+    "Italian": "Vecchia versione:",
     "": "",
-    "Verify": 1998
+    "Verify": ""
   },
   {
     "Key": "NewVersion_NewV",
     "Type": "Text",
     "Desc": "",
     "English": "New version:",
-    "Italian": "",
+    "Italian": "Nuova versione:",
     "": "",
-    "Verify": 1999
+    "Verify": ""
   },
   {
     "Key": "NewVersion_ViewPatchNotes",
     "Type": "Text",
     "Desc": "",
     "English": "View Patch Notes",
-    "Italian": "",
+    "Italian": "Vedi novità",
     "": "",
-    "Verify": 2000
+    "Verify": ""
   },
   {
     "Key": "NewVersion_Continue",
     "Type": "Text",
     "Desc": "",
     "English": "Continue",
-    "Italian": "",
+    "Italian": "Continua",
     "": "",
-    "Verify": 2001
+    "Verify": ""
   },
   {
     "Key": "UpdateAvailable_Steam",
@@ -18058,18 +18058,18 @@
     "Type": "Text",
     "Desc": "",
     "English": "Open in Explorer",
-    "Italian": "",
+    "Italian": "Apri in Esplora Risorse",
     "": "",
-    "Verify": 2008
+    "Verify": ""
   },
   {
     "Key": "GenBugReport",
     "Type": "Text",
     "Desc": "",
     "English": "Generating bug report...",
-    "Italian": "",
+    "Italian": "Generazione bug-report...",
     "": "",
-    "Verify": 2009
+    "Verify": ""
   },
   {
     "Key": "AlertNoForestryTiles",
@@ -18238,16 +18238,16 @@
     "Type": "Text",
     "Desc": "{0}: building name E.g. (This resource has arrived at Sara's Lumberjack Hut via Terry's Storage Yard",
     "English": "Via {0}",
-    "Italian": "",
+    "Italian": "attraverso {0}",
     "": "",
-    "Verify": 2028
+    "Verify": ""
   },
   {
     "Key": "GameSettingsInterfaceTextSize",
     "Type": "Text",
     "Desc": "",
     "English": "Interface text size",
-    "Italian": "",
+    "Italian": "Dimensioni testo interfaccia",
     "": "",
     "Verify": ""
   },
@@ -18256,7 +18256,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Normal",
-    "Italian": "",
+    "Italian": "Normale",
     "": "",
     "Verify": ""
   },
@@ -18265,7 +18265,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Large",
-    "Italian": "",
+    "Italian": "Largo",
     "": "",
     "Verify": ""
   },
@@ -18274,7 +18274,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Nearby Bot Bonus",
-    "Italian": "",
+    "Italian": "Bonus Bot vicini",
     "": "",
     "Verify": ""
   },
@@ -18283,7 +18283,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Monument Bonus",
-    "Italian": "",
+    "Italian": "Bonus Monumento",
     "": "",
     "Verify": ""
   },
@@ -18292,7 +18292,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Unlimited Space Ports",
-    "Italian": "",
+    "Italian": "Porti Spaziali illimitati",
     "": "",
     "Verify": ""
   },
@@ -18301,7 +18301,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Unlimited Monuments",
-    "Italian": "",
+    "Italian": "Monumenti illimitati",
     "": "",
     "Verify": ""
   },
@@ -18310,7 +18310,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Roads",
-    "Italian": "",
+    "Italian": "Strade",
     "": "",
     "Verify": ""
   },
@@ -18401,6 +18401,15 @@
     "Desc": "",
     "English": "Harvesting",
     "Italian": "Raccogliendo",
+    "": "",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityBuildingTransportRulesOutgoingWhitelistOnlyStorageDesc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Resources allowed to be exported only if headed to a storage yard:",
+    "Italian": "Risorse autorizzate ad essere esportate solo se dirette verso un deposito:",
     "": "",
     "Verify": ""
   }
