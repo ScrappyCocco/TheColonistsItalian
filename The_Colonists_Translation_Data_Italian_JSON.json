@@ -16204,324 +16204,324 @@
     "Type": "Text",
     "Desc": "",
     "English": "This building can't attack.",
-    "Italian": "",
+    "Italian": "Questo edificio non può attaccare.",
     "": "",
-    "Verify": 1802
+    "Verify": ""
   },
   {
     "Key": "MilitaryUI_AttackHeader",
     "Type": "Text",
     "Desc": "",
     "English": "Attack",
-    "Italian": "",
+    "Italian": "Attacca",
     "": "",
-    "Verify": 1803
+    "Verify": ""
   },
   {
     "Key": "MilitaryUI_HitPoints",
     "Type": "Text",
     "Desc": "",
     "English": "HIT POINTS",
-    "Italian": "",
+    "Italian": "PUNTI VITA",
     "": "",
-    "Verify": 1804
+    "Verify": ""
   },
   {
     "Key": "MilitaryUI_Collapsing",
     "Type": "Text",
     "Desc": "",
     "English": "COLLAPSING",
-    "Italian": "",
+    "Italian": "CROLLO",
     "": "",
-    "Verify": 1805
+    "Verify": ""
   },
   {
     "Key": "MilitaryUI_RepairHeader",
     "Type": "Text",
     "Desc": "",
     "English": "Repair",
-    "Italian": "",
+    "Italian": "Ripara",
     "": "",
-    "Verify": 1806
+    "Verify": ""
   },
   {
     "Key": "MilitaryUI_DisableAttack",
     "Type": "Text",
     "Desc": "",
     "English": "Disable",
-    "Italian": "",
+    "Italian": "Disattiva",
     "": "",
-    "Verify": 1807
+    "Verify": ""
   },
   {
     "Key": "MilitaryUI_EnableAttack",
     "Type": "Text",
     "Desc": "",
     "English": "Enable",
-    "Italian": "",
+    "Italian": "Attiva",
     "": "",
-    "Verify": 1808
+    "Verify": ""
   },
   {
     "Key": "MilitaryUI_NoTarget",
     "Type": "Text",
     "Desc": "",
     "English": "No Target",
-    "Italian": "",
+    "Italian": "Nessun obiettivo",
     "": "",
-    "Verify": 1809
+    "Verify": ""
   },
   {
     "Key": "MilitaryLogsUI_Header",
     "Type": "Text",
     "Desc": "",
     "English": "Military Logs",
-    "Italian": "",
+    "Italian": "Registri di guerra",
     "": "",
-    "Verify": 1810
+    "Verify": ""
   },
   {
     "Key": "FloorInvalidBelowWater",
     "Type": "Text",
     "Desc": "",
     "English": "TileBelowWater",
-    "Italian": "",
+    "Italian": "CellaSottoAcqua",
     "": "",
-    "Verify": 1811
+    "Verify": ""
   },
   {
     "Key": "FloorInvalidType",
     "Type": "Text",
     "Desc": "",
     "English": "Invalid tile type: {0}",
-    "Italian": "",
+    "Italian": "Tipo di cella non valido: {0}",
     "": "",
-    "Verify": 1812
+    "Verify": ""
   },
   {
     "Key": "FloorInvalidOccupiedBy",
     "Type": "Text",
     "Desc": "{0}:building, road etc",
     "English": "Tile occupied by {0}",
-    "Italian": "",
+    "Italian": "Cella occupata da {0}",
     "": "",
-    "Verify": 1813
+    "Verify": ""
   },
   {
     "Key": "AutoSaving",
     "Type": "Text",
     "Desc": "",
     "English": "Auto-saving game",
-    "Italian": "",
+    "Italian": "Auto-salvataggio",
     "": "",
-    "Verify": 1814
+    "Verify": ""
   },
   {
     "Key": "AlertCowFarmFields",
     "Type": "Text",
     "Desc": "",
     "English": "You have not expanded your cow farm",
-    "Italian": "",
+    "Italian": "Non hai espanso la tua mandria (mucche)",
     "": "",
-    "Verify": 1815
+    "Verify": ""
   },
   {
     "Key": "AlertSheepFarmFields",
     "Type": "Text",
     "Desc": "",
     "English": "You have not expanded your sheep farm",
-    "Italian": "",
+    "Italian": "Non hai espanso il tuo pascolo",
     "": "",
-    "Verify": 1816
+    "Verify": ""
   },
   {
     "Key": "AlertStorageYardNoRules",
     "Type": "Text",
     "Desc": "",
     "English": "You have not set any storage rules yet",
-    "Italian": "",
+    "Italian": "Non hai ancora impostato nessuna regola di deposito",
     "": "",
-    "Verify": 1817
+    "Verify": ""
   },
   {
     "Key": "AlertWheatFarmFields",
     "Type": "Text",
     "Desc": "",
     "English": "You have not planted any wheat fields",
-    "Italian": "",
+    "Italian": "Non hai ancora piantato nessun Campo di Grano",
     "": "",
-    "Verify": 1818
+    "Verify": ""
   },
   {
     "Key": "AlertProductionStopped",
     "Type": "Text",
     "Desc": "(at this building)",
     "English": "Production has been stopped",
-    "Italian": "",
+    "Italian": "La produzione è stata fermata",
     "": "",
-    "Verify": 1819
+    "Verify": ""
   },
   {
     "Key": "PercentComplete",
     "Type": "Text",
     "Desc": "",
     "English": "{0}% complete",
-    "Italian": "",
+    "Italian": "{0}% completato",
     "": "",
-    "Verify": 1820
+    "Verify": ""
   },
   {
     "Key": "TransportRuleBlacklist",
     "Type": "Text",
     "Desc": "{0}:can be blank, TransportRuleForExport or TransportRuleForImport {1}:resource, {2}: either blank or TransportRuleExceptStorage\nE.g. Export rule: Planks are banned except for storage",
     "English": "{0}<it>{1}</it> are banned{2}",
-    "Italian": "",
+    "Italian": "{0}<it>{1}</it> sono vietate{1}",
     "": "",
-    "Verify": 1821
+    "Verify": ""
   },
   {
     "Key": "TransportRuleWhitelist",
     "Type": "Text",
     "Desc": "{0}:can be blank, TransportRuleForExport or TransportRuleForImport {1}:resource, {2}: either blank or TransportRuleOnlyStorage\nE.g. Export rule: Only Planks are allowed and only for storagt",
     "English": "{0} Only <it>{1}</it> are allowed{2}",
-    "Italian": "",
+    "Italian": "{0} solo <it>{1}</it> sono permesse{2}",
     "": "",
-    "Verify": 1822
+    "Verify": ""
   },
   {
     "Key": "TransportRuleExceptStorage",
     "Type": "Text",
     "Desc": "Only used as potential part of TransportRuleBlacklist",
     "English": "except for storage",
-    "Italian": "",
+    "Italian": "tranne che per il deposito",
     "": "",
-    "Verify": 1823
+    "Verify": ""
   },
   {
     "Key": "TransportRuleOnlyStorage",
     "Type": "Text",
     "Desc": "Only used as potential part of TransportRuleWhitelist",
     "English": "and only for storage",
-    "Italian": "",
+    "Italian": "solo per il deposito",
     "": "",
-    "Verify": 1824
+    "Verify": ""
   },
   {
     "Key": "TransportRuleForExport",
     "Type": "Text",
     "Desc": "Only used as potential part of TransportRuleBlacklist or TransportRuleWhitelist",
     "English": "Export rule:",
-    "Italian": "",
+    "Italian": "Regole di export:",
     "": "",
-    "Verify": 1825
+    "Verify": ""
   },
   {
     "Key": "TransportRuleForImport",
     "Type": "Text",
     "Desc": "Only used as potential part of TransportRuleBlacklist or TransportRuleWhitelist",
     "English": "Import rule:",
-    "Italian": "",
+    "Italian": "Regole di import:",
     "": "",
-    "Verify": 1826
+    "Verify": ""
   },
   {
     "Key": "AlertOrchardFarmFields",
     "Type": "Text",
     "Desc": "",
     "English": "You have not planted any apple trees",
-    "Italian": "",
+    "Italian": "Non hai piantato nessun melo",
     "": "",
-    "Verify": 1827
+    "Verify": ""
   },
   {
     "Key": "AlertMineNoResource",
     "Type": "Text",
     "Desc": "",
     "English": "Minebot has no {0} in range",
-    "Italian": "",
+    "Italian": "BotMinatore non ha {0} vicino",
     "": "",
-    "Verify": 1828
+    "Verify": ""
   },
   {
     "Key": "OverlayMilitaryHitPoints",
     "Type": "Text",
     "Desc": "{0}:current hit points, {1}:total hit points",
     "English": "Hit points: {0}/{1}",
-    "Italian": "",
+    "Italian": "Punti vita: {0}/{1}",
     "": "",
-    "Verify": 1829
+    "Verify": ""
   },
   {
     "Key": "VictoryCondition_Construction",
     "Type": "Text",
     "Desc": "{0}:amount, {1}:building type",
     "English": "Build {0} {1}",
-    "Italian": "",
+    "Italian": "Costruisci {0} {1}",
     "": "",
-    "Verify": 1830
+    "Verify": ""
   },
   {
     "Key": "VictoryCondition_Domination",
     "Type": "Text",
     "Desc": "{0}:player name",
     "English": "Capture Colony Ship of {0}",
-    "Italian": "",
+    "Italian": "Cattura la Nave della Colonia di {0}",
     "": "",
-    "Verify": 1831
+    "Verify": ""
   },
   {
     "Key": "VictoryCondition_DominationDone",
     "Type": "Text",
     "Desc": "{0}:player name",
     "English": "{0} is defeated!",
-    "Italian": "",
+    "Italian": "{0} è sconfitto!",
     "": "",
-    "Verify": 1832
+    "Verify": ""
   },
   {
     "Key": "VictoryCondition_Research",
     "Type": "Text",
     "Desc": "{0}:name of tech",
     "English": "Research {0}",
-    "Italian": "",
+    "Italian": "Ricerca {0}",
     "": "",
-    "Verify": 1833
+    "Verify": ""
   },
   {
     "Key": "MonthShort",
     "Type": "Text",
     "Desc": "",
     "English": "m",
-    "Italian": "",
+    "Italian": "m",
     "": "",
-    "Verify": 1834
+    "Verify": ""
   },
   {
     "Key": "YearShort",
     "Type": "Text",
     "Desc": "",
     "English": "y",
-    "Italian": "",
+    "Italian": "y",
     "": "",
-    "Verify": 1835
+    "Verify": ""
   },
   {
     "Key": "StructureState_Max",
     "Type": "Text",
     "Desc": "{0}:e.g. sheep field",
     "English": "Maximum amount of {0} reached.\n<hotkey>[Shift]</hotkey> to remove",
-    "Italian": "",
+    "Italian": "Quantità massima di {0} raggiunta.\n<hotkey>[Shift]</hotkey> per rimuovere",
     "": "",
-    "Verify": 1836
+    "Verify": ""
   },
   {
     "Key": "TimeAgo",
     "Type": "Text",
     "Desc": "(3 days) ago",
     "English": "ago",
-    "Italian": "",
+    "Italian": "fa",
     "": "",
-    "Verify": 1837
+    "Verify": ""
   },
   {
     "Key": "SaveGameWindow_Header",
@@ -16573,828 +16573,828 @@
     "Type": "Text",
     "Desc": "",
     "English": "Title:",
-    "Italian": "",
+    "Italian": "Titolo:",
     "": "",
-    "Verify": 1843
+    "Verify": ""
   },
   {
     "Key": "PostcardMode_SetBorderSize",
     "Type": "Text",
     "Desc": "Set size of white postcard border",
     "English": "Border size:",
-    "Italian": "",
+    "Italian": "Dimensione bordo:",
     "": "",
-    "Verify": 1844
+    "Verify": ""
   },
   {
     "Key": "PostcardMode_Take",
     "Type": "Text",
     "Desc": "[Enter] is shortcut key",
     "English": "Take Screenshot [Enter]",
-    "Italian": "",
+    "Italian": "Cattura Screenshot [Enter]",
     "": "",
-    "Verify": 1845
+    "Verify": ""
   },
   {
     "Key": "PostcardMode_ViewExisting",
     "Type": "Text",
     "Desc": "Open Steam screenshots or folder of previously taken screenshots",
     "English": "View Existing",
-    "Italian": "",
+    "Italian": "Vedi precedenti",
     "": "",
-    "Verify": 1846
+    "Verify": ""
   },
   {
     "Key": "PostcardMode_Captured",
     "Type": "Text",
     "Desc": "",
     "English": "Screenshot captured!",
-    "Italian": "",
+    "Italian": "Screenshot catturato!",
     "": "",
-    "Verify": 1847
+    "Verify": ""
   },
   {
     "Key": "ItemTooltip_WaitConsumed",
     "Type": "Text",
     "Desc": "{0}:amount, {1}:resource",
     "English": "{0}x {1} waiting to be consumed",
-    "Italian": "",
+    "Italian": "{0}x {1} in attesa di essere consumato",
     "": "",
-    "Verify": 1848
+    "Verify": ""
   },
   {
     "Key": "ItemTooltip_WaitUsed",
     "Type": "Text",
     "Desc": "",
     "English": "{0}x {1} waiting to be used",
-    "Italian": "",
+    "Italian": "{0}x {1} in attesa di essere usato",
     "": "",
-    "Verify": 1849
+    "Verify": ""
   },
   {
     "Key": "ItemTooltip_WaitAssignment",
     "Type": "Text",
     "Desc": "",
     "English": "{0}x {1} waiting for assignment",
-    "Italian": "",
+    "Italian": "{0}x {1} in attesa di essere assegnato",
     "": "",
-    "Verify": 1850
+    "Verify": ""
   },
   {
     "Key": "ItemTooltip_EnRouteSingle",
     "Type": "Text",
     "Desc": "",
     "English": "{0}x {1} on its way",
-    "Italian": "",
+    "Italian": "{0}x {1} in arrivo",
     "": "",
-    "Verify": 1851
+    "Verify": ""
   },
   {
     "Key": "ItemTooltip_EnRoutePlural",
     "Type": "Text",
     "Desc": "",
     "English": "{0}x {1} on their way",
-    "Italian": "",
+    "Italian": "{0}x {1} in arrivo",
     "": "",
-    "Verify": 1852
+    "Verify": ""
   },
   {
     "Key": "ItemTooltip_InCargo",
     "Type": "Text",
     "Desc": "In cargo of boat or train",
     "English": "{0}x {1} in cargo",
-    "Italian": "",
+    "Italian": "{0}x {1} nel cargo",
     "": "",
-    "Verify": 1853
+    "Verify": ""
   },
   {
     "Key": "OverlayProduction",
     "Type": "Text",
     "Desc": "{0}: resource",
     "English": "{0} Production",
-    "Italian": "",
+    "Italian": "{0} produzione",
     "": "",
-    "Verify": 1854
+    "Verify": ""
   },
   {
     "Key": "OverlayProductionDetails",
     "Type": "Text",
     "Desc": "{0}: building, {1} amount, {2}:resource e.g. \"Harriet's Sawmill is producing 1.5 Planks per day",
     "English": "{0} is producing {1} {2} per day",
-    "Italian": "",
+    "Italian": "{0} produce {1} {2} al giorno",
     "": "",
-    "Verify": 1855
+    "Verify": ""
   },
   {
     "Key": "GameUI_DeprioritiseBuilding",
     "Type": "Text",
     "Desc": "Deprioritise (building)",
     "English": "Deprioritise",
-    "Italian": "",
+    "Italian": "De-Prioritizza",
     "": "",
-    "Verify": 1856
+    "Verify": ""
   },
   {
     "Key": "ProductionGraphMin",
     "Type": "Text",
     "Desc": "{0}: amount of sheep/cow fields e.g. Min: 50",
     "English": "Min: {0}",
-    "Italian": "",
+    "Italian": "Min: {0}",
     "": "",
-    "Verify": 1857
+    "Verify": ""
   },
   {
     "Key": "ProductionChangeNaturalResource",
     "Type": "Text",
     "Desc": "For surface mines, this button lets player change the target of natural resource",
     "English": "Change Natural Resource",
-    "Italian": "",
+    "Italian": "Cambia risorsa naturale",
     "": "",
-    "Verify": 1858
+    "Verify": ""
   },
   {
     "Key": "TooltipMoney",
     "Type": "Text",
     "Desc": "",
     "English": "Money",
-    "Italian": "",
+    "Italian": "Soldi",
     "": "",
-    "Verify": 1859
+    "Verify": ""
   },
   {
     "Key": "TooltipMoneyDesc",
     "Type": "Text",
     "Desc": "",
     "English": "The amount of money you currently have",
-    "Italian": "",
+    "Italian": "La quantità di denaro che hai attualmente",
     "": "",
-    "Verify": 1860
+    "Verify": ""
   },
   {
     "Key": "BuildingUpgradeAction",
     "Type": "Text",
     "Desc": "{0}: Level 2/3",
     "English": "Upgrade to {0}",
-    "Italian": "",
+    "Italian": "Migliora a {0}",
     "": "",
-    "Verify": 1861
+    "Verify": ""
   },
   {
     "Key": "BuildingUpgradeStatus",
     "Type": "Text",
     "Desc": "{0}: Level 2/3",
     "English": "Upgrading to {0}",
-    "Italian": "",
+    "Italian": "Miglioramento a {0}",
     "": "",
-    "Verify": 1862
+    "Verify": ""
   },
   {
     "Key": "BuildingUpgradeCancel",
     "Type": "Text",
     "Desc": "",
     "English": "Cancel Upgrade",
-    "Italian": "",
+    "Italian": "Annulla miglioramento",
     "": "",
-    "Verify": 1863
+    "Verify": ""
   },
   {
     "Key": "Item_253_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Various resources",
-    "Italian": "",
+    "Italian": "Varie risorse",
     "": "",
-    "Verify": 1864
+    "Verify": ""
   },
   {
     "Key": "Item_252_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Tech research",
-    "Italian": "",
+    "Italian": "Ricerca tecnologica",
     "": "",
-    "Verify": 1865
+    "Verify": ""
   },
   {
     "Key": "Item_254_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "No resources",
-    "Italian": "",
+    "Italian": "Nessuna risorsa",
     "": "",
-    "Verify": 1866
+    "Verify": ""
   },
   {
     "Key": "Item_255_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "All resources",
-    "Italian": "",
+    "Italian": "Tutte le risorse",
     "": "",
-    "Verify": 1867
+    "Verify": ""
   },
   {
     "Key": "MilitaryLogHitGiven",
     "Type": "Text",
     "Desc": "{0}: enemy building",
     "English": "Hit {0}",
-    "Italian": "",
+    "Italian": "Colpito {0}",
     "": "",
-    "Verify": 1868
+    "Verify": ""
   },
   {
     "Key": "MilitaryLogHitTaken",
     "Type": "Text",
     "Desc": "{0}: enemy building",
     "English": "Hit by {0}",
-    "Italian": "",
+    "Italian": "Colpito da {0}",
     "": "",
-    "Verify": 1869
+    "Verify": ""
   },
   {
     "Key": "MilitaryLogCompletedRepairs",
     "Type": "Text",
     "Desc": "",
     "English": "Completed repairs",
-    "Italian": "",
+    "Italian": "Riparazioni completate",
     "": "",
-    "Verify": 1870
+    "Verify": ""
   },
   {
     "Key": "TradeTerminalSellHeader",
     "Type": "Text",
     "Desc": "",
     "English": "Sell Resources",
-    "Italian": "",
+    "Italian": "Vendi risorse",
     "": "",
-    "Verify": 1871
+    "Verify": ""
   },
   {
     "Key": "TradeTerminalPurchaseHeader",
     "Type": "Text",
     "Desc": "",
     "English": "Purchase Resources",
-    "Italian": "",
+    "Italian": "Compra risorse",
     "": "",
-    "Verify": 1872
+    "Verify": ""
   },
   {
     "Key": "TradeTerminalThisVisit",
     "Type": "Text",
     "Desc": "",
     "English": "Resources loaded this visit:",
-    "Italian": "",
+    "Italian": "Risorse caricate durante questa visita:",
     "": "",
-    "Verify": 1873
+    "Verify": ""
   },
   {
     "Key": "TradeTerminalArrivingIn",
     "Type": "Text",
     "Desc": "(Trade) Ship arriving in (5 days)",
     "English": "Ship arriving in",
-    "Italian": "",
+    "Italian": "Nave in arrivo in",
     "": "",
-    "Verify": 1874
+    "Verify": ""
   },
   {
     "Key": "TradeTerminalLanding",
     "Type": "Text",
     "Desc": "(Trade) Ship (is) landing",
     "English": "Ship landing",
-    "Italian": "",
+    "Italian": "Nave in atterraggio",
     "": "",
-    "Verify": 1875
+    "Verify": ""
   },
   {
     "Key": "TradeTerminalDepartingIn",
     "Type": "Text",
     "Desc": "(Trade) Ship departing in (5 days)",
     "English": "Ship departing in",
-    "Italian": "",
+    "Italian": "Nave in partenza in",
     "": "",
-    "Verify": 1876
+    "Verify": ""
   },
   {
     "Key": "TradeTerminalDeparting",
     "Type": "Text",
     "Desc": "(Trade) Ship (is) departing",
     "English": "Ship departing",
-    "Italian": "",
+    "Italian": "Nave in partenza",
     "": "",
-    "Verify": 1877
+    "Verify": ""
   },
   {
     "Key": "HarbourUIRoutesEmpty",
     "Type": "Text",
     "Desc": "",
     "English": "No boats currently stop here",
-    "Italian": "",
+    "Italian": "Nessuna barca si ferma qui",
     "": "",
-    "Verify": 1878
+    "Verify": ""
   },
   {
     "Key": "EntPanelHead_254",
     "Type": "Text",
     "Desc": "Same as EntPanelHead_90 etc",
     "English": "Info",
-    "Italian": "",
+    "Italian": "Informazioni",
     "": "",
-    "Verify": 1879
+    "Verify": ""
   },
   {
     "Key": "ExpeditionAssignToPort",
     "Type": "Text",
     "Desc": "Assign (boat to harbour expedition)",
     "English": "Assign",
-    "Italian": "",
+    "Italian": "Assegna",
     "": "",
-    "Verify": 1880
+    "Verify": ""
   },
   {
     "Key": "OverlayPrioritisedBuildingTooltip",
     "Type": "Text",
     "Desc": "{0}: building type e.g. (this is the ) prioritised watchtower",
     "English": "Prioritised {0}",
-    "Italian": "",
+    "Italian": "Prioritizzato {0}",
     "": "",
-    "Verify": 1881
+    "Verify": ""
   },
   {
     "Key": "FutureExpeditionHarbour",
     "Type": "Text",
     "Desc": "The harbour that will be created as a result of completing the expedition",
     "English": "Expedition's Future Harbour",
-    "Italian": "",
+    "Italian": "Porto della spedizione",
     "": "",
-    "Verify": 1882
+    "Verify": ""
   },
   {
     "Key": "ProductionChangeTreeType",
     "Type": "Text",
     "Desc": "",
     "English": "Change tree type",
-    "Italian": "",
+    "Italian": "Cambia tipo ti albero",
     "": "",
-    "Verify": 1883
+    "Verify": ""
   },
   {
     "Key": "TrackEditorPrompt",
     "Type": "Text",
     "Desc": "",
     "English": "Select an existing piece of track to start from",
-    "Italian": "",
+    "Italian": "Seleziona un tracciato esistente da cui iniziare",
     "": "",
-    "Verify": 1884
+    "Verify": ""
   },
   {
     "Key": "VehicleAverageJourney",
     "Type": "Text",
     "Desc": "",
     "English": "Average journey:",
-    "Italian": "",
+    "Italian": "Viaggio medio:",
     "": "",
-    "Verify": 1885
+    "Verify": ""
   },
   {
     "Key": "TrackEditorTrackConnected",
     "Type": "Text",
     "Desc": "",
     "English": "Track connected!",
-    "Italian": "",
+    "Italian": "Tracciato connesso!",
     "": "",
-    "Verify": 1886
+    "Verify": ""
   },
   {
     "Key": "TrackEditorInvalidElevationDirection",
     "Type": "Text",
     "Desc": "",
     "English": "Can't Place Track\nInvalid elevation & direction",
-    "Italian": "",
+    "Italian": "Impossibile piazzare tracciato\nElevazione e direzione invalidi",
     "": "",
-    "Verify": 1887
+    "Verify": ""
   },
   {
     "Key": "TrackEditorInvalidTrack",
     "Type": "Text",
     "Desc": "{0}: further error info",
     "English": "Can't place land track!\n{0}",
-    "Italian": "",
+    "Italian": "Impossibile piazzare il tracciato! {0}",
     "": "",
-    "Verify": 1888
+    "Verify": ""
   },
   {
     "Key": "TrackEditorInvalidBridge",
     "Type": "Text",
     "Desc": "{0}: further error info",
     "English": "Can't place bridge!\n{0}",
-    "Italian": "",
+    "Italian": "Impossibile piazzare il ponte! {0}",
     "": "",
-    "Verify": 1889
+    "Verify": ""
   },
   {
     "Key": "TraderReputationReward",
     "Type": "Text",
     "Desc": "",
     "English": "+1 Space Port",
-    "Italian": "",
+    "Italian": "Porto Spaziale +1",
     "": "",
-    "Verify": 1890
+    "Verify": ""
   },
   {
     "Key": "BuildingStorageRules",
     "Type": "Text",
     "Desc": "",
     "English": "Rules",
-    "Italian": "",
+    "Italian": "Regole",
     "": "",
-    "Verify": 1891
+    "Verify": ""
   },
   {
     "Key": "BuildingStorageRulesDesc",
     "Type": "Text",
     "Desc": "",
     "English": "This building does not automatically store resources. You can add rules to allow this.",
-    "Italian": "",
+    "Italian": "Questo edificio non deposita automaticamente le risorse. È possibile aggiungere regole per consentirlo.",
     "": "",
-    "Verify": 1892
+    "Verify": ""
   },
   {
     "Key": "VehicleStopsEmpty",
     "Type": "Text",
     "Desc": "",
     "English": "No stops yet",
-    "Italian": "",
+    "Italian": "Ancora nessuna fermata",
     "": "",
-    "Verify": 1893
+    "Verify": ""
   },
   {
     "Key": "EntitySidePanelAddStop",
     "Type": "Text",
     "Desc": "Add (station or port stop)",
     "English": "Add",
-    "Italian": "",
+    "Italian": "Aggiungi",
     "": "",
-    "Verify": 1894
+    "Verify": ""
   },
   {
     "Key": "EntitySidePanelBoatsStopping",
     "Type": "Text",
     "Desc": "E.g. Boats stopping here: 2",
     "English": "Boats stopping here:",
-    "Italian": "",
+    "Italian": "Barche che si fermano qui:",
     "": "",
-    "Verify": 1895
+    "Verify": ""
   },
   {
     "Key": "EntitySidePanelTrainsStopping",
     "Type": "Text",
     "Desc": "E.g. Trains stopping here: 2",
     "English": "Trains stopping here:",
-    "Italian": "",
+    "Italian": "Treni che si fermano qui:",
     "": "",
-    "Verify": 1896
+    "Verify": ""
   },
   {
     "Key": "EntityNameFormat",
     "Type": "Text",
     "Desc": "{0}:owner {1} thing - e.g. Carol's Clipper",
     "English": "{0}'s {1}",
-    "Italian": "",
+    "Italian": "{0}'s {1}",
     "": "",
-    "Verify": 1897
+    "Verify": ""
   },
   {
     "Key": "Rubble",
     "Type": "Text",
     "Desc": "Rubble that is left by a destroyed building",
     "English": "Rubble",
-    "Italian": "",
+    "Italian": "Macerie",
     "": "",
-    "Verify": 1898
+    "Verify": ""
   },
   {
     "Key": "BoatStateMoving",
     "Type": "Text",
     "Desc": "",
     "English": "Sailing",
-    "Italian": "",
+    "Italian": "Navigando",
     "": "",
-    "Verify": 1899
+    "Verify": ""
   },
   {
     "Key": "BoatStateMovingTo",
     "Type": "Text",
     "Desc": "",
     "English": "Sailing to {0}",
-    "Italian": "",
+    "Italian": "Navigando verso {0}",
     "": "",
-    "Verify": 1900
+    "Verify": ""
   },
   {
     "Key": "VehicleStateLoadingResources",
     "Type": "Text",
     "Desc": "",
     "English": "Loading resources",
-    "Italian": "",
+    "Italian": "Caricamento risorse",
     "": "",
-    "Verify": 1901
+    "Verify": ""
   },
   {
     "Key": "BoatStateQueueing",
     "Type": "Text",
     "Desc": "",
     "English": "Waiting for space at harbour",
-    "Italian": "",
+    "Italian": "In attesa di spazio al porto",
     "": "",
-    "Verify": 1902
+    "Verify": ""
   },
   {
     "Key": "VehicleStateIdle",
     "Type": "Text",
     "Desc": "",
     "English": "Waiting for assignment",
-    "Italian": "",
+    "Italian": "In attesa di incarico",
     "": "",
-    "Verify": 1903
+    "Verify": ""
   },
   {
     "Key": "TrainStateMoving",
     "Type": "Text",
     "Desc": "",
     "English": "Travelling",
-    "Italian": "",
+    "Italian": "In viaggio",
     "": "",
-    "Verify": 1904
+    "Verify": ""
   },
   {
     "Key": "TrainStateMovingTo",
     "Type": "Text",
     "Desc": "",
     "English": "Travelling to {0}",
-    "Italian": "",
+    "Italian": "In viaggio verso {0}",
     "": "",
-    "Verify": 1905
+    "Verify": ""
   },
   {
     "Key": "TrainStateQueueing",
     "Type": "Text",
     "Desc": "",
     "English": "Waiting for space at station",
-    "Italian": "",
+    "Italian": "In attesa di spazio alla stazione",
     "": "",
-    "Verify": 1906
+    "Verify": ""
   },
   {
     "Key": "EntitySidePanelBoatTypeSelect",
     "Type": "Text",
     "Desc": "Select (this boat type)",
     "English": "Select",
-    "Italian": "",
+    "Italian": "Seleziona",
     "": "",
-    "Verify": 1907
+    "Verify": ""
   },
   {
     "Key": "EntitySidePanelBoatTypeSelected",
     "Type": "Text",
     "Desc": "(This boat type is) selected",
     "English": "Selected",
-    "Italian": "",
+    "Italian": "Selezionato",
     "": "",
-    "Verify": 1908
+    "Verify": ""
   },
   {
     "Key": "EntityTradeTerminalRecurring",
     "Type": "Text",
     "Desc": "recurring (sales order)",
     "English": "(recurring)",
-    "Italian": "",
+    "Italian": "(periodico)",
     "": "",
-    "Verify": 1909
+    "Verify": ""
   },
   {
     "Key": "EntityTradeTerminalRecurringShort",
     "Type": "Text",
     "Desc": "short for recurring",
     "English": "(rec.)",
-    "Italian": "",
+    "Italian": "(period.)",
     "": "",
-    "Verify": 1910
+    "Verify": ""
   },
   {
     "Key": "EntityTradeTerminalOnce",
     "Type": "Text",
     "Desc": "(An order which happens) once",
     "English": "(once)",
-    "Italian": "",
+    "Italian": "(una volta)",
     "": "",
-    "Verify": 1911
+    "Verify": ""
   },
   {
     "Key": "EntityTradeTerminalThisVisit",
     "Type": "Text",
     "Desc": "This visit: (1/3 resources)",
     "English": "This visit:",
-    "Italian": "",
+    "Italian": "Questa visita:",
     "": "",
-    "Verify": 1912
+    "Verify": ""
   },
   {
     "Key": "SidePanelSellingRuleSelectResource",
     "Type": "Text",
     "Desc": "",
     "English": "Select a resource to sell",
-    "Italian": "",
+    "Italian": "Seleziona una risorsa da vendere",
     "": "",
-    "Verify": 1913
+    "Verify": ""
   },
   {
     "Key": "MaximumShort",
     "Type": "Text",
     "Desc": "short for maximum",
     "English": "max",
-    "Italian": "",
+    "Italian": "max",
     "": "",
-    "Verify": 1914
+    "Verify": ""
   },
   {
     "Key": "BuildingTradeTerminalSellingRuleType_0",
     "Type": "Text",
     "Desc": "(An order which happens) once",
     "English": "Once",
-    "Italian": "",
+    "Italian": "Una volta",
     "": "",
-    "Verify": 1915
+    "Verify": ""
   },
   {
     "Key": "BuildingTradeTerminalSellingRuleType_1",
     "Type": "Text",
     "Desc": "recurring (sales order)",
     "English": "Recurring",
-    "Italian": "",
+    "Italian": "Periodico",
     "": "",
-    "Verify": 1916
+    "Verify": ""
   },
   {
     "Key": "SidePanelPurchaseRuleSelectResource",
     "Type": "Text",
     "Desc": "",
     "English": "Select a resource to purchase",
-    "Italian": "",
+    "Italian": "Seleziona una risorsa da comprare",
     "": "",
-    "Verify": 1917
+    "Verify": ""
   },
   {
     "Key": "AnyAmount",
     "Type": "Text",
     "Desc": "",
     "English": "any",
-    "Italian": "",
+    "Italian": "qualsiasi",
     "": "",
-    "Verify": 1918
+    "Verify": ""
   },
   {
     "Key": "RoadPostOverlayTooltip",
     "Type": "Text",
     "Desc": "{0}: building",
     "English": "Road post for {0}",
-    "Italian": "",
+    "Italian": "Palo stradale per {0}",
     "": "",
-    "Verify": 1919
+    "Verify": ""
   },
   {
     "Key": "RoadPostRulesDesc",
     "Type": "Text",
     "Desc": "",
     "English": "Manage the movement of resources through your colony by setting up rules for this road post.",
-    "Italian": "",
+    "Italian": "Gestisci lo spostamento delle risorse attraverso la tua colonia impostando le regole per questo palo stradale.",
     "": "",
-    "Verify": 1920
+    "Verify": ""
   },
   {
     "Key": "EntityFlagRulesBlacklistDesc",
     "Type": "Text",
     "Desc": "",
     "English": "Resources banned from passing through this road post:",
-    "Italian": "",
+    "Italian": "Risorse vietate dal passaggio tramite questo palo stradale:",
     "": "",
-    "Verify": 1921
+    "Verify": ""
   },
   {
     "Key": "EntityFlagRulesBlacklistExcStorageDesc",
     "Type": "Text",
     "Desc": "",
     "English": "Resources banned from passing through this road post unless they're headed for a storage yard:",
-    "Italian": "",
+    "Italian": "Risorse vietate dal passaggio tramite questo palo stradale tranne quelle dirette verso un deposito:",
     "": "",
-    "Verify": 1922
+    "Verify": ""
   },
   {
     "Key": "EntityFlagRulesWhitelistDesc",
     "Type": "Text",
     "Desc": "",
     "English": "Resources allowed through this road post:",
-    "Italian": "",
+    "Italian": "Risorse permesse attraverso questo palo stradale:",
     "": "",
-    "Verify": 1923
+    "Verify": ""
   },
   {
     "Key": "EntityFlagRulesWhitelistOnlyStorageDesc",
     "Type": "Text",
     "Desc": "",
     "English": "Resources allowed through this road post only if headed to a storage yard:",
-    "Italian": "",
+    "Italian": "Risorse permesse attraverso questo palo stradale ma solo se dirette verso un deposito:",
     "": "",
-    "Verify": 1924
+    "Verify": ""
   },
   {
     "Key": "EntitySidePanelSelectResourceStore",
     "Type": "Text",
     "Desc": "",
     "English": "Select a resource to store",
-    "Italian": "",
+    "Italian": "Seleziona una risorsa da depositare",
     "": "",
-    "Verify": 1925
+    "Verify": ""
   },
   {
     "Key": "EntitySidePanelSelectResource",
     "Type": "Text",
     "Desc": "",
     "English": "Select a resource",
-    "Italian": "",
+    "Italian": "Seleziona una risorsa",
     "": "",
-    "Verify": 1926
+    "Verify": ""
   },
   {
     "Key": "EntitySidePanelRuleBlacklistConfirm",
     "Type": "Text",
     "Desc": "",
     "English": "Ban resource",
-    "Italian": "",
+    "Italian": "Vieta una risorsa",
     "": "",
-    "Verify": 1927
+    "Verify": ""
   },
   {
     "Key": "EntitySidePanelRuleBlacklistExcStorageConfirm",
     "Type": "Text",
     "Desc": "",
     "English": "Ban resource except for storage",
-    "Italian": "",
+    "Italian": "Vieta una risorsa eccetto per il deposito",
     "": "",
-    "Verify": 1928
+    "Verify": ""
   },
   {
     "Key": "EntitySidePanelRuleWhitelistConfirm",
     "Type": "Text",
     "Desc": "",
     "English": "Allow this resource",
-    "Italian": "",
+    "Italian": "Permetti questa risorsa",
     "": "",
-    "Verify": 1929
+    "Verify": ""
   },
   {
     "Key": "EntitySidePanelRuleWhitelistStorageOnlyConfirm",
     "Type": "Text",
     "Desc": "",
     "English": "Allow this resource but only for storage",
-    "Italian": "",
+    "Italian": "Permetti questa risorsa ma solo per il deposito",
     "": "",
-    "Verify": 1930
+    "Verify": ""
   },
   {
     "Key": "TrackEditorCantRemove",
     "Type": "Text",
     "Desc": "{0}: further error info",
     "English": "Can't Remove Track\n{0}",
-    "Italian": "",
+    "Italian": "Impossibile rumuovere tracciato {0}",
     "": "",
-    "Verify": 1931
+    "Verify": ""
   },
   {
     "Key": "TrackCantRemoveReasonStation",
     "Type": "Text",
     "Desc": "",
     "English": "Track is part of train station",
-    "Italian": "",
+    "Italian": "Il tracciato fa parte della stazione ferroviaria",
     "": "",
-    "Verify": 1932
+    "Verify": ""
   },
   {
     "Key": "NotificationLowStoneAmount",
     "Type": "Text",
     "Desc": "{0}: amount of stone",
     "English": "{0} stone available!",
-    "Italian": "",
+    "Italian": "{0} pietra disponibile",
     "": "",
-    "Verify": 1933
+    "Verify": ""
   },
   {
     "Key": "UnitStateHeadingToRoad",
     "Type": "Text",
     "Desc": "",
     "English": "Heading to road",
-    "Italian": "",
+    "Italian": "Verso la strada",
     "": "",
-    "Verify": 1934
+    "Verify": ""
   },
   {
     "Key": "LoadingGeneric",
@@ -17410,27 +17410,27 @@
     "Type": "Text",
     "Desc": "",
     "English": "Sorry, the first tutorial mission cannot be saved. Don't worry, it doesn't take long to complete!",
-    "Italian": "",
+    "Italian": "Purtroppo la prima missione tutorial non può essere salvata. Non ti preoccupare, non ci vuole molto per completarla!",
     "": "",
-    "Verify": 1936
+    "Verify": ""
   },
   {
     "Key": "GameSaved",
     "Type": "Text",
     "Desc": "",
     "English": "Game saved!",
-    "Italian": "",
+    "Italian": "Gioco salvato!",
     "": "",
-    "Verify": 1937
+    "Verify": ""
   },
   {
     "Key": "SavingGame",
     "Type": "Text",
     "Desc": "",
     "English": "Saving game",
-    "Italian": "",
+    "Italian": "Salvataggio in corso",
     "": "",
-    "Verify": 1938
+    "Verify": ""
   },
   {
     "Key": "NoSaveGames",
@@ -17446,522 +17446,522 @@
     "Type": "Text",
     "Desc": "",
     "English": "Enter text...",
-    "Italian": "",
+    "Italian": "Inserisci testo...",
     "": "",
-    "Verify": 1940
+    "Verify": ""
   },
   {
     "Key": "CancelResearch",
     "Type": "Text",
     "Desc": "",
     "English": "Cancel Research",
-    "Italian": "",
+    "Italian": "Annulla ricerca",
     "": "",
-    "Verify": 1941
+    "Verify": ""
   },
   {
     "Key": "CampaignWindow_Rankings",
     "Type": "Text",
     "Desc": "",
     "English": "Rankings",
-    "Italian": "",
+    "Italian": "Classifica",
     "": "",
-    "Verify": 1942
+    "Verify": ""
   },
   {
     "Key": "CampaignWindow_BackToInfo",
     "Type": "Text",
     "Desc": "(Return to) scenario info",
     "English": "Scenario Info",
-    "Italian": "",
+    "Italian": "Informazioni scenario",
     "": "",
-    "Verify": 1943
+    "Verify": ""
   },
   {
     "Key": "CampaignWindow_RankingsName",
     "Type": "Text",
     "Desc": "Name (of player on leaderboard)",
     "English": "Name",
-    "Italian": "",
+    "Italian": "Nome",
     "": "",
-    "Verify": 1944
+    "Verify": ""
   },
   {
     "Key": "CampaignWindow_RankingsTime",
     "Type": "Text",
     "Desc": "Time (of leadeboard entry)",
     "English": "Time",
-    "Italian": "",
+    "Italian": "Titolo",
     "": "",
-    "Verify": 1945
+    "Verify": ""
   },
   {
     "Key": "ScenGameVerErr_7",
     "Type": "Text",
     "Desc": "",
     "English": "Inaccessible shaft mine!",
-    "Italian": "",
+    "Italian": "Miniera inaccessibile!",
     "": "",
-    "Verify": 1946
+    "Verify": ""
   },
   {
     "Key": "GameComplete_Gold",
     "Type": "Text",
     "Desc": "",
     "English": "Amazing! You achieved a Gold medal!",
-    "Italian": "",
+    "Italian": "Congraturazioni! Hai ottenuto una medaglia d'oro!",
     "": "",
-    "Verify": 1947
+    "Verify": ""
   },
   {
     "Key": "GameComplete_Silver",
     "Type": "Text",
     "Desc": "",
     "English": "Well done! You earned a silver medal!",
-    "Italian": "",
+    "Italian": "Molto bene! Hai guadagnato una medaglia d'argento!",
     "": "",
-    "Verify": 1948
+    "Verify": ""
   },
   {
     "Key": "GameComplete_Bronze",
     "Type": "Text",
     "Desc": "",
     "English": "Well done! You earned a bronze medal!",
-    "Italian": "",
+    "Italian": "Molto bene! Hai guadagnato una medaglia di bronzo!",
     "": "",
-    "Verify": 1949
+    "Verify": ""
   },
   {
     "Key": "GameComplete_NoMedal",
     "Type": "Text",
     "Desc": "",
     "English": "Well done! Although you didn't earn a medal, you completed the mission!",
-    "Italian": "",
+    "Italian": "Molto bene! Anche se non hai guadagnato una medaglia, hai completato la missione!",
     "": "",
-    "Verify": 1950
+    "Verify": ""
   },
   {
     "Key": "GameComplete_MilitarySingle",
     "Type": "Text",
     "Desc": "",
     "English": "Well done! You captured their Colony Ship!",
-    "Italian": "",
+    "Italian": "Molto bene! Hai catturato la loro Nave della Colonia!",
     "": "",
-    "Verify": 1951
+    "Verify": ""
   },
   {
     "Key": "GameComplete_MilitaryPlural",
     "Type": "Text",
     "Desc": "",
     "English": "Well done! You captured all the Colony Ships!",
-    "Italian": "",
+    "Italian": "Molto bene! Hai catturato tutte le Navi delle Colonie",
     "": "",
-    "Verify": 1952
+    "Verify": ""
   },
   {
     "Key": "GameComplete_Title",
     "Type": "Text",
     "Desc": "",
     "English": "Mission Complete!",
-    "Italian": "",
+    "Italian": "Missione completata!",
     "": "",
-    "Verify": 1953
+    "Verify": ""
   },
   {
     "Key": "GameComplete_NewRecord",
     "Type": "Text",
     "Desc": "",
     "English": "New Record!",
-    "Italian": "",
+    "Italian": "Nuovo record!",
     "": "",
-    "Verify": 1954
+    "Verify": ""
   },
   {
     "Key": "GameComplete_NewRank",
     "Type": "Text",
     "Desc": "",
     "English": "New Leaderboard Rank!",
-    "Italian": "",
+    "Italian": "Nuova posizione nella classifica!",
     "": "",
-    "Verify": 1955
+    "Verify": ""
   },
   {
     "Key": "GameComplete_Statistics",
     "Type": "Text",
     "Desc": "Go to Statistics page",
     "English": "Statistics",
-    "Italian": "",
+    "Italian": "Statistiche",
     "": "",
-    "Verify": 1956
+    "Verify": ""
   },
   {
     "Key": "GameComplete_Summary",
     "Type": "Text",
     "Desc": "Go to Summary page",
     "English": "Summary",
-    "Italian": "",
+    "Italian": "Sommario",
     "": "",
-    "Verify": 1957
+    "Verify": ""
   },
   {
     "Key": "GameComplete_ContinuePlaying",
     "Type": "Text",
     "Desc": "",
     "English": "Continue Playing",
-    "Italian": "",
+    "Italian": "Continua a giocare",
     "": "",
-    "Verify": 1958
+    "Verify": ""
   },
   {
     "Key": "GameComplete_ScenarioScreen",
     "Type": "Text",
     "Desc": "",
     "English": "To Scenario Screen",
-    "Italian": "",
+    "Italian": "Vai schermata di selezione scenario",
     "": "",
-    "Verify": 1959
+    "Verify": ""
   },
   {
     "Key": "GameComplete_Stats_AvgProd",
     "Type": "Text",
     "Desc": "",
     "English": "Average Productivity",
-    "Italian": "",
+    "Italian": "Produttività media",
     "": "",
-    "Verify": 1960
+    "Verify": ""
   },
   {
     "Key": "GameComplete_Stats_MaxProdRate",
     "Type": "Text",
     "Desc": "",
     "English": "Maximum Production Rate",
-    "Italian": "",
+    "Italian": "Tasso di produzione massimo",
     "": "",
-    "Verify": 1961
+    "Verify": ""
   },
   {
     "Key": "GameComplete_Stats_MaxBlockedRoads",
     "Type": "Text",
     "Desc": "",
     "English": "Maximum Blocked Roads",
-    "Italian": "",
+    "Italian": "Strade massime bloccate",
     "": "",
-    "Verify": 1962
+    "Verify": ""
   },
   {
     "Key": "GameCompletePre_Click",
     "Type": "Text",
     "Desc": "",
     "English": "[click to continue]",
-    "Italian": "",
+    "Italian": "[click to continue]",
     "": "",
-    "Verify": 1963
+    "Verify": ""
   },
   {
     "Key": "GameComplete_Default",
     "Type": "Text",
     "Desc": "",
     "English": "Well done! You completed the map!",
-    "Italian": "",
+    "Italian": "Ben fatto! Hai completato la mappa!",
     "": "",
-    "Verify": 1964
+    "Verify": ""
   },
   {
     "Key": "ConstructionSpacePortPrompt",
     "Type": "Text",
     "Desc": "",
     "English": "Gain Trader Reputation to build more!",
-    "Italian": "",
+    "Italian": "Guadagna reputazione come commerciante per costruirne ancora!",
     "": "",
-    "Verify": 1965
+    "Verify": ""
   },
   {
     "Key": "Tip_19",
     "Type": "Text",
     "Desc": "",
     "English": "Trains can be used to carry building resources to train stations that are under construction.",
-    "Italian": "",
+    "Italian": "I treni possono essere usati per trasportare risorse da costruzione alle stazioni che sono in costruzione.",
     "": "",
-    "Verify": 1966
+    "Verify": ""
   },
   {
     "Key": "Tip_20",
     "Type": "Text",
     "Desc": "",
     "English": "Use unsupported elevated railways to span gaps and obstacles that could otherwise not be reached.",
-    "Italian": "",
+    "Italian": "Usa ferrovie sopraelevate senza supporti per superare ostacoli e raggiungere punti che altrimenti non potrebbero essere raggiunti",
     "": "",
-    "Verify": 1967
+    "Verify": ""
   },
   {
     "Key": "Advice_31_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Check out the Market panel!",
-    "Italian": "",
+    "Italian": "Dai un'occhiata al pannello del mercato!",
     "": "",
-    "Verify": 1968
+    "Verify": ""
   },
   {
     "Key": "Advice_31_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Use the Market panel, accessible via the icon in the top-left, to check your money, market prices and your trader reputation.",
-    "Italian": "",
+    "Italian": "Usa il pannello del mercato, accessibile tramite l'icona in alto a sinistra, per controllare i tuoi soldi, i soldi del mercato e la tua reputazione di commerciante.",
     "": "",
-    "Verify": 1969
+    "Verify": ""
   },
   {
     "Key": "Advice_32_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Build a <bd>Space Port</bd>!",
-    "Italian": "",
+    "Italian": "Costruisci un <bd>Porto Spaziale</bd>!",
     "": "",
-    "Verify": 1970
+    "Verify": ""
   },
   {
     "Key": "Advice_32_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Build a <bd>Space Port</bd> where you can buy and sell resources.",
-    "Italian": "",
+    "Italian": "Costruisci un <bd>Porto Spaziale</bd> dove puoi vendere e comprare risorse.",
     "": "",
-    "Verify": 1971
+    "Verify": ""
   },
   {
     "Key": "Scenario_10_Name",
     "Type": "Text",
     "Desc": "",
     "English": "River Crossing",
-    "Italian": "",
+    "Italian": "Attraversamento del fiume",
     "": "",
-    "Verify": 1972
+    "Verify": ""
   },
   {
     "Key": "Scenario_10_Description",
     "Type": "Text",
     "Desc": "",
     "English": "As you explore the plains, build a Large Monument and set up Space Ports to trade resources and accumulate $10000.",
-    "Italian": "",
+    "Italian": "Mentre esplori le pianure, costruisci un Monumento Grande e imposta Porti Spaziali per scambiare risorse e accumulare %10000.",
     "": "",
-    "Verify": 1973
+    "Verify": ""
   },
   {
     "Key": "Scenario_11_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Panning For Gold",
-    "Italian": "",
+    "Italian": "Alla ricerca d'oro",
     "": "",
-    "Verify": 1974
+    "Verify": ""
   },
   {
     "Key": "Scenario_11_Description",
     "Type": "Text",
     "Desc": "",
     "English": "Find your way around the archipelago as you build a Large Monument and accumulate $20000.",
-    "Italian": "",
+    "Italian": "Fatti strada nell'arcipelago mentre costruisci un Monumento Grande e accumuli $20000.",
     "": "",
-    "Verify": 1975
+    "Verify": ""
   },
   {
     "Key": "GameComplete_Leaderboard",
     "Type": "Text",
     "Desc": "",
     "English": "Leaderboard",
-    "Italian": "",
+    "Italian": "Classifica",
     "": "",
-    "Verify": 1976
+    "Verify": ""
   },
   {
     "Key": "GameComplete_RateMap",
     "Type": "Text",
     "Desc": "Open Steam Workshop for the map just played",
     "English": "Rate Map",
-    "Italian": "",
+    "Italian": "Vota mappa",
     "": "",
-    "Verify": 1977
+    "Verify": ""
   },
   {
     "Key": "GameComplete_CustomMaps",
     "Type": "Text",
     "Desc": "",
     "English": "More Custom Maps",
-    "Italian": "",
+    "Italian": "Altre mappe",
     "": "",
-    "Verify": 1978
+    "Verify": ""
   },
   {
     "Key": "SavingMap",
     "Type": "Text",
     "Desc": "",
     "English": "Saving map...",
-    "Italian": "",
+    "Italian": "Salvataggio mappa...",
     "": "",
-    "Verify": 1979
+    "Verify": ""
   },
   {
     "Key": "MapSaved",
     "Type": "Text",
     "Desc": "",
     "English": "Map saved!",
-    "Italian": "",
+    "Italian": "Mappa salvata!",
     "": "",
-    "Verify": 1980
+    "Verify": ""
   },
   {
     "Key": "MapSavedFailVer",
     "Type": "Text",
     "Desc": "",
     "English": "Map saved but cannot be published or played. Check the verification panel in the top right.",
-    "Italian": "",
+    "Italian": "La mappa è stata salvata ma non può essere pubblicata. Controlla il pannello di verifica in alto a destra.",
     "": "",
-    "Verify": 1981
+    "Verify": ""
   },
   {
     "Key": "NoMapsYet",
     "Type": "Text",
     "Desc": "(You have) no maps (saved) yet",
     "English": "No maps yet",
-    "Italian": "",
+    "Italian": "Ancora nessuna mappa",
     "": "",
-    "Verify": 1982
+    "Verify": ""
   },
   {
     "Key": "ScenarioBrowser_MapBy",
     "Type": "Text",
     "Desc": "(Map made) by (creator)",
     "English": "by:",
-    "Italian": "",
+    "Italian": "da:",
     "": "",
-    "Verify": 1983
+    "Verify": ""
   },
   {
     "Key": "ScenarioBrowser_FavouriteAction",
     "Type": "Text",
     "Desc": "Favourite (this map)",
     "English": "Favourite",
-    "Italian": "",
+    "Italian": "Preferito",
     "": "",
-    "Verify": 1984
+    "Verify": ""
   },
   {
     "Key": "MapCantPlayVer",
     "Type": "Text",
     "Desc": "",
     "English": "Map cannot be played as it is incomplete! Edit and check verification panel!",
-    "Italian": "",
+    "Italian": "Una mappa non può essere giocata se incompleta! Modificala e controlla il pannello di verifica!",
     "": "",
-    "Verify": 1985
+    "Verify": ""
   },
   {
     "Key": "WorkshopVis_Public",
     "Type": "Text",
     "Desc": "",
     "English": "Public",
-    "Italian": "",
+    "Italian": "Pubblico",
     "": "",
-    "Verify": 1986
+    "Verify": ""
   },
   {
     "Key": "WorkshopVis_Friends",
     "Type": "Text",
     "Desc": "",
     "English": "Friends Only",
-    "Italian": "",
+    "Italian": "Solo amici",
     "": "",
-    "Verify": 1987
+    "Verify": ""
   },
   {
     "Key": "WorkshopVis_Private",
     "Type": "Text",
     "Desc": "",
     "English": "Private",
-    "Italian": "",
+    "Italian": "Privato",
     "": "",
-    "Verify": 1988
+    "Verify": ""
   },
   {
     "Key": "Player_Single",
     "Type": "Text",
     "Desc": "{0}: number of players",
     "English": "{0} Player",
-    "Italian": "",
+    "Italian": "{0} Giocatore",
     "": "",
-    "Verify": 1989
+    "Verify": ""
   },
   {
     "Key": "Player_Plural",
     "Type": "Text",
     "Desc": "{0}: number of players",
     "English": "{0} Players",
-    "Italian": "",
+    "Italian": "{0} Giocatori",
     "": "",
-    "Verify": 1990
+    "Verify": ""
   },
   {
     "Key": "MapWorkshopStatus_Pub",
     "Type": "Text",
     "Desc": "",
     "English": "Published",
-    "Italian": "",
+    "Italian": "Pubblicato",
     "": "",
-    "Verify": 1991
+    "Verify": ""
   },
   {
     "Key": "MapWorkshopStatus_Unpub",
     "Type": "Text",
     "Desc": "",
     "English": "Unpublished",
-    "Italian": "",
+    "Italian": "Non pubblicato",
     "": "",
-    "Verify": 1992
+    "Verify": ""
   },
   {
     "Key": "Map_Modified",
     "Type": "Text",
     "Desc": "Date map was modified",
     "English": "Modified:",
-    "Italian": "",
+    "Italian": "Modificato:",
     "": "",
-    "Verify": 1993
+    "Verify": ""
   },
   {
     "Key": "Map_Created",
     "Type": "Text",
     "Desc": "Date map was created",
     "English": "Created:",
-    "Italian": "",
+    "Italian": "Creato:",
     "": "",
-    "Verify": 1994
+    "Verify": ""
   },
   {
     "Key": "Map_WorkshopVis",
     "Type": "Text",
     "Desc": "",
     "English": "Visibility:",
-    "Italian": "",
+    "Italian": "Visibilità:",
     "": "",
-    "Verify": 1995
+    "Verify": ""
   },
   {
     "Key": "NewVersion_Header",
     "Type": "Text",
     "Desc": "",
     "English": "News",
-    "Italian": "",
+    "Italian": "Novità",
     "": "",
-    "Verify": 1996
+    "Verify": ""
   },
   {
     "Key": "NewVersion_Body",
     "Type": "Text",
     "Desc": "",
     "English": "The Colonists have been updated! Check the patch notes to see what's new.",
-    "Italian": "",
+    "Italian": "The Colonist è stato aggiornato! Controlla l'elenco delle modifiche per vedere cosa c'è di nuovo.",
     "": "",
-    "Verify": 1997
+    "Verify": ""
   },
   {
     "Key": "NewVersion_OldV",
@@ -18004,54 +18004,54 @@
     "Type": "Text",
     "Desc": "",
     "English": "{0} is available!\n\nCheck your Steam Downloads.",
-    "Italian": "",
+    "Italian": "{0} è disponibile!\n\nControlla i tuoi download di Steam.",
     "": "",
-    "Verify": 2002
+    "Verify": ""
   },
   {
     "Key": "UpdateAvailable_NonSteam",
     "Type": "Text",
     "Desc": "",
     "English": "{0} is available!\n\nCheck your downloads.",
-    "Italian": "",
+    "Italian": "{0} è disponibile!\n\nControlla i tuoi download.",
     "": "",
-    "Verify": 2003
+    "Verify": ""
   },
   {
     "Key": "OK",
     "Type": "Text",
     "Desc": "Alert window confirmation",
     "English": "OK",
-    "Italian": "",
+    "Italian": "OK",
     "": "",
-    "Verify": 2004
+    "Verify": ""
   },
   {
     "Key": "BugReport_Header",
     "Type": "Text",
     "Desc": "",
     "English": "Bug Report Generated",
-    "Italian": "",
+    "Italian": "Bug-report generato",
     "": "",
-    "Verify": 2005
+    "Verify": ""
   },
   {
     "Key": "BugReport_Body_Manual",
     "Type": "Text",
     "Desc": "",
     "English": "Please send the following file to codebyfire@gmail.com or post it in Discord along with a short description of what has gone wrong.",
-    "Italian": "",
+    "Italian": "Per piacere invia il seguente file a codebyfire@gmail.com o invialo su Discord con una descrizione su cosa è andato storto.",
     "": "",
-    "Verify": 2006
+    "Verify": ""
   },
   {
     "Key": "BugReport_Body_Auto",
     "Type": "Text",
     "Desc": "",
     "English": "An error has been caught and a bug report generated. Please send the following file to codebyfire@gmail.com or post it in Discord. Depending on the bug you may be able to continue playing.",
-    "Italian": "",
+    "Italian": "Un errore è stato rilevato e un bug-report è stato generato. Per piacere invia il seguente file a codebyfire@gmail.com o invialo su Discord. A seconda della gravità del bug potresti essere in grado di continuare a giocare.",
     "": "",
-    "Verify": 2007
+    "Verify": ""
   },
   {
     "Key": "BugReport_OpenFile",
@@ -18076,162 +18076,162 @@
     "Type": "Text",
     "Desc": "",
     "English": "Forestry has no tiles set",
-    "Italian": "",
+    "Italian": "La Guardia Forestale non ha caselle impostate",
     "": "",
-    "Verify": 2010
+    "Verify": ""
   },
   {
     "Key": "AlertLumberjackNoTrees",
     "Type": "Text",
     "Desc": "",
     "English": "Lumberjack has no trees to chop",
-    "Italian": "",
+    "Italian": "Il taglialegna non ha alberi da tagliare",
     "": "",
-    "Verify": 2011
+    "Verify": ""
   },
   {
     "Key": "NatResReq",
     "Type": "Text",
     "Desc": "{0}: level {1}:building e.g. Requires Level 1 Shaft Mine",
     "English": "Requires {0} {1}",
-    "Italian": "",
+    "Italian": "Richiede {0} {1}",
     "": "",
-    "Verify": 2012
+    "Verify": ""
   },
   {
     "Key": "ResearchNotAvailable",
     "Type": "Text",
     "Desc": "Tech research isn't available",
     "English": "Not available in this mission!",
-    "Italian": "",
+    "Italian": "Non disponibile in questa missione!",
     "": "",
-    "Verify": 2013
+    "Verify": ""
   },
   {
     "Key": "ResourceCatDemandTooltip_Single",
     "Type": "Text",
     "Desc": "{0}: amount, {1}: resource category, e.g. \"1 building needs a construction resource",
     "English": "{0} building need a {1} resource",
-    "Italian": "",
+    "Italian": "{0} edificio ha bisogno di {1} risorsa",
     "": "",
-    "Verify": 2014
+    "Verify": ""
   },
   {
     "Key": "ResourceCatDemandTooltip_Plural",
     "Type": "Text",
     "Desc": "{0}: amount, {1}: resource category, e.g. \"1 building needs a construction resource",
     "English": "{0} buildings need a {1} resource",
-    "Italian": "",
+    "Italian": "{0} edifici hanno bisogno di {1} risorsa",
     "": "",
-    "Verify": 2015
+    "Verify": ""
   },
   {
     "Key": "OverwriteConfirm",
     "Type": "Text",
     "Desc": "{0}:file name",
     "English": "Overwrite {0}?",
-    "Italian": "",
+    "Italian": "Sovrascrivere {0}?",
     "": "",
-    "Verify": 2016
+    "Verify": ""
   },
   {
     "Key": "TrackConstructionMode",
     "Type": "Text",
     "Desc": "On main icon when constructing railway track",
     "English": "Track",
-    "Italian": "",
+    "Italian": "Tracciato",
     "": "",
-    "Verify": 2017
+    "Verify": ""
   },
   {
     "Key": "ExpeditionHarbour_ExpeditionInvalid",
     "Type": "Text",
     "Desc": "(shown for normal harbours when assigning lugger expedition)",
     "English": "Harbour too small",
-    "Italian": "",
+    "Italian": "Porto troppo piccolo",
     "": "",
-    "Verify": 2018
+    "Verify": ""
   },
   {
     "Key": "EntityTransportVehicleStopsSetRoute",
     "Type": "Text",
     "Desc": "Set a route for a boat or train",
     "English": "Set Route",
-    "Italian": "",
+    "Italian": "Imposta percorso",
     "": "",
-    "Verify": 2019
+    "Verify": ""
   },
   {
     "Key": "EntityInfoSelectExportBuildingIntro_Empty",
     "Type": "Text",
     "Desc": "When selecting export rules for a building",
     "English": "You currently have no buildings that {0} can export to.",
-    "Italian": "",
+    "Italian": "Non hai edifici in cui esportare {0}",
     "": "",
-    "Verify": 2020
+    "Verify": ""
   },
   {
     "Key": "EntityInfoSelectImportBuildingIntro_Empty",
     "Type": "Text",
     "Desc": "When selecting import rules for a building",
     "English": "You currently have no buildings that {0} can import from.",
-    "Italian": "",
+    "Italian": "Non hai edifici da cui importare {0}",
     "": "",
-    "Verify": 2021
+    "Verify": ""
   },
   {
     "Key": "TreeGrowthTime",
     "Type": "Text",
     "Desc": "How long a tree takes to grow",
     "English": "Growth Time: {0}",
-    "Italian": "",
+    "Italian": "Tempo di crescita: {0}",
     "": "",
-    "Verify": 2022
+    "Verify": ""
   },
   {
     "Key": "ExpeditionHarbour_ExpeditionInvalidClipper",
     "Type": "Text",
     "Desc": "(shown for big harbourwhen assigning clipper expedition)",
     "English": "Boat too small",
-    "Italian": "",
+    "Italian": "Barca troppo piccola",
     "": "",
-    "Verify": 2023
+    "Verify": ""
   },
   {
     "Key": "TrackSection",
     "Type": "Text",
     "Desc": "Any single piece of railway track",
     "English": "Track section",
-    "Italian": "",
+    "Italian": "Sezione di tracciato",
     "": "",
-    "Verify": 2024
+    "Verify": ""
   },
   {
     "Key": "EntityBuildingStatsUI_DeliveredEmpty",
     "Type": "Text",
     "Desc": "No resources have been delivered (to this building) yet",
     "English": "No resources have been delivered yet",
-    "Italian": "",
+    "Italian": "Nessuna risorsa è stata ancora consegnata",
     "": "",
-    "Verify": 2025
+    "Verify": ""
   },
   {
     "Key": "DestroyResourceWarning",
     "Type": "Text",
     "Desc": "Warning before destroying a resource.\n{0} is the hotkey",
     "English": "Destroying this resource means it will no longer reach its destination and target building will try to locate another resource. Are you sure?\n\nHold [{0}] to skip this message.",
-    "Italian": "",
+    "Italian": "Distruggere questa risorsa significa che non raggiungerà più la sua destinazione e che l'edificio di destinazione tenterà di localizzare un'altra risorsa. Sei sicuro?\n\nTieni premuto [{0}] per saltare questo messaggio.",
     "": "",
-    "Verify": 2026
+    "Verify": ""
   },
   {
     "Key": "BuildingStorageUI_EnRoute_ImportList",
     "Type": "Text",
     "Desc": "",
     "English": "Note: you have set import rules which limit where resources can be imported from.",
-    "Italian": "",
+    "Italian": "Nota: hai impostato regole di importazione che limitano la provenienza delle risorse.",
     "": "",
-    "Verify": 2027
+    "Verify": ""
   },
   {
     "Key": "Route_Via",
@@ -18319,7 +18319,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "This panel shows all the resources currently on their way to this building as well as resources that have recently arrived.\n\nYou can click on a resource in the list and it will show you the route the resource took from the building where it was created.\n\nA building will always source the nearest available resource at the time. Once a resource has been sourced its destination is fixed.\n\nUse rules at road posts, harbours and train stations to control where resources are sourced from, as well as import and export whitelists on buildings.",
-    "Italian": "",
+    "Italian": "Questo pannello mostra tutte le risorse attualmente in viaggio per questo edificio, nonché le risorse che sono arrivate di recente.\n\nPuoi fare clic su una risorsa nell'elenco e ti mostrerà il percorso che la risorsa ha preso dall'edificio in cui è stata creata.\n\nUn edificio fornirà sempre la risorsa disponibile più vicina. Una volta che una risorsa è stata inviata, la sua destinazione è fissa.\n\nUsa le regole ai pali stradali, nei porti e nelle stazioni ferroviarie per controllare da dove provengono le risorse, nonché importare ed esportare liste delle richieste sugli edifici.",
     "": "",
     "Verify": ""
   },
@@ -18328,7 +18328,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Create <it>Vegetables</it> from vegetable plots.",
-    "Italian": "",
+    "Italian": "Crea <it>Verdure</it> dagli orti.",
     "": "",
     "Verify": ""
   },
