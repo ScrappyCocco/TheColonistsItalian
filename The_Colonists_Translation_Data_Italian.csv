@@ -843,12 +843,12 @@ Hotkey_34,Text,,Rotate Camera Left,Ruota la fotocamera a sinistra,,
 Hotkey_35,Text,,Rotate Camera Right,Ruota la fotocamera verso destra,,
 Hotkey_36,Text,,Jump To Colony Ship,Vai alla nave della Colonia,,
 Hotkey_37,Text,,Fast Move,Movimento veloce,,
-Hotkey_38,Text,,Move Camera Left Alt,,,625
-Hotkey_39,Text,,Move Camera Right Alt,,,626
+Hotkey_38,Text,,Move Camera Left Alt,??? - TODO,,
+Hotkey_39,Text,,Move Camera Right Alt,??? - TODO,,
 Hotkey_4,Text,,Sculpt Mode,Modalità scultura,,
-Hotkey_40,Text,,Move Camera Forward Alt,,,628
-Hotkey_41,Text,,Move Camera Back Alt,,,629
-Hotkey_42,Text,,Fast Move Alt,,,630
+Hotkey_40,Text,,Move Camera Forward Alt,??? - TODO,,
+Hotkey_41,Text,,Move Camera Back Alt,??? - TODO,,
+Hotkey_42,Text,,Fast Move Alt,??? - TODO,,
 Hotkey_43,Text,,Tilt Camera Up,Inclina visuale verso l'alto,,
 Hotkey_44,Text,,Tilt Camera Down,Inclina visuale verso il basso,,
 Hotkey_45,Text,,Jump to Last Notification,Vai all'ultima notifica,,
@@ -1309,129 +1309,133 @@ MiscCat_5_Name,Text,,Orchard Plot,Frutteto intrecciato,,
 MiscCat_6_Name,Text,,Cobbled Roads,Strade acciottolate,,
 MiscCat_7_Name,Text,,Various Resources,Varie risorse,,
 MiscCat_8_Name,Text,,Research,Ricerca,,
-MiscCat_9_Name,Text,,Brick Roads,,,1005
-MiscInfoPanelMode_0_Desc,Text,,Click on an empty to snap to neighbour heights.,,,1006
-MiscInfoPanelMode_0_Name,Text,,Snap Whole Tile,,,1007
+MiscCat_9_Name,Text,,Brick Roads,Strade di mattoni,,
+MiscInfoPanelMode_0_Desc,Text,,Click on an empty to snap to neighbour heights.,Clicca una cella vuota per trasformarla all'altezza dei vicini,,
+MiscInfoPanelMode_0_Name,Text,,Snap Whole Tile,Trasforma intera cella,,
 MiscInfoPanelMode_1_Desc,Text,,"Sometimes it can be useful to remove a wall to allow roads or paths in certain directions.
 
-Click on the edge of a valid empty tile to snap its height to that of the neighbouring tile.",,,1008
-MiscInfoPanelMode_1_Name,Text,,Tile Height Snap,,,1009
-MiscInfoPanelMode_2_Desc,Text,,"Click on a building, road, path, boat or train to destroy it.",,,1010
-MiscInfoPanelMode_2_Name,Text,,Remove,,,1011
-MiscInfoPanelMode_3_Desc,Text,,Click and drag up or down on an empty tile to adjust it.,,,1012
-MiscInfoPanelMode_3_Name,Text,,Adjust Whole Tile,,,1013
+Click on the edge of a valid empty tile to snap its height to that of the neighbouring tile.","A volte può essere utile rimuovere un muro per creare strade o percorsi in determinate direzioni.
+
+Fai clic sul bordo di una cella vuota valida per impostarne l'altezza a quella della cella vicina.",,
+MiscInfoPanelMode_1_Name,Text,,Tile Height Snap,Trasforma altezza cella,,
+MiscInfoPanelMode_2_Desc,Text,,"Click on a building, road, path, boat or train to destroy it.","Clicca su un edificio, una strada, un percorso, una barca o un treno per distruggerlo.",,
+MiscInfoPanelMode_2_Name,Text,,Remove,Rimuovi,,
+MiscInfoPanelMode_3_Desc,Text,,Click and drag up or down on an empty tile to adjust it.,Clicca e trascina verso l'alto o verso il basso una casella vuota per regolarla.,,
+MiscInfoPanelMode_3_Name,Text,,Adjust Whole Tile,Regola intera casella,,
 MiscInfoPanelMode_4_Desc,Text,,"Click and drag up or down in the corner of an empty tile to adjust its corner height.
 
-Hold <hotkey>[Ctrl]</hotkey> to snap to neighbour tile.",,,1014
-MiscInfoPanelMode_4_Name,Text,,Adjust Tile Corner,,,1015
-Money,Text,,Money:,,,1016
+Hold <hotkey>[Ctrl]</hotkey> to snap to neighbour tile.","Fai clic e trascina verso l'alto o il basso nell'angolo di una cella vuota per regolarne l'altezza.
+
+Tieni premuto <hotkey>[Ctrl]</hotkey> per agganciare la cella vicina.",,
+MiscInfoPanelMode_4_Name,Text,,Adjust Tile Corner,Regola angolo casella,,
+Money,Text,,Money:,Soldi:,,
 MusicVolume,Text,,Music Volume,Volume musica,,
-My Maps,Text,,My Maps,,,1018
-My Scenarios,Text,,My Maps,,,1019
-NatRes_0_Desc,Text,,This Stone deposit can be harvested by the <bd>Level 1 Surface Mine</bd>.,,,1020
-NatRes_0_Name,Text,,Stone Deposit,,,1021
-NatRes_1_Desc,Text,,This Iron Ore deposit can be harvested by the <bd>Level 2 Surface Mine</bd>.,,,1022
-NatRes_1_Name,Text,,Iron Ore Deposit,,,1023
-NatRes_253_Name,Text,,Unknown Natural Resources,,,1024
-NatRes_254_Name,Text,,Any Natural Resources,,,1025
-NatRes_2_Desc,Text,,This Coal deposit can be harvested by the <bd>Level 2 Surface Mine</bd>.,,,1026
-NatRes_2_Name,Text,,Coal Deposit,,,1027
-NatRes_3_Desc,Text,,This Quartz deposit can be harvested by the <bd>Level 3 Surface Mine</bd>.,,,1028
-NatRes_3_Name,Text,,Quartz Deposit,,,1029
-NatRes_4_Desc,Text,,This Gold deposit can be harvested by the <bd>Level 3 Surface Mine</bd>.,,,1030
-NatRes_4_Name,Text,,Gold Deposit,,,1031
-NatRes_5_Desc,Text,,This Clay deposit can be harvested by the <bd>Level 2 Surface Mine</bd>.,,,1032
-NatRes_5_Name,Text,,Clay Deposit,,,1033
-NatRes_6_Desc,Text,,This Salt deposit can be harvested by the <bd>Level 2 Surface Mine</bd>.,,,1034
-NatRes_6_Name,Text,,Salt Deposit,,,1035
-Natural Resources,Text,,Natural Resources,,,1036
-New Scenario,Text,(Create a) New Map,New Map,,,1037
-NewMapCreate,Text,,Create,,,1038
-NewMapSize,Text,,Size,,,1039
+My Maps,Text,,My Maps,Le mie mappe,,
+My Scenarios,Text,,My Maps,Le mie mappe,,
+NatRes_0_Desc,Text,,This Stone deposit can be harvested by the <bd>Level 1 Surface Mine</bd>.,Questo deposito di Pietra può essere estratto con la <bd>Miniera di Superficie Livello 1</bd>,,
+NatRes_0_Name,Text,,Stone Deposit,Deposito di pietra,,
+NatRes_1_Desc,Text,,This Iron Ore deposit can be harvested by the <bd>Level 2 Surface Mine</bd>.,Questo deposito di Ferro grezzo può essere estratto con la <bd>Miniera di Superficie Livello 2</bd>,,
+NatRes_1_Name,Text,,Iron Ore Deposit,Deposito di Ferro grezzo,,
+NatRes_253_Name,Text,,Unknown Natural Resources,Risorse naturali sconosciute,,
+NatRes_254_Name,Text,,Any Natural Resources,Qualsiasi risorsa naturale,,
+NatRes_2_Desc,Text,,This Coal deposit can be harvested by the <bd>Level 2 Surface Mine</bd>.,Questo deposito di Carbone può essere estratto con la <bd>Miniera di Superficie Livello 2</bd>,,
+NatRes_2_Name,Text,,Coal Deposit,Deposito di carbone,,
+NatRes_3_Desc,Text,,This Quartz deposit can be harvested by the <bd>Level 3 Surface Mine</bd>.,Questo deposito di Quarzo può essere estratto con la <bd>Miniera di Superficie Livello 3</bd>,,
+NatRes_3_Name,Text,,Quartz Deposit,Deposito di quarzo,,
+NatRes_4_Desc,Text,,This Gold deposit can be harvested by the <bd>Level 3 Surface Mine</bd>.,Questo deposito di Oro può essere estratto con la <bd>MIniera di Superficie Livello 3</bd>,,
+NatRes_4_Name,Text,,Gold Deposit,Deposito di oro,,
+NatRes_5_Desc,Text,,This Clay deposit can be harvested by the <bd>Level 2 Surface Mine</bd>.,Questo deposito di Argilla può essere estratto con la <bd>MIniera di Superficie Livello 2</bd>,,
+NatRes_5_Name,Text,,Clay Deposit,Deposito di argilla,,
+NatRes_6_Desc,Text,,This Salt deposit can be harvested by the <bd>Level 2 Surface Mine</bd>.,Questo deposito di Sale può essere estratto con la <bd>MIniera di Superficie Livello 2</bd>,,
+NatRes_6_Name,Text,,Salt Deposit,Deposito di Sale,,
+Natural Resources,Text,,Natural Resources,Risorse naturali,,
+New Scenario,Text,(Create a) New Map,New Map,Nuova mappa,,
+NewMapCreate,Text,,Create,Crea,,
+NewMapSize,Text,,Size,Dimensione,,
 Next,Text,,Next,Avanti,,
 No saved games,Text,,No savegames,Nessuna partita salvata,,
-None,Text,,None,,,1042
+None,Text,,None,Nessuno,,
 Normal,Text,Difficulty Level,Normal,Normale,,
-NotificationCollapsingWatchtowerOne,Text,,You have an collapsing watchtower!,,,1044
-NotificationCollapsingWatchtowerPlural,Text,,You have {0} collapsing watchtowers!,,,1045
-NotificationCollapsingWatchtowerTitle,Text,,Watchtower Collapsing!,,,1046
-NotificationIdleBoatOne,Text,,You have an idle boat!,,,1047
-NotificationIdleBoatPlural,Text,,You have {0} idle boats!,,,1048
-NotificationIdleBoatTitle,Text,,Boat Available!,,,1049
-NotificationIdleTrainOne,Text,,You have an idle train!,,,1050
-NotificationIdleTrainPlural,Text,,You have {0} idle trains!,,,1051
-NotificationIdleTrainTitle,Text,,Train Available!,,,1052
-NotificationIdleWorkshopOne,Text,,You have an idle workshop!,,,1053
-NotificationIdleWorkshopPlural,Text,,You have {0} idle workshops!,,,1054
-NotificationIdleWorkshopTitle,Text,,Workshop Available!,,,1055
-NotificationLowStoneDesc,Text,,Expand your territory to find more!,,,1056
-NotificationLowStoneNone,Text,,No Stone!,,,1057
-NotificationLowTreesExtraHasForestries,Text,,Check your Forestries are planting!,,,1058
-NotificationLowTreesExtraNoForestries,Text,,Build a Forestry to plant more!,,,1059
-NotificationLowTreesNoTreesDesc,Text,"{0} adds either ""NotificationLowTreesExtraHasForestries"" or ""NotificationLowTreesExtraNoForestries"" based on whether the player has any forestries",You have no trees left! {0},,,1060
-NotificationLowTreesSomeTreesDesc,Text,"{0} is the number of trees left. {1} adds either ""NotificationLowTreesExtraHasForestries"" or ""NotificationLowTreesExtraNoForestries"" based on whether the player has any forestries",You only have {0} trees left! {1},,,1061
-NotificationStickTrainTitle,Text,,Stuck Train!,,,1062
-NotificationStuckTrainDesc,Text,,A train cannot find a route! Check your track!,,,1063
-NotificationWarningTitle,Text,,Warning!,,,1064
-Notification_0_Desc,Text,,<building> has finished construction,,,1065
-Notification_0_Name,Text,,Construction complete!,,,1066
-Notification_11_Desc,Text,When a Guardbot arrives at a watchtower and occupies the building,<building> is now occupied,,,1067
-Notification_11_Name,Text,,Territory gained!,,,1068
-Notification_13_Desc,Text,,<req>,,,1069
-Notification_13_Name,Text,,New trade contract,,,1070
-Notification_14_Desc,Text,,You earned <reputation_amount> reputation and $<cashmoney_amount>,,,1071
-Notification_14_Name,Text,,Trade contract complete!,,,1072
-Notification_15_Desc,Text,,<nr><natres></nr> has been spotted outside your borders,,,1073
-Notification_15_Name,Text,,<nr> discovered!,,,1074
-Notification_16_Desc,Text,,<nr><natres></nr> can now be mined,,,1075
-Notification_16_Name,Text,,<nr> available!,,,1076
-Notification_17_Desc,Text,,<amount> <nr><natres></nr> has been spotted outside your borders,,,1077
-Notification_17_Name,Text,,<nr> discovered!,,,1078
-Notification_18_Desc,Text,,<amount> <nr><natres></nr> can now be mined,,,1079
-Notification_18_Name,Text,,<nr> available!,,,1080
-Notification_19_Desc,Text,,<player> has declared war upon you!,,,1081
-Notification_19_Name,Text,,You've met a hostile colony!,,,1082
-Notification_1_Desc,Text,,<research> has been completed at <building>,,,1083
-Notification_1_Name,Text,,Research complete!,,,1084
-Notification_20_Desc,Text,,<player> states they wish you no harm.,,,1085
-Notification_20_Name,Text,,You've met a friendly colony!,,,1086
-Notification_21_Desc,Text,,You're now at war with <player>,,,1087
-Notification_21_Name,Text,,War Declared!,,,1088
-Notification_22_Desc,Text,,You're now at peace with <player>,,,1089
-Notification_22_Name,Text,,Peace Declared!,,,1090
-Notification_23_Desc,Text,,You've discovered a new island!,,,1091
-Notification_23_Name,Text,,New Island!,,,1092
-Notification_24_Desc,Text,,<unit> has generated the colony's first <it><item></it>!,,,1093
-Notification_24_Name,Text,,<item> created!,,,1094
-Notification_25_Desc,Text,,You lost territory to <player>!,,,1095
-Notification_25_Name,Text,,Territory Lost!,,,1096
-Notification_26_Desc,Text,,You've captured a <bd>Watchtower</bd> from <player>!,,,1097
-Notification_26_Name,Text,,Watchtower Captured!,,,1098
-Notification_27_Desc,Text,,<player> has captured one of your <bd>Watchtowers</bd>!,,,1099
-Notification_27_Name,Text,,Watchtower Lost!,,,1100
-Notification_28_Desc,Text,,You've reached <rep>!,,,1101
-Notification_28_Name,Text,,Trader Reputation Increased!,,,1102
-Notification_2_Desc,Text,,<building> has been upgraded to <age>,,,1103
-Notification_2_Name,Text,,Upgrade complete!,,,1104
-Notification_3_Desc,Text,,Construction of <boat> is complete,,,1105
-Notification_3_Name,Text,,Boat ready!,,,1106
-Notification_4_Desc,Text,,Expedition provisions are ready at <building>,,,1107
-Notification_4_Name,Text,,Expedition provisions ready!,,,1108
-Notification_5_Desc,Text,,<boat> has finished loading expedition provisions,,,1109
-Notification_5_Name,Text,,Expedition boat ready!,,,1110
-Notification_6_Desc,Text,,<building> is under fire from <player>!,,,1111
-Notification_6_Name,Text,,Watchtower Under Attack!,,,1112
+NotificationCollapsingWatchtowerOne,Text,,You have an collapsing watchtower!,Una torre di guardia sta crollando!,,
+NotificationCollapsingWatchtowerPlural,Text,,You have {0} collapsing watchtowers!,Hai {0} torri di guardia che stanno crollando!,,
+NotificationCollapsingWatchtowerTitle,Text,,Watchtower Collapsing!,Torre di guarda che crolla!,,
+NotificationIdleBoatOne,Text,,You have an idle boat!,Hai una barca inattiva!,,
+NotificationIdleBoatPlural,Text,,You have {0} idle boats!,Hai {0} barche inattive!,,
+NotificationIdleBoatTitle,Text,,Boat Available!,Barca disponibile!,,
+NotificationIdleTrainOne,Text,,You have an idle train!,Hai un treno inattivo!,,
+NotificationIdleTrainPlural,Text,,You have {0} idle trains!,Hai {0} treni inattivi!,,
+NotificationIdleTrainTitle,Text,,Train Available!,Treno disponibile!,,
+NotificationIdleWorkshopOne,Text,,You have an idle workshop!,Hai un laboratorio inattivo!,,
+NotificationIdleWorkshopPlural,Text,,You have {0} idle workshops!,Hai {0} laboratori inattivi!,,
+NotificationIdleWorkshopTitle,Text,,Workshop Available!,Laboratorio disponibile!,,
+NotificationLowStoneDesc,Text,,Expand your territory to find more!,Espandi il tuo territorio per trovarne di più!,,
+NotificationLowStoneNone,Text,,No Stone!,Pietra mancante!,,
+NotificationLowTreesExtraHasForestries,Text,,Check your Forestries are planting!,Controlla che le tue Guardie Forestali stiano piantando!,,
+NotificationLowTreesExtraNoForestries,Text,,Build a Forestry to plant more!,Costruisci una Guardia Forestale per piantarne ancora!,,
+NotificationLowTreesNoTreesDesc,Text,"{0} adds either ""NotificationLowTreesExtraHasForestries"" or ""NotificationLowTreesExtraNoForestries"" based on whether the player has any forestries",You have no trees left! {0},Non hai alberi rimanenti! {0},,
+NotificationLowTreesSomeTreesDesc,Text,"{0} is the number of trees left. {1} adds either ""NotificationLowTreesExtraHasForestries"" or ""NotificationLowTreesExtraNoForestries"" based on whether the player has any forestries",You only have {0} trees left! {1},Hai soltanto {0} alberi rimanenti! {1},,
+NotificationStickTrainTitle,Text,,Stuck Train!,Treno bloccato!,,
+NotificationStuckTrainDesc,Text,,A train cannot find a route! Check your track!,Un treno non può trovare un percorso valido! Controlla il percorso!,,
+NotificationWarningTitle,Text,,Warning!,Attenzione!,,
+Notification_0_Desc,Text,,<building> has finished construction,<building> ha terminato la costruzione,,
+Notification_0_Name,Text,,Construction complete!,Costruzione completata!,,
+Notification_11_Desc,Text,When a Guardbot arrives at a watchtower and occupies the building,<building> is now occupied,<building> è ora occupata,,
+Notification_11_Name,Text,,Territory gained!,Territorio guadagnato!,,
+Notification_13_Desc,Text,,<req>,<req>,,
+Notification_13_Name,Text,,New trade contract,Nuovo contratto commerciale,,
+Notification_14_Desc,Text,,You earned <reputation_amount> reputation and $<cashmoney_amount>,Hai guadagnato <reputation_amount> reputazione e $<cashmoney_amount>,,
+Notification_14_Name,Text,,Trade contract complete!,Contratto commerciale completato!,,
+Notification_15_Desc,Text,,<nr><natres></nr> has been spotted outside your borders,<nr><natres></nr> è stato indiduato fuori dai tuoi confini,,
+Notification_15_Name,Text,,<nr> discovered!,<nr> scoperto!,,
+Notification_16_Desc,Text,,<nr><natres></nr> can now be mined,<nr><natres></nr> può ora essere estratto,,
+Notification_16_Name,Text,,<nr> available!,<nr> disponibile,,
+Notification_17_Desc,Text,,<amount> <nr><natres></nr> has been spotted outside your borders,<amount> <nr><natres></nr> è stato individuato fuori dai tuoi confini,,
+Notification_17_Name,Text,,<nr> discovered!,<nr> scoperto!,,
+Notification_18_Desc,Text,,<amount> <nr><natres></nr> can now be mined,<amount> <nr><natres></nr> può ora essere estratto,,
+Notification_18_Name,Text,,<nr> available!,<nr> disponibile!,,
+Notification_19_Desc,Text,,<player> has declared war upon you!,<player> ti ha dichiarato guerra!,,
+Notification_19_Name,Text,,You've met a hostile colony!,Hai inconrato una colonia ostile!,,
+Notification_1_Desc,Text,,<research> has been completed at <building>,<research> è stata completata presso <building>,,
+Notification_1_Name,Text,,Research complete!,Ricerca completata!,,
+Notification_20_Desc,Text,,<player> states they wish you no harm.,<player> afferma che non ti farà del male.,,
+Notification_20_Name,Text,,You've met a friendly colony!,Hai incontrato una colonia amichevole!,,
+Notification_21_Desc,Text,,You're now at war with <player>,Sei ora in guerra con <player>,,
+Notification_21_Name,Text,,War Declared!,Guerra dichiarata!,,
+Notification_22_Desc,Text,,You're now at peace with <player>,Sei ora in pace con <player>,,
+Notification_22_Name,Text,,Peace Declared!,Pace dichiarata!,,
+Notification_23_Desc,Text,,You've discovered a new island!,Hai scoperto una nuova isola!,,
+Notification_23_Name,Text,,New Island!,Nuova isola!,,
+Notification_24_Desc,Text,,<unit> has generated the colony's first <it><item></it>!,<unit> ha generato il primo <it><item></it> della colonia!,,
+Notification_24_Name,Text,,<item> created!,<item> creato!,,
+Notification_25_Desc,Text,,You lost territory to <player>!,Hai perso del territorio per colpa di <player>!,,
+Notification_25_Name,Text,,Territory Lost!,Territorio perso!,,
+Notification_26_Desc,Text,,You've captured a <bd>Watchtower</bd> from <player>!,Hai catturato una <bd>Torre di Guardia</bd> da <player>!,,
+Notification_26_Name,Text,,Watchtower Captured!,Torre di Guardia catturata!,,
+Notification_27_Desc,Text,,<player> has captured one of your <bd>Watchtowers</bd>!,<player> ha catturato una delle tue <bd>Torri di Guardia</bd>!,,
+Notification_27_Name,Text,,Watchtower Lost!,Torre di Guardia persa!,,
+Notification_28_Desc,Text,,You've reached <rep>!,Hai raggiunto <rep>!,,
+Notification_28_Name,Text,,Trader Reputation Increased!,Reputazione commerciale aumentata!,,
+Notification_2_Desc,Text,,<building> has been upgraded to <age>,<building> è stato migliorato a <age>,,
+Notification_2_Name,Text,,Upgrade complete!,Miglioramento completato!,,
+Notification_3_Desc,Text,,Construction of <boat> is complete,La costruzione di una <boat> è completa,,
+Notification_3_Name,Text,,Boat ready!,Barca pronta!,,
+Notification_4_Desc,Text,,Expedition provisions are ready at <building>,Le risorse per la spedizione sono pronte presso <building>,,
+Notification_4_Name,Text,,Expedition provisions ready!,Risorse per la spedizione pronte!,,
+Notification_5_Desc,Text,,<boat> has finished loading expedition provisions,<boat> ha finito di caricare le risorse per la spedizione,,
+Notification_5_Name,Text,,Expedition boat ready!,Barca pronta per la spedizione!,,
+Notification_6_Desc,Text,,<building> is under fire from <player>!,<building> è sotto attacco da <player>!,,
+Notification_6_Name,Text,,Watchtower Under Attack!,Toprre di Guardia sotto attacco!,,
 Off,Text,Opposite to On,Off,Off,,
 On,Text,Opposite to Off,On,On,,
 Options,Text,Game Settings,Options,Opzioni,,
-PerDay,Text,,/day,,,1116
-PerDayShort,Text,,/d,,,1117
+PerDay,Text,,/day,/day,,
+PerDayShort,Text,,/d,/d,,
 Play,Text,Play the selected map,Play,Gioca,,
 PostcardMode_Title,Text,,Screenshot Mode,Modalità foto,,
-Prioritise,Text,Prioritise (a building),Prioritise,,,1120
-Productivity,Text,,Productivity,,,1121
-Publish,Text,,Publish,,,1122
-Publish Changes,Text,,Publish Changes,,,1123
+Prioritise,Text,Prioritise (a building),Prioritise,Prioritizza,,
+Productivity,Text,,Productivity,Produttività,,
+Publish,Text,,Publish,Pubblica,,
+Publish Changes,Text,,Publish Changes,Pubblica modifiche,,
 Quality Settings,Text,,Quality Settings,Impostazioni Grafiche,,
 QualityAmbientOcclusion,Text,,Ambient Occlusion,Occlusione ambientale,,
 QualityCustom,Text,,Custom,Personalizzata,,
@@ -1444,225 +1448,225 @@ QualityShadowDistance,Text,,Shadow Distance,Distanza ombre,,
 QualityShadows,Text,,Shadows,Ombre,,
 QualityVignette,Text,,Vignette,Vignettatura,,
 Quit,Text,,Quit,Esci,,
-Refresh,Text,Refresh Map Search,Refresh,,,1136
-Replay Game,Text,,Replay Game,,,1137
-Sandbox,Text,Sandbox Mode,Sandbox,,,1138
-SandboxChooseMap,Text,,Choose Map,,,1139
-SandboxIntro,Text,,Play and experiment with any existing map using the various settings below:,,,1140
-SandboxUpgradedRoads,Text,Option that makes roads and paths automatically the highest level when placed,Upgraded Road & Path Placement,,,1141
+Refresh,Text,Refresh Map Search,Refresh,Aggiorna,,
+Replay Game,Text,,Replay Game,Rigioca partita,,
+Sandbox,Text,Sandbox Mode,Sandbox,Sandbox,,
+SandboxChooseMap,Text,,Choose Map,Scegli mappa,,
+SandboxIntro,Text,,Play and experiment with any existing map using the various settings below:,Gioca e sperimenta con qualsiasi mappa esistente usando le varie impostazioni qui sotto:,,
+SandboxUpgradedRoads,Text,Option that makes roads and paths automatically the highest level when placed,Upgraded Road & Path Placement,Piazzamento di strade e percorsi migliorati,,
 SaveGame,Text,,Save Game,Salva,,
 Savegames,Text,,Savegames,Partite salvate,,
-ScenGameVerErr_0,Text,,No playable players!,,,1144
-ScenGameVerErr_1,Text,,No landing site for <p>,,,1145
-ScenGameVerErr_2,Text,,Invalid landing site for <p>,,,1146
-ScenGameVerErr_3,Text,,A title needs to be set!,,,1147
-ScenGameVerErr_4,Text,,A preview image needs to be set!,,,1148
-ScenGameVerErr_5,Text,,Domination victory requires other colonies!,,,1149
-ScenGameVerErr_6,Text,,Market needs to be abled for $ victories!,,,1150
-ScenVict_0_Desc,Text,,Capture enemy colony ships.,,,1151
-ScenVict_0_Name,Text,,Domination,,,1152
-ScenVict_1_Desc,Text,,Build <amount> <building>.,,,1153
-ScenVict_1_Name,Text,,Construct Building,,,1154
-ScenVict_5_Desc,Text,,Have $<amount> in bank.,,,1155
-ScenVict_5_Name,Text,,Cash Balance,,,1156
-ScenVict_7_Desc,Text,,Research <tech>.,,,1157
-ScenVict_7_Name,Text,,Research Tech,,,1158
-ScenVict_8_Desc,Text,,Gain Reputation: <reputation>.,,,1159
-ScenVict_8_Name,Text,,Trader Reputation,,,1160
-Scenario_0_Description,Text,,"After countless years travelling through space, you find a habitable planet...",,,1161
-Scenario_0_Name,Text,,A New Dawn,,,1162
-Scenario_1_Description,Text,,Grow your colony and build a monument to celebrate your new home.,,,1163
-Scenario_1_Name,Text,,Expansion,,,1164
-Scenario_253_Description,Text,,[Unassigned],,,1165
-Scenario_253_Name,Text,,[Unassigned],,,1166
-Scenario_254_Description,Text,,[WIP],,,1167
-Scenario_254_Name,Text,,[WIP],,,1168
-Scenario_255_Description,Text,,[Unassigned],,,1169
-Scenario_255_Name,Text,,[Unassigned],,,1170
-Scenario_2_Description,Text,,Explore the oceans and expand your colony.,,,1171
-Scenario_2_Name,Text,,The High Seas,,,1172
-Scenario_3_Description,Text,,You meet someone familiar.,,,1173
-Scenario_3_Name,Text,,The Mirror,,,1174
-Scenario_4_Description,Text,,Advance your colony and build the greatest monument to your anthrobotic achievements.,,,1175
-Scenario_4_Name,Text,,Gold In Them Thar Hills,,,1176
-Scenario_5_Description,Text,,Claim victory over your anthrobotic foe.,,,1177
-Scenario_5_Name,Text,,The Valley,,,1178
-Scenario_6_Description,Text,,Navigate the seas to locate the resources you need and build another monument to a successful colony.,,,1179
-Scenario_6_Name,Text,,Island Hopping,,,1180
-Scenario_7_Description,Text,,Claim victory over your anthrobotic foe.,,,1181
-Scenario_7_Name,Text,,A Rocky Start,,,1182
-Scenario_8_Description,Text,,In hostile environment make best use of the limited resources and construct two glorious monuments for your colony.,,,1183
-Scenario_8_Name,Text,,In The Desert,,,1184
-Scenario_9_Description,Text,,Claim victory over your anthrobotic foe.,,,1185
-Scenario_9_Name,Text,,A Hostile Environment,,,1186
+ScenGameVerErr_0,Text,,No playable players!,Nessun giocatore giocabile!,,
+ScenGameVerErr_1,Text,,No landing site for <p>,Nessuna zona di atterraggio per <p>,,
+ScenGameVerErr_2,Text,,Invalid landing site for <p>,Zona di atterraggio non valido per <p>,,
+ScenGameVerErr_3,Text,,A title needs to be set!,Una casella deve essere impostata!,,
+ScenGameVerErr_4,Text,,A preview image needs to be set!,Un'immagine di anteprima deve essere impostata!,,
+ScenGameVerErr_5,Text,,Domination victory requires other colonies!,La vittoria in Dominazione richiede altre colonie!,,
+ScenGameVerErr_6,Text,,Market needs to be abled for $ victories!,Il mercato deve essere abilitato per $ vittorie!,,
+ScenVict_0_Desc,Text,,Capture enemy colony ships.,Cattura le navi nemiche della colonia.,,
+ScenVict_0_Name,Text,,Domination,Dominazione,,
+ScenVict_1_Desc,Text,,Build <amount> <building>.,Costruisci <amount> <buildng>.,,
+ScenVict_1_Name,Text,,Construct Building,Costruisci edificio,,
+ScenVict_5_Desc,Text,,Have $<amount> in bank.,Hai $<amount> in banca.,,
+ScenVict_5_Name,Text,,Cash Balance,Bilancio,,
+ScenVict_7_Desc,Text,,Research <tech>.,Ricerca <tech>.,,
+ScenVict_7_Name,Text,,Research Tech,Ricerca tecnologia,,
+ScenVict_8_Desc,Text,,Gain Reputation: <reputation>.,Ottieni reputazione: <reputation>,,
+ScenVict_8_Name,Text,,Trader Reputation,Reputazione del commerciante,,
+Scenario_0_Description,Text,,"After countless years travelling through space, you find a habitable planet...","Dopo innumerevoli anni di viaggio attraverso lo spazio, hai trovato un pianeta abitabile...",,
+Scenario_0_Name,Text,,A New Dawn,Una nuova alba,,
+Scenario_1_Description,Text,,Grow your colony and build a monument to celebrate your new home.,Fai crescere la tua colonia e costruisci un monumento per celebrare la tua nuova casa.,,
+Scenario_1_Name,Text,,Expansion,Espansione,,
+Scenario_253_Description,Text,,[Unassigned],[Unassigned],,
+Scenario_253_Name,Text,,[Unassigned],[Unassigned],,
+Scenario_254_Description,Text,,[WIP],[WIP],,
+Scenario_254_Name,Text,,[WIP],[WIP],,
+Scenario_255_Description,Text,,[Unassigned],[Unassigned],,
+Scenario_255_Name,Text,,[Unassigned],[Unassigned],,
+Scenario_2_Description,Text,,Explore the oceans and expand your colony.,Esplora gli oceani ed espandi la tua colonia,,
+Scenario_2_Name,Text,,The High Seas,Il mare aperto,,
+Scenario_3_Description,Text,,You meet someone familiar.,Incontri qualcuno di familiare,,
+Scenario_3_Name,Text,,The Mirror,Lo specchio,,
+Scenario_4_Description,Text,,Advance your colony and build the greatest monument to your anthrobotic achievements.,Fai avanzare la tua colonia e costruisci il monumento più grande per i tuoi successi umanoidi.,,
+Scenario_4_Name,Text,,Gold In Them Thar Hills,C'è dell'oro nelle colline,,
+Scenario_5_Description,Text,,Claim victory over your anthrobotic foe.,Guadagnati la vittoria sui tuoi nemici umanoidi.,,
+Scenario_5_Name,Text,,The Valley,La valle,,
+Scenario_6_Description,Text,,Navigate the seas to locate the resources you need and build another monument to a successful colony.,Naviga i mari per trovare le risorse necessarie a costruire un altro monumento per una colonia di successo.,,
+Scenario_6_Name,Text,,Island Hopping,Da un'isola all'altra,,
+Scenario_7_Description,Text,,Claim victory over your anthrobotic foe.,Guadagnati la vittoria sui tuoi nemici umanoidi.,,
+Scenario_7_Name,Text,,A Rocky Start,Un inizio duro come la roccia,,
+Scenario_8_Description,Text,,In hostile environment make best use of the limited resources and construct two glorious monuments for your colony.,"In un ambiente ostile, usa le risorse limitate al meglio e costruisci due gloriosi monumenti per la tua colonia.",,
+Scenario_8_Name,Text,,In The Desert,Nel deserto,,
+Scenario_9_Description,Text,,Claim victory over your anthrobotic foe.,Guadagnati la vittoria sui tuoi nemici umanoidi.,,
+Scenario_9_Name,Text,,A Hostile Environment,Un ambiente ostile,,
 Scenario_Difficulty_0,Text,,Casual,Facile,,
 Scenario_Difficulty_1,Text,,Normal,Normale,,
 Scenario_Difficulty_2,Text,,Hard,Difficile,,
 Screen Settings,Text,,Screen Settings,Impostazioni Schermo,,
 ScreenSettingsApply,Text,,Apply,Applica,,
-SculptMode_0_Name,Text,,Full,,,1192
-SculptMode_1_Name,Text,,Side,,,1193
-SculptMode_2_Name,Text,,Corner,,,1194
-SculptMode_3_Name,Text,,Vertex,,,1195
-SculptMode_4_Name,Text,,Reset,,,1196
-SculptMode_5_Name,Text,,Side Snap,,,1197
+SculptMode_0_Name,Text,,Full,Pieno,,
+SculptMode_1_Name,Text,,Side,Lato,,
+SculptMode_2_Name,Text,,Corner,Angolo,,
+SculptMode_3_Name,Text,,Vertex,Vertice,,
+SculptMode_4_Name,Text,,Reset,Ripristina,,
+SculptMode_5_Name,Text,,Side Snap,Trasformazione laterale,,
 Soundtrack,Text,,Soundtrack,Colonna sonora,,
 Start Game,Text,,Start Game,Inizia partita,,
-Structure_0_Name,Text,,Train Platform,,,1200
-Structure_0_Plural,Text,,Train Platforms,,,1201
-Structure_1_Name,Text,,Wheat Field,,,1202
-Structure_1_Plural,Text,,Wheat Fields,,,1203
-Structure_3_Name,Text,,Sheep Pasture,,,1204
-Structure_3_Plural,Text,,Sheep Pastures,,,1205
-Structure_4_Name,Text,,Cow Field,,,1206
-Structure_4_Plural,Text,,Cow Fields,,,1207
-Structure_5_Name,Text,,Pier,,,1208
-Structure_5_Plural,Text,,Piers,,,1209
-Structure_7_Name,Text,,Orchard Plot,,,1210
-Structure_7_Plural,Text,,Orchard Plots,,,1211
-Subscribe,Text,Subscribe to a map,Subscribe,,,1212
-Subscribed,Text,Subscribed Maps tab,Subscribed,,,1213
-TechTreeAgriculture,Text,Tech research category,Agriculture,,,1214
-TechTreeButtonSelectIdleWorkshop,Text,,Select Idle Workshop,,,1215
+Structure_0_Name,Text,,Train Platform,Stazione,,
+Structure_0_Plural,Text,,Train Platforms,Stazioni,,
+Structure_1_Name,Text,,Wheat Field,Campo di grano,,
+Structure_1_Plural,Text,,Wheat Fields,Campi di grano,,
+Structure_3_Name,Text,,Sheep Pasture,Pascolo,,
+Structure_3_Plural,Text,,Sheep Pastures,Pascoli,,
+Structure_4_Name,Text,,Cow Field,Mandria (mucche),,
+Structure_4_Plural,Text,,Cow Fields,Mandrie (mucche),,
+Structure_5_Name,Text,,Pier,Molo,,
+Structure_5_Plural,Text,,Piers,Moli,,
+Structure_7_Name,Text,,Orchard Plot,Frutteto,,
+Structure_7_Plural,Text,,Orchard Plots,Frutteti,,
+Subscribe,Text,Subscribe to a map,Subscribe,Sottoscrivi,,
+Subscribed,Text,Subscribed Maps tab,Subscribed,Sottoscritto,,
+TechTreeAgriculture,Text,Tech research category,Agriculture,Agricoltura,,
+TechTreeButtonSelectIdleWorkshop,Text,,Select Idle Workshop,Seleziona un Laboratorio inattivo,,
 TechTreeButtonSelectResearchIdleWorkshop,Text,,"Select Research &
-Idle Workshop",,,1216
-TechTreeButtonStartResearch,Text,,Start Research,,,1217
-TechTreeConstruction,Text,Tech research category,Construction,,,1218
-TechTreeErrorNeedsHigherLevelWorkshop,Text,,Needs Higher Level Workshop,,,1219
-TechTreeHeader,Text,,Technology Overview,,,1220
-TechTreeMilitary,Text,Tech research category,Military,,,1221
-TechTreeMining,Text,Tech research category,Mining,,,1222
-TechTreeScienceIndustry,Text,Tech research category,Science & Industry,,,1223
-TechTreeSelect,Text,,Select A Technology,,,1224
-TechTreeSelectResearch,Text,,Select Research,,,1225
-TechTreeSelectWorkshop,Text,,Select A Workshop,,,1226
-TechTreeTransportation,Text,Tech research category,Transportation,,,1227
-TechTreeWorkshopStateActive,Text,,Active,,,1228
-TechTreeWorkshopStateIdle,Text,,Idle,,,1229
-TechTreeWorkshopStateUnderConstruction,Text,,Under Construction,,,1230
-TechTreeWorkshopStateUpgrading,Text,,Upgrading,,,1231
-Tech_0_Desc,Text,,Increase sapling growth speed by <amount>%,,,1232
-Tech_0_Name,Text,,Coppicing I,,,1233
-Tech_100_Desc,Text,,Unlocks <bd>Printing Press</bd>,,,1234
-Tech_100_Name,Text,,Printing I,,,1235
-Tech_101_Desc,Text,,Improves production speed of <bd>Printing Press</bd> by <amount>%,,,1236
-Tech_101_Name,Text,,Printing II,,,1237
-Tech_105_Desc,Text,,Unlocks <bd>Flour Mill</bd> and <bd>Bakery</bd>,,,1238
-Tech_105_Name,Text,,Breadmaking I,,,1239
-Tech_106_Desc,Text,,Improves production speed of <bd>Bakery</bd> by <amount>%,,,1240
-Tech_106_Name,Text,,Breadmaking II,,,1241
-Tech_107_Desc,Text,,Unlocks <bd>Brewery</bd>,,,1242
-Tech_107_Name,Text,,Brewing I,,,1243
-Tech_108_Desc,Text,,Improves production speed of <bd>Brewery</bd> by <amount>%,,,1244
-Tech_108_Name,Text,,Brewing II,,,1245
-Tech_110_Desc,Text,,Unlocks <bd>Wheat Farm</bd>,,,1246
-Tech_110_Name,Text,,Wheat Farming,,,1247
-Tech_115_Desc,Text,,"Unlocks construction of <bd>Train Station</bd>, trains and rail track",,,1248
-Tech_115_Name,Text,,Steam Engines I,,,1249
-Tech_116_Desc,Text,,Adds additional capacity to your train hoppers,,,1250
-Tech_116_Name,Text,,Steam Engines II,,,1251
-Tech_120_Desc,Text,,Increases research speed by <amount>%,,,1252
-Tech_120_Name,Text,,Science I,,,1253
-Tech_121_Desc,Text,,Increases research speed by <amount>%,,,1254
-Tech_121_Name,Text,,Science II,,,1255
-Tech_122_Desc,Text,,Increases research speed by <amount>%,,,1256
-Tech_122_Name,Text,,Science III,,,1257
-Tech_1_Desc,Text,,Increase sapling growth speed by <amount>%,,,1258
-Tech_1_Name,Text,,Coppicing II,,,1259
-Tech_20_Desc,Text,,Unlocks creation of <it>Arrows</it> at the <bd>Fletcher</bd> and firing of <it>Arrows</it> from <bd>Watchtowers</bd>,,,1260
-Tech_20_Name,Text,,Arrows I,,,1261
-Tech_21_Desc,Text,,Increases damage dealt by your arrows by <amount>%,,,1262
-Tech_21_Name,Text,,Arrows II,,,1263
-Tech_22_Desc,Text,,Increases damage dealt by your arrows by <amount>%,,,1264
-Tech_22_Name,Text,,Arrows III,,,1265
-Tech_25_Desc,Text,,Unlocks creation of <it>Cannonballs</it> at the <bd>Weaponsmith</bd> and firing of <it>cannonballs</it> from <bd>Watchtowers</bd>,,,1266
-Tech_25_Name,Text,,Cannons I,,,1267
-Tech_26_Desc,Text,,Increases damage dealt by your cannonballs by <amount>%,,,1268
-Tech_26_Name,Text,,Cannons II,,,1269
-Tech_27_Desc,Text,,Increases damage dealt by your cannonballs by <amount>%,,,1270
-Tech_27_Name,Text,,Cannons III,,,1271
-Tech_2_Desc,Text,,Increase sapling growth speed by <amount>%,,,1272
-Tech_2_Name,Text,,Coppicing III,,,1273
-Tech_30_Desc,Text,,Reduces damage dealt to your military buildings by <amount>%,,,1274
-Tech_30_Name,Text,,Armour I,,,1275
-Tech_31_Desc,Text,,Reduces damage dealt to your military buildings by <amount>%,,,1276
-Tech_31_Name,Text,,Armour II,,,1277
-Tech_32_Desc,Text,,Reduces damage dealt to your military buildings by <amount>%,,,1278
-Tech_32_Name,Text,,Armour III,,,1279
-Tech_35_Desc,Text,,Increases repair speed by <amount>%,,,1280
-Tech_35_Name,Text,,Repair I,,,1281
-Tech_36_Desc,Text,,Increases repair speed by <amount>%,,,1282
-Tech_36_Name,Text,,Repair II,,,1283
-Tech_37_Desc,Text,,Increases repair speed by <amount>%,,,1284
-Tech_37_Name,Text,,Repair III,,,1285
-Tech_40_Desc,Text,,"Unlocks mining of <nr>Coal</nr>, <nr>Iron Ore</nr>, <nr>Clay</nr> at <bd>Level 2 Surface Mine</bd> and <bd>Level 1 Shaft Mine</bd>.",,,1286
-Tech_40_Name,Text,,Mining I,,,1287
-Tech_41_Desc,Text,,"Unlocks mining of <nr>Salt</nr>, <nr>Quartz</nr> and <nr>Gold</nr> at <bd>Level 3 Surface Mine</bd> and <bd>Level 2 Shaft Mine</bd>.",,,1288
-Tech_41_Name,Text,,Mining II,,,1289
-Tech_43_Desc,Text,,Improves mining speed of <bd>Surface Mines</bd> and <bd>Shaft Mines</bd> by <amount>%,,,1290
-Tech_43_Name,Text,,Mining Speed I,,,1291
-Tech_44_Desc,Text,,Improves mining speed of <bd>Surface Mines</bd> and <bd>Shaft Mines</bd> by <amount>%,,,1292
-Tech_44_Name,Text,,Mining Speed II,,,1293
-Tech_45_Desc,Text,,Improves mining speed of <bd>Surface Mines</bd> and <bd>Shaft Mines</bd> by <amount>%,,,1294
-Tech_45_Name,Text,,Mining Speed III,,,1295
-Tech_50_Desc,Text,,Unlocks construction of more advanced buildings.,,,1296
-Tech_50_Name,Text,,Construction I,,,1297
-Tech_51_Desc,Text,,Unlocks construction of more advanced buildings.,,,1298
-Tech_51_Name,Text,,Construction II,,,1299
-Tech_52_Desc,Text,,Unlocks <res>Construction I</res>,,,1300
-Tech_52_Name,Text,,Stonemasonry,,,1301
-Tech_54_Desc,Text,,Unlocks <res>Construction I</res>,,,1302
-Tech_54_Name,Text,,Scaffolding I,,,1303
-Tech_55_Desc,Text,,Unlocks <res>Construction II</res>,,,1304
-Tech_55_Name,Text,,Scaffolding II,,,1305
-Tech_56_Desc,Text,,Unlocks <bd>Brickyard</bd> and <res>Construction II</res>,,,1306
-Tech_56_Name,Text,,Brickmaking I,,,1307
-Tech_57_Desc,Text,,Unlocks <bd>Glassworks</bd> and <res>Construction III</res>,,,1308
-Tech_57_Name,Text,,Glassmaking,,,1309
-Tech_58_Desc,Text,,Unlocks <res>Construction III</res>,,,1310
-Tech_58_Name,Text,,Scaffolding III,,,1311
-Tech_59_Desc,Text,,Unlocks construction of more advanced buildings.,,,1312
-Tech_59_Name,Text,,Construction III,,,1313
-Tech_5_Desc,Text,,Increase construction speed by <amount>%,,,1314
-Tech_5_Name,Text,,Construction Speed I,,,1315
-Tech_65_Desc,Text,,Unlocks construction of boats at the <bd>Boatyard</bd>,,,1316
-Tech_65_Name,Text,,Boatbuilding I,,,1317
-Tech_66_Desc,Text,,Reduces boat construction time by <amount>%,,,1318
-Tech_66_Name,Text,,Boatbuilding II,,,1319
-Tech_6_Desc,Text,,Increase construction speed by <amount>%,,,1320
-Tech_6_Name,Text,,Construction Speed II,,,1321
-Tech_70_Desc,Text,,Improves ship speed by <amount>%,,,1322
-Tech_70_Name,Text,,Astronomy,,,1323
-Tech_71_Desc,Text,,Increases speed of your boats and trains by <amount>%,,,1324
-Tech_71_Name,Text,,Engineering I,,,1325
-Tech_72_Desc,Text,,Increases speed of your boats and trains by <amount>%,,,1326
-Tech_72_Name,Text,,Engineering II,,,1327
-Tech_75_Desc,Text,,Unlocks <bd>Level 1 Road Layer</bd> who can upgrade roads and paths allowing bot to travel faster,,,1328
-Tech_75_Name,Text,,Cobbled Roads,,,1329
-Tech_76_Desc,Text,,Unlocks <bd>Level 2 Road Layer</bd> who can upgrade roads and paths allowing bot to travel faster,,,1330
-Tech_76_Name,Text,,Brick Roads,,,1331
-Tech_7_Desc,Text,,Increase construction speed by <amount>%,,,1332
-Tech_7_Name,Text,,Construction Speed III,,,1333
+Idle Workshop",Seleziona Riceca e Laboratorio inattivo,,
+TechTreeButtonStartResearch,Text,,Start Research,Inizia ricerca,,
+TechTreeConstruction,Text,Tech research category,Construction,Costruzione,,
+TechTreeErrorNeedsHigherLevelWorkshop,Text,,Needs Higher Level Workshop,Hai bisogno di un Laboratorio di livello superiore,,
+TechTreeHeader,Text,,Technology Overview,Panoramica della tecnologia,,
+TechTreeMilitary,Text,Tech research category,Military,Militare,,
+TechTreeMining,Text,Tech research category,Mining,Estrazione mineraria,,
+TechTreeScienceIndustry,Text,Tech research category,Science & Industry,Scienza & Industria,,
+TechTreeSelect,Text,,Select A Technology,Seleziona una tecnologia,,
+TechTreeSelectResearch,Text,,Select Research,Seleziona ricerca,,
+TechTreeSelectWorkshop,Text,,Select A Workshop,Seleziona Laboratorio,,
+TechTreeTransportation,Text,Tech research category,Transportation,Trasporti,,
+TechTreeWorkshopStateActive,Text,,Active,Attivo,,
+TechTreeWorkshopStateIdle,Text,,Idle,Inattivo,,
+TechTreeWorkshopStateUnderConstruction,Text,,Under Construction,In costruzione,,
+TechTreeWorkshopStateUpgrading,Text,,Upgrading,In miglioramento,,
+Tech_0_Desc,Text,,Increase sapling growth speed by <amount>%,Aumenta la velocità di crescita degli alberelli dell'<amount>%,,
+Tech_0_Name,Text,,Coppicing I,Taglialegna I,,
+Tech_100_Desc,Text,,Unlocks <bd>Printing Press</bd>,Sblocca la <bd>Macchina da Stampa</bd>,,
+Tech_100_Name,Text,,Printing I,Stampa I,,
+Tech_101_Desc,Text,,Improves production speed of <bd>Printing Press</bd> by <amount>%,Migliora la velocità di produzione della <bd>Macchina da Stampa</bd> dell'<amount>%,,
+Tech_101_Name,Text,,Printing II,Stampa II,,
+Tech_105_Desc,Text,,Unlocks <bd>Flour Mill</bd> and <bd>Bakery</bd>,Sblocca il <bd>Mulino</bd> e il <bd>Panificio</bd>,,
+Tech_105_Name,Text,,Breadmaking I,Panificazione I,,
+Tech_106_Desc,Text,,Improves production speed of <bd>Bakery</bd> by <amount>%,Migliora la velocità di produzione del <bd>Panificio</bd> dell'<amount>%,,
+Tech_106_Name,Text,,Breadmaking II,Panificazione II,,
+Tech_107_Desc,Text,,Unlocks <bd>Brewery</bd>,Sblocca il <bd>Fabbrica di Birra</bd>,,
+Tech_107_Name,Text,,Brewing I,Fermentazione I,,
+Tech_108_Desc,Text,,Improves production speed of <bd>Brewery</bd> by <amount>%,Migliora la velocità di produzione della <bd>Fabbrica di Birra</bd> dell'<amount>%,,
+Tech_108_Name,Text,,Brewing II,Fermentazione II,,
+Tech_110_Desc,Text,,Unlocks <bd>Wheat Farm</bd>,Sblocca la <bd>Fattoria di Grano</bd>,,
+Tech_110_Name,Text,,Wheat Farming,Coltivazione del grano,,
+Tech_115_Desc,Text,,"Unlocks construction of <bd>Train Station</bd>, trains and rail track","Sblocca la costruzione della <bd>Stazione Ferroviaria</bd>, dei treni e delle rotaie",,
+Tech_115_Name,Text,,Steam Engines I,Motori a vapore I,,
+Tech_116_Desc,Text,,Adds additional capacity to your train hoppers,Aggiunge capacità alle tramogge dei treni,,
+Tech_116_Name,Text,,Steam Engines II,Motori a vapore II,,
+Tech_120_Desc,Text,,Increases research speed by <amount>%,Migliora la velocità di ricerca dell'<amount>%,,
+Tech_120_Name,Text,,Science I,Scienza I,,
+Tech_121_Desc,Text,,Increases research speed by <amount>%,Migliora la velocità di ricerca dell'<amount>%,,
+Tech_121_Name,Text,,Science II,Scienza II,,
+Tech_122_Desc,Text,,Increases research speed by <amount>%,Migliora la velocità di ricerca dell'<amount>%,,
+Tech_122_Name,Text,,Science III,Scienza III,,
+Tech_1_Desc,Text,,Increase sapling growth speed by <amount>%,Aumenta la velocità di crescita degli alberelli dell'<amount>%,,
+Tech_1_Name,Text,,Coppicing II,Taglialegna II,,
+Tech_20_Desc,Text,,Unlocks creation of <it>Arrows</it> at the <bd>Fletcher</bd> and firing of <it>Arrows</it> from <bd>Watchtowers</bd>,Sblocca la creazione delle <it>Frecce</it> presso il <bd>??? - TODO</bd> e l'abilità di sparare <it>Frecce</it> dalle <bd>Torri di Guardia</bd>,,
+Tech_20_Name,Text,,Arrows I,Frecce I,,
+Tech_21_Desc,Text,,Increases damage dealt by your arrows by <amount>%,Aumenta il danno inflitto dalle tue frecce dell'<amount>%,,
+Tech_21_Name,Text,,Arrows II,Frecce II,,
+Tech_22_Desc,Text,,Increases damage dealt by your arrows by <amount>%,Aumenta il danno inflitto dalle tue frecce dell'<amount>%,,
+Tech_22_Name,Text,,Arrows III,Frecce III,,
+Tech_25_Desc,Text,,Unlocks creation of <it>Cannonballs</it> at the <bd>Weaponsmith</bd> and firing of <it>cannonballs</it> from <bd>Watchtowers</bd>,Sblocca la creazione delle <it>Palle di Cannone</it> presso il <bd>Fabbro</bd> e la possibilità di sparare <it>Palle di Cannone</it> dalle <bd>Torri di Guardia</bd>,,
+Tech_25_Name,Text,,Cannons I,Cannoni I,,
+Tech_26_Desc,Text,,Increases damage dealt by your cannonballs by <amount>%,Aumenta il danno inflitto dalle tue palle di cannone dell'<amount>%,,
+Tech_26_Name,Text,,Cannons II,Cannoni II,,
+Tech_27_Desc,Text,,Increases damage dealt by your cannonballs by <amount>%,Aumenta il danno inflitto dalle tue palle di cannone dell'<amount>%,,
+Tech_27_Name,Text,,Cannons III,Cannoni III,,
+Tech_2_Desc,Text,,Increase sapling growth speed by <amount>%,Aumenta la velocità di crescita degli alberelli dell'<amount>%,,
+Tech_2_Name,Text,,Coppicing III,Taglialegna III,,
+Tech_30_Desc,Text,,Reduces damage dealt to your military buildings by <amount>%,Riduce il danno ricevuto dai tuoi edifici militari dell'<amount>%,,
+Tech_30_Name,Text,,Armour I,Armatura I,,
+Tech_31_Desc,Text,,Reduces damage dealt to your military buildings by <amount>%,Riduce il danno ricevuto dai tuoi edifici militari dell'<amount>%,,
+Tech_31_Name,Text,,Armour II,Armatura II,,
+Tech_32_Desc,Text,,Reduces damage dealt to your military buildings by <amount>%,Riduce il danno ricevuto dai tuoi edifici militari dell'<amount>%,,
+Tech_32_Name,Text,,Armour III,Armatura III,,
+Tech_35_Desc,Text,,Increases repair speed by <amount>%,Aumenta la velocità di riparazione dell'<amount>%,,
+Tech_35_Name,Text,,Repair I,Riparazione I,,
+Tech_36_Desc,Text,,Increases repair speed by <amount>%,Aumenta la velocità di riparazione dell'<amount>%,,
+Tech_36_Name,Text,,Repair II,Riparazione II,,
+Tech_37_Desc,Text,,Increases repair speed by <amount>%,Aumenta la velocità di riparazione dell'<amount>%,,
+Tech_37_Name,Text,,Repair III,Riparazione III,,
+Tech_40_Desc,Text,,"Unlocks mining of <nr>Coal</nr>, <nr>Iron Ore</nr>, <nr>Clay</nr> at <bd>Level 2 Surface Mine</bd> and <bd>Level 1 Shaft Mine</bd>.","Sblocca l'estrazione di <nr>Carbone</nr>, <nr>Ferro gresso</nr>, <nr>Argilla</nr> presso <bd>Miniera di Superficie Livello 2</br> e <bd>Miniera Livello 1</bd>",,
+Tech_40_Name,Text,,Mining I,Estrazione mineraria I,,
+Tech_41_Desc,Text,,"Unlocks mining of <nr>Salt</nr>, <nr>Quartz</nr> and <nr>Gold</nr> at <bd>Level 3 Surface Mine</bd> and <bd>Level 2 Shaft Mine</bd>.","Sblocca l'estrazione di <nr>Sale</nr>, <nr>Quarzo</nr> e <nr>Oro</nr> presso <br>Miniera di Superficie Livello 3</br> e <bd>Miniera Livello 2</bd>",,
+Tech_41_Name,Text,,Mining II,Estrazione mineraria II,,
+Tech_43_Desc,Text,,Improves mining speed of <bd>Surface Mines</bd> and <bd>Shaft Mines</bd> by <amount>%,Migliora la velocità di estrazione della <bd>Miniera di Superficie</bd> e della <bd>Miniera</bd> dell'<amount>%,,
+Tech_43_Name,Text,,Mining Speed I,Velocità estrazione mineraria I,,
+Tech_44_Desc,Text,,Improves mining speed of <bd>Surface Mines</bd> and <bd>Shaft Mines</bd> by <amount>%,Migliora la velocità di estrazione della <bd>Miniera di Superficie</bd> e della <bd>Miniera</bd> dell'<amount>%,,
+Tech_44_Name,Text,,Mining Speed II,Velocità estrazione mineraria II,,
+Tech_45_Desc,Text,,Improves mining speed of <bd>Surface Mines</bd> and <bd>Shaft Mines</bd> by <amount>%,Migliora la velocità di estrazione della <bd>Miniera di Superficie</bd> e della <bd>Miniera</bd> dell'<amount>%,,
+Tech_45_Name,Text,,Mining Speed III,Velocità estrazione mineraria III,,
+Tech_50_Desc,Text,,Unlocks construction of more advanced buildings.,Sblocca la costruzione di edifici più avanzati,,
+Tech_50_Name,Text,,Construction I,Costruzione I,,
+Tech_51_Desc,Text,,Unlocks construction of more advanced buildings.,Sblocca la costruzione di edifici più avanzati,,
+Tech_51_Name,Text,,Construction II,Costruzione II,,
+Tech_52_Desc,Text,,Unlocks <res>Construction I</res>,Sblocca <res>Costruzione I</res>,,
+Tech_52_Name,Text,,Stonemasonry,Muratura in pietra,,
+Tech_54_Desc,Text,,Unlocks <res>Construction I</res>,Sblocca <res>Costruzione I</res>,,
+Tech_54_Name,Text,,Scaffolding I,Impalcature I,,
+Tech_55_Desc,Text,,Unlocks <res>Construction II</res>,Sblocca <res>Costruzione II</res>,,
+Tech_55_Name,Text,,Scaffolding II,Impalcature II,,
+Tech_56_Desc,Text,,Unlocks <bd>Brickyard</bd> and <res>Construction II</res>,Sblocca <bd>Mattonificioi</bd> e <res>Costruzione II</res>,,
+Tech_56_Name,Text,,Brickmaking I,Produzione di Mattoni I,,
+Tech_57_Desc,Text,,Unlocks <bd>Glassworks</bd> and <res>Construction III</res>,Sblocca la <bd>Vetreria</bd> e <res>Costruzione III</res>,,
+Tech_57_Name,Text,,Glassmaking,Produzione del vetro,,
+Tech_58_Desc,Text,,Unlocks <res>Construction III</res>,Sblocca <res>Costruzione III</res>,,
+Tech_58_Name,Text,,Scaffolding III,Impalcature III,,
+Tech_59_Desc,Text,,Unlocks construction of more advanced buildings.,Sblocca la costruzione di edifici più avanzati,,
+Tech_59_Name,Text,,Construction III,Costruzione III,,
+Tech_5_Desc,Text,,Increase construction speed by <amount>%,Migliora la velocità di costruzione dell'<amount>%,,
+Tech_5_Name,Text,,Construction Speed I,Velocità di costruzione I,,
+Tech_65_Desc,Text,,Unlocks construction of boats at the <bd>Boatyard</bd>,Sblocca la costruzione di barche presso il <bd>Cantiere navale</bd>,,
+Tech_65_Name,Text,,Boatbuilding I,Costruzione barche I,,
+Tech_66_Desc,Text,,Reduces boat construction time by <amount>%,Riduce il tempo di costruzione delle barche dell'<amount>%,,
+Tech_66_Name,Text,,Boatbuilding II,Costruzione barche II,,
+Tech_6_Desc,Text,,Increase construction speed by <amount>%,Aumenta la velocità di costruzione dell'<amount>%,,
+Tech_6_Name,Text,,Construction Speed II,Velocità di costruzione II,,
+Tech_70_Desc,Text,,Improves ship speed by <amount>%,Aumenta la velocità delle barche dell'<amount>%,,
+Tech_70_Name,Text,,Astronomy,Astronomia,,
+Tech_71_Desc,Text,,Increases speed of your boats and trains by <amount>%,Migliora la velocità di barche e treni dell'<amount>%,,
+Tech_71_Name,Text,,Engineering I,Ingegneria I,,
+Tech_72_Desc,Text,,Increases speed of your boats and trains by <amount>%,Migliora la velocità di barche e treni dell'<amount>%,,
+Tech_72_Name,Text,,Engineering II,Ingegneria II,,
+Tech_75_Desc,Text,,Unlocks <bd>Level 1 Road Layer</bd> who can upgrade roads and paths allowing bot to travel faster,Sblocca <bd>Manto Stradale Livello 1</bd> che può migliorare strade e percorsi per far viaggiare i bot più veloci,,
+Tech_75_Name,Text,,Cobbled Roads,Strade di ciottoli,,
+Tech_76_Desc,Text,,Unlocks <bd>Level 2 Road Layer</bd> who can upgrade roads and paths allowing bot to travel faster,Sblocca <bd>Manto Stradale Livello 2</bd> che può migliorare strade e percorsi per far viaggiare i bot più veloci,,
+Tech_76_Name,Text,,Brick Roads,Strade di mattoni,,
+Tech_7_Desc,Text,,Increase construction speed by <amount>%,Incrementa la velocità di costruzione dell'<amount>%,,
+Tech_7_Name,Text,,Construction Speed III,Velocità di costruzione III,,
 Technology Researched,Text,Teh technology the player has researched,Technology Researched,Tecnologia ricercata,,
-TerrainType_0,Text,,None,,,1335
-TerrainType_1,Text,,Grass,,,1336
-TerrainType_10,Text,,Desert A,,,1337
-TerrainType_11,Text,,Rock B,,,1338
-TerrainType_12,Text,,Sand B,,,1339
-TerrainType_13,Text,,Desert B,,,1340
-TerrainType_14,Text,,Rock A,,,1341
-TerrainType_15,Text,,Prairie,,,1342
-TerrainType_16,Text,,Scrub,,,1343
-TerrainType_17,Text,,Forest,,,1344
-TerrainType_18,Text,,Swamp B,,,1345
-TerrainType_2,Text,,Sand,,,1346
-TerrainType_3,Text,,Meadow,,,1347
-TerrainType_4,Text,,Rock A,,,1348
-TerrainType_5,Text,,Snow,,,1349
-TerrainType_6,Text,,Seabed,,,1350
-TerrainType_7,Text,,Ice,,,1351
-TerrainType_8,Text,,Dirt,,,1352
-TerrainType_9,Text,,Swamp A,,,1353
+TerrainType_0,Text,,None,Nessuno,,
+TerrainType_1,Text,,Grass,Erba,,
+TerrainType_10,Text,,Desert A,Deserto A,,
+TerrainType_11,Text,,Rock B,Roccioso B,,
+TerrainType_12,Text,,Sand B,Sabbioso B,,
+TerrainType_13,Text,,Desert B,Deserto B,,
+TerrainType_14,Text,,Rock A,Roccioso A,,
+TerrainType_15,Text,,Prairie,Prateria,,
+TerrainType_16,Text,,Scrub,Prato con arbusti,,
+TerrainType_17,Text,,Forest,Foresta,,
+TerrainType_18,Text,,Swamp B,Paludoso B,,
+TerrainType_2,Text,,Sand,Sabbioso,,
+TerrainType_3,Text,,Meadow,Prato,,
+TerrainType_4,Text,,Rock A,Roccioso A,,
+TerrainType_5,Text,,Snow,Nevoso,,
+TerrainType_6,Text,,Seabed,Fondale marino,,
+TerrainType_7,Text,,Ice,Ghiacciato,,
+TerrainType_8,Text,,Dirt,Fangoso,,
+TerrainType_9,Text,,Swamp A,Paludoso A,,
 Territory,Text,The area which the player owns,Territory,Territorio,,
 This map is incomplete! Open in the map editor and check the verification panel.,Text,,This map is incomplete! Open in the map editor and check the verification panel.,,,1355
 Tip_0,Text,,You are always able to construct Level 1 buildings if you run out of resources for higher level ones.,,,1356
@@ -2464,15 +2468,15 @@ DestroyResourceWarning,Text,"Warning before destroying a resource.
 
 Hold [{0}] to skip this message.",,,2026
 BuildingStorageUI_EnRoute_ImportList,Text,,Note: you have set import rules which limit where resources can be imported from.,,,2027
-Route_Via,Text,{0}: building name E.g. (This resource has arrived at Sara's Lumberjack Hut via Terry's Storage Yard,Via {0},,,2028
+Route_Via,Text,{0}: building name E.g. (This resource has arrived at Sara's Lumberjack Hut via Terry's Storage Yard,Via {0},attraverso {0},,
 GameSettingsInterfaceTextSize,Text,,Interface text size,Dimensioni testo interfaccia,,
 GameSettingsInterfaceTextSize_Normal,Text,,Normal,Normale,,
 GameSettingsInterfaceTextSize_Large,Text,,Large,Largo,,
-ConstructionProximityBoost,Text,,Nearby Bot Bonus,,,
-EntPanelHead_24,Text,,Monument Bonus,,,
+ConstructionProximityBoost,Text,,Nearby Bot Bonus,Bonus Bot vicini,,
+EntPanelHead_24,Text,,Monument Bonus,Bonus Monumento,,
 SandboxUnlimitedSpacePorts,Text,,Unlimited Space Ports,Porti Spaziali illimitati,,
 SandboxUnlimitedMonuments,Text,,Unlimited Monuments,Monumenti illimitati,,
-Roads,Text,,Roads,,,
+Roads,Text,,Roads,Strade,,
 HelpPanel_38,Text,,"This panel shows all the resources currently on their way to this building as well as resources that have recently arrived.
 
 You can click on a resource in the list and it will show you the route the resource took from the building where it was created.
@@ -2489,4 +2493,4 @@ Item_47_FullDesc,Text,,Vegetables are harvested at the <bd>Vegetable Farm</bd> f
 Item_47_Name,Text,,Vegetables,Verdure,,
 Item_47_Past,Text,,Harvested,Raccolti,,
 Item_47_Present,Text,,Harvesting,Raccogliendo,,
-EntityBuildingTransportRulesOutgoingWhitelistOnlyStorageDesc,Text,,Resources allowed to be exported only if headed to a storage yard:,,,
+EntityBuildingTransportRulesOutgoingWhitelistOnlyStorageDesc,Text,,Resources allowed to be exported only if headed to a storage yard:,Risorse autorizzate ad essere esportate solo se dirette verso un deposito:,,
