@@ -2228,246 +2228,254 @@ TrainClearRoute,Text,,Are you sure you want to clear all station stops for {0}? 
 MilitaryWatchtowersInRange_Single,Text,,1 watchtower in range,,,1799
 MilitaryWatchtowersInRange_Plural,Text,,{0} watchtowers in range,,,1800
 WatchtowerCantAttack,Text,,This building can't currently attack. Upgrade to Level 2 to attack other Watchtowers.,,,1801
-CantAttack,Text,," ""This building can't attack.""",,,1802
-MilitaryUI_AttackHeader,Text,,Attack,,,1803
-MilitaryUI_HitPoints,Text,,HIT POINTS,,,1804
-MilitaryUI_Collapsing,Text,,COLLAPSING,,,1805
-MilitaryUI_RepairHeader,Text,,Repair,,,1806
-MilitaryUI_DisableAttack,Text,,Disable,,,1807
-MilitaryUI_EnableAttack,Text,,Enable,,,1808
-MilitaryUI_NoTarget,Text,,No Target,,,1809
-MilitaryLogsUI_Header,Text,,Military Logs,,,1810
-FloorInvalidBelowWater,Text,,TileBelowWater,,,1811
-FloorInvalidType,Text,,Invalid tile type: {0},,,1812
-FloorInvalidOccupiedBy,Text,"{0}:building, road etc",Tile occupied by {0},,,1813
-AutoSaving,Text,,Auto-saving game,,,1814
-AlertCowFarmFields,Text,,You have not expanded your cow farm,,,1815
-AlertSheepFarmFields,Text,,You have not expanded your sheep farm,,,1816
-AlertStorageYardNoRules,Text,,You have not set any storage rules yet,,,1817
-AlertWheatFarmFields,Text,,You have not planted any wheat fields,,,1818
-AlertProductionStopped,Text,(at this building),Production has been stopped,,,1819
-PercentComplete,Text,,{0}% complete,,,1820
+CantAttack,Text,," ""This building can't attack.""","""Questo edificio non può attaccare.""",,
+MilitaryUI_AttackHeader,Text,,Attack,Attacca,,
+MilitaryUI_HitPoints,Text,,HIT POINTS,PUNTI VITA,,
+MilitaryUI_Collapsing,Text,,COLLAPSING,CROLLO,,
+MilitaryUI_RepairHeader,Text,,Repair,Ripara,,
+MilitaryUI_DisableAttack,Text,,Disable,Disattiva,,
+MilitaryUI_EnableAttack,Text,,Enable,Attiva,,
+MilitaryUI_NoTarget,Text,,No Target,Nessun obiettivo,,
+MilitaryLogsUI_Header,Text,,Military Logs,Registri di guerra,,
+FloorInvalidBelowWater,Text,,TileBelowWater,CellaSottoAcqua,,
+FloorInvalidType,Text,,Invalid tile type: {0},Tipo di cella non valido: {0},,
+FloorInvalidOccupiedBy,Text,"{0}:building, road etc",Tile occupied by {0},Cella occupata da {0},,
+AutoSaving,Text,,Auto-saving game,Auto-salvataggio,,
+AlertCowFarmFields,Text,,You have not expanded your cow farm,Non hai espanso la tua mandria (mucche),,
+AlertSheepFarmFields,Text,,You have not expanded your sheep farm,Non hai espanso il tuo pascolo,,
+AlertStorageYardNoRules,Text,,You have not set any storage rules yet,Non hai ancora impostato nessuna regola di deposito,,
+AlertWheatFarmFields,Text,,You have not planted any wheat fields,Non hai ancora piantato nessun Campo di Grano,,
+AlertProductionStopped,Text,(at this building),Production has been stopped,La produzione è stata fermata,,
+PercentComplete,Text,,{0}% complete,{0}% completato,,
 TransportRuleBlacklist,Text,"{0}:can be blank, TransportRuleForExport or TransportRuleForImport {1}:resource, {2}: either blank or TransportRuleExceptStorage
-E.g. Export rule: Planks are banned except for storage",{0}<it>{1}</it> are banned{2},,,1821
+E.g. Export rule: Planks are banned except for storage",{0}<it>{1}</it> are banned{2},{0}<it>{1}</it> sono vietate{1},,
 TransportRuleWhitelist,Text,"{0}:can be blank, TransportRuleForExport or TransportRuleForImport {1}:resource, {2}: either blank or TransportRuleOnlyStorage
-E.g. Export rule: Only Planks are allowed and only for storagt",{0} Only <it>{1}</it> are allowed{2},,,1822
-TransportRuleExceptStorage,Text,Only used as potential part of TransportRuleBlacklist,except for storage,,,1823
-TransportRuleOnlyStorage,Text,Only used as potential part of TransportRuleWhitelist,and only for storage,,,1824
-TransportRuleForExport,Text,Only used as potential part of TransportRuleBlacklist or TransportRuleWhitelist,Export rule:,,,1825
-TransportRuleForImport,Text,Only used as potential part of TransportRuleBlacklist or TransportRuleWhitelist,Import rule:,,,1826
-AlertOrchardFarmFields,Text,,You have not planted any apple trees,,,1827
-AlertMineNoResource,Text,,Minebot has no {0} in range,,,1828
-OverlayMilitaryHitPoints,Text,"{0}:current hit points, {1}:total hit points",Hit points: {0}/{1},,,1829
-VictoryCondition_Construction,Text,"{0}:amount, {1}:building type",Build {0} {1},,,1830
-VictoryCondition_Domination,Text,{0}:player name,Capture Colony Ship of {0},,,1831
-VictoryCondition_DominationDone,Text,{0}:player name,{0} is defeated!,,,1832
-VictoryCondition_Research,Text,{0}:name of tech,Research {0},,,1833
-MonthShort,Text,,m,,,1834
-YearShort,Text,,y,,,1835
+E.g. Export rule: Only Planks are allowed and only for storagt",{0} Only <it>{1}</it> are allowed{2},{0} solo <it>{1}</it> sono permesse{2},,
+TransportRuleExceptStorage,Text,Only used as potential part of TransportRuleBlacklist,except for storage,tranne che per il deposito,,
+TransportRuleOnlyStorage,Text,Only used as potential part of TransportRuleWhitelist,and only for storage,solo per il deposito,,
+TransportRuleForExport,Text,Only used as potential part of TransportRuleBlacklist or TransportRuleWhitelist,Export rule:,Regole di export:,,
+TransportRuleForImport,Text,Only used as potential part of TransportRuleBlacklist or TransportRuleWhitelist,Import rule:,Regole di import:,,
+AlertOrchardFarmFields,Text,,You have not planted any apple trees,Non hai piantato nessun melo,,
+AlertMineNoResource,Text,,Minebot has no {0} in range,BotMinatore non ha {0} vicino,,
+OverlayMilitaryHitPoints,Text,"{0}:current hit points, {1}:total hit points",Hit points: {0}/{1},Punti vita: {0}/{1},,
+VictoryCondition_Construction,Text,"{0}:amount, {1}:building type",Build {0} {1},Costruisci {0} {1},,
+VictoryCondition_Domination,Text,{0}:player name,Capture Colony Ship of {0},Cattura la Nave della Colonia di {0},,
+VictoryCondition_DominationDone,Text,{0}:player name,{0} is defeated!,{0} è sconfitto!,,
+VictoryCondition_Research,Text,{0}:name of tech,Research {0},Ricerca {0},,
+MonthShort,Text,,m,m,,
+YearShort,Text,,y,y,,
 StructureState_Max,Text,{0}:e.g. sheep field,"Maximum amount of {0} reached.
-<hotkey>[Shift]</hotkey> to remove",,,1836
-TimeAgo,Text,(3 days) ago,ago,,,1837
+<hotkey>[Shift]</hotkey> to remove","Quantità massima di {0} raggiunta.
+<hotkey>[Shift]</hotkey> per rimuovere",,
+TimeAgo,Text,(3 days) ago,ago,fa,,
 SaveGameWindow_Header,Text,,Save Game,Salva il gioco,,
 SaveGameWindow_Action,Text,,Save,Salva,,
 PostcardMode_Postcard,Text,Show the white border,Postcard,Cartolina,,
 PostcardMode_Plain,Text,Blank,Plain,Semplice,,
 PostcardMode_Interface,Text,Show the User Interface,Interface,Interfaccia,,
-PostcardMode_SetTitle,Text,,Title:,,,1843
-PostcardMode_SetBorderSize,Text,Set size of white postcard border,Border size:,,,1844
-PostcardMode_Take,Text,[Enter] is shortcut key,Take Screenshot [Enter],,,1845
-PostcardMode_ViewExisting,Text,Open Steam screenshots or folder of previously taken screenshots,View Existing,,,1846
-PostcardMode_Captured,Text,,Screenshot captured!,,,1847
-ItemTooltip_WaitConsumed,Text,"{0}:amount, {1}:resource",{0}x {1} waiting to be consumed,,,1848
-ItemTooltip_WaitUsed,Text,,{0}x {1} waiting to be used,,,1849
-ItemTooltip_WaitAssignment,Text,,{0}x {1} waiting for assignment,,,1850
-ItemTooltip_EnRouteSingle,Text,,{0}x {1} on its way,,,1851
-ItemTooltip_EnRoutePlural,Text,,{0}x {1} on their way,,,1852
-ItemTooltip_InCargo,Text,In cargo of boat or train,{0}x {1} in cargo,,,1853
-OverlayProduction,Text,{0}: resource,{0} Production,,,1854
-OverlayProductionDetails,Text,"{0}: building, {1} amount, {2}:resource e.g. ""Harriet's Sawmill is producing 1.5 Planks per day",{0} is producing {1} {2} per day,,,1855
-GameUI_DeprioritiseBuilding,Text,Deprioritise (building),Deprioritise,,,1856
-ProductionGraphMin,Text,{0}: amount of sheep/cow fields e.g. Min: 50,Min: {0},,,1857
-ProductionChangeNaturalResource,Text,"For surface mines, this button lets player change the target of natural resource",Change Natural Resource,,,1858
-TooltipMoney,Text,,Money,,,1859
-TooltipMoneyDesc,Text,,The amount of money you currently have,,,1860
-BuildingUpgradeAction,Text,{0}: Level 2/3,Upgrade to {0},,,1861
-BuildingUpgradeStatus,Text,{0}: Level 2/3,Upgrading to {0},,,1862
-BuildingUpgradeCancel,Text,,Cancel Upgrade,,,1863
-Item_253_Desc,Text,,Various resources,,,1864
-Item_252_Desc,Text,,Tech research,,,1865
-Item_254_Desc,Text,,No resources,,,1866
-Item_255_Desc,Text,,All resources,,,1867
-MilitaryLogHitGiven,Text,{0}: enemy building,Hit {0},,,1868
-MilitaryLogHitTaken,Text,{0}: enemy building,Hit by {0},,,1869
-MilitaryLogCompletedRepairs,Text,,Completed repairs,,,1870
-TradeTerminalSellHeader,Text,,Sell Resources,,,1871
-TradeTerminalPurchaseHeader,Text,,Purchase Resources,,,1872
-TradeTerminalThisVisit,Text,,Resources loaded this visit:,,,1873
-TradeTerminalArrivingIn,Text,(Trade) Ship arriving in (5 days),Ship arriving in,,,1874
-TradeTerminalLanding,Text,(Trade) Ship (is) landing,Ship landing,,,1875
-TradeTerminalDepartingIn,Text,(Trade) Ship departing in (5 days),Ship departing in,,,1876
-TradeTerminalDeparting,Text,(Trade) Ship (is) departing,Ship departing,,,1877
-HarbourUIRoutesEmpty,Text,,No boats currently stop here,,,1878
-EntPanelHead_254,Text,Same as EntPanelHead_90 etc,Info,,,1879
-ExpeditionAssignToPort,Text,Assign (boat to harbour expedition),Assign,,,1880
-OverlayPrioritisedBuildingTooltip,Text,{0}: building type e.g. (this is the ) prioritised watchtower,Prioritised {0},,,1881
-FutureExpeditionHarbour,Text,The harbour that will be created as a result of completing the expedition,Expedition's Future Harbour,,,1882
-ProductionChangeTreeType,Text,,Change tree type,,,1883
-TrackEditorPrompt,Text,,Select an existing piece of track to start from,,,1884
-VehicleAverageJourney,Text,,Average journey: ,,,1885
-TrackEditorTrackConnected,Text,,Track connected!,,,1886
+PostcardMode_SetTitle,Text,,Title:,Titolo:,,
+PostcardMode_SetBorderSize,Text,Set size of white postcard border,Border size:,Dimensione bordo:,,
+PostcardMode_Take,Text,[Enter] is shortcut key,Take Screenshot [Enter],Cattura Screenshot [Enter],,
+PostcardMode_ViewExisting,Text,Open Steam screenshots or folder of previously taken screenshots,View Existing,Vedi precedenti,,
+PostcardMode_Captured,Text,,Screenshot captured!,Screenshot catturato!,,
+ItemTooltip_WaitConsumed,Text,"{0}:amount, {1}:resource",{0}x {1} waiting to be consumed,{0}x {1} in attesa di essere consumato,,
+ItemTooltip_WaitUsed,Text,,{0}x {1} waiting to be used,{0}x {1} in attesa di essere usato,,
+ItemTooltip_WaitAssignment,Text,,{0}x {1} waiting for assignment,{0}x {1} in attesa di essere assegnato,,
+ItemTooltip_EnRouteSingle,Text,,{0}x {1} on its way,{0}x {1} in arrivo,,
+ItemTooltip_EnRoutePlural,Text,,{0}x {1} on their way,{0}x {1} in arrivo,,
+ItemTooltip_InCargo,Text,In cargo of boat or train,{0}x {1} in cargo,{0}x {1} nel cargo,,
+OverlayProduction,Text,{0}: resource,{0} Production,{0} produzione,,
+OverlayProductionDetails,Text,"{0}: building, {1} amount, {2}:resource e.g. ""Harriet's Sawmill is producing 1.5 Planks per day",{0} is producing {1} {2} per day,{0} produce {1} {2} al giorno,,
+GameUI_DeprioritiseBuilding,Text,Deprioritise (building),Deprioritise,De-Prioritizza,,
+ProductionGraphMin,Text,{0}: amount of sheep/cow fields e.g. Min: 50,Min: {0},Min: {0},,
+ProductionChangeNaturalResource,Text,"For surface mines, this button lets player change the target of natural resource",Change Natural Resource,Cambia risorsa naturale,,
+TooltipMoney,Text,,Money,Soldi,,
+TooltipMoneyDesc,Text,,The amount of money you currently have,La quantità di denaro che hai attualmente,,
+BuildingUpgradeAction,Text,{0}: Level 2/3,Upgrade to {0},Migliora a {0},,
+BuildingUpgradeStatus,Text,{0}: Level 2/3,Upgrading to {0},Miglioramento a {0},,
+BuildingUpgradeCancel,Text,,Cancel Upgrade,Annulla miglioramento,,
+Item_253_Desc,Text,,Various resources,Varie risorse,,
+Item_252_Desc,Text,,Tech research,Ricerca tecnologica,,
+Item_254_Desc,Text,,No resources,Nessuna risorsa,,
+Item_255_Desc,Text,,All resources,Tutte le risorse,,
+MilitaryLogHitGiven,Text,{0}: enemy building,Hit {0},Colpito {0},,
+MilitaryLogHitTaken,Text,{0}: enemy building,Hit by {0},Colpito da {0},,
+MilitaryLogCompletedRepairs,Text,,Completed repairs,Riparazioni completate,,
+TradeTerminalSellHeader,Text,,Sell Resources,Vendi risorse,,
+TradeTerminalPurchaseHeader,Text,,Purchase Resources,Compra risorse,,
+TradeTerminalThisVisit,Text,,Resources loaded this visit:,Risorse caricate durante questa visita:,,
+TradeTerminalArrivingIn,Text,(Trade) Ship arriving in (5 days),Ship arriving in,Nave in arrivo in,,
+TradeTerminalLanding,Text,(Trade) Ship (is) landing,Ship landing,Nave in atterraggio,,
+TradeTerminalDepartingIn,Text,(Trade) Ship departing in (5 days),Ship departing in,Nave in partenza in,,
+TradeTerminalDeparting,Text,(Trade) Ship (is) departing,Ship departing,Nave in partenza,,
+HarbourUIRoutesEmpty,Text,,No boats currently stop here,Nessuna barca si ferma qui,,
+EntPanelHead_254,Text,Same as EntPanelHead_90 etc,Info,Informazioni,,
+ExpeditionAssignToPort,Text,Assign (boat to harbour expedition),Assign,Assegna,,
+OverlayPrioritisedBuildingTooltip,Text,{0}: building type e.g. (this is the ) prioritised watchtower,Prioritised {0},Prioritizzato {0},,
+FutureExpeditionHarbour,Text,The harbour that will be created as a result of completing the expedition,Expedition's Future Harbour,Porto della spedizione,,
+ProductionChangeTreeType,Text,,Change tree type,Cambia tipo ti albero,,
+TrackEditorPrompt,Text,,Select an existing piece of track to start from,Seleziona un tracciato esistente da cui iniziare,,
+VehicleAverageJourney,Text,,Average journey: ,Viaggio medio:,,
+TrackEditorTrackConnected,Text,,Track connected!,Tracciato connesso!,,
 TrackEditorInvalidElevationDirection,Text,,"Can't Place Track
-Invalid elevation & direction",,,1887
+Invalid elevation & direction","Impossibile piazzare tracciato
+Elevazione e direzione invalidi",,
 TrackEditorInvalidTrack,Text,{0}: further error info,"Can't place land track!
-{0}",,,1888
+{0}",Impossibile piazzare il tracciato! {0},,
 TrackEditorInvalidBridge,Text,{0}: further error info,"Can't place bridge!
-{0}",,,1889
-TraderReputationReward,Text,,+1 Space Port,,,1890
-BuildingStorageRules,Text,,Rules,,,1891
-BuildingStorageRulesDesc,Text,,This building does not automatically store resources. You can add rules to allow this.,,,1892
-VehicleStopsEmpty,Text,,No stops yet,,,1893
-EntitySidePanelAddStop,Text,Add (station or port stop),Add,,,1894
-EntitySidePanelBoatsStopping,Text,E.g. Boats stopping here: 2,Boats stopping here:,,,1895
-EntitySidePanelTrainsStopping,Text,E.g. Trains stopping here: 2,Trains stopping here:,,,1896
-EntityNameFormat,Text,{0}:owner {1} thing - e.g. Carol's Clipper,{0}'s {1},,,1897
-Rubble,Text,Rubble that is left by a destroyed building,Rubble,,,1898
-BoatStateMoving,Text,,Sailing,,,1899
-BoatStateMovingTo,Text,,Sailing to {0},,,1900
-VehicleStateLoadingResources,Text,,Loading resources,,,1901
-BoatStateQueueing,Text,,Waiting for space at harbour,,,1902
-VehicleStateIdle,Text,,Waiting for assignment,,,1903
-TrainStateMoving,Text,,Travelling,,,1904
-TrainStateMovingTo,Text,,Travelling to {0},,,1905
-TrainStateQueueing,Text,,Waiting for space at station,,,1906
-EntitySidePanelBoatTypeSelect,Text,Select (this boat type),Select,,,1907
-EntitySidePanelBoatTypeSelected,Text,(This boat type is) selected,Selected,,,1908
-EntityTradeTerminalRecurring,Text,recurring (sales order),(recurring),,,1909
-EntityTradeTerminalRecurringShort,Text,short for recurring,(rec.),,,1910
-EntityTradeTerminalOnce,Text,(An order which happens) once,(once),,,1911
-EntityTradeTerminalThisVisit,Text,This visit: (1/3 resources),This visit:,,,1912
-SidePanelSellingRuleSelectResource,Text,,Select a resource to sell,,,1913
-MaximumShort,Text,short for maximum,max,,,1914
-BuildingTradeTerminalSellingRuleType_0,Text,(An order which happens) once,Once,,,1915
-BuildingTradeTerminalSellingRuleType_1,Text,recurring (sales order),Recurring,,,1916
-SidePanelPurchaseRuleSelectResource,Text,,Select a resource to purchase,,,1917
-AnyAmount,Text,,any,,,1918
-RoadPostOverlayTooltip,Text,{0}: building,Road post for {0},,,1919
-RoadPostRulesDesc,Text,,Manage the movement of resources through your colony by setting up rules for this road post.,,,1920
-EntityFlagRulesBlacklistDesc,Text,,Resources banned from passing through this road post:,,,1921
-EntityFlagRulesBlacklistExcStorageDesc,Text,,Resources banned from passing through this road post unless they're headed for a storage yard:,,,1922
-EntityFlagRulesWhitelistDesc,Text,,Resources allowed through this road post:,,,1923
-EntityFlagRulesWhitelistOnlyStorageDesc,Text,,Resources allowed through this road post only if headed to a storage yard:,,,1924
-EntitySidePanelSelectResourceStore,Text,,Select a resource to store,,,1925
-EntitySidePanelSelectResource,Text,,Select a resource,,,1926
-EntitySidePanelRuleBlacklistConfirm,Text,,Ban resource,,,1927
-EntitySidePanelRuleBlacklistExcStorageConfirm,Text,,Ban resource except for storage,,,1928
-EntitySidePanelRuleWhitelistConfirm,Text,,Allow this resource,,,1929
-EntitySidePanelRuleWhitelistStorageOnlyConfirm,Text,,Allow this resource but only for storage,,,1930
+{0}",Impossibile piazzare il ponte! {0},,
+TraderReputationReward,Text,,+1 Space Port,Porto Spaziale +1,,
+BuildingStorageRules,Text,,Rules,Regole,,
+BuildingStorageRulesDesc,Text,,This building does not automatically store resources. You can add rules to allow this.,Questo edificio non deposita automaticamente le risorse. È possibile aggiungere regole per consentirlo.,,
+VehicleStopsEmpty,Text,,No stops yet,Ancora nessuna fermata,,
+EntitySidePanelAddStop,Text,Add (station or port stop),Add,Aggiungi,,
+EntitySidePanelBoatsStopping,Text,E.g. Boats stopping here: 2,Boats stopping here:,Barche che si fermano qui:,,
+EntitySidePanelTrainsStopping,Text,E.g. Trains stopping here: 2,Trains stopping here:,Treni che si fermano qui:,,
+EntityNameFormat,Text,{0}:owner {1} thing - e.g. Carol's Clipper,{0}'s {1},{0}'s {1},,
+Rubble,Text,Rubble that is left by a destroyed building,Rubble,Macerie,,
+BoatStateMoving,Text,,Sailing,Navigando,,
+BoatStateMovingTo,Text,,Sailing to {0},Navigando verso {0},,
+VehicleStateLoadingResources,Text,,Loading resources,Caricamento risorse,,
+BoatStateQueueing,Text,,Waiting for space at harbour,In attesa di spazio al porto,,
+VehicleStateIdle,Text,,Waiting for assignment,In attesa di incarico,,
+TrainStateMoving,Text,,Travelling,In viaggio,,
+TrainStateMovingTo,Text,,Travelling to {0},In viaggio verso {0},,
+TrainStateQueueing,Text,,Waiting for space at station,In attesa di spazio alla stazione,,
+EntitySidePanelBoatTypeSelect,Text,Select (this boat type),Select,Seleziona,,
+EntitySidePanelBoatTypeSelected,Text,(This boat type is) selected,Selected,Selezionato,,
+EntityTradeTerminalRecurring,Text,recurring (sales order),(recurring),(periodico),,
+EntityTradeTerminalRecurringShort,Text,short for recurring,(rec.),(period.),,
+EntityTradeTerminalOnce,Text,(An order which happens) once,(once),(una volta),,
+EntityTradeTerminalThisVisit,Text,This visit: (1/3 resources),This visit:,Questa visita:,,
+SidePanelSellingRuleSelectResource,Text,,Select a resource to sell,Seleziona una risorsa da vendere,,
+MaximumShort,Text,short for maximum,max,max,,
+BuildingTradeTerminalSellingRuleType_0,Text,(An order which happens) once,Once,Una volta,,
+BuildingTradeTerminalSellingRuleType_1,Text,recurring (sales order),Recurring,Periodico,,
+SidePanelPurchaseRuleSelectResource,Text,,Select a resource to purchase,Seleziona una risorsa da comprare,,
+AnyAmount,Text,,any,qualsiasi,,
+RoadPostOverlayTooltip,Text,{0}: building,Road post for {0},Palo stradale per {0},,
+RoadPostRulesDesc,Text,,Manage the movement of resources through your colony by setting up rules for this road post.,Gestisci lo spostamento delle risorse attraverso la tua colonia impostando le regole per questo palo stradale.,,
+EntityFlagRulesBlacklistDesc,Text,,Resources banned from passing through this road post:,Risorse vietate dal passaggio tramite questo palo stradale:,,
+EntityFlagRulesBlacklistExcStorageDesc,Text,,Resources banned from passing through this road post unless they're headed for a storage yard:,Risorse vietate dal passaggio tramite questo palo stradale tranne quelle dirette verso un deposito:,,
+EntityFlagRulesWhitelistDesc,Text,,Resources allowed through this road post:,Risorse permesse attraverso questo palo stradale:,,
+EntityFlagRulesWhitelistOnlyStorageDesc,Text,,Resources allowed through this road post only if headed to a storage yard:,Risorse permesse attraverso questo palo stradale ma solo se dirette verso un deposito:,,
+EntitySidePanelSelectResourceStore,Text,,Select a resource to store,Seleziona una risorsa da depositare,,
+EntitySidePanelSelectResource,Text,,Select a resource,Seleziona una risorsa,,
+EntitySidePanelRuleBlacklistConfirm,Text,,Ban resource,Vieta una risorsa,,
+EntitySidePanelRuleBlacklistExcStorageConfirm,Text,,Ban resource except for storage,Vieta una risorsa eccetto per il deposito,,
+EntitySidePanelRuleWhitelistConfirm,Text,,Allow this resource,Permetti questa risorsa,,
+EntitySidePanelRuleWhitelistStorageOnlyConfirm,Text,,Allow this resource but only for storage,Permetti questa risorsa ma solo per il deposito,,
 TrackEditorCantRemove,Text,{0}: further error info,"Can't Remove Track
-{0}",,,1931
-TrackCantRemoveReasonStation,Text,,Track is part of train station,,,1932
-NotificationLowStoneAmount,Text,{0}: amount of stone,{0} stone available!,,,1933
-UnitStateHeadingToRoad,Text,,Heading to road,,,1934
+{0}",Impossibile rumuovere tracciato {0},,
+TrackCantRemoveReasonStation,Text,,Track is part of train station,Il tracciato fa parte della stazione ferroviaria,,
+NotificationLowStoneAmount,Text,{0}: amount of stone,{0} stone available!,{0} pietra disponibile,,
+UnitStateHeadingToRoad,Text,,Heading to road,Verso la strada,,
 LoadingGeneric,Text,"A general loading message, e.g. Loading a savegame",Loading,Caricamento,,
-TutorialCantSave,Text,,"Sorry, the first tutorial mission cannot be saved. Don't worry, it doesn't take long to complete!",,,1936
-GameSaved,Text,,Game saved!,,,1937
-SavingGame,Text,,Saving game,,,1938
+TutorialCantSave,Text,,"Sorry, the first tutorial mission cannot be saved. Don't worry, it doesn't take long to complete!","Purtroppo la prima missione tutorial non può essere salvata. Non ti preoccupare, non ci vuole molto per completarla!",,
+GameSaved,Text,,Game saved!,Gioco salvato!,,
+SavingGame,Text,,Saving game,Salvataggio in corso,,
 NoSaveGames,Text,(You have) no saved games,No saved games,Nessuna partita salvata,,
-EnterFilenameText,Text,,Enter text...,,,1940
-CancelResearch,Text,,Cancel Research,,,1941
-CampaignWindow_Rankings,Text,,Rankings,,,1942
-CampaignWindow_BackToInfo,Text,(Return to) scenario info,Scenario Info,,,1943
-CampaignWindow_RankingsName,Text,Name (of player on leaderboard),Name,,,1944
-CampaignWindow_RankingsTime,Text,Time (of leadeboard entry),Time,,,1945
-ScenGameVerErr_7,Text,,Inaccessible shaft mine!,,,1946
-GameComplete_Gold,Text,,Amazing! You achieved a Gold medal!,,,1947
-GameComplete_Silver,Text,,Well done! You earned a silver medal!,,,1948
-GameComplete_Bronze,Text,,Well done! You earned a bronze medal!,,,1949
-GameComplete_NoMedal,Text,,"Well done! Although you didn't earn a medal, you completed the mission!",,,1950
-GameComplete_MilitarySingle,Text,,Well done! You captured their Colony Ship!,,,1951
-GameComplete_MilitaryPlural,Text,,Well done! You captured all the Colony Ships!,,,1952
-GameComplete_Title,Text,,Mission Complete!,,,1953
-GameComplete_NewRecord,Text,,New Record!,,,1954
-GameComplete_NewRank,Text,,New Leaderboard Rank!,,,1955
-GameComplete_Statistics,Text,Go to Statistics page,Statistics,,,1956
-GameComplete_Summary,Text,Go to Summary page,Summary,,,1957
-GameComplete_ContinuePlaying,Text,,Continue Playing,,,1958
-GameComplete_ScenarioScreen,Text,,To Scenario Screen,,,1959
-GameComplete_Stats_AvgProd,Text,,Average Productivity,,,1960
-GameComplete_Stats_MaxProdRate,Text,,Maximum Production Rate,,,1961
-GameComplete_Stats_MaxBlockedRoads,Text,,Maximum Blocked Roads,,,1962
-GameCompletePre_Click,Text,,[click to continue],,,1963
-GameComplete_Default,Text,,Well done! You completed the map!,,,1964
-ConstructionSpacePortPrompt,Text,,Gain Trader Reputation to build more!,,,1965
-Tip_19,Text,,Trains can be used to carry building resources to train stations that are under construction.,,,1966
-Tip_20,Text,,Use unsupported elevated railways to span gaps and obstacles that could otherwise not be reached.,,,1967
-Advice_31_Name,Text,,Check out the Market panel!,,,1968
-Advice_31_Desc,Text,,"Use the Market panel, accessible via the icon in the top-left, to check your money, market prices and your trader reputation.",,,1969
-Advice_32_Name,Text,,Build a <bd>Space Port</bd>!,,,1970
-Advice_32_Desc,Text,,Build a <bd>Space Port</bd> where you can buy and sell resources.,,,1971
-Scenario_10_Name,Text,,River Crossing,,,1972
-Scenario_10_Description,Text,,"As you explore the plains, build a Large Monument and set up Space Ports to trade resources and accumulate $10000.",,,1973
-Scenario_11_Name,Text,,Panning For Gold,,,1974
-Scenario_11_Description,Text,,Find your way around the archipelago as you build a Large Monument and accumulate $20000.,,,1975
-GameComplete_Leaderboard,Text,,Leaderboard,,,1976
-GameComplete_RateMap,Text,Open Steam Workshop for the map just played,Rate Map,,,1977
-GameComplete_CustomMaps,Text,,More Custom Maps,,,1978
-SavingMap,Text,,Saving map...,,,1979
-MapSaved,Text,,Map saved!,,,1980
-MapSavedFailVer,Text,,Map saved but cannot be published or played. Check the verification panel in the top right.,,,1981
-NoMapsYet,Text,(You have) no maps (saved) yet,No maps yet,,,1982
-ScenarioBrowser_MapBy,Text,(Map made) by (creator),by:,,,1983
-ScenarioBrowser_FavouriteAction,Text,Favourite (this map),Favourite,,,1984
-MapCantPlayVer,Text,,Map cannot be played as it is incomplete! Edit and check verification panel!,,,1985
-WorkshopVis_Public,Text,,Public,,,1986
-WorkshopVis_Friends,Text,,Friends Only,,,1987
-WorkshopVis_Private,Text,,Private,,,1988
-Player_Single,Text,{0}: number of players,{0} Player,,,1989
-Player_Plural,Text,{0}: number of players,{0} Players,,,1990
-MapWorkshopStatus_Pub,Text,,Published,,,1991
-MapWorkshopStatus_Unpub,Text,,Unpublished,,,1992
-Map_Modified,Text,Date map was modified,Modified:,,,1993
-Map_Created,Text,Date map was created,Created:,,,1994
-Map_WorkshopVis,Text,,Visibility:,,,1995
-NewVersion_Header,Text,,News,,,1996
-NewVersion_Body,Text,,The Colonists have been updated! Check the patch notes to see what's new.,,,1997
+EnterFilenameText,Text,,Enter text...,Inserisci testo...,,
+CancelResearch,Text,,Cancel Research,Annulla ricerca,,
+CampaignWindow_Rankings,Text,,Rankings,Classifica,,
+CampaignWindow_BackToInfo,Text,(Return to) scenario info,Scenario Info,Informazioni scenario,,
+CampaignWindow_RankingsName,Text,Name (of player on leaderboard),Name,Nome,,
+CampaignWindow_RankingsTime,Text,Time (of leadeboard entry),Time,Titolo,,
+ScenGameVerErr_7,Text,,Inaccessible shaft mine!,Miniera inaccessibile!,,
+GameComplete_Gold,Text,,Amazing! You achieved a Gold medal!,Congraturazioni! Hai ottenuto una medaglia d'oro!,,
+GameComplete_Silver,Text,,Well done! You earned a silver medal!,Molto bene! Hai guadagnato una medaglia d'argento!,,
+GameComplete_Bronze,Text,,Well done! You earned a bronze medal!,Molto bene! Hai guadagnato una medaglia di bronzo!,,
+GameComplete_NoMedal,Text,,"Well done! Although you didn't earn a medal, you completed the mission!","Molto bene! Anche se non hai guadagnato una medaglia, hai completato la missione!",,
+GameComplete_MilitarySingle,Text,,Well done! You captured their Colony Ship!,Molto bene! Hai catturato la loro Nave della Colonia!,,
+GameComplete_MilitaryPlural,Text,,Well done! You captured all the Colony Ships!,Molto bene! Hai catturato tutte le Navi delle Colonie,,
+GameComplete_Title,Text,,Mission Complete!,Missione completata!,,
+GameComplete_NewRecord,Text,,New Record!,Nuovo record!,,
+GameComplete_NewRank,Text,,New Leaderboard Rank!,Nuova posizione nella classifica!,,
+GameComplete_Statistics,Text,Go to Statistics page,Statistics,Statistiche,,
+GameComplete_Summary,Text,Go to Summary page,Summary,Sommario,,
+GameComplete_ContinuePlaying,Text,,Continue Playing,Continua a giocare,,
+GameComplete_ScenarioScreen,Text,,To Scenario Screen,Vai schermata di selezione scenario,,
+GameComplete_Stats_AvgProd,Text,,Average Productivity,Produttività media,,
+GameComplete_Stats_MaxProdRate,Text,,Maximum Production Rate,Tasso di produzione massimo,,
+GameComplete_Stats_MaxBlockedRoads,Text,,Maximum Blocked Roads,Strade massime bloccate,,
+GameCompletePre_Click,Text,,[click to continue],[click to continue],,
+GameComplete_Default,Text,,Well done! You completed the map!,Ben fatto! Hai completato la mappa!,,
+ConstructionSpacePortPrompt,Text,,Gain Trader Reputation to build more!,Guadagna reputazione come commerciante per costruirne ancora!,,
+Tip_19,Text,,Trains can be used to carry building resources to train stations that are under construction.,I treni possono essere usati per trasportare risorse da costruzione alle stazioni che sono in costruzione.,,
+Tip_20,Text,,Use unsupported elevated railways to span gaps and obstacles that could otherwise not be reached.,Usa ferrovie sopraelevate senza supporti per superare ostacoli e raggiungere punti che altrimenti non potrebbero essere raggiunti,,
+Advice_31_Name,Text,,Check out the Market panel!,Dai un'occhiata al pannello del mercato!,,
+Advice_31_Desc,Text,,"Use the Market panel, accessible via the icon in the top-left, to check your money, market prices and your trader reputation.","Usa il pannello del mercato, accessibile tramite l'icona in alto a sinistra, per controllare i tuoi soldi, i soldi del mercato e la tua reputazione di commerciante.",,
+Advice_32_Name,Text,,Build a <bd>Space Port</bd>!,Costruisci un <bd>Porto Spaziale</bd>!,,
+Advice_32_Desc,Text,,Build a <bd>Space Port</bd> where you can buy and sell resources.,Costruisci un <bd>Porto Spaziale</bd> dove puoi vendere e comprare risorse.,,
+Scenario_10_Name,Text,,River Crossing,Attraversamento del fiume,,
+Scenario_10_Description,Text,,"As you explore the plains, build a Large Monument and set up Space Ports to trade resources and accumulate $10000.","Mentre esplori le pianure, costruisci un Monumento Grande e imposta Porti Spaziali per scambiare risorse e accumulare %10000.",,
+Scenario_11_Name,Text,,Panning For Gold,Alla ricerca d'oro,,
+Scenario_11_Description,Text,,Find your way around the archipelago as you build a Large Monument and accumulate $20000.,Fatti strada nell'arcipelago mentre costruisci un Monumento Grande e accumuli $20000.,,
+GameComplete_Leaderboard,Text,,Leaderboard,Classifica,,
+GameComplete_RateMap,Text,Open Steam Workshop for the map just played,Rate Map,Vota mappa,,
+GameComplete_CustomMaps,Text,,More Custom Maps,Altre mappe ,,
+SavingMap,Text,,Saving map...,Salvataggio mappa...,,
+MapSaved,Text,,Map saved!,Mappa salvata!,,
+MapSavedFailVer,Text,,Map saved but cannot be published or played. Check the verification panel in the top right.,La mappa è stata salvata ma non può essere pubblicata. Controlla il pannello di verifica in alto a destra.,,
+NoMapsYet,Text,(You have) no maps (saved) yet,No maps yet,Ancora nessuna mappa,,
+ScenarioBrowser_MapBy,Text,(Map made) by (creator),by:,da:,,
+ScenarioBrowser_FavouriteAction,Text,Favourite (this map),Favourite,Preferito,,
+MapCantPlayVer,Text,,Map cannot be played as it is incomplete! Edit and check verification panel!,Una mappa non può essere giocata se incompleta! Modificala e controlla il pannello di verifica!,,
+WorkshopVis_Public,Text,,Public,Pubblico,,
+WorkshopVis_Friends,Text,,Friends Only,Solo amici,,
+WorkshopVis_Private,Text,,Private,Privato,,
+Player_Single,Text,{0}: number of players,{0} Player,{0} Giocatore,,
+Player_Plural,Text,{0}: number of players,{0} Players,{0} Giocatori,,
+MapWorkshopStatus_Pub,Text,,Published,Pubblicato,,
+MapWorkshopStatus_Unpub,Text,,Unpublished,Non pubblicato,,
+Map_Modified,Text,Date map was modified,Modified:,Modificato:,,
+Map_Created,Text,Date map was created,Created:,Creato:,,
+Map_WorkshopVis,Text,,Visibility:,Visibilità:,,
+NewVersion_Header,Text,,News,Novità,,
+NewVersion_Body,Text,,The Colonists have been updated! Check the patch notes to see what's new.,The Colonist è stato aggiornato! Controlla l'elenco delle modifiche per vedere cosa c'è di nuovo.,,
 NewVersion_OldV,Text,,Old version:,Vecchia versione:,,
 NewVersion_NewV,Text,,New version:,Nuova versione:,,
 NewVersion_ViewPatchNotes,Text,,View Patch Notes,Vedi novità,,
 NewVersion_Continue,Text,,Continue,Continua,,
 UpdateAvailable_Steam,Text,,"{0} is available!
 
-Check your Steam Downloads.",,,2002
+Check your Steam Downloads.","{0} è disponibile!
+
+Controlla i tuoi download di Steam.",,
 UpdateAvailable_NonSteam,Text,,"{0} is available!
 
-Check your downloads.",,,2003
-OK,Text,Alert window confirmation,OK,,,2004
-BugReport_Header,Text,,Bug Report Generated,,,2005
-BugReport_Body_Manual,Text,,Please send the following file to codebyfire@gmail.com or post it in Discord along with a short description of what has gone wrong.,,,2006
-BugReport_Body_Auto,Text,,An error has been caught and a bug report generated. Please send the following file to codebyfire@gmail.com or post it in Discord. Depending on the bug you may be able to continue playing.,,,2007
+Check your downloads.","{0} è disponibile!
+
+Controlla i tuoi download.",,
+OK,Text,Alert window confirmation,OK,OK,,
+BugReport_Header,Text,,Bug Report Generated,Bug-report generato,,
+BugReport_Body_Manual,Text,,Please send the following file to codebyfire@gmail.com or post it in Discord along with a short description of what has gone wrong.,Per piacere invia il seguente file a codebyfire@gmail.com o invialo su Discord con una descrizione su cosa è andato storto.,,
+BugReport_Body_Auto,Text,,An error has been caught and a bug report generated. Please send the following file to codebyfire@gmail.com or post it in Discord. Depending on the bug you may be able to continue playing.,Un errore è stato rilevato e un bug-report è stato generato. Per piacere invia il seguente file a codebyfire@gmail.com o invialo su Discord. A seconda della gravità del bug potresti essere in grado di continuare a giocare.,,
 BugReport_OpenFile,Text,,Open in Explorer,Apri in Esplora Risorse,,
 GenBugReport,Text,,Generating bug report...,Generazione bug-report...,,
-AlertNoForestryTiles,Text,,Forestry has no tiles set,,,2010
-AlertLumberjackNoTrees,Text,,Lumberjack has no trees to chop,,,2011
-NatResReq,Text,{0}: level {1}:building e.g. Requires Level 1 Shaft Mine,Requires {0} {1},,,2012
-ResearchNotAvailable,Text,Tech research isn't available,Not available in this mission!,,,2013
-ResourceCatDemandTooltip_Single,Text,"{0}: amount, {1}: resource category, e.g. ""1 building needs a construction resource",{0} building need a {1} resource,,,2014
-ResourceCatDemandTooltip_Plural,Text,"{0}: amount, {1}: resource category, e.g. ""1 building needs a construction resource",{0} buildings need a {1} resource,,,2015
-OverwriteConfirm,Text,{0}:file name,Overwrite {0}?,,,2016
-TrackConstructionMode,Text,On main icon when constructing railway track,Track,,,2017
-ExpeditionHarbour_ExpeditionInvalid,Text,(shown for normal harbours when assigning lugger expedition),Harbour too small,,,2018
-EntityTransportVehicleStopsSetRoute,Text,Set a route for a boat or train,Set Route,,,2019
-EntityInfoSelectExportBuildingIntro_Empty,Text,When selecting export rules for a building,You currently have no buildings that {0} can export to.,,,2020
-EntityInfoSelectImportBuildingIntro_Empty,Text,When selecting import rules for a building,You currently have no buildings that {0} can import from.,,,2021
-TreeGrowthTime,Text,How long a tree takes to grow,Growth Time: {0},,,2022
-ExpeditionHarbour_ExpeditionInvalidClipper,Text,(shown for big harbourwhen assigning clipper expedition),Boat too small,,,2023
-TrackSection,Text,Any single piece of railway track,Track section,,,2024
-EntityBuildingStatsUI_DeliveredEmpty,Text,No resources have been delivered (to this building) yet,No resources have been delivered yet,,,2025
+AlertNoForestryTiles,Text,,Forestry has no tiles set,La Guardia Forestale non ha caselle impostate,,
+AlertLumberjackNoTrees,Text,,Lumberjack has no trees to chop,Il taglialegna non ha alberi da tagliare,,
+NatResReq,Text,{0}: level {1}:building e.g. Requires Level 1 Shaft Mine,Requires {0} {1},Richiede {0} {1},,
+ResearchNotAvailable,Text,Tech research isn't available,Not available in this mission!,Non disponibile in questa missione!,,
+ResourceCatDemandTooltip_Single,Text,"{0}: amount, {1}: resource category, e.g. ""1 building needs a construction resource",{0} building need a {1} resource,{0} edificio ha bisogno di {1} risorsa,,
+ResourceCatDemandTooltip_Plural,Text,"{0}: amount, {1}: resource category, e.g. ""1 building needs a construction resource",{0} buildings need a {1} resource,{0} edifici hanno bisogno di {1} risorsa,,
+OverwriteConfirm,Text,{0}:file name,Overwrite {0}?,Sovrascrivere {0}?,,
+TrackConstructionMode,Text,On main icon when constructing railway track,Track,Tracciato,,
+ExpeditionHarbour_ExpeditionInvalid,Text,(shown for normal harbours when assigning lugger expedition),Harbour too small,Porto troppo piccolo,,
+EntityTransportVehicleStopsSetRoute,Text,Set a route for a boat or train,Set Route,Imposta percorso,,
+EntityInfoSelectExportBuildingIntro_Empty,Text,When selecting export rules for a building,You currently have no buildings that {0} can export to.,Non hai edifici in cui esportare {0},,
+EntityInfoSelectImportBuildingIntro_Empty,Text,When selecting import rules for a building,You currently have no buildings that {0} can import from.,Non hai edifici da cui importare {0},,
+TreeGrowthTime,Text,How long a tree takes to grow,Growth Time: {0},Tempo di crescita: {0},,
+ExpeditionHarbour_ExpeditionInvalidClipper,Text,(shown for big harbourwhen assigning clipper expedition),Boat too small,Barca troppo piccola,,
+TrackSection,Text,Any single piece of railway track,Track section,Sezione di tracciato,,
+EntityBuildingStatsUI_DeliveredEmpty,Text,No resources have been delivered (to this building) yet,No resources have been delivered yet,Nessuna risorsa è stata ancora consegnata,,
 DestroyResourceWarning,Text,"Warning before destroying a resource.
 {0} is the hotkey","Destroying this resource means it will no longer reach its destination and target building will try to locate another resource. Are you sure?
 
-Hold [{0}] to skip this message.",,,2026
-BuildingStorageUI_EnRoute_ImportList,Text,,Note: you have set import rules which limit where resources can be imported from.,,,2027
+Hold [{0}] to skip this message.","Distruggere questa risorsa significa che non raggiungerà più la sua destinazione e che l'edificio di destinazione tenterà di localizzare un'altra risorsa. Sei sicuro?
+
+Tieni premuto [{0}] per saltare questo messaggio.",,
+BuildingStorageUI_EnRoute_ImportList,Text,,Note: you have set import rules which limit where resources can be imported from.,Nota: hai impostato regole di importazione che limitano la provenienza delle risorse.,,
 Route_Via,Text,{0}: building name E.g. (This resource has arrived at Sara's Lumberjack Hut via Terry's Storage Yard,Via {0},attraverso {0},,
 GameSettingsInterfaceTextSize,Text,,Interface text size,Dimensioni testo interfaccia,,
 GameSettingsInterfaceTextSize_Normal,Text,,Normal,Normale,,
@@ -2483,8 +2491,14 @@ You can click on a resource in the list and it will show you the route the resou
 
 A building will always source the nearest available resource at the time. Once a resource has been sourced its destination is fixed.
 
-Use rules at road posts, harbours and train stations to control where resources are sourced from, as well as import and export whitelists on buildings. ",,,
-Building_66_Description,Text,,Create <it>Vegetables</it> from vegetable plots.,,,
+Use rules at road posts, harbours and train stations to control where resources are sourced from, as well as import and export whitelists on buildings. ","Questo pannello mostra tutte le risorse attualmente in viaggio per questo edificio, nonché le risorse che sono arrivate di recente.
+
+Puoi fare clic su una risorsa nell'elenco e ti mostrerà il percorso che la risorsa ha preso dall'edificio in cui è stata creata.
+
+Un edificio fornirà sempre la risorsa disponibile più vicina. Una volta che una risorsa è stata inviata, la sua destinazione è fissa.
+
+Usa le regole ai pali stradali, nei porti e nelle stazioni ferroviarie per controllare da dove provengono le risorse, nonché importare ed esportare liste delle richieste sugli edifici.",,
+Building_66_Description,Text,,Create <it>Vegetables</it> from vegetable plots.,Crea <it>Verdure</it> dagli orti.,,
 Building_66_Name,Text,,Vegetable Farm,Fattoria di Verdure,,
 Building_66_Plural,Text,,Vegetable Farms,Fattorie di Verdure,,
 Building_66_Worker,Text,,Farmbot,BotContadino,,
