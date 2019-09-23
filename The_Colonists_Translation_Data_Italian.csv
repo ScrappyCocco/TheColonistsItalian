@@ -314,7 +314,7 @@ Building_65_Worker,Text,,Stackbot,BotImpilatore,,
 Building_6_Description,Text,,Allows transportation of resources with trains.,Permette il trasporto di risorse tramite treni.,,
 Building_6_Name,Text,,Train Station,Stazione dei treni,,
 Building_6_Plural,Text,,Train Stations,Stazioni dei treni,,
-Building_6_Worker,Text,,Stationbot,??? - TODO,,
+Building_6_Worker,Text,,Stationbot,BotCapostazione,,
 Buildings,Text,,Buildings,Edifici,,
 BuildingsPanelAllBuildings,Text,,<< All Buildings,<< Tutti gli edifici,,
 Campaign,Text,,Campaign,Campagna,,
@@ -420,7 +420,7 @@ EntityBuildingPriorityLayersFinishAction,Text,,Finish,Fine,,
 EntityBuildingPriorityLayersForestryDesc,Text,,"Set the area in which the treebot can plant trees.
 
 Click or click and drag to set tiles.
-<hotkey>[Shift]</hotkey> click a tile to unset it.","Seleziona l'area in cui il BotTaglialegna può piantare alberi. 
+<hotkey>[Shift]</hotkey> click a tile to unset it.","Seleziona l'area in cui il BotForestale può piantare alberi. 
 
 Clicca o clicca e trascina per selezionare le caselle.
 <hotkey>[Shift]</hotkey> clicca una casella per de-selezionarla.",,
@@ -1668,64 +1668,64 @@ TerrainType_7,Text,,Ice,Ghiacciato,,
 TerrainType_8,Text,,Dirt,Fangoso,,
 TerrainType_9,Text,,Swamp A,Paludoso A,,
 Territory,Text,The area which the player owns,Territory,Territorio,,
-This map is incomplete! Open in the map editor and check the verification panel.,Text,,This map is incomplete! Open in the map editor and check the verification panel.,,,1355
-Tip_0,Text,,You are always able to construct Level 1 buildings if you run out of resources for higher level ones.,,,1356
-Tip_1,Text,,You will always be able to find an underground deposit of <nr>Stone</nr> on the map somewhere.,,,1357
-Tip_10,Text,,Use the Map to check the location and amount of natural resources you have inside and outside of your territory.,,,1358
-Tip_11,Text,,Use the priority panel on a Lumberjack Hut to prioritise trees you want to chop down first.,,,1359
-Tip_12,Text,,If you have a wall in the landscape you need to remove use the Sculpt tool in the bottom right of the screen.,,,1360
-Tip_13,Text,,You can create paths and then build roads on top of them later.,,,1361
-Tip_14,Text,,Right-click at any point to cancel the mode you're in.,,,1362
-Tip_15,Text,,Expand more quickly by constructing higher level <bd>Watchtowers</bd>.,,,1363
-Tip_16,Text,,Use <hotkey>[H]</hotkey> to jump back to your <bd>Colony Ship</bd>.,,,1364
-Tip_17,Text,,Prioritise a building to make it request resources before all other buildings. You can also do this by holding <hotkey>[P]</hotkey> and clicking the building.,,,1365
-Tip_18,Text,,Use <hotkey>[F]</hotkey> to flip a building's orientation.,,,1366
-Tip_2,Text,,When building a <lr>Road</lr> hold <hotkey>[Ctrl]</hotkey> and click to fix waypoint tiles to the road you're placing.,,,1367
-Tip_3,Text,,"If two buildings share a path then a Stackbot can deliver straight from one building to another, helping to reduce traffic on your roads.",,,1368
-Tip_4,Text,,Check the resource panel to check whether you're producing enough of a resource to meet demand.,,,1369
-Tip_5,Text,,"If resources are regularly being delivered over a long distance, build a <bd>Storage Yard</bd> near the destination building to keep a surplus of resources nearby.",,,1370
-Tip_6,Text,,Jump to build modes using hotkeys <hotkey>[1]</hotkey> through <hotkey>[9]</hotkey>.,,,1371
-Tip_7,Text,,You can quickly upgrade a building by holding <hotkey>[U]</hotkey> and clicking it.,,,1372
-Tip_8,Text,,"If a route is likely to be a busy one in your colony, build short roads to move resources as quickly as possible.",,,1373
-Tip_9,Text,,You can help alleviate busy roads by upgrading them with the <bd>Road Layer</bd> building.,,,1374
-TrackConstruction,Text,,Track Construction,,,1375
-TrackConstructionDirectionElevation,Text,Section for direction and elevation of next track piece,Direction & Elevation,,,1376
-TrackConstructionPlace,Text,Button to place track,Place Track,,,1377
-TrackConstructionRemove,Text,Action to remove track,Remove Track,,,1378
-TrackConstructionSBend,Text,,S-Bend,,,1379
-TrackConstructionStep,Text,,Step,,,1380
-TrackConstructionSupportedHeight,Text,,Current support height:,,,1381
-TrackConstructionType,Text,"Which type of track is it - land, bridge or unsupported bridge",Type,,,1382
-TrackConstructionUnsupportedLength,Text,The current length of track the player is building that is unsupported,Unsupported length:,,,1383
-TrackDirectionMode_0,Text,,Straight,,,1384
-TrackDirectionMode_1,Text,,Left,,,1385
-TrackDirectionMode_2,Text,,Right,,,1386
-TrackDirectionMode_255,Text,,None,,,1387
-TrackElevationMode_0,Text,,Flat,,,1388
-TrackElevationMode_1,Text,,Up,,,1389
-TrackElevationMode_2,Text,,Down,,,1390
-TrackElevationMode_255,Text,,None,,,1391
-TrackLandMode_0,Text,,Land,,,1392
-TrackLandMode_1,Text,,Unsupported Bridge,,,1393
-TrackLandMode_2,Text,,Supported Bridge,,,1394
-TrackSpecialMode_0,Text,,S-Bend Left,,,1395
-TrackSpecialMode_1,Text,,S-Bend Right,,,1396
-TrackSpecialMode_255,Text,,None,,,1397
-TrackStepMode_0,Text,,Step Up,,,1398
-TrackStepMode_1,Text,,Step Down,,,1399
-TrackStepMode_2,Text,,Small Step Up,,,1400
-TrackStepMode_255,Text,,None,,,1401
-TrackStepMode_3,Text,,Small Step Down,,,1402
-TraderRep_0_Name,Text,,Unknown,,,1403
-TraderRep_1_Name,Text,,Local Trader,,,1404
-TraderRep_2_Name,Text,,Master Merchant,,,1405
-TraderRep_3_Name,Text,,Planetary Dealer,,,1406
-TraderRep_4_Name,Text,,Galactic Trader,,,1407
-TrainEngine_0_Name,Text,,Coal Engine,,,1408
-TrainHopper_0_Name,Text,,Hopper,,,1409
-Train_0_Desc,Text,,Basic coal engine with three hoppers,,,1410
-Train_0_Name,Text,,Locomotive,,,1411
-Transport Priorities,Text,,Transport Priorities,,,1412
+This map is incomplete! Open in the map editor and check the verification panel.,Text,,This map is incomplete! Open in the map editor and check the verification panel.,Questa mappa è incompleta! Apri l'editor e controlla il pannello di verifica.,,
+Tip_0,Text,,You are always able to construct Level 1 buildings if you run out of resources for higher level ones.,Sei sempre in grado di costruire edifici di livello 1 se esaurisci le risorse per quelli di livello superiore.,,
+Tip_1,Text,,You will always be able to find an underground deposit of <nr>Stone</nr> on the map somewhere.,Sarai sempre in grado di trovare un deposito sotterraneo di <nr>Pietra</nr> sulla mappa da qualche parte.,,
+Tip_10,Text,,Use the Map to check the location and amount of natural resources you have inside and outside of your territory.,Utilizza la Mappa per verificare la posizione e la quantità di risorse naturali presenti all'interno e all'esterno del tuo territorio.,,
+Tip_11,Text,,Use the priority panel on a Lumberjack Hut to prioritise trees you want to chop down first.,Usa il pannello di priorità su una Capanna del Taglialegna per dare la priorità agli alberi che vuoi abbattere per primi.,,
+Tip_12,Text,,If you have a wall in the landscape you need to remove use the Sculpt tool in the bottom right of the screen.,"Se c'è un muro nel paesaggio che devi rimuovere, usa lo strumento Scolpisci nella parte in basso a destra dello schermo.",,
+Tip_13,Text,,You can create paths and then build roads on top of them later.,Puoi creare percorsi e poi costruirci delle strade in seguito.,,
+Tip_14,Text,,Right-click at any point to cancel the mode you're in.,Fai clic con il pulsante destro del mouse in qualsiasi momento per annullare la modalità in cui ti trovi.,,
+Tip_15,Text,,Expand more quickly by constructing higher level <bd>Watchtowers</bd>.,Espanditi più rapidamente costruendo <bd>Torri di Guardia</bd> di livello superiore.,,
+Tip_16,Text,,Use <hotkey>[H]</hotkey> to jump back to your <bd>Colony Ship</bd>.,Utilizza <hotkey>[H]</hotkey> per tornare alla <bd>Nave della Colonia</bd>,,
+Tip_17,Text,,Prioritise a building to make it request resources before all other buildings. You can also do this by holding <hotkey>[P]</hotkey> and clicking the building.,Prioritizza un edificio per fargli richiedere risorse prima di tutti gli altri edifici. Puoi farlo anche tenendo premuto <hotkey>[P]</hotjey> e cliccando l'edificio.,,
+Tip_18,Text,,Use <hotkey>[F]</hotkey> to flip a building's orientation.,Utilizza <hotkey>[F]</hotkey> per capovolgere l'orientamento di un edificio.,,
+Tip_2,Text,,When building a <lr>Road</lr> hold <hotkey>[Ctrl]</hotkey> and click to fix waypoint tiles to the road you're placing.,Mentre costruisci una <lr>Strada</lr> tieni premuto <hotkey>[Ctrl]</hotkey> e clicca per fissare una posizione intermedia sulla strada che stai piazzando.,,
+Tip_3,Text,,"If two buildings share a path then a Stackbot can deliver straight from one building to another, helping to reduce traffic on your roads.","Se due Edifici condividono un sentiero, il BotImpilatore può consegnare direttamente le risorse da un edificio all'altro, riducendo il traffico sulle strade.",,
+Tip_4,Text,,Check the resource panel to check whether you're producing enough of a resource to meet demand.,Controlla il pannello risorse per essere sicuro di produrre abbastanza una risorsa da soddisfarne la domanda.,,
+Tip_5,Text,,"If resources are regularly being delivered over a long distance, build a <bd>Storage Yard</bd> near the destination building to keep a surplus of resources nearby.","Se delle risorse sono inviate a lunghe distanze spesso, costruisci un <bd>Deposito</bd> vicino alla destinazione per tenerne una scorta.",,
+Tip_6,Text,,Jump to build modes using hotkeys <hotkey>[1]</hotkey> through <hotkey>[9]</hotkey>.,Passa da una modalità di costruzione all'altra utilizzando i tasti da <hotkey>[1]</hotkey> fino a <hotkey>[9]</hotkey>.,,
+Tip_7,Text,,You can quickly upgrade a building by holding <hotkey>[U]</hotkey> and clicking it.,Puoi migliorare velocemente un edificio tenendo premuto <hotkey>[U]</hotkey> e cliccandolo.,,
+Tip_8,Text,,"If a route is likely to be a busy one in your colony, build short roads to move resources as quickly as possible.","Se sai che una strada sarà molto trafficata, costruisci strade brevi per far muovere le risorse più velocemente possibile.",,
+Tip_9,Text,,You can help alleviate busy roads by upgrading them with the <bd>Road Layer</bd> building.,Puoi alleviare il traffico sulle strade trafficate migliorandole con il <bd>Manto Stradale</bd>,,
+TrackConstruction,Text,,Track Construction,Costruzione tracciato,,
+TrackConstructionDirectionElevation,Text,Section for direction and elevation of next track piece,Direction & Elevation,Direzione & Elevazione,,
+TrackConstructionPlace,Text,Button to place track,Place Track,Piazza tracciato,,
+TrackConstructionRemove,Text,Action to remove track,Remove Track,Rimuovi tracciato,,
+TrackConstructionSBend,Text,,S-Bend,Curva ad S,,
+TrackConstructionStep,Text,,Step,Gradino,,
+TrackConstructionSupportedHeight,Text,,Current support height:,Altezza supportata:,,
+TrackConstructionType,Text,"Which type of track is it - land, bridge or unsupported bridge",Type,Tipo,,
+TrackConstructionUnsupportedLength,Text,The current length of track the player is building that is unsupported,Unsupported length:,Lunghezza non supportata:,,
+TrackDirectionMode_0,Text,,Straight,Dritto,,
+TrackDirectionMode_1,Text,,Left,Sinistra,,
+TrackDirectionMode_2,Text,,Right,Destra,,
+TrackDirectionMode_255,Text,,None,Nessuno,,
+TrackElevationMode_0,Text,,Flat,Piatto,,
+TrackElevationMode_1,Text,,Up,Su,,
+TrackElevationMode_2,Text,,Down,Giù,,
+TrackElevationMode_255,Text,,None,Nessuno,,
+TrackLandMode_0,Text,,Land,Terra,,
+TrackLandMode_1,Text,,Unsupported Bridge,Ponte senza supporti,,
+TrackLandMode_2,Text,,Supported Bridge,Ponte con supporti,,
+TrackSpecialMode_0,Text,,S-Bend Left,Curva a S a sinistra,,
+TrackSpecialMode_1,Text,,S-Bend Right,Curva a S a destra,,
+TrackSpecialMode_255,Text,,None,Nessuno,,
+TrackStepMode_0,Text,,Step Up,Passo in su,,
+TrackStepMode_1,Text,,Step Down,Passo in giù,,
+TrackStepMode_2,Text,,Small Step Up,Piccolo passo in su,,
+TrackStepMode_255,Text,,None,Nessuno,,
+TrackStepMode_3,Text,,Small Step Down,Piccolo passo in giù,,
+TraderRep_0_Name,Text,,Unknown,Sconosciuto,,
+TraderRep_1_Name,Text,,Local Trader,Commerciante locale,,
+TraderRep_2_Name,Text,,Master Merchant,Maestro mercante,,
+TraderRep_3_Name,Text,,Planetary Dealer,Rivenditore planetario,,
+TraderRep_4_Name,Text,,Galactic Trader,Commerciante Galattico,,
+TrainEngine_0_Name,Text,,Coal Engine,Motore a carbone,,
+TrainHopper_0_Name,Text,,Hopper,Tramoggia,,
+Train_0_Desc,Text,,Basic coal engine with three hoppers,Motore a carbone di base con tre tramogge,,
+Train_0_Name,Text,,Locomotive,Locomotiva,,
+Transport Priorities,Text,,Transport Priorities,Priorità di trasporto,,
 TutorialDialogues_T1_BuildAnotherFishingHut,Text,,"Fantastic! You now have the capacity to produce more <it>Energy L1</it>.
 But more <bd>Residences</bd> mean more Housebot needs, so demand for <it>Water</it> and <cat>Food</cat> has also increased.
 Build another <bd>Fishing Hut</bd> on the coast to increase your <cat>Food</cat> production.",,,1413
@@ -1915,59 +1915,59 @@ While Level 2 Watchtowers give more territory they do require <it>Planks</it> an
 So if you don't have access to, or don't wish to use your <it>Stone</it> you are always able to expand your territory using Level 1 Watchtowers.",,,1510
 TutorialDialogues__Overlay_WorkshopUpgraded,Text,,"You now have a Level 2 <bd>Workshop</bd> which can research more advanced technologies!
 Research <res>Mining I</res> so that you can begin mining the <nr>Coal</nr> and <nr>Iron Ore</nr> you need to make the <it>Iron</it> required for the <bd>Monument</bd>.",,,1511
-UICategory_0_Name,Text,,Energy,,,1512
-UICategory_1_Name,Text,,Construction,,,1513
-UICategory_2_Name,Text,,Water & Food,,,1514
-UICategory_3_Name,Text,,Ores,,,1515
-UICategory_4_Name,Text,,Goods,,,1516
-UICategory_5_Name,Text,,Fuel,,,1517
-UICategory_6_Name,Text,,Military,,,1518
-Unit_0_Name,Text,,Carrybot,,,1519
-Unit_10_Name,Text,,Guardbot,,,1520
-Unit_11_Name,Text,,Waterbot,,,1521
-Unit_12_Name,Text,,Repairbot,,,1522
-Unit_15_Name,Text,,Roadbot,,,1523
-Unit_16_Name,Text,,Researchbot,,,1524
-Unit_17_Name,Text,,Farmbot,,,1525
-Unit_18_Name,Text,Captain of a boat,Captainbot,,,1526
-Unit_19_Name,Text,,Farmbot,,,1527
-Unit_1_Name,Text,,Stackbot,,,1528
-Unit_20_Name,Text,,Minebot,,,1529
-Unit_21_Name,Text,,Bakerbot,,,1530
-Unit_22_Name,Text,,Smithbot,,,1531
-Unit_23_Name,Text,,Driverbot,,,1532
-Unit_2_Name,Text,,Buildbot,,,1533
-Unit_3_Name,Text,,Housebot,,,1534
-Unit_4_Name,Text,,Workerbot,,,1535
-Unit_5_Name,Text,,Lumberbot,,,1536
-Unit_6_Name,Text,,Minerbot,,,1537
-Unit_7_Name,Text,,Shipwrightbot,,,1538
-Unit_8_Name,Text,,Treebot,,,1539
-Unit_9_Name,Text,,Fisherbot,,,1540
-Unsubscribe,Text,Unsubscribe from a map,Unsubscribe,,,1541
+UICategory_0_Name,Text,,Energy,Energia,,
+UICategory_1_Name,Text,,Construction,Costruzione,,
+UICategory_2_Name,Text,,Water & Food,Acqua & Cibo,,
+UICategory_3_Name,Text,,Ores,Minerali,,
+UICategory_4_Name,Text,,Goods,Merce,,
+UICategory_5_Name,Text,,Fuel,Carburante,,
+UICategory_6_Name,Text,,Military,Militare,,
+Unit_0_Name,Text,,Carrybot,BotTrasportatore,,
+Unit_10_Name,Text,,Guardbot,BotGuardia,,
+Unit_11_Name,Text,,Waterbot,AcquaBot,,
+Unit_12_Name,Text,,Repairbot,BotRiparatore,,
+Unit_15_Name,Text,,Roadbot,BotAsfaltatore,,
+Unit_16_Name,Text,,Researchbot,BotRicercatore,,
+Unit_17_Name,Text,,Farmbot,BotContadino,,
+Unit_18_Name,Text,Captain of a boat,Captainbot,BotCapitano,,
+Unit_19_Name,Text,,Farmbot,BotContadino,,
+Unit_1_Name,Text,,Stackbot,BotImpilatore,,
+Unit_20_Name,Text,,Minebot,BotMinatore,,
+Unit_21_Name,Text,,Bakerbot,BotFornaio,,
+Unit_22_Name,Text,,Smithbot,BotFabbro,,
+Unit_23_Name,Text,,Driverbot,BotGuidatore,,
+Unit_2_Name,Text,,Buildbot,BotCostruttore,,
+Unit_3_Name,Text,,Housebot,BotCasalingo,,
+Unit_4_Name,Text,,Workerbot,BotLavoratore,,
+Unit_5_Name,Text,,Lumberbot,BotTaglialegna,,
+Unit_6_Name,Text,,Minerbot,BotMinatore,,
+Unit_7_Name,Text,,Shipwrightbot,BotCostruttore,,
+Unit_8_Name,Text,,Treebot,BotForestale,,
+Unit_9_Name,Text,,Fisherbot,BotPescatore,,
+Unsubscribe,Text,Unsubscribe from a map,Unsubscribe,Disiscrivi,,
 User Maps,Text,,User Maps,Mappe degli utenti,,
 Username,Text,,Username,Username,,
-Utility_0_Name,Text,In map editor the marker on the terrain for where a player starts,Player Start Marker,,,1544
-ViewTypeLastMonth,Text,,Last Month,,,1545
-ViewTypeLastYear,Text,,Last Year,,,1546
+Utility_0_Name,Text,In map editor the marker on the terrain for where a player starts,Player Start Marker,Indicatore di inizio del giocatore,,
+ViewTypeLastMonth,Text,,Last Month,Ultimo mese,,
+ViewTypeLastYear,Text,,Last Year,Ultimo anno,,
 Width,Text,,Width,Larghezza,,
-Workshop,Text,,Workshop,,,1548
-Workshop Browser,Text,,Workshop Browser,,,1549
-Workshop Maps,Text,,Workshop Maps,,,1550
-WorkshopQuerySort_0,Text,,Sort by rating,,,1551
-WorkshopQuerySort_1,Text,,Sort by date,,,1552
-WorkshopQuerySort_12,Text,,Sort by subscriptions,,,1553
-"Yes, Unpublish!",Text,,"Yes, Unpublish!",,,1554
-StartHeight_0,Text,,Deep sea,,,1555
-StartHeight_1,Text,,Shallow sea,,,1556
-StartHeight_2,Text,,Low land,,,1557
-StartHeight_3,Text,,High land,,,1558
-StartHeight_4,Text,,Mountain,,,1559
-GameSpeed_Paused,Text,,Paused,,,1560
-GameSpeed_Speed,Text,,Speed,,,1561
+Workshop,Text,,Workshop,Workshop,,
+Workshop Browser,Text,,Workshop Browser,Esplora il Workshop,,
+Workshop Maps,Text,,Workshop Maps,Mappe del Workshop,,
+WorkshopQuerySort_0,Text,,Sort by rating,Ordina per valutazione,,
+WorkshopQuerySort_1,Text,,Sort by date,Ordina per data,,
+WorkshopQuerySort_12,Text,,Sort by subscriptions,Ordina per sottoscrizioni,,
+"Yes, Unpublish!",Text,,"Yes, Unpublish!","Si, rimuovilo dalle pubblicazioni",,
+StartHeight_0,Text,,Deep sea,Mare profondo,,
+StartHeight_1,Text,,Shallow sea,Mare poco profondo,,
+StartHeight_2,Text,,Low land,Pianura,,
+StartHeight_3,Text,,High land,Area montuosa,,
+StartHeight_4,Text,,Mountain,Montagna,,
+GameSpeed_Paused,Text,,Paused,In pausa,,
+GameSpeed_Speed,Text,,Speed,Velocità,,
 GameMenu_UnsavedProgress,Text,,You have unsaved progress. Quit anyway?,Hai progressi non salvati. Uscire comunque?,,
 ChooseLanguage,Text,,Choose Language,Scegli la Lingua,,
-Store_Promo,Text,Change English to your language,The Colonists is now available in English!,,,1564
+Store_Promo,Text,Change English to your language,The Colonists is now available in English!,The Colonist è ora disponibile in Italiano!,,
 Store_Description,Text,,"The Colonists is a relaxing settlement building game inspired by classic titles like The Settlers and the Anno series.
 
 Take on a series of individual missions or build your colony unfettered by any constraints in the [b]sandbox mode[/b].
@@ -1982,24 +1982,38 @@ With two separate mission tracks, The Colonists lets either you create sprawling
 
 Explore, research, manage, tweak and refine to your heart's content.
 
-An extensive map editor and Steam Workshop support is included, so you can create, share and play custom maps.",,,1565
-ResearchPanel_L1Workshop,Text,,Level 1 Workshop,,,1566
-ResearchPanel_L2Workshop,Text,,Level 2 Workshop,,,1567
-ResearchPanel_L3Workshop,Text,,Level 3 Workshop,,,1568
-ResearchPanel_Requires,Text,(Workshop) requires (Energy LX),Requires,,,1569
-Day,Text,,Day,,,1570
-Days,Text,,Days,,,1571
-Month,Text,,Month,,,1572
-Months,Text,,Months,,,1573
-Year,Text,,Year,,,1574
-Years,Text,,Years,,,1575
-ResearchCosts,Text,,Costs,,,1576
-EntityTransportBoatReady_Construction,Text,,You cannot give instructions to this boat until construction has been completed.,,,1577
-EntityTransportBoatReady_Ready,Text,,"This boat is ready to sail! You can either assign this boat to an expedition, explore the seas and build a harbour on a new island or you can create a transport route between existing harbours.",,,1578
-EntityTransportBoatReady_Assign,Text,,Assign to expedition,,,1579
-EntityTransportBoatReady_TransportRouteHeader,Text,,Transport Route,,,1580
-EntityTransportBoatReady_TransportRouteNoPorts,Text,,You don't yet have enough harbours to be able to create a route.,,,1581
-EntityTransportBoatReady_TransportRouteCreate,Text,,Create Transport Route,,,1582
+An extensive map editor and Steam Workshop support is included, so you can create, share and play custom maps.","The Colonists è un rilassante gioco gestionale ispirato a titoli classici come The Settlers e la serie Anno.
+
+Affronta una serie di singole missioni o costruisci la tua colonia libera da eventuali vincoli nella modalità [b]sandbox[/b].
+
+Prendi il controllo di un team di robot autoreplicanti creati per simulare la civiltà umana. Dopo essere fuggiti dalla Terra, i Coloni sono ora liberi di vagare per la galassia in cerca di una nuova casa e costruire il loro insediamento da sogno.
+
+Avanzerai attraverso tre diverse epoche mentre costruisci infrastrutture per la tua colonia costruendo sistemi di trasporto su strada, in barca e in treno.
+
+Raccogli risorse naturali, avvia l'agricoltura e la produzione alimentare, crea spedizioni per scoprire nuove terre e ricercare nuove tecnologie.
+
+Con due percorsi di missione separati, The Colonists ti consente di creare enormi insediamenti in pace o gareggiare per competere contro le colonie di intelligenza artificiale in scenari militari vincitori.
+
+Esplora, ricerca, gestisci, modifica e perfeziona il contenuto del tuo cuore.
+
+E' incluso un vasto editor di mappe e il supporto per lo Steam Workshop, in modo da poter creare, condividere e giocare mappe personalizzate.",,
+ResearchPanel_L1Workshop,Text,,Level 1 Workshop,Laboratorio Livello 1,,
+ResearchPanel_L2Workshop,Text,,Level 2 Workshop,Laboratorio Livello 2,,
+ResearchPanel_L3Workshop,Text,,Level 3 Workshop,Laboratorio Livello 3,,
+ResearchPanel_Requires,Text,(Workshop) requires (Energy LX),Requires,Richiede,,
+Day,Text,,Day,Giorno,,
+Days,Text,,Days,Giorni,,
+Month,Text,,Month,Mese,,
+Months,Text,,Months,Mesi,,
+Year,Text,,Year,Anno,,
+Years,Text,,Years,Anni,,
+ResearchCosts,Text,,Costs,Costo,,
+EntityTransportBoatReady_Construction,Text,,You cannot give instructions to this boat until construction has been completed.,Non puoi dare istruzioni a questa barca finchè non è stata costruita,,
+EntityTransportBoatReady_Ready,Text,,"This boat is ready to sail! You can either assign this boat to an expedition, explore the seas and build a harbour on a new island or you can create a transport route between existing harbours.","Questa barca è pronta a salpare! Puoi assegnarla ad una spedizione, esplorare i mari e costruire un nuovo porto su una nuova isola o creare una rotta di trasporto tra porti esistenti.",,
+EntityTransportBoatReady_Assign,Text,,Assign to expedition,Assegna a spedizione,,
+EntityTransportBoatReady_TransportRouteHeader,Text,,Transport Route,Percorso di trasporto,,
+EntityTransportBoatReady_TransportRouteNoPorts,Text,,You don't yet have enough harbours to be able to create a route.,Non hai abbastanza porti per creare un percorso,,
+EntityTransportBoatReady_TransportRouteCreate,Text,,Create Transport Route,Crea percorso di trasporto,,
 MapPlayHARD,Text,,Play Hard,Gioca a Difficile,,
 MapPlayNORMAL,Text,,Play Normal,Gioca a Normale,,
 MapPlayCASUAL,Text,,Play Casual,Gioca a Facile,,
