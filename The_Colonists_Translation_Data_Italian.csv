@@ -1728,193 +1728,284 @@ Train_0_Name,Text,,Locomotive,Locomotiva,,
 Transport Priorities,Text,,Transport Priorities,Priorità di trasporto,,
 TutorialDialogues_T1_BuildAnotherFishingHut,Text,,"Fantastic! You now have the capacity to produce more <it>Energy L1</it>.
 But more <bd>Residences</bd> mean more Housebot needs, so demand for <it>Water</it> and <cat>Food</cat> has also increased.
-Build another <bd>Fishing Hut</bd> on the coast to increase your <cat>Food</cat> production.",,,1413
-TutorialDialogues_T1_BuildFishingHut,Text,,We're near the shore and have several jumping fish tiles available which can be farmed by a <bd>Fishing Hut</bd>.,,,1414
+Build another <bd>Fishing Hut</bd> on the coast to increase your <cat>Food</cat> production.","Fantastico! Ora hai la capacità di produrre più <it>Energia L1</it>.
+Ma più <bd>Residenze</bd> significano più BotCasaligni, che necessiteranno di <it>Acqua</it> e <cat>Cibo</cat>.
+Costruisci un altra <bd>Capanna del Pescatore</bd> sulla costa per aumentare la tua produzione di <cat>cibo</cat>.",,
+TutorialDialogues_T1_BuildFishingHut,Text,,We're near the shore and have several jumping fish tiles available which can be farmed by a <bd>Fishing Hut</bd>.,Siamo vicini alla costa e ci sono molte caselle pesce disponbiili che possono essere pescate con una <bd>Capanna del Pescatore</bd>.,,
 TutorialDialogues_T1_BuildForestry,Text,,"Great! <bd>Watchtowers</bd> take a little longer to build though.
-While your <bd>Watchtower</bd> is being built, let's construct a <bd>Forestry</bd> to plant some more trees.",,,1415
-TutorialDialogues_T1_BuildLumberjackHut,Text,,Now click the flashing Build icon in the bottom right of the screen.,,,1416
+While your <bd>Watchtower</bd> is being built, let's construct a <bd>Forestry</bd> to plant some more trees.","Bene! Purtroppo le <bd>Torri di Guardia</bd> richiedono più tempo per essere costruite.
+Mentre le tue <bd>Torri di Guardia</bd> vengono costruire, costruisci una <bd>Guardia Forestale</bd> per piantare alcuni alberi.",,
+TutorialDialogues_T1_BuildLumberjackHut,Text,,Now click the flashing Build icon in the bottom right of the screen.,Adesso clicca l'icona di Costruzione lampeggiante in basso a destra.,,
 TutorialDialogues_T1_BuildMoreResidences,Text,,"So the demand is now greater than the supply of <it>Energy L1</it>. This means eventually the <bd>Lumberjack Hut</bd> and <bd>Surface Mine</bd> won't be able to work at 100% efficiency.
 Build two more <bd>Residences</bd> to increase the supply of <it>Energy L1</it>!
-Another tip: you can <hotkey>[Ctrl]</hotkey> + select a building to duplicate it.",,,1417
-TutorialDialogues_T1_BuildPath,Text,,Select <lr>Path</lr> building mode and then build a <lr>Path</lr> on the highlighted tiles.#,,,1418
+Another tip: you can <hotkey>[Ctrl]</hotkey> + select a building to duplicate it.","La domanda di <it>Energia L1</it> è superiore alla produzione.
+Questo significa che con il tempo la <bd>Capanna del Taglialegna</bd> e la <bd>Miniera di Superficie</bd> non saranno in grado di lavorare al 100%.
+Costruisci altre due <bd>Residenze</bd> per aumentare la fornitura di <it>Energia L1</it>!
+Un altro consiglio: puoi utilizzare <hotkey>[Ctrl]</hotkey> + seleziona un edificio per duplicarlo.",,
+TutorialDialogues_T1_BuildPath,Text,,Select <lr>Path</lr> building mode and then build a <lr>Path</lr> on the highlighted tiles.#,Seleziona la modalità di costruzione <lr>Sentiero</lr> e costruisci un <lr>Sentiero</lr> sulle caselle evidenziate. #,,
 TutorialDialogues_T1_BuildPathComplete,Text,,"Excellent! Your <bd>Well</bd> will soon be built and <it>Water</it> will be supplied to the <bd>Residence</bd>.
 Because the <bd>Well</bd> and the <bd>Residence</bd> are connected by a path, the Stackbot can deliver the <it>Water</it> directly.
-This means the <it>Water</it> resource will not impact your road network and can help reduce traffic on your roads when your colony grows and gets busier.",,,1419
+This means the <it>Water</it> resource will not impact your road network and can help reduce traffic on your roads when your colony grows and gets busier.","Eccellente! Il tuo <bd>Pozzo</bd> sarà costruito presto e <it>Acqua</it> verrà fornita alle <bd>Residenze</bd>.
+Siccome il <bd>Pozzo</bd> e le <bd>Residenze</bd> sono connesse da un sentiero, il BotImpilatore può consegnare l'<it>Acqua</it> direttamente.
+Questo significa che l'<it>Acqua</it> non impatterà la reste stradale, aiutando a ridurre il traffico quando la tua colonia crescerà.",,
 TutorialDialogues_T1_BuildResidence0,Text,,"The <bd>Colony Ship</bd> generates a small amount of <it>Energy L1</it> to get you started but your colony will soon require lots more.
-You can generate additional <it>Energy L1</it> at <bd>Residences</bd> so next let's build your first <bd>Residence</bd>.",,,1420
+You can generate additional <it>Energy L1</it> at <bd>Residences</bd> so next let's build your first <bd>Residence</bd>.","La <bd>Nave della Colonia</bd> genera una piccola quantità di <it>Energia l1</it> per iniziare, ma la tua colonia ne richiederà presto di più.
+Puoi generare più <it>Energia L1</it> alle <bd>Residenze</bd> quindi costruisci la tua prima <bd>Residenza</bd>:",,
 TutorialDialogues_T1_BuildSurfaceMine,Text,,"Great, your territory has expanded and now includes the <nr>Stone Deposit</nr>!
-Go ahead and build a <bd>Surface Mine</bd> to mine the <nr>Stone Deposit</nr> and start producing <it>Stone</it>.",,,1421
+Go ahead and build a <bd>Surface Mine</bd> to mine the <nr>Stone Deposit</nr> and start producing <it>Stone</it>.","Bene, il tuo territorio si è espanso e ora include il <nr>Deposito di Pietra</nr>!
+Continua e costruisci una <bd>Miniera di Superficie</bd> per estrarre materiale dal <nr>Deposito di Pietra</nd> e produrre </it>Pietra</it>:",,
 TutorialDialogues_T1_BuildWatchtower,Text,,"First you need to build a <bd>Watchtower</bd> near the <nr>Stone Deposit</nr> to expand your borders.
-You can choose where to build the <bd>Watchtower</bd> yourself but you'll need to place it near the border so you can access the <nr>Stone Deposit</nr>.",,,1422
+You can choose where to build the <bd>Watchtower</bd> yourself but you'll need to place it near the border so you can access the <nr>Stone Deposit</nr>.","Per prima cosa costruisci una <bd>Torre di Guardia</bd> vicino al <nr>Deposito di Pietra</nr> per allargare i tuoi confini.
+Puoi costruire dove costruire la <bd>Torre di Guardia</bd> ma dovrai piazzarla vicino al bordo in modo da poter accedere al <nr>Deposito di Pietra</nr>:",,
 TutorialDialogues_T1_BuildWell,Text,,"To produce <it>Energy L1</it> the first resource a <bd>Residence</bd> needs is <it>Water</it>.
-Build a <bd>Well</bd> at the highlighted tiles.",,,1423
+Build a <bd>Well</bd> at the highlighted tiles.","Per produrre <it>Energia L1</nr> la prima risorsa di cui una <bd>Residenza</bd> ha bisogno è l'<it>Acqua</it>.
+Costruisci un <bd>Pozzo</bd> sulle caselle evidenziate.",,
 TutorialDialogues_T1_ClickStoneDeposit,Text,,"You have some <nr>Stone Deposit</nr> just outside your territory on the other side of the island.
-Click on it now.",,,1424
-TutorialDialogues_T1_ConnectFishingHut,Text,,Again go ahead and use a path to connect your <bd>Fishing Hut</bd> to the <lr>Road</lr> network using <lr>Paths</lr>.,,,1425
+Click on it now.","Hai alcuni <nr>Depositi di Pietra</nr> appena fuori dal tuo territorio sull'altro lato dell'isola.
+Cliccaci ora.",,
+TutorialDialogues_T1_ConnectFishingHut,Text,,Again go ahead and use a path to connect your <bd>Fishing Hut</bd> to the <lr>Road</lr> network using <lr>Paths</lr>.,Continua e utilizza un sentiero per connettere la <bd>Capanna del Pescatore</bd> alla rete <lr>Stradale</lr> utilizzando un <lr>Sentiero</lr>:,,
 TutorialDialogues_T1_ConnectResidence,Text,,"Again you need to connect the building to the road network to allow resources to reach it.
-Buildings can be connected to any point along a road. Build a <lr>Road</lr> on the highlighted locations.",,,1426
+Buildings can be connected to any point along a road. Build a <lr>Road</lr> on the highlighted locations.","Ancora una volta hai bisogno di collegare l'edificio alla rete stradale per consentire alle risorse di raggiungerlo.
+Gli edifici possono essere connessi a qualsiasi punto lungo una strada. Costruisci una <lr>Strada</lr> sulle posizioni evidenziate.",,
 TutorialDialogues_T1_ConnectResidence1,Text,,"Great! Buildings can be connected to any point along a road.
-Each building has a Stackbot to collect and drop off resources. The one at your <bd>Residence</bd> will use both road posts.",,,1427
+Each building has a Stackbot to collect and drop off resources. The one at your <bd>Residence</bd> will use both road posts.",Bene! Gli edifici possono essere connessi a qualsiasi palo stradale lungo la strada. Ogni edificio ha un BotImpilatore per raccogliere e lasciare risorse. Il Bot alla tua <bd>Residenza</bd> utilizzerà entrambi i pali stradali.,,
 TutorialDialogues_T1_ConnectWatchtower,Text,,"Looks good! Now you need to connect your <bd>Watchtower</bd> to the network with <lr>Roads</lr> and <lr>Paths</lr>.
 You can quick select different build modes by using hotkeys <hotkey>[1]</hotkey> to <hotkey>[9]</hotkey>.
-You can also remove buildings, roads and paths using the Destroy tool in the bottom right. Be careful what you remove though as it can disrupt your colony!",,,1428
+You can also remove buildings, roads and paths using the Destroy tool in the bottom right. Be careful what you remove though as it can disrupt your colony!","Niente male! Ora devi connettere la tua <bd>Torre di Guardia</br> alla rete stradale con <lr>Strade</lr> e <lr>Sentieri</lr>.
+Puoi selezionare velocemente le varie modalità di costruzione utilizzando i tasti da <hotkey>[1]</hotkey> a <hotkey>[9]</hotkey>.
+Puoi anche rimuovere edifici, strade e sentieri utilizzando lo strumento Distruggi in basso a destra. Stai attento a cosa rimuovi, potresti distruggere la tua colonia!",,
 TutorialDialogues_T1_ExplainConstructionPanel,Text,,"In this construction panel the arrows tell you which resources the building produces and the resources required to do so.
-It also shows you the construction materials and how long construction will take.",,,1429
-TutorialDialogues_T1_ExplainEntityConstruction,Text,,Good! Your <bd>Lumberjack Hut</bd> needs <it>Logs</it> for it to be constructed though.You can see there is an outstanding demand for <it>Logs</it> by the icon on the building and the red icons in the bottom left of the screen.Click on the flashing <it>Logs</it> icon on the <bd>Lumberjack Hut</bd> building.,,,1430
+It also shows you the construction materials and how long construction will take.","In questo pannello costruzione le frecce ti dicono che risorse l'edificio produce e che risorse sono necessarie.
+i mostra anche i materiali di costruzione e quanto impiegherà la costruzione.",,
+TutorialDialogues_T1_ExplainEntityConstruction,Text,,Good! Your <bd>Lumberjack Hut</bd> needs <it>Logs</it> for it to be constructed though.You can see there is an outstanding demand for <it>Logs</it> by the icon on the building and the red icons in the bottom left of the screen.Click on the flashing <it>Logs</it> icon on the <bd>Lumberjack Hut</bd> building.,Bene! La tua <bd>Capanna del Taglialegna</bd> ha bisogno di <it>Tronchi</it> per essere costruita. Puoi vedere che c'è una richiesta di <it>Tronchi</it> dall'icona sull'edificio e dalle icone rosse in basso a sinistra. Clicca sull'icona evidenziata di <it>Tronchi</it> sulla <bd>Capanna del Taglialegna</bd>.,,
 TutorialDialogues_T1_ExplainEntityConstructionPanel,Text,,"This panel tells you the construction progress and how many resources are needed.
-The red circle on the <it>Logs</it> icon means that this <bd>Lumberjack Hut</bd> immediately needs <it>Logs</it> for construction of the building.",,,1431
+The red circle on the <it>Logs</it> icon means that this <bd>Lumberjack Hut</bd> immediately needs <it>Logs</it> for construction of the building.","Questo pannello ti dice il progresso della costruzione e quante risorse sono necessarie.
+Il cerchio rosso sui <it>Tronchi</it> significa che questa <bd>Capanna del Taglialegna</bd> ha un bisogno immediato di <it>Tronchi</it> per costruire questo edificio.",,
 TutorialDialogues_T1_ExplainEntityProductionPanel1,Text,,"The production panel of a building tells you the needs, status and current output of a building.
-Some bots, such as Lumberbots, need extra power to carry out their job.",,,1432
+Some bots, such as Lumberbots, need extra power to carry out their job.","Il pannello produzione di un edificio ti dice le necessità, lo stato e l'output corrente dell'edificio. 
+Alcuni bot, come il BotTaglialegna, hanno bisogno di energia extra per continuare il loro lavoro.",,
 TutorialDialogues_T1_ExplainEntityProductionPanel2,Text,,"This extra power is provided by the <it>Energy</it> resource.
-This panel tells you that the Lumberbot needs one Level 1 <it>Energy</it> resource per day to keep working.",,,1433
-TutorialDialogues_T1_ExplainFood,Text,,The other <bd>Residence</bd> need was <cat>Food</cat>. This means <it>Fish</it> or <it>Meat</it>.,,,1434
+This panel tells you that the Lumberbot needs one Level 1 <it>Energy</it> resource per day to keep working.","Questa energia estra è fornita dalla risorsa <it>Energia</it>-
+Questo pannello ti dice che il BotTaglialegna ha bisogno di <it>Energia</it> Livello 1 al giorno per continuare a lavorare.",,
+TutorialDialogues_T1_ExplainFood,Text,,The other <bd>Residence</bd> need was <cat>Food</cat>. This means <it>Fish</it> or <it>Meat</it>.,L'altra necessità della <bd>Residenza</bd> era <cat>Cibo</cat>. Questo significa <it>Pesce</it> o <it>Carne</it>:,,
 TutorialDialogues_T1_ExplainPaths,Text,,"Buildings also don't need to be placed directly on <lr>Roads</lr>. They can be connected to a <lr>Road</lr> by a <lr>Path</lr>.
-<lr>Paths</lr> are secondary routes that allow a building's Stackbot to reach a road post. This allows you to be more flexible with your building and road placement.",,,1435
+<lr>Paths</lr> are secondary routes that allow a building's Stackbot to reach a road post. This allows you to be more flexible with your building and road placement.","Gli edifici non hanno bisogno di essere piazzati direttamente sulle <lr>Strade</lr>: Possono essere connessi ad una <lr>Strada</lr> utilizzando un <lr>Sentiero</lr>.
+I <lr>Sentieri</lr> sono strade secondarie che permettono al BotImpilatore di un edificio di raggiungere un PaloStradale. Questo ti permette più flessibilità su dove piazzare gli edifici e le strade.",,
 TutorialDialogues_T1_ExplainResidenceConstructionPanel,Text,,"This panel now tells you how much <it>Energy L1</it> this <bd>Residence</bd> can generate and which resources are needed to do so.
-The Level 1 <bd>Residence</bd> turns one <it>Water</it> and one <cat>Food</cat> resource into one <it>Energy L1</it>.",,,1436
-TutorialDialogues_T1_ForestryAllocateTiles_TaskAllocate,Text,,Allocate 10 Forestry tiles,,,1437
+The Level 1 <bd>Residence</bd> turns one <it>Water</it> and one <cat>Food</cat> resource into one <it>Energy L1</it>.","Questo pannello ora ti dice quante <it>Energia L1</it> questa <bd>Residenza</bd> può generare e che risorse sono necessarie.
+Questa <bd>Residenza</bd> Livello 1 trasforma una unità d'<it>Acqua</it> e una di <cat>Cibo</cat> in una unità di <it>Energia L1</it>:",,
+TutorialDialogues_T1_ForestryAllocateTiles_TaskAllocate,Text,,Allocate 10 Forestry tiles,Seleziona 10 caselle per la Guardia Forestale,,
 TutorialDialogues_T1_ForestryPlantTrees,Text,,"You control where the Treebot plants their trees.
-Follow the yellow alert icons on the <bd>Forestry</bd> building and allocate some tiles for planting.",,,1438
-TutorialDialogues_T1_ForestryPlantTreesComplete,Text,,Well done! This means you won't run out of trees for Lumberbots to create <it>Logs</it> out of.,,,1439
+Follow the yellow alert icons on the <bd>Forestry</bd> building and allocate some tiles for planting.","Controlli tu dove il BotForestale pianta gli alberi.
+Segui l'icona gialla di avviso sull'edificio della <bd>Guardia Forestale</bd> per assegnare le caselle in cui piantare gli alberi.",,
+TutorialDialogues_T1_ForestryPlantTreesComplete,Text,,Well done! This means you won't run out of trees for Lumberbots to create <it>Logs</it> out of.,Ben fatto! Ora non finirai gli alberi che i BotTaglialegna utilizzano per ottenere <it>Tronchi</it>:,,
 TutorialDialogues_T1_Intro1,Text,,"At last, terra firma!
-We have finally reached a habitable planet and we can set our wheels to ground.",,,1440
+We have finally reached a habitable planet and we can set our wheels to ground.","Finalmente, terra ferma!
+Abbiamo finalmente raggiungo un pianeta abitabile e possiamo mettere le ruote a terra!",,
 TutorialDialogues_T1_Intro2,Text,,"You are Dronebot <name> and are in charge of colony operations.
-This looks like a good island to test our anthrobotic systems.",,,1441
-TutorialDialogues_T1_KeyboardControls,Text,,While your crew are unloading your few starting resources here are some basics:,,,1442
-TutorialDialogues_T1_KeyboardControls_TaskPan,Text,,Pan the camera using <hotkey>[W]</hotkey><hotkey>[A]</hotkey><hotkey>[S]</hotkey><hotkey>[D]</hotkey>.,,,1443
-TutorialDialogues_T1_KeyboardControls_TaskRotate,Text,,Rotate the camera using <hotkey>[Q]</hotkey><hotkey>[E]</hotkey>.,,,1444
-TutorialDialogues_T1_LumberjackHutConstructionComplete,Text,,The <bd>Lumberjack Hut</bd> is complete! Now the <bd>Colony Ship</bd> will print a Lumberbot and they will head to the new building.,,,1445
+This looks like a good island to test our anthrobotic systems.","Tu sei il BotDrone <name> e sei incaricato delle operazioni della colonia.
+Questa sembra una buona isola per testare il nostro sistema umanoide.",,
+TutorialDialogues_T1_KeyboardControls,Text,,While your crew are unloading your few starting resources here are some basics:,Mentre il tuo equipaggio scarica le risorse iniziali eccoti le basi:,,
+TutorialDialogues_T1_KeyboardControls_TaskPan,Text,,Pan the camera using <hotkey>[W]</hotkey><hotkey>[A]</hotkey><hotkey>[S]</hotkey><hotkey>[D]</hotkey>.,"Muovi la visuale utilizzando
+<hotkey>[W]</hotkey><hotkey>[A]</hotkey><hotkey>[S]</hotkey><hotkey>[D]</hotkey>",,
+TutorialDialogues_T1_KeyboardControls_TaskRotate,Text,,Rotate the camera using <hotkey>[Q]</hotkey><hotkey>[E]</hotkey>.,Ruota la visuale utilizzando <hotkey>[Q]</hotkey><hotkey>[E]</hotkey>,,
+TutorialDialogues_T1_LumberjackHutConstructionComplete,Text,,The <bd>Lumberjack Hut</bd> is complete! Now the <bd>Colony Ship</bd> will print a Lumberbot and they will head to the new building.,Questa <bd>Capanna del Taglialegna</bd> è ora completa! Ora la <bd>Nave della Colonia</bd> stamperà un BotTaglialegna che si dirigerà verso la nuova costruzione.,,
 TutorialDialogues_T1_LumberjackHutWaitForBot,Text,,"The Lumberbot has arrived and has headed off to work! You may have noticed that another resource was delivered to the <bd>Lumberjack Hut</bd>.
-Click on your new <bd>Lumberjack Hut</bd> building to find out more.",,,1446
-TutorialDialogues_T1_MouseControls,Text,,You can also use your mouse to move around:,,,1447
-TutorialDialogues_T1_MouseControls_TaskPan,Text,,<hotkey>Right-click</hotkey> and drag to move about the world as well as move the mouse to the edge of screen.,,,1448
-TutorialDialogues_T1_MouseControls_TaskTilt,Text,,Hold and drag the <hotkey>middle mouse button</hotkey> to rotate and tilt the camera.,,,1449
-TutorialDialogues_T1_MouseControls_TaskZoom,Text,,Use the <hotkey>mouse wheel</hotkey> to zoom.,,,1450
+Click on your new <bd>Lumberjack Hut</bd> building to find out more.","Il BotTaglialegna è arrivato e si è diretto al lavoro! Potresti aver notato che un'altra risorsa è stata cosegnata alla <bd>Capanna del Taglialegna</bd>.
+Clicca sulla tua nuova <bd>Capanna del Taglialegna</bd> per saperne di più.",,
+TutorialDialogues_T1_MouseControls,Text,,You can also use your mouse to move around:,Puoi sempre utilizzare il mouse per guardarti attorno:,,
+TutorialDialogues_T1_MouseControls_TaskPan,Text,,<hotkey>Right-click</hotkey> and drag to move about the world as well as move the mouse to the edge of screen.,"<hotkey>Click-destro</hotkey> e trascina per muoverti per il mondo, oppure trascina il mouse al bordo dello schermo-",,
+TutorialDialogues_T1_MouseControls_TaskTilt,Text,,Hold and drag the <hotkey>middle mouse button</hotkey> to rotate and tilt the camera.,Tieni premuto e trascina <hotkey>Pulsante centrale mouse</hotkey> per ruotare e inclinare la visuale.,,
+TutorialDialogues_T1_MouseControls_TaskZoom,Text,,Use the <hotkey>mouse wheel</hotkey> to zoom.,Utilizza la <hotkey>rotella del mouse</hotkey> per zoommare.,,
 TutorialDialogues_T1_PlaceFishingHut,Text,,"You can use <hotkey>[F]</hotkey> to flip a building's orientation.
-Use <hotkey>[F]</hotkey> to flip and <hotkey>[R]</hotkey> to rotate to build a <bd>Fishing Hut</bd> on the highlighted location.",,,1451
-TutorialDialogues_T1_PlaceLumberjackHut,Text,,"You're in the build mode, so place the <bd>Lumberjack Hut</bd> on the highlighted tiles near your Colony Ship.",,,1452
-TutorialDialogues_T1_PlaceResidence,Text,,You can rotate a building when you're placing it. Rotate using <hotkey>[R]</hotkey> and match the <bd>Residence</bd> to the highlighted tiles.,,,1453
-TutorialDialogues_T1_ResourceClickOverview,Text,,Click the highlighted tab to go to the <it>Logs</it> overview panel.,,,1454
-TutorialDialogues_T1_ResourceCloseOverview,Text,,"First, close the resource panel by <hotkey>right-clicking</hotkey> anywhere inside the panel or by using the 'x' button.",,,1455
+Use <hotkey>[F]</hotkey> to flip and <hotkey>[R]</hotkey> to rotate to build a <bd>Fishing Hut</bd> on the highlighted location.","Ora puoi utilizzare <hotkey>[F]</hotkey> per capovolgere un edificio.
+Utilizza <hotkey>[F]</hotkey> per capovolgere e <hotkey>[R]</hotkey> per ruotare per costruire una <bd>Capanna da Pesca</bd> sulle caselle evidenziate",,
+TutorialDialogues_T1_PlaceLumberjackHut,Text,,"You're in the build mode, so place the <bd>Lumberjack Hut</bd> on the highlighted tiles near your Colony Ship.","Sei in modalità costruzione, quindi piazza la <bd>Capanna del Taglialegna</bd> sulle caselle evidenziate vicino alla tua Nave della Colonia.",,
+TutorialDialogues_T1_PlaceResidence,Text,,You can rotate a building when you're placing it. Rotate using <hotkey>[R]</hotkey> and match the <bd>Residence</bd> to the highlighted tiles.,Puoi ruotare un edificio mentre lo stai piazzando. Ruotalo utilizzando <hotkey>[R]</hotkey> in modo da far combaciare la <bd>Residenza</bd> con le caselle evidenziate.,,
+TutorialDialogues_T1_ResourceClickOverview,Text,,Click the highlighted tab to go to the <it>Logs</it> overview panel.,Clicca la scheda evidenziata per andare al pannello riassuntivo dei <it>Logs</it>.,,
+TutorialDialogues_T1_ResourceCloseOverview,Text,,"First, close the resource panel by <hotkey>right-clicking</hotkey> anywhere inside the panel or by using the 'x' button.","Per prima cosa, chiudi il panenllo risorse cliccando <hotkey>click-destro</hotkey> ovunque dentro il pannello o utilizzando il bottone 'x'.",,
 TutorialDialogues_T1_ResourceOverview,Text,,"This section tells you how many <it>Logs</it> you're producing and how many are in demand. This is a good panel to check whether you're producing enough of a resource.
 <it>Logs</it> are an important construction material and your <bd>Colony Ship</bd> has a basic replicator which slowly produces <it>Logs</it> to ensure you never completely run out.
-But you're going to need a lot more <it>Logs</it> so let's build a <bd>Lumberjack Hut</bd>.",,,1456
+But you're going to need a lot more <it>Logs</it> so let's build a <bd>Lumberjack Hut</bd>.","Questa sezione ti dice quanti <it>Tronchi</it> stai producendo e quanta domanda c'è. Questo è un bel pannello per controllare se stai producendo abbastanza di una risorsa.
+I <it>Tronchi</it> sono un importante materiale di costruzione e la tua <bd>Nave della Colonia</bd> ha un replicatore semplice che lentamente produce <it>Tronchi</it> per garantire che tu non li finisca mai del tutto.
+Ma avrai bisogno di molti più <it>Tronchi</it> quindi costruiamo una <bd>Capanna del Taglialegna</bd>.",,
 TutorialDialogues_T1_ResourceStorage,Text,,"You have a few resources to get your colony up and running.
-You can see how many of each resource you currently have in storage in the bottom left of the screen. Click the flashing <it>Logs</it> icon to open the resource info panel.",,,1457
+You can see how many of each resource you currently have in storage in the bottom left of the screen. Click the flashing <it>Logs</it> icon to open the resource info panel.","Hai alcune risorse per rendere operativa la tua colonia.
+Puoi vedere la quantità disponibile nel deposito di ciascuna risorsa in basso a sinistra. Clicca l'icona lampeggiante dei <it>Tronchi</it> per aprire le informazioni sulla risorsa.",,
 TutorialDialogues_T1_ResourceStorage2,Text,,"The resource panel tells you how many <it>Logs</it> you currently have stored and how much that number has changed over the last day or week.
 Below that is the list of buildings where the resources are stored.
-So you currently have 16 <it>Logs</it> stored at your <bd>Colony Ship</bd>.",,,1458
+So you currently have 16 <it>Logs</it> stored at your <bd>Colony Ship</bd>.","Il pannello risorsa ti dice quanti <it>Tronchi</it> hai attualmente e come il numero è cambiato nell'ultimo girono o settimana.
+Sotto, c'è la lista degli edifici in cui la risorsa è depositata.
+Quindi, attualmente hai 16 <it>Tronchi</it> depositati presso la tua <bd>Nave della Colonia</bd>.",,
 TutorialDialogues_T1_RoadToLumberjackHut1,Text,,"You have some <it>Logs</it> at the <bd>Colony Ship</bd> but there is no route to your <bd>Lumberjack Hut</bd> yet as indicated by the yellow alert icon.
 Resources move around your colony along <lr>Roads</lr>. Let's build one!
-Select the <lr>Roads</lr> build mode in the bottom right of the screen.",,,1459
+Select the <lr>Roads</lr> build mode in the bottom right of the screen.","Hai alcuni <it>Tronchi</it> alla <bd>Nave della Colonia</bd> ma non c'è nessuna strada verso la <bd>Capanna del Taglialegna</bd> come indicato dall'avviso giallo.
+Le risorse si muovono attraverso la tua colonia utilizzando le <lr>Strade</lr>. Costruiamone una!
+Seleziona la modalità di costruzione <lr>Strade</lr> in basso a destra dello schermo.",,
 TutorialDialogues_T1_RoadToLumberjackHut2,Text,,"Roads can only be started from existing road posts.
-<hotkey>Click</hotkey> on the blue road post outside the <bd>Colony Ship</bd> and then <hotkey>click</hotkey> on the next highlighted tile.",,,1460
-TutorialDialogues_T1_RoadToLumberjackHut3,Text,,Got it! Roads can be between 4 and 6 tiles long. Build another <lr>Road</lr> to connect your <bd>Lumberjack</bd>.,,,1461
-TutorialDialogues_T1_RoadToLumberjackHut4,Text,,Great! Each <lr>Road</lr> has a Carrybot who moves resources between the posts at either end of the <lr>Road</lr> depending on where the resource needs to go.,,,1462
-TutorialDialogues_T1_SpeedControls,Text,,You can increase and decrease the game speed in the top right of the screen or by using hotkeys:,,,1463
-TutorialDialogues_T1_SpeedControls_TaskButtons,Text,,Change game speed using buttons in top right of the screen.,,,1464
-TutorialDialogues_T1_SpeedControls_TaskPause,Text,,Pause and unpause the game using <hotkey>[Space]</hotkey>.,,,1465
-TutorialDialogues_T1_SpeedControls_TaskSpeedUpDown,Text,,Change game speed using <hotkey>[Z]</hotkey> and <hotkey>[X]</hotkey>.,,,1466
+<hotkey>Click</hotkey> on the blue road post outside the <bd>Colony Ship</bd> and then <hotkey>click</hotkey> on the next highlighted tile.","Le strade possono iniziare soltato dai pali stradali esistenti.
+<hotkey>Clicca</hotkey> sul palo stradale blu fuori dalla <bd>Nave della Colonia</bd> e poi <hotkey>clicca</hotkey> sulla casella evidenziata.",,
+TutorialDialogues_T1_RoadToLumberjackHut3,Text,,Got it! Roads can be between 4 and 6 tiles long. Build another <lr>Road</lr> to connect your <bd>Lumberjack</bd>.,Fatto! Le strade possono essere lunghe da 4 a 6 caselle. Costruisci un'altra <lr>Strada</lr> per collegare la tua <bd>Capanna del Taglialegna</bd>.,,
+TutorialDialogues_T1_RoadToLumberjackHut4,Text,,Great! Each <lr>Road</lr> has a Carrybot who moves resources between the posts at either end of the <lr>Road</lr> depending on where the resource needs to go.,Bene! Ogni <lr>Strada</lr> ha un BotTrasportatore che muove le risorse tra le due estremità della <lr>Strada</lr> a seconda di dove deve andare la risorsa.,,
+TutorialDialogues_T1_SpeedControls,Text,,You can increase and decrease the game speed in the top right of the screen or by using hotkeys:,Puoi aumentare e diminuire la velocità di gioco in alto a destra o utilizzando i tasti:,,
+TutorialDialogues_T1_SpeedControls_TaskButtons,Text,,Change game speed using buttons in top right of the screen.,Cambia velocità di gioco utilizzando i bottoni in alto a destra.,,
+TutorialDialogues_T1_SpeedControls_TaskPause,Text,,Pause and unpause the game using <hotkey>[Space]</hotkey>.,Pausa e riprendi il gioco utilizzando <hotkey>[Spazio]</hotkey>.,,
+TutorialDialogues_T1_SpeedControls_TaskSpeedUpDown,Text,,Change game speed using <hotkey>[Z]</hotkey> and <hotkey>[X]</hotkey>.,Cambia la velocità di gioco utilizzando <hotkey>[Z]</hotkey> e <hotkey>[X]</hotkey>.,,
 TutorialDialogues_T1_StoneDepositInfo,Text,,"<it>Stone</it> is used to build more advanced buildings.
-You can mine this <nr>Stone Deposit</nr> with the <bd>Surface Mine</bd> but only once the deposit is inside your territory.",,,1467
+You can mine this <nr>Stone Deposit</nr> with the <bd>Surface Mine</bd> but only once the deposit is inside your territory.","La <it>Pietra</it> è utilizzata per costruire edifici più avanzati.
+Puoi estrarla ai <nr>Depositi di Pietra</nr> con la <bd>Miniera di Superficir</bd> ma solo una volta che il deposito è nel tuo territorio.",,
 TutorialDialogues_T1_SurfaceMineComplete,Text,,"Nice work! Your Minerbot will now head off and begin harvesting <it>Stone</it>.
 You may have noticed that the <bd>Surface Mine</bd> also requires <it>Energy L1</it> to function.
-Click on the <it>Energy L1</it> panel in the bottom left to check the colony's <it>Energy L1</it> demands.",,,1468
-TutorialDialogues_T1_TutorialComplete,Text,,Excellent! You have a functioning colony and your skills are looking promising!,,,1469
-TutorialDialogues_T1_TutorialComplete2,Text,,"When you're ready, it's time to move onto somewhere with a bit more space...",,,1470
+Click on the <it>Energy L1</it> panel in the bottom left to check the colony's <it>Energy L1</it> demands.","Ben fatto! Il tuo BotMinatore ora si dirigerà ad estrarre <it>Pietra</it>.
+Potresti aver notato che la <bd>Miniera di Superficie</bd> richiede anche <it>Energia L1</it> per funzionare.
+Clicca sul pannello dell'<it>Energia L1</it> in basso a sinistra per controllare la domanda di <it>Energia L1</it>.",,
+TutorialDialogues_T1_TutorialComplete,Text,,Excellent! You have a functioning colony and your skills are looking promising!,Eccellente! Ora hai una colonia funzionante e le tue abilità sono promettenti!,,
+TutorialDialogues_T1_TutorialComplete2,Text,,"When you're ready, it's time to move onto somewhere with a bit more space...","Quando sei pronto, è il momento di spostarsi in un posto con più spazio...",,
 TutorialDialogues_T1_WaitForFishingHutConstruction,Text,,"The construction resources are now heading to the <bd>Fishing Hut</bd>.
-Let's wait for construction for finish.",,,1471
+Let's wait for construction for finish.","Questa risorsa di costruzione è diretta alla <bd>Capanna da Pesca</bd>.
+Attendiamo che la costruzione sia terminata.",,
 TutorialDialogues_T1_WaitForLumberjackHutComplete,Text,,"Your Carrybots can now transport the <it>Logs</it> along the roads to the road post outside the <bd>Lumberjack Hut</bd>.
 The Stackbot for the <bd>Lumberjack Hut</bd> will then pick up the resources and the Buildbot will then be able to construct the building.
-Let's watch!",,,1472
-TutorialDialogues_T1_WaitForResidenceConstruction,Text,,Good! Now let's watch the construction resources reach the <bd>Residence</bd> and the buildbot finish their work.,,,1473
-TutorialDialogues_T1_WaitForResidenceConstruction2,Text,,The <bd>Residence</bd> is finished but as the icons above the building show the Housebot doesn't have the required resources yet to begin production of <it>Energy L1</it>.,,,1474
+Let's watch!","Il tuo BotTrasportatore può ora trasportare i <it>Tronchi</it> lungo la strada fino al palo stradale fuori dalla <bd>Capanna del Taglialegna</bd>.
+Il BotImpilatore della <bd>Capanna del Taglialegna</bd> quindi prenderà le risorse e il BotCostruttore sarà pronto a costruire l'edificio!
+Stiamo a vedere!",,
+TutorialDialogues_T1_WaitForResidenceConstruction,Text,,Good! Now let's watch the construction resources reach the <bd>Residence</bd> and the buildbot finish their work.,Bene! Ira guardiamo come le risorse di costruzione raggiungono la <bd>Residenza</bd> e come il BotCostruttore finisce il suo lavoro.,,
+TutorialDialogues_T1_WaitForResidenceConstruction2,Text,,The <bd>Residence</bd> is finished but as the icons above the building show the Housebot doesn't have the required resources yet to begin production of <it>Energy L1</it>.,"La bd>Residenza</bd> è finita ma come le icone sopra l'edificio mostrano, il BotCasalingo non ha le risorse necessarie per iniziare a produrre <it>Energia L1</it>.",,
 TutorialDialogues_T1_WaitWatchtowerComplete,Text,,"Now let's wait for the <bd>Watchtower</bd> to finish construction.
-Remember you can change the game speed with <hotkey>[Z]</hotkey> and <hotkey>[X]</hotkey>.",,,1475
-TutorialDialogues_T1_WatchFirstFish,Text,,The Fisherbot is now heading off to fish and will soon have some <it>Fish</it> for your <bd>Residence</bd>.,,,1476
+Remember you can change the game speed with <hotkey>[Z]</hotkey> and <hotkey>[X]</hotkey>.","Ora aspettiamo che la <bd>Torre di Guardia</bd> sia costruita.
+Ricorda che puoi cambiare la velocità di gioco con <hotkey>[Z]</hotkey> e <hotkey>[X]</hotkey>",,
+TutorialDialogues_T1_WatchFirstFish,Text,,The Fisherbot is now heading off to fish and will soon have some <it>Fish</it> for your <bd>Residence</bd>.,Il BotPescatore si sta ora dirigendo a pescare e presto avrà del <it>Pesce</it> per la tua <bd>Residenza</bd>.,,
 TutorialDialogues_T2_BuildSheepFarm,Text,,"First though, we can see that we haven't got any <nr>Fish</nr> available so you'll need to build a <bd>Sheep Farm</bd>.
 Sheep Farms can produce enough <cat>Food</cat> for 4 <bd>Residences</bd> but they need space for the sheep to graze.
-Build a <bd>Sheep Farm</bd> in the highlighted location.",,,1477
-TutorialDialogues_T2_BuildSheepFarm2,Text,,Nice! Let's wait for the buildbot to finish construction of your <bd>Sheep Farm</bd>.,,,1478
-TutorialDialogues_T2_BuildSheepFarm_TaskBuildSheepFarm,Text,,Build 1 <bd>Sheep Farm</bd>,,,1479
+Build a <bd>Sheep Farm</bd> in the highlighted location.","Per prima cosa, posssiamo vedere che non abbiamo nessun <nr>Pesce</nr> disponibile quindi avrai bisogno di costruire un <bd>Allevamento di Pecore</bd>.
+Gli Allevamenti di pecore possono produrre abbastanza <cat>Cibo</cat> per 4 <br>Residenze</bd> ma hanno bisogno di spazio per far pascolare le percore.
+Costruisci un <bd>Allevamento di Pecore</bd> nel punto evidenziato.",,
+TutorialDialogues_T2_BuildSheepFarm2,Text,,Nice! Let's wait for the buildbot to finish construction of your <bd>Sheep Farm</bd>.,Bene! Ora aspettiamo che il BotCostruttore finisca la costruzione del tuo <bd>Allevamento di Pecore</bd>.,,
+TutorialDialogues_T2_BuildSheepFarm_TaskBuildSheepFarm,Text,,Build 1 <bd>Sheep Farm</bd>,Costruisci 1 <bd>Allevamento di pecore</bd>,,
 TutorialDialogues_T2_ConnectSheepFarm,Text,,"Now, starting at the post outside the <bd>Colony Ship</bd>, connect to the <bd>Sheep Farm</bd> using <lr>Roads</lr> and <lr>Paths</lr>.
-You can also use hotkeys <hotkey>[1]</hotkey> through <hotkey>[9]</hotkey> to select different construction modes.",,,1480
+You can also use hotkeys <hotkey>[1]</hotkey> through <hotkey>[9]</hotkey> to select different construction modes.","Adesso, iniziando dal palo stradale fuori dalla <bd>Nave della Colonia</bd>, connetti l' <bd>Allevamento di pecore</bd> utilizzando <lr>Strade</lr> e <lr>Sentieri</lr>.
+Puoi anche utilizzare i tasti <hotkey>[1]</hotkey> fino a <hotkey>[9]</hotkey> per selezionare le diverse modalità di costruzione.",,
 TutorialDialogues_T2_CreateSheepFarmFields,Text,,"Your <bd>Sheep Farm</bd> won't produce at its most optimal rate until you place the full 50 pastures.
-Click on the yellow alert symbol above the <bd>Sheep Farm</bd> building and click 'Auto Place'.",,,1481
+Click on the yellow alert symbol above the <bd>Sheep Farm</bd> building and click 'Auto Place'.","Il tuo <bd>Allevamento di pecore</bd> non produrrà in maniera ottimale finchè non piazzerai tutti e 50 i pascoli.
+Clicca sull'avviso giallo sopra l'<bd>Allevamento di pecore</bd> e clicca 'Auto Piazza'.",,
 TutorialDialogues_T2_CreateSheepFarmFields2,Text,,"Click 'Auto Place' to automatically place the sheep pastures.
-You can also manually modify the fields by clicking 'Change'.",,,1482
+You can also manually modify the fields by clicking 'Change'.","Clicca 'Auto Piazza' per piazzare automaticamente i Pascoli.
+Puoi anche modificarli manualmente cliccando 'Cambia'.",,
 TutorialDialogues_T2_CreateSheepFarmFields3,Text,,"Great! Your <bd>Sheep Farm</bd> is going to give you a good start on <cat>Food</cat> production.
-If, at any point, you want to set the sheep pastures manually, you can use the 'Change' mode.",,,1483
-TutorialDialogues_T2_CreateSheepFarmFields_TaskFields,Text,,Expand at least 20 extra pastures,,,1484
+If, at any point, you want to set the sheep pastures manually, you can use the 'Change' mode.","Bene! Il tuo <bd>Allevamento di Pecore</bd> ti darà un buon inizio sulla produzione di <cat>Cibo</cat>.
+Se, in qualsiasi momento, vuoi impostare il pascolo manualmente, utilizza la modalità 'Cambia'.",,
+TutorialDialogues_T2_CreateSheepFarmFields_TaskFields,Text,,Expand at least 20 extra pastures,Espandi di almeno 20 pascoli extra,,
 TutorialDialogues_T2_OnResearchComplete2a,Text,,"Great, you've researched <res>Construction I</res>!
-This means you've unlocked a new range of buildings and the ability to upgrade some existing ones.",,,1485
-TutorialDialogues_T2_OnResearchComplete2b,Text,,To mine <nr>Coal</nr> and <nr>Iron Ore</nr> you need to research <res>Mining I</res> as well as supply the more advanced <it>Energy L2</it>.,,,1486
+This means you've unlocked a new range of buildings and the ability to upgrade some existing ones.","Bene! Hai ricercato <res>Costruzione I</res>!
+Questo significa che hai sbloccato nuovi edifici e l'abilità di migliorare alcuni edifici esistenti.",,
+TutorialDialogues_T2_OnResearchComplete2b,Text,,To mine <nr>Coal</nr> and <nr>Iron Ore</nr> you need to research <res>Mining I</res> as well as supply the more advanced <it>Energy L2</it>.,Per estrarre <nd>Carbone</nr> e <nr>Ferro grezzo</nr> hai bisogno di ricercare <res>Estrazione Mineraria I</res> oltre a fornire <it>Energia L2</it> più avanzata.,,
 TutorialDialogues_T2_OnResearchComplete2c,Text,,"<it>Energy L2</it> is generated by Level 2 <bd>Residences</bd>.
 You can either upgrade Level 1 <bd>Residences</bd> via the building's upgrade panel or you can construct the building from scratch.
-Your next job is to create your first Level 2 <bd>Workshop</bd> and your first Level 2 <bd>Residence</bd>!",,,1487
+Your next job is to create your first Level 2 <bd>Workshop</bd> and your first Level 2 <bd>Residence</bd>!","L'<it>Energia L2</it> è generata dalle <bd>Residenze</bd> Livello 2.
+Puoi migliorare le <bd>Residenze</bd> Livello 1 attraverso il pannello migliora dell'edificio o puoi costruirle da zero.
+Il tuo prossimo incarico è di creare il tuo primo <bd>Laboratorio</bd> Livello 2 e la tua prima <bd>Residenza</bd> Livello 2.",,
 TutorialDialogues_T2_SoloInstructions,Text,,"It's time to build this colony on your own!
-I'll still be around to help though. Click on the flashing 'Help' icon the top-left.",,,1488
+I'll still be around to help though. Click on the flashing 'Help' icon the top-left.","E' il momento di costruire la tua colonia!
+Sarò ancora in giro ad aiutare. Clicca il tasto 'Aiuto' lampeggiante in alto a sinistra.",,
 TutorialDialogues_T2_SoloInstructions2,Text,,"Here you can see the mission goal as well as advice, warnings and tips if you need them.
 You can also click on each advice item for more information.
-Good luck!",,,1489
+Good luck!","Qui puoi vedere gli obiettivi di missione insieme ai suggerimenti e agli avvisi se ne hai bisogno.
+Puoi anche cliccare su ciascun suggerimento per ulteriori informazionI!
+Buona fortuna!",,
 TutorialDialogues_T2_Welcome,Text,,"This location looks a bit more promising! Let's build a <bd>Small Monument</bd> to celebrate!
-A <bd>Small Monument</bd> requires more advanced materials including <it>Iron</it> and you're going to need to research technology to upgrade and unlock more advanced buildings.",,,1490
-TutorialDialogues_T3_FakeEnd,Text,,<blank>,,,1491
+A <bd>Small Monument</bd> requires more advanced materials including <it>Iron</it> and you're going to need to research technology to upgrade and unlock more advanced buildings.","Questo posto sembra più promettente! Costruiamo un <bd>Monumento Piccolo</bd> per celebrare!
+Un <bd>Monumento Piccolo</bd> richiede materiali più avanzati come <it>Ferro</it> e avrai bisogno di ricercare tecnologia per migliorare e sbloccare edifici più avanzati.",,
+TutorialDialogues_T3_FakeEnd,Text,,<blank>,<blank>,,
 TutorialDialogues_T3_Welcome,Text,,"We seem to have landed on a small island with few resources.
-You're going to need to build a harbour and boatyard to explore the seas to find new land!",,,1492
+You're going to need to build a harbour and boatyard to explore the seas to find new land!","Sembra che siamo atterrati su una piccola isola con poche risorse.
+Dovrai costruire un porto e un cantiere navale per esplorare i mari e trovare altra terra!",,
 TutorialDialogues_T4_Intro,Text,,"It looks like you might not be alone this planet...
-You should set up your colony and expand quickly!",,,1493
+You should set up your colony and expand quickly!","Sembra che non siamo soli in questo pianeta...
+Crea la tua colonia ed espanditi rapidamente!",,
 TutorialDialogues__Overlay_CoalDiscovered,Text,,"You now have some <nr>Coal</nr> deposits within your territory!
-<nr>Coal</nr> deposits can only be mined by a Level 2 <bd>Surface Mine</bd> once you've researched <res>Mining I</res>.",,,1494
+<nr>Coal</nr> deposits can only be mined by a Level 2 <bd>Surface Mine</bd> once you've researched <res>Mining I</res>.","Ora hai dei depositi di <nr>Carbone</nr> nel tuo territodio!
+I depositi di <nr>Carbone</nr> possono essere estratti solo da una <br>Miniera di Superficie</br> Livello 2 una volta che avrai ricercato <res>Estrazione Mineraria I</res>.",,
 TutorialDialogues__Overlay_FirstBoatConstructed,Text,,"You've built your first boat!
 When a boat is complete you can either create a route between existing <bd>Harbours</bd> or assign it to an expedition to explore the seas and build a new <bd>Harbour</bd> on another island.
-As this is your first boat you need to start collecting resources for an expedition at a <bd>Harbour</bd>. When ready, select your boat and assign it to the expedition.",,,1495
+As this is your first boat you need to start collecting resources for an expedition at a <bd>Harbour</bd>. When ready, select your boat and assign it to the expedition.","Hai costruito la tua prima barca!
+Quando una barca è completa, puoi costruire una rotta tra <bd>Porti</bd> esistenti o assegnarla ad una spedizione per esplorare i mari e costruire un <bd>Porto</bd> su una nuova isola.
+Siccome questa è la tua prima barca, hai bisogno di raccogliere risorse per la spedizione al <bd>Porto</bd>. Una volta pronte seleziona la tua barca e assegnala alla spedizione.",,
 TutorialDialogues__Overlay_FirstBoatRouteCreated,Text,,"Your new <bd>Harbour</bd> is under construction!
 Your boat has also automatically created a transport route between your new <bd>Harbour</bd> and its original <bd>Harbour</bd>.
 Resources will automatically be delivered through your <bd>Harbours</bd> when they are requested by buildings on either island.
 As your colony expands you will want to control which resources can pass through your network in order to prevent resources being sourced from too far away or from different islands.
-Check out the transport rule system by clicking on any road post or harbour.",,,1496
+Check out the transport rule system by clicking on any road post or harbour.","Il tuo nuovo <bd>Porto</bd> è in costruzione!
+La tua barca ha creato automaticamente una rotta di trasporto tra il tuo nuovo <bd>Porto</bd> e il <bd>Porto</bd> originale.
+Le risorse verranno consegnate automaticamente tra <bd>Porti</bd> quando richieste da edifici in un isola o nell'altra.
+Man mano che la tua colonia si espande vorrai avere più controllo su che risorse possono passare, in modo da impedire che le risorse vengano inviate troppo lontano in isole differenti.
+Controlla le regole di trasporto cliccando su un qualsiasi palo stradale o su un porto.",,
 TutorialDialogues__Overlay_FirstExpeditionLoaded,Text,,"Your expedition boat is ready!
 Select it to enter navigation mode. You can now click on a water tile to explore the ocean and discover new islands.
 You can check the Map (<hotkey>[M]</hotkey>) screen to see where the hidden resources are located.
-Once you've found a new island, use the 'Build Harbour' option on the boat panel to construct a new <bd>Harbour</bd> your new land.",,,1497
+Once you've found a new island, use the 'Build Harbour' option on the boat panel to construct a new <bd>Harbour</bd> your new land.","La tua barca da spedizione è pronta!
+Selezionala per entrare in modalità navigazione. Puoi ora cliccare su una casella d'acqua per esplorare l'oceano e scoprire nuove isole.
+Puoi controllare la mappa (<hotkey>[M]</hotkey>) per vedere dove sono le risorse nascoste-
+Una volta che hai trovato una nuova isola, utilizza l'opzione 'Costruisci Porto' nel pannello della barca per costruire un nuovo <bd>Porto</bd> sulla nuova terra.",,
 TutorialDialogues__Overlay_GeneralBuildingUpgrade,Text,,"You now have access to Level 2 of this building!
-Click the tabs at the top of the construction panel to change the level of the building.",,,1498
+Click the tabs at the top of the construction panel to change the level of the building.","Ora hai accesso al Livello 2 di questo edificio!
+Clicca la scheda in alto al pannello costruzione per cambiare il livello dell'edificio.",,
 TutorialDialogues__Overlay_HostileColony,Text,,"You've come across another robot colony! They do not look friendly though...
 Level 2 <bd>Watchtowers</bd> can attack nearby hostile <bd>Watchtowers</bd> with arrows.
-Research military technologies and upgrade your <bd>Watchtowers</bd> to prepare for combat!",,,1499
+Research military technologies and upgrade your <bd>Watchtowers</bd> to prepare for combat!","Hai incontrato un'altra colonia di robot! Purtroppo non sembrano amichevoli...
+Le <bd>Torri di Guardia</bd> Livello 2 possono attaccare le vicine <bd>Torri di Guardia</bd> ostili con le frecce.
+Ricerca tecnologie militari per migliorare le tue <bd>Torri di Guardia</bd> per prepararti al combattimento!",,
 TutorialDialogues__Overlay_ResearchedMining,Text,,"You've researched <res>Mining I</res>!
-You can now build Level 2 <bd>Surface Mines</bd> and Level 1 <bd>Shaft Mines</bd> which can mine <nr>Coal</nr> and <nr>Iron Ore</nr>.",,,1500
+You can now build Level 2 <bd>Surface Mines</bd> and Level 1 <bd>Shaft Mines</bd> which can mine <nr>Coal</nr> and <nr>Iron Ore</nr>.","Hai ricercato <res>Estrazione Mineraria I</res>!
+Ora puoi costruire la <bd>Miniera di Superficie</bd> Livello 2 e la <bd>Miniera</bd> Livello 1 che può estrarre <nd>Carbone</nr> e <nr>Ferro grezzo</nr>",,
 TutorialDialogues__Overlay_ResidenceUpgraded,Text,,"You now have a Level 2 <bd>Residence</bd> which can generate <it>Energy L2</it>!
 Level 2 <bd>Residences</bd> have an additional requirement though - <cat>Alcohol</cat>.
-Build an <bd>Orchard</bd> and <bd>Cider Press</bd> to start producing <it>Cider</it>.",,,1501
+Build an <bd>Orchard</bd> and <bd>Cider Press</bd> to start producing <it>Cider</it>.","Ora hai una <bd>Residenza</bd> Livello 2 che può generare <it>Energia L2</it>!
+Le <bd>Residenze</bd> Livello 2 hanno un altro requisito però: <cat>Alcool</cat>.
+Costruisci un <bd>Frutteto</bd> e una <bd>Pressa per Sidro</bd> per iniziare a produrre <bd>Sidro</bd>.",,
 TutorialDialogues__Overlay_ShaftMineCanConstruct,Text,,"You now have a Underground Deposit inside your territory!
 You can mine this location by constructing a <bd>Shaft Mine</bd> on it.
-When placing the <bd>Shaft Mine</bd> you need to line up the building footprint so the mine track lines up to the mine entrance.",,,1502
+When placing the <bd>Shaft Mine</bd> you need to line up the building footprint so the mine track lines up to the mine entrance.","Ora hai un deposito sotterraneo nel tuo territorio!
+Puoi estrarre minerali costruendoci una <bd>Miniera</bd>.
+Quando piazzi la <bd>Miniera</bd> hai bisogno di allinearla in modo che il tracciato sia allineato con l'entrata.",,
 TutorialDialogues__Overlay_ShaftMineMiningNotResearched,Text,,"You now have a Underground Deposit inside your territory!
-You can mine this location by constructing a Level 1 <bd>Shaft Mine</bd>  once you've researched <res>Mining I</res>.",,,1503
+You can mine this location by constructing a Level 1 <bd>Shaft Mine</bd>  once you've researched <res>Mining I</res>.","Ora hai un deposito sotterrraneo nel tuo territorio!
+Puoi estrarre minerali costruendoci una <bd>Miniera</bd> Livello 1 una volta che avrai ricercato <res>Estrazione Mineraria I</res>.",,
 TutorialDialogues__Overlay_ShaftMineUnlock,Text,,"You have unlocked the Shaft Mine!
 Level 1 Shaft Mines bots are powered by <it>Energy L2</it> can mine <nr>Coal</nr>, <nr>Iron Ore</nr>, <nr>Clay</nr> and <nr>Salt</nr> as well as mining <nr>Stone</nr>.
-Shaft Mines tunnel into underground deposits so have to be placed in specific position related to the deposit. Use the building footprint to line up with the underground deposit.",,,1504
+Shaft Mines tunnel into underground deposits so have to be placed in specific position related to the deposit. Use the building footprint to line up with the underground deposit.","Hai sbloccato la Miniera!
+I Bot della Miniera Livello 1 utilizzano <it>Energia L2</it> e possono estrarre <nr>Carbone</nr>, <nr>Ferro grezzo</nr>, <nr>Argilla</nr> e <nr>Sale</nr> oltre ad estrarre <nr>Pietra</nr>.
+La Miniera crea tunnel sotterranei quindi deve essere piazzata in punti specifici vicino ai depositi. Utilizza l'indicatore per allinearla con il deposito sotterraneo.",,
 TutorialDialogues__Overlay_SurfaceMineUpgrade,Text,,"You now have access to a Level 2 Surface Mine! Click the tab at the top of the construction panel to change the level of the building.
 Level 2 Surface Mines bots are powered by <it>Energy L2</it> and can mine <nr>Coal</nr>, <nr>Iron Ore</nr> and <nr>Clay</nr> as well as mining <nr>Stone</nr> faster.
-But remember, you can always choose to build Level 1 Surface Mines to mine <nr>Stone</nr> if you prefer or in the event you run out of <it>Stone</it> to construct Level 2 Surface Mines.",,,1505
+But remember, you can always choose to build Level 1 Surface Mines to mine <nr>Stone</nr> if you prefer or in the event you run out of <it>Stone</it> to construct Level 2 Surface Mines.","Ora hai accesso alla Miniera di Superficie Livello 2! Clicca sulla scheda in alto al pannello costruzione per cambiare il livello dell'edificio.
+I Bot dela Miniera di Superficie Livello 2 utilizzano <it>Energia L2</it> e possono estrarre <nr>Carbone</nr>, <nr>Ferro grezzo</nr> e <nr>Argilla</nr> oltre ad estrarre <nr>Pietra</nr> più velocemente.
+Ma ricorda, puoi sempre costruire una Miniera di Superficie L1 per estrarer <nr>Pietra</nr> se lo preferisci o se non hai abbastanza <it>Pietra</it> per costruire una Miniera di Superficie Livello 2",,
 TutorialDialogues__Overlay_SurfaceMineUpgraded,Text,,"You've upgraded a <bd>Surface Mine</bd> to Level 2!
 It's now capable of mining more advanced ores of <nr>Coal</nr>, <nr>Iron Ore</nr> and <nr>Clay</nr>.
-Your Level 2 <bd>Surface Mine</bd> will still be set to mine its previous resource (<nr>Stone</nr>) so if you want it to mine <nr>Coal</nr> instead then you need to click on the mine's production panel and manually change it.",,,1506
+Your Level 2 <bd>Surface Mine</bd> will still be set to mine its previous resource (<nr>Stone</nr>) so if you want it to mine <nr>Coal</nr> instead then you need to click on the mine's production panel and manually change it.","Hai migliorato una <bd>Miniera di Superficie</bd> al Livello 2!
+Ora è in grado di estrarre minerali avanzati come <nr>Carbone</nr>, <nr>Ferro grezzo</nr> e <nr>Argilla</nr>.
+La tua <bd>Miniera di Superficie</bd> Livello 2 sarà impostata per estrarre la risorsa precedente (<nr>Pietra</nr>) quindi se invece vuoi estrarre <nr>Carbone</nr> devi cliccare sul pannello produzione della miniera e impostarlo manualmente .",,
 TutorialDialogues__Overlay_UnderAttack,Text,,"One of your <bd>Watchtowers</bd> is under attack!
 Your repairbot will automatically request resources and repair the damage but you need to make sure you're producing enough resources to keep up!
-If your Watchtower receives too much damage it will be captured by the enemy.",,,1507
+If your Watchtower receives too much damage it will be captured by the enemy.","Una delle tue <bd>Torri di Guardia</bd> è sotto attacco!
+Il tuo BotRiparatore richiederà risorse automaticamente e inizierà a riparare il danno ma controlla di avere abbastanza risorse per continuare!
+Se la tua Torre di Guardia riceve troppi danni sarà catturata dal nemico.",,
 TutorialDialogues__Overlay_WatchtowerCapture,Text,,"You've captured a hostile <bd>Watchtower</bd>!
 It's currently damaged and a Guardbot can only occupy it once it's fully repaired.
-Connect the <bd>Watchtower</bd> to your network and repair it quickly otherwise it will collapse!",,,1508
+Connect the <bd>Watchtower</bd> to your network and repair it quickly otherwise it will collapse!","Hai catturato una <bd>Torre di Guardia</bd> ostile!
+E' attualmente danneggiata e il BotGuardia può occuparla solo una volta riparata.
+Connetti la <bd>Torre di Guardia</bd> alla tua rete e riparala velocemente o crollerà!",,
 TutorialDialogues__Overlay_WatchtowerLost,Text,,"You've lost one of your <bd>Watchtowers</bd>!
-Research military technologies to improve your <bd>Watchtowers</bd> and make sure you have a good supply of resources!",,,1509
+Research military technologies to improve your <bd>Watchtowers</bd> and make sure you have a good supply of resources!","Hai perso una delle tue <bd>Torri di Guardia</bd>!
+Ricerca tecnologia militare per migliorare le tue <bd>Torri di Guardia</bd> e controlla di avere una buona scorta di risorse!",,
 TutorialDialogues__Overlay_WatchtowerUpgrade,Text,,"You now have access to a Level 2 Watchtower!
 While Level 2 Watchtowers give more territory they do require <it>Planks</it> and <it>Stone</it> for construction.
-So if you don't have access to, or don't wish to use your <it>Stone</it> you are always able to expand your territory using Level 1 Watchtowers.",,,1510
+So if you don't have access to, or don't wish to use your <it>Stone</it> you are always able to expand your territory using Level 1 Watchtowers.","Ora hai accesso alle Torri di Guardia Livello 2!
+Anche se forniscono più territorio, hanno bisogno di <it>Assi</it> e <it>Pietra</it> per essere costruite.
+Quindi se non ne hai, o non vuoi utilizzare la <it>Pietra</it>, puoi sempre espanderti con le Torri di Guardia Livello 1",,
 TutorialDialogues__Overlay_WorkshopUpgraded,Text,,"You now have a Level 2 <bd>Workshop</bd> which can research more advanced technologies!
-Research <res>Mining I</res> so that you can begin mining the <nr>Coal</nr> and <nr>Iron Ore</nr> you need to make the <it>Iron</it> required for the <bd>Monument</bd>.",,,1511
+Research <res>Mining I</res> so that you can begin mining the <nr>Coal</nr> and <nr>Iron Ore</nr> you need to make the <it>Iron</it> required for the <bd>Monument</bd>.","Ora hai un <bd>Laboratorio</bd> di livello 2 con cui puoi ricercare tecnologie più avanzate!
+Ricerca <res>Estrazione Mineraria I</res> in modo da iniziare ad estrarre <nr>Carbone</nr> e <nr>Ferro grezzo</nr> di cui hai bisogno per fare il <it>Ferro</it> richiesto per il <bd>Monumento</bd>.",,
 UICategory_0_Name,Text,,Energy,Energia,,
 UICategory_1_Name,Text,,Construction,Costruzione,,
 UICategory_2_Name,Text,,Water & Food,Acqua & Cibo,,
@@ -2531,3 +2622,12 @@ Item_47_Name,Text,,Vegetables,Verdure,,
 Item_47_Past,Text,,Harvested,Raccolti,,
 Item_47_Present,Text,,Harvesting,Raccogliendo,,
 EntityBuildingTransportRulesOutgoingWhitelistOnlyStorageDesc,Text,,Resources allowed to be exported only if headed to a storage yard:,Risorse autorizzate ad essere esportate solo se dirette verso un deposito:,,
+,Text,Can't Load (save or map),Can't Load,Impossibile caricare,,
+,Text,,Game was saved in newer version of The Colonists,Il gioco è stato salvato un una nuova versione di The Colonist,,
+,Text,,Map was saved in newer version of The Colonists,La mappa è stata salvata in una nuova versione di The Colonist,,
+,Text,,,,,
+,Text,,,,,
+,Text,,,,,
+,Text,,,,,
+,Text,,,,,
+,Text,,,,,
