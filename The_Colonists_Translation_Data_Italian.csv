@@ -228,9 +228,9 @@ Building_33_Name,Text,,Watchtower,Torre di osservazione,,
 Building_33_Plural,Text,,Watchtowers,Torri di osservazione,,
 Building_33_Worker,Text,,Guardbot,BotGuardia,,
 Building_34_Description,Text,,Produces <it>Arrows</it> from <it>Logs</it>.,Produce <it>Frecce</it> dai <it>Tronchi</it>:,,
-Building_34_Name,Text,,Fletcher,??? - TODO,,
-Building_34_Plural,Text,,Fletchers,??? - TODO,,
-Building_34_Worker,Text,,Fletchbot,??? - TODO,,
+Building_34_Name,Text,,Fletcher,Artigiano produttore di frecce,,
+Building_34_Plural,Text,,Fletchers,Artigiani produttori di frecce,,
+Building_34_Worker,Text,,Fletchbot,BotArtigiano,,
 Building_35_Description,Text,,Creates <it>Cannonballs</it> from <it>Iron</it> using <cat>Fuel</cat>.,Crea <it>Palle di cannone</it> da <it>Ferro</it> utilizzando <cat>Carburante</cat>.,,
 Building_35_Name,Text,,Weaponsmith,Armaiolo,,
 Building_35_Plural,Text,,Weaponsmiths,Armaioli,,
@@ -1020,8 +1020,8 @@ Item_26_FullDesc,Text,,Quartz is mined by the <bd>Level 3 Surface Mine</bd> and 
 Item_26_Name,Text,,Quartz,Quarzo,,
 Item_26_Past,Text,,Mined,Estratto,,
 Item_26_Present,Text,,Mining,In estrazione,,
-Item_27_Desc,Text,,Arrows are made at the <bd>Fletcher</bd>.,Le frecce sono create nel <bd>Fletcher</bd>.,,
-Item_27_FullDesc,Text,,Arrows are made at the <bd>Fletcher</bd> from <it>Logs</it> and are used by Level 2 <bd>Watchtowers</bd> to attack enemy watchtowers.,Le frecce sono create nel <bd>Fletcher</bd> dai <it>Tronchi</it> e sono usate dalle <bd>Torri di guardia</bd> di Livello 2 per attaccare le torri nemiche.,,
+Item_27_Desc,Text,,Arrows are made at the <bd>Fletcher</bd>.,Le frecce sono create dall'<bd>Artigiano</bd>.,,
+Item_27_FullDesc,Text,,Arrows are made at the <bd>Fletcher</bd> from <it>Logs</it> and are used by Level 2 <bd>Watchtowers</bd> to attack enemy watchtowers.,Le frecce sono create dall'<bd>Artigiano</bd> dai <it>Tronchi</it> e sono usate dalle <bd>Torri di guardia</bd> di Livello 2 per attaccare le torri nemiche.,,
 Item_27_Name,Text,,Arrows,Frecce,,
 Item_27_Past,Text,,Crafted,Create,,
 Item_27_Present,Text,,Crafting,In creazione,,
@@ -1037,7 +1037,7 @@ Logs are used in the construction of basic buildings but are also needed to make
 
 Watch out for warnings when your available trees run low and look at building <bd>Forestries</bd> to keep your Logs supplies going. Your <bd>Colony Ship</bd> also generates a slow supply of Logs so you never run out.","I tronchi vengono tagliati dalla <bd>Capanna del Taglialegna</bd> tagliando gli alberi.
 
-I tronchi vengono utilizzati nella costruzione di edifici di base ma sono anche necessari per realizzare <it>Tavole</it> nella <bd>Segheria</bd>, <it>Carbone</it> nel <bd>Bruciatore di Carbonella</bd>, <it>Carta</it> nella <bd>Cartiera</bd> e <it>Frecce</it> nel <bd>Fletcher</bd>.
+I tronchi vengono utilizzati nella costruzione di edifici di base ma sono anche necessari per realizzare <it>Tavole</it> nella <bd>Segheria</bd>, <it>Carbone</it> nel <bd>Bruciatore di Carbonella</bd>, <it>Carta</it> nella <bd>Cartiera</bd> e <it>Frecce</it> dall'<bd>Artigiano</bd>.
 
 Fai attenzione agli avvisi quando i tuoi alberi disponibili scarseggiano e ricorda di costruire <bd>Foreste</bd> per far andare avanti le scorte di tronchi. La tua <bd>nave della Colonia</bd> genera anche una fornitura lenta di tronchi in modo da non rimanere mai senza.",,
 Item_2_Name,Text,,Logs,Tronchi,,
@@ -1573,7 +1573,7 @@ Tech_122_Desc,Text,,Increases research speed by <amount>%,Migliora la velocità 
 Tech_122_Name,Text,,Science III,Scienza III,,
 Tech_1_Desc,Text,,Increase sapling growth speed by <amount>%,Aumenta la velocità di crescita degli alberelli dell'<amount>%,,
 Tech_1_Name,Text,,Coppicing II,Taglialegna II,,
-Tech_20_Desc,Text,,Unlocks creation of <it>Arrows</it> at the <bd>Fletcher</bd> and firing of <it>Arrows</it> from <bd>Watchtowers</bd>,Sblocca la creazione delle <it>Frecce</it> presso il <bd>??? - TODO</bd> e l'abilità di sparare <it>Frecce</it> dalle <bd>Torri di Guardia</bd>,,
+Tech_20_Desc,Text,,Unlocks creation of <it>Arrows</it> at the <bd>Fletcher</bd> and firing of <it>Arrows</it> from <bd>Watchtowers</bd>,Sblocca la creazione delle <it>Frecce</it> presso l'<bd>Artigiano</bd> e l'abilità di sparare <it>Frecce</it> dalle <bd>Torri di Guardia</bd>,,
 Tech_20_Name,Text,,Arrows I,Frecce I,,
 Tech_21_Desc,Text,,Increases damage dealt by your arrows by <amount>%,Aumenta il danno inflitto dalle tue frecce dell'<amount>%,,
 Tech_21_Name,Text,,Arrows II,Frecce II,,
@@ -2003,231 +2003,240 @@ EntityTransportBoatReady_TransportRouteCreate,Text,,Create Transport Route,,,158
 MapPlayHARD,Text,,Play Hard,Gioca a Difficile,,
 MapPlayNORMAL,Text,,Play Normal,Gioca a Normale,,
 MapPlayCASUAL,Text,,Play Casual,Gioca a Facile,,
-ConstructionPanel_Info,Text,,Info,,,1586
-ConstructionPanel_LevelLocked,Text,,Locked,,,1587
-Mission,Text,,Mission,,,1588
+ConstructionPanel_Info,Text,,Info,Informazioni,,
+ConstructionPanel_LevelLocked,Text,,Locked,Bloccato,,
+Mission,Text,,Mission,Missione,,
 CursorConstrained,Text,,Cursor Constrained,Mouse bloccato (nella finestra),,
 Yes,Text,Alert window - confirm,Yes,Sì,,
 No,Text,Alert window - cancel,No,No,,
 Begin,Text,,Begin,Inizia,,
 Tutorial,Text,,Tutorial,Tutorial,,
 Skip,Text,,Skip,Salta,,
-EntityConstruction_PauseConstruction,Text,,Pause Construction,,,1595
-EntityConstruction_ResumeConstruction,Text,,Resume Construction,,,1596
-EntityConstruction_ConstructionPaused,Text,,Construction Paused,,,1597
-EntityConstruction_InProgress,Text,,In Progress,,,1598
-NoBuildingsYet,Text,"{0} is plural of building, e.g. Blacksmiths",You haven't built any {0} yet!,,,1599
-NoTransportRules,Text,{0} is resource type e.g. Bricks,You don't have any transport rules that affect the movement of {0},,,1600
-NotRequiredYet,Text,{0} is resource type e.g. Bricks,No buildings require {0} yet,,,1601
-InPriorityOrder,Text,(The following list of demand types are) in priority order,In priority order,,,1602
-Next Mission,Text,(Go to) Next Mission,Next Mission,,,1603
-ConstructionMode_1,Text,Bottom right circle,Build,,,1604
-ConstructionMode_2,Text,Bottom right circle,Sculpt,,,1605
-ConstructionMode_3,Text,Bottom right circle,Destroy,,,1606
-ItemInfoOverview,Text,,Production & Demand,,,1607
-Tutorial_Nice,Text,,Nice!,,,1608
-SummaryUI_Destroy,Text,Destroy (a resource),Destroy,,,1609
-GlobalItemIconUI_Production_Tooltip,Text,"{0}: amount, {1}: resource e.g. ""5 Bricks surplus per day""",{0} {1} surplus per day,,,1610
-GlobalItemIconUI_Storage_Tooltip,Text,"{0}: amount, {1}: resource e.g. ""7 Coal in storage""",{0} {1} in storage,,,1611
-GlobalItemIconUI_Demand_Tooltip_Singular,Text,"{0}: amount of buildings, {1}: resource e.g. ""1 building needs Logs""",{0} building needs {1},,,1612
-GlobalItemIconUI_Demand_Tooltip_Plural,Text,"{0}: amount of buildings, {1}: resource e.g. ""3 buildings need Logs""",{0} buildings need {1},,,1613
-GlobalItemIconUI_NotProduced_Tooltip,Text,"{0}: resource e.g. ""You have not produced any Steel yet""",You have not produced any {0} yet,,,1614
-GraphStartTime_Day,Text,,1 day ago,,,1615
-GraphStartTime_Week,Text,,1 week ago,,,1616
-GraphStartTime_Month,Text,,1 month ago,,,1617
-GraphStartTime_Year,Text,,1 year ago,,,1618
-BotPrintedAge,Text,"{0}: bot name, {1} time e.g. ""Geoffbot was printed 3 years, 5 months, 19 days ago""",{0} was printed {1} ago,,,1619
-BotSleepingReason,Text,"{0}: bot name, {1} is reason e.g. ""Jillbot is sleeping because they're waiting for more Energy""",{0} is sleeping because {1},,,1620
-EntityProductionUI_ResourceRatio,Text,The production ratio between two resources,Resource Ratio,,,1621
-Natural Resource,Text,"Any of Coal, Iron etc",Natural Resource,,,1622
-Tree Type,Text,Which type of tree Forester is planting,Tree Type,,,1623
-EntityInfoBuildingStorageIncomingEmpty,Text,,There are no resources in the queue,,,1624
-EntityInfoBuildingStorageExportWhitelistHeader,Text,,Export Whitelist,,,1625
-EntityInfoBuildingStorageExportWhitelistDesc,Text,,Limit which buildings resources can be sent to:,,,1626
-EntityInfoBuildingStorageImportWhitelistHeader,Text,,Import Whitelist,,,1627
-EntityInfoBuildingStorageImportWhitelistDesc,Text,,Limit which buildings can send resources here:,,,1628
-UnknownItem,Text,Fallback if resource type is not known,Unknown resource,,,1629
-UnitState_Idle,Text,,Idle,,,1630
-UnitState_ReturningToIdle,Text,,Returning to idle,,,1631
-UnitState_GoingHome,Text,,Going home,,,1632
-UnitState_PickingUp,Text,"{0}: the resource that the bot is picking up e.g. ""Picking up Bread""",Picking up {0},,,1633
-UnitState_DroppingOff,Text,"{0}: the resource that the bot is picking up e.g. ""Dropping off Bread""",Dropping off {0},,,1634
-UnitState_Fetching,Text,"{0}: the resource that the bot is fetching e.g. ""Fetching Bread""",Fetching {0},,,1635
-UnitState_Planting,Text,{0}: tree being planted {1}: percent progress,Planting {0} - {1}%,,,1636
-UnitState_ImprovingRoad,Text,,Improving road,,,1637
-UnitState_Chopping,Text,{0}: tree being chopped down {1}: percent progress,Chopping down {0} - {1}%,,,1638
-UnitState_Reloading,Text,Guardbot reloading weapon,Reloading - {0}%,,,1639
-UnitState_Firing,Text,Guardbot firing weapon,Firing - {0}%,,,1640
-UnitState_ConstructingBoat,Text,,Constructing boat - {0}%,,,1641
-UnitState_Processing,Text,Fallback - bot is doing a generic process,Processing - {0}%,,,1642
-UnitState_ReturningHome,Text,Returning from work with resource,Returning home,,,1643
-UnitState_Constructing,Text,,Constructing,,,1644
-UnitState_HeadingTo,Text,{0}:tile or building that bot is heading to,Heading to {0},,,1645
-UnitState_Researching,Text,{0}: technology that bot is currently researching,Researching {0},,,1646
-UnitState_BeingPrinting,Text,Bot is being printed,Printing... {0}%,,,1647
-UnitState_Printed,Text,Bot has been printed,Printed,,,1648
-BuildingTransportConnectionsUI_RoadPosts,Text,Road posts that a building is connected to. {0}:amount,Road Posts ({0}),,,1649
-BuildingTransportConnectionsUI_Buildings,Text,Other buildings that a building is connected to. {0}:amount,Buildings ({0}),,,1650
-BuildingTransportConnectionsUI_Harbours,Text,Harbours that a building is connected to. {0}:amount,Boat Routes ({0}),,,1651
-BuildingTransportConnectionsUI_TrainStations,Text,Train Stations a building is connected to. {0}:amount,Train Routes ({0}),,,1652
-Tooltip_ItemHeadingTo,Text,{0}: building a resource is heading to,heading to {0},,,1653
-Tooltip_YieldsFish,Text,(Fish tile) yields (fish),yields <it>{0}</it>,,,1654
-Tooltip_YieldsNatResGrp,Text,(Resource deposit) yields {10} of {78} {Stone},yields {0} of {1} {2},,,1655
-Tooltip_YieldsNatRes,Text,(Resource deposit) yields {6} {Stone},yields {0} {1},,,1656
-Tooltip_YieldsTree,Text,(Tree) yields {1} {Logs},yields {0} {1},,,1657
-Tooltip_TreeGrowing,Text,{0}:percent that a tree has grown,{0}% grown,,,1658
-Tooltip_YieldsMineInfinite,Text,(Shaft mine) yields unlimited {Gold},yields unlimited {0},,,1659
-AgeNameShort_0,Text,Short for Level 1,L1,,,1660
-AgeNameShort_1,Text,Short for Level 2,L2,,,1661
-AgeNameShort_2,Text,Short for Level 3,L3,,,1662
-Tooltip_Build,Text,"{0}: building age, {1}: building type e.g. ""Build L2 Watchtower""",Build {0}{1},,,1663
-Tooltip_CantBuild,Text,"{0}: building age, {1}: building type e.g. ""Can't build L2 Watchtower""",Can't build {0}{1},,,1664
-Tooltip_Place,Text,"{0}: something user puts down instantly e.g. ""Place sheep field""",Place {0},,,1665
-Tooltip_CantPlace,Text,,Can't place {0},,,1666
-Tooltip_StartRoad,Text,,Start road,,,1667
-Tooltip_CantStartRoad,Text,,Can't start road,,,1668
-Tooltip_CompleteRoad,Text,,Complete road,,,1669
-Tooltip_CompleteRoadAtTile,Text,,Complete at highlighted tile,,,1670
-Tooltip_CantCompleteRoad,Text,,Can't complete road,,,1671
-Tooltip_StartPath,Text,,Start path,,,1672
-Tooltip_CantCompletePath,Text,,Complete path,,,1673
-Tooltip_CantStartPath,Text,,Can't start path,,,1674
-Tooltip_SetPathWaypoint,Text,,Set path waypoint,,,1675
-Tooltip_Sculpt,Text,{0}: sculpt mode,Sculpt {0},,,1676
-Tooltip_CantSculpt,Text,{0}: sculpt mode,Can't sculpt {0},,,1677
-Tooltip_Destroy,Text,{0}: object to be destroyed,Destroy {0},,,1678
-Tooltip_DestroyTrack,Text,Destroy track segment,Destroy track,,,1679
-Tooltip_CantDestroy,Text,{0}: object that cannot be destroyed,Can't destroy {0},,,1680
-Tooltip_CantDestroyBurningBuilding,Text,,Can't destroy burning building,,,1681
-Tooltip_SetTile,Text,Set (priority) tile (for e.g. lumberjack),Set tile,,,1682
-Tooltip_CantSetTile,Text,,Can't set tile,,,1683
-Tooltip_RemoveTile,Text,,Remove tile,,,1684
-MiscCat_0_Desc,Text,Tooltip info for Fish,available from fish tiles,,,1685
-MiscCat_10_Desc,Text,Tooltip info for Mining L1,basic mining,,,1686
-MiscCat_11_Desc,Text,Tooltip info for Mining L2,advanced mining,,,1687
-MiscCat_12_Desc,Text,Tooltip info for Mining L3,expert mining,,,1688
-MiscCat_1_Desc,Text,Tooltip info for water source for wells,available on green tiles,,,1689
-MiscCat_2_Desc,Text,Tooltip info for tree icon at lumberjack,any tree can be chopped down,,,1690
-MiscCat_3_Desc,Text,Tooltip info for wheat field icon,can be planted on green tiles,,,1691
-MiscCat_4_Desc,Text,Tooltip info for sapling at forester,can be planted in ground,,,1692
-MiscCat_5_Desc,Text,Tooltip info for upgrade at Road Improver L1,upgrades to stone roads and paths,,,1693
-MiscCat_6_Desc,Text,Tooltip info for apple tree icon at orchard,can be planted on green tiles,,,1694
-MiscCat_7_Desc,Text,Tooltip info for various resources at workshop,various resources,,,1695
-MiscCat_8_Desc,Text,Tooltip info for research icon at workshop,technology research,,,1696
-MiscCat_9_Desc,Text,Tooltip info for upgrade icon at Road Improver L2,upgrades to brick roads and paths,,,1697
-BuildMode_FilterInvalid,Text,In tutorial when building not in right location,Place on the highlighted tiles!,,,1698
-BuildMode_InvalidAge,Text,,You need to build the Level 1 {0}!,,,1699
-BuildMode_TechnologyUnresearched,Text,,Technology not researched yet!,,,1700
-OverlayDemandUI_UrgentSource,Text,"{0}: building, {1}: resource, {2}:purpose {3}:OverlayDemandUI_RulesAffected if applicable. E.g. ""Jane's Steel Mill is urgently trying to source Iron for production""",{0} is urgently trying to source {1} for {2}{3},,,1701
-OverlayDemandUI_RulesAffected,Text,"If, for example, a road post has a blacklist rule for Bread, then a building may have trouble sourcing Bread because of the transport rules a player has set up. This is shown directly underneath OverlayDemandUI_UrgentSource",Sourcing may be affected by transport rules,,,1702
-Alert,Text,General alert,Alert!,,,1703
-OverlayDemandUI_BuildingNotConnected,Text,,Building is not connected to a road post or path is too long,,,1704
-Under construction,Text,,Under construction,,,1705
-ExpeditionHarbour_NoExpedition,Text,,No expedition started,,,1706
-ExpeditionHarbour_ExpeditionReady,Text,,Expedition ready!,,,1707
-ExpeditionHarbour_ExpeditionAlreadyAssigned,Text,,Expedition already assigned,,,1708
-ExpeditionHarbour_ExpeditionCollectionProgress,Text,,Gathering expedition resources: {0}%,,,1709
-Tooltip_ResourceDemand,Text,{0}:resource name,{0} urgently needed,,,1710
-Tooltip_ResourceEnRoute,Text,"{0}:amount, {1}:resource",{0} {1} en route,,,1711
-Tooltip_ResourceProductionRate,Text,"{0}:amount, {1}:resource, {2}:rate",Producing {0} <it>{1}</it> at a rate of {2}/d,,,1712
+EntityConstruction_PauseConstruction,Text,,Pause Construction,Pausa costruzione,,
+EntityConstruction_ResumeConstruction,Text,,Resume Construction,Riprendi costruzione,,
+EntityConstruction_ConstructionPaused,Text,,Construction Paused,Costruzione in pausa,,
+EntityConstruction_InProgress,Text,,In Progress,In corso,,
+NoBuildingsYet,Text,"{0} is plural of building, e.g. Blacksmiths",You haven't built any {0} yet!,Non hai ancora costruito nessun {0}!,,
+NoTransportRules,Text,{0} is resource type e.g. Bricks,You don't have any transport rules that affect the movement of {0},Non hai nessuna regola di trasporto che influenza il movimento di {0},,
+NotRequiredYet,Text,{0} is resource type e.g. Bricks,No buildings require {0} yet,Nessun edificio richiede {0} ancora,,
+InPriorityOrder,Text,(The following list of demand types are) in priority order,In priority order,In ordine di priorità,,
+Next Mission,Text,(Go to) Next Mission,Next Mission,Prossima missione,,
+ConstructionMode_1,Text,Bottom right circle,Build,Costruisci,,
+ConstructionMode_2,Text,Bottom right circle,Sculpt,Scolpisci,,
+ConstructionMode_3,Text,Bottom right circle,Destroy,Distruggi,,
+ItemInfoOverview,Text,,Production & Demand,Produzione & Domanda,,
+Tutorial_Nice,Text,,Nice!,Bene!,,
+SummaryUI_Destroy,Text,Destroy (a resource),Destroy,Distruggi,,
+GlobalItemIconUI_Production_Tooltip,Text,"{0}: amount, {1}: resource e.g. ""5 Bricks surplus per day""",{0} {1} surplus per day,{0} {1} in eccesso al giorno,,
+GlobalItemIconUI_Storage_Tooltip,Text,"{0}: amount, {1}: resource e.g. ""7 Coal in storage""",{0} {1} in storage,{0} {1} nel deposito,,
+GlobalItemIconUI_Demand_Tooltip_Singular,Text,"{0}: amount of buildings, {1}: resource e.g. ""1 building needs Logs""",{0} building needs {1},{0} edificio ha bisogno di {1},,
+GlobalItemIconUI_Demand_Tooltip_Plural,Text,"{0}: amount of buildings, {1}: resource e.g. ""3 buildings need Logs""",{0} buildings need {1},{0} edifici hanno bisogno di {1},,
+GlobalItemIconUI_NotProduced_Tooltip,Text,"{0}: resource e.g. ""You have not produced any Steel yet""",You have not produced any {0} yet,Non hai ancora prodotto nessun {0},,
+GraphStartTime_Day,Text,,1 day ago,1 giorno fa,,
+GraphStartTime_Week,Text,,1 week ago,1 settimana fa,,
+GraphStartTime_Month,Text,,1 month ago,1 mese fa,,
+GraphStartTime_Year,Text,,1 year ago,1 anno fa,,
+BotPrintedAge,Text,"{0}: bot name, {1} time e.g. ""Geoffbot was printed 3 years, 5 months, 19 days ago""",{0} was printed {1} ago,{0} è stato stampato {1} fa,,
+BotSleepingReason,Text,"{0}: bot name, {1} is reason e.g. ""Jillbot is sleeping because they're waiting for more Energy""",{0} is sleeping because {1},{0} sta dormendo perchè {1},,
+EntityProductionUI_ResourceRatio,Text,The production ratio between two resources,Resource Ratio,Rapporto risorse,,
+Natural Resource,Text,"Any of Coal, Iron etc",Natural Resource,Risorsa naturale,,
+Tree Type,Text,Which type of tree Forester is planting,Tree Type,Tipo di albero,,
+EntityInfoBuildingStorageIncomingEmpty,Text,,There are no resources in the queue,Non ci sono risorse in coda,,
+EntityInfoBuildingStorageExportWhitelistHeader,Text,,Export Whitelist,Lista di Export,,
+EntityInfoBuildingStorageExportWhitelistDesc,Text,,Limit which buildings resources can be sent to:,Limita a che edifici inviare la risorsa:,,
+EntityInfoBuildingStorageImportWhitelistHeader,Text,,Import Whitelist,Lista di Import,,
+EntityInfoBuildingStorageImportWhitelistDesc,Text,,Limit which buildings can send resources here:,Limita che risorse possono inviare le risorse:,,
+UnknownItem,Text,Fallback if resource type is not known,Unknown resource,Risorsa sconosciuta,,
+UnitState_Idle,Text,,Idle,Inattivo,,
+UnitState_ReturningToIdle,Text,,Returning to idle,Ritornando inattivo,,
+UnitState_GoingHome,Text,,Going home,Andando a casa,,
+UnitState_PickingUp,Text,"{0}: the resource that the bot is picking up e.g. ""Picking up Bread""",Picking up {0},Raccogliendo {0},,
+UnitState_DroppingOff,Text,"{0}: the resource that the bot is picking up e.g. ""Dropping off Bread""",Dropping off {0},Lasciando {0},,
+UnitState_Fetching,Text,"{0}: the resource that the bot is fetching e.g. ""Fetching Bread""",Fetching {0},Prendendo {0},,
+UnitState_Planting,Text,{0}: tree being planted {1}: percent progress,Planting {0} - {1}%,Piantando {0} - {1}%,,
+UnitState_ImprovingRoad,Text,,Improving road,Migliorando la strada,,
+UnitState_Chopping,Text,{0}: tree being chopped down {1}: percent progress,Chopping down {0} - {1}%,Tagliando {0} - {1}%,,
+UnitState_Reloading,Text,Guardbot reloading weapon,Reloading - {0}%,Ricaricando - {0}%,,
+UnitState_Firing,Text,Guardbot firing weapon,Firing - {0}%,Sparando - {0}%,,
+UnitState_ConstructingBoat,Text,,Constructing boat - {0}%,Costruendo una barca - {0}%,,
+UnitState_Processing,Text,Fallback - bot is doing a generic process,Processing - {0}%,Processando - {0}%,,
+UnitState_ReturningHome,Text,Returning from work with resource,Returning home,Ritornando a casa,,
+UnitState_Constructing,Text,,Constructing,Costruendo,,
+UnitState_HeadingTo,Text,{0}:tile or building that bot is heading to,Heading to {0},Diretto verso {0},,
+UnitState_Researching,Text,{0}: technology that bot is currently researching,Researching {0},Ricercando {0},,
+UnitState_BeingPrinting,Text,Bot is being printed,Printing... {0}%,Stampando... {0}%,,
+UnitState_Printed,Text,Bot has been printed,Printed,Stampato,,
+BuildingTransportConnectionsUI_RoadPosts,Text,Road posts that a building is connected to. {0}:amount,Road Posts ({0}),Pali stradali ({0}),,
+BuildingTransportConnectionsUI_Buildings,Text,Other buildings that a building is connected to. {0}:amount,Buildings ({0}),Edifici ({0}),,
+BuildingTransportConnectionsUI_Harbours,Text,Harbours that a building is connected to. {0}:amount,Boat Routes ({0}),Rotte barca ({0}),,
+BuildingTransportConnectionsUI_TrainStations,Text,Train Stations a building is connected to. {0}:amount,Train Routes ({0}),Rotte treno ({0}),,
+Tooltip_ItemHeadingTo,Text,{0}: building a resource is heading to,heading to {0},diretto verso {0},,
+Tooltip_YieldsFish,Text,(Fish tile) yields (fish),yields <it>{0}</it>,rende <it>[0]</it>,,
+Tooltip_YieldsNatResGrp,Text,(Resource deposit) yields {10} of {78} {Stone},yields {0} of {1} {2},rende {0} di {1} {2},,
+Tooltip_YieldsNatRes,Text,(Resource deposit) yields {6} {Stone},yields {0} {1},rende {0} {1},,
+Tooltip_YieldsTree,Text,(Tree) yields {1} {Logs},yields {0} {1},rende {0} {1},,
+Tooltip_TreeGrowing,Text,{0}:percent that a tree has grown,{0}% grown,{0}% cresciuto,,
+Tooltip_YieldsMineInfinite,Text,(Shaft mine) yields unlimited {Gold},yields unlimited {0},rendimento illimitato {0},,
+AgeNameShort_0,Text,Short for Level 1,L1,L1,,
+AgeNameShort_1,Text,Short for Level 2,L2,L2,,
+AgeNameShort_2,Text,Short for Level 3,L3,L3,,
+Tooltip_Build,Text,"{0}: building age, {1}: building type e.g. ""Build L2 Watchtower""",Build {0}{1},Costruisci {0}{1},,
+Tooltip_CantBuild,Text,"{0}: building age, {1}: building type e.g. ""Can't build L2 Watchtower""",Can't build {0}{1},Impossibile costruire {0}{1},,
+Tooltip_Place,Text,"{0}: something user puts down instantly e.g. ""Place sheep field""",Place {0},Piazza {0},,
+Tooltip_CantPlace,Text,,Can't place {0},Impossibile piazzare {0},,
+Tooltip_StartRoad,Text,,Start road,Inizia strada,,
+Tooltip_CantStartRoad,Text,,Can't start road,Impossibile iniziare strada,,
+Tooltip_CompleteRoad,Text,,Complete road,Completa strada,,
+Tooltip_CompleteRoadAtTile,Text,,Complete at highlighted tile,Completa alla casella evidenziata,,
+Tooltip_CantCompleteRoad,Text,,Can't complete road,Impossibile completare strada,,
+Tooltip_StartPath,Text,,Start path,Inizia sentiero,,
+Tooltip_CantCompletePath,Text,,Complete path,Completa sentiero,,
+Tooltip_CantStartPath,Text,,Can't start path,Impossibile iniziare sentiero,,
+Tooltip_SetPathWaypoint,Text,,Set path waypoint,Imposta fermata intermedia sentiero,,
+Tooltip_Sculpt,Text,{0}: sculpt mode,Sculpt {0},Scolpisci {0},,
+Tooltip_CantSculpt,Text,{0}: sculpt mode,Can't sculpt {0},Impossibile scolpire {0},,
+Tooltip_Destroy,Text,{0}: object to be destroyed,Destroy {0},Distruggi {0},,
+Tooltip_DestroyTrack,Text,Destroy track segment,Destroy track,Distruggi tracciato,,
+Tooltip_CantDestroy,Text,{0}: object that cannot be destroyed,Can't destroy {0},Impossibile distruggere {0},,
+Tooltip_CantDestroyBurningBuilding,Text,,Can't destroy burning building,Impossibile distruggere edificio in fiamme,,
+Tooltip_SetTile,Text,Set (priority) tile (for e.g. lumberjack),Set tile,Imposta casella,,
+Tooltip_CantSetTile,Text,,Can't set tile,Impossibile impostare casella,,
+Tooltip_RemoveTile,Text,,Remove tile,Rimuovi casella,,
+MiscCat_0_Desc,Text,Tooltip info for Fish,available from fish tiles,disponibile dalle caselle pesce,,
+MiscCat_10_Desc,Text,Tooltip info for Mining L1,basic mining,estrazione mineraria base,,
+MiscCat_11_Desc,Text,Tooltip info for Mining L2,advanced mining,estrazione mineraria avanzata,,
+MiscCat_12_Desc,Text,Tooltip info for Mining L3,expert mining,estrazione mineraria esperta,,
+MiscCat_1_Desc,Text,Tooltip info for water source for wells,available on green tiles,Disponibile sulle celle verdi,,
+MiscCat_2_Desc,Text,Tooltip info for tree icon at lumberjack,any tree can be chopped down,qualsiasi albero può essere tagliato,,
+MiscCat_3_Desc,Text,Tooltip info for wheat field icon,can be planted on green tiles,può essere piantato sulle caselle verdi,,
+MiscCat_4_Desc,Text,Tooltip info for sapling at forester,can be planted in ground,può essere piantato per terra,,
+MiscCat_5_Desc,Text,Tooltip info for upgrade at Road Improver L1,upgrades to stone roads and paths,migliora a strade e sentieri di pietra,,
+MiscCat_6_Desc,Text,Tooltip info for apple tree icon at orchard,can be planted on green tiles,può essere piantato sulle caselle verdi,,
+MiscCat_7_Desc,Text,Tooltip info for various resources at workshop,various resources,risorse varie,,
+MiscCat_8_Desc,Text,Tooltip info for research icon at workshop,technology research,ricerca tecnologia,,
+MiscCat_9_Desc,Text,Tooltip info for upgrade icon at Road Improver L2,upgrades to brick roads and paths,migliora a strade e sentieri di mattoni,,
+BuildMode_FilterInvalid,Text,In tutorial when building not in right location,Place on the highlighted tiles!,Piazza sulle caselle evidenziate!,,
+BuildMode_InvalidAge,Text,,You need to build the Level 1 {0}!,Hai bisogno di costruire {0} Livello 1!,,
+BuildMode_TechnologyUnresearched,Text,,Technology not researched yet!,Tecnologia non ancora ricercata!,,
+OverlayDemandUI_UrgentSource,Text,"{0}: building, {1}: resource, {2}:purpose {3}:OverlayDemandUI_RulesAffected if applicable. E.g. ""Jane's Steel Mill is urgently trying to source Iron for production""",{0} is urgently trying to source {1} for {2}{3},{0} sta urgentemente cercando di reperire {1} per {2}{3},,
+OverlayDemandUI_RulesAffected,Text,"If, for example, a road post has a blacklist rule for Bread, then a building may have trouble sourcing Bread because of the transport rules a player has set up. This is shown directly underneath OverlayDemandUI_UrgentSource",Sourcing may be affected by transport rules,Il reperimento può essere influenzato dalle regole di trasporto,,
+Alert,Text,General alert,Alert!,Attenzione!,,
+OverlayDemandUI_BuildingNotConnected,Text,,Building is not connected to a road post or path is too long,L'edificio non è connesso ad un palo stradale o il sentiero è troppo lungo,,
+Under construction,Text,,Under construction,In costruzione,,
+ExpeditionHarbour_NoExpedition,Text,,No expedition started,Nessuna spedizione iniziata,,
+ExpeditionHarbour_ExpeditionReady,Text,,Expedition ready!,Spedizione pronta!,,
+ExpeditionHarbour_ExpeditionAlreadyAssigned,Text,,Expedition already assigned,Spedizione già assegnata!,,
+ExpeditionHarbour_ExpeditionCollectionProgress,Text,,Gathering expedition resources: {0}%,Accumulando risorse per la spedizione: {0}%,,
+Tooltip_ResourceDemand,Text,{0}:resource name,{0} urgently needed,{0} urgentemente necessario,,
+Tooltip_ResourceEnRoute,Text,"{0}:amount, {1}:resource",{0} {1} en route,{0} {1} in viaggio,,
+Tooltip_ResourceProductionRate,Text,"{0}:amount, {1}:resource, {2}:rate",Producing {0} <it>{1}</it> at a rate of {2}/d,Producendo {0} <it>{1}</it> al ritmo di {2}/d,,
 WorkshopUpgradeWarning1,Text,"{0}:building, {1}:research","Are you sure you want to upgrade <bd>{0}</bd>?
 
-You haven't yet researched <res>{1}</res> which you need to generate <it>Energy L3</it>.",,,1713
-BuildingUpgradeUI_LockUnderConstruction,Text,,Cannot upgrade whilst under construction,,,1714
-BuildingUpgradeUI_NotUnlocked,Text,,Technology not researched,,,1715
-BuildingUpgradeUI_LockWhileResearching,Text,,Cannot upgrade whilst researching,,,1716
-BuildingUpgradeUI_LockWhileRepairing,Text,,Cannot upgrade whilst repairing,,,1717
-BuildingLifetimeStats_ResourcesDelivered,Text,,Resources Delivered,,,1718
-RoadState_StartHighlightTile,Text,,Start road on highlighted tile,,,1719
-InputClick,Text,,Click,,,1720
-RoadState_ClickStartEmpty,Text,{0}:Click,[{0}] to place post and start road,,,1721
-RoadState_ClickStartRoadPost,Text,{0}:Click,[{0}] to start road from this post,,,1722
-RoadState_InvalidFilter,Text,,Place on the highlighted tile,,,1723
+You haven't yet researched <res>{1}</res> which you need to generate <it>Energy L3</it>.","Sei sicuro di voler migliorare <bd>[0]</bd>?
+
+Non hai ancora ricercato <res>{1}</res> necessario per generare <it>Energia Livello 3</it>.",,
+BuildingUpgradeUI_LockUnderConstruction,Text,,Cannot upgrade whilst under construction,Impossibile migliorare durante la costruzione,,
+BuildingUpgradeUI_NotUnlocked,Text,,Technology not researched,Tecnologia non ricercata,,
+BuildingUpgradeUI_LockWhileResearching,Text,,Cannot upgrade whilst researching,Impossibile migliorare durante la ricerca,,
+BuildingUpgradeUI_LockWhileRepairing,Text,,Cannot upgrade whilst repairing,Impossibile migliorare durante la riparazione,,
+BuildingLifetimeStats_ResourcesDelivered,Text,,Resources Delivered,Risorse consegnate,,
+RoadState_StartHighlightTile,Text,,Start road on highlighted tile,Inizia strada nella casella evidenziata,,
+InputClick,Text,,Click,Click,,
+RoadState_ClickStartEmpty,Text,{0}:Click,[{0}] to place post and start road,[{0}] per piazzare un palo stradale e iniziare una strada,,
+RoadState_ClickStartRoadPost,Text,{0}:Click,[{0}] to start road from this post,[{0}] per iniziare una strada da questo palo stradale,,
+RoadState_InvalidFilter,Text,,Place on the highlighted tile,Piazza sulla tessera evidenziata,,
 RoadState_InvalidEndRoadMsg,Text,"{0}:min road length, {1}:Click","Minimum road length is {0} tiles
 
-[{1}] to set road waypoint",,,1724
-RoadState_InvalidEndRoadInvalidWaypointMsg,Text,,Minimum road length is {0} tiles,,,1725
-RoadState_InvalidRoadMsg,Text,,Cannot create road to this tile,,,1726
-RoadState_ValidEndRoadFlagMsg,Text,{0}:Click,[{0}] to complete road,,,1727
+[{1}] to set road waypoint","La strada deve essere lunga almeno {0} caselle
+
+[{1}] per impostare una tappa intermedia",,
+RoadState_InvalidEndRoadInvalidWaypointMsg,Text,,Minimum road length is {0} tiles,La strada deve essere lunga almeno {0} caselle,,
+RoadState_InvalidRoadMsg,Text,,Cannot create road to this tile,Impossibile creare strada per questa casella,,
+RoadState_ValidEndRoadFlagMsg,Text,{0}:Click,[{0}] to complete road,[{0}] per completare la strada,,
 RoadState_ValidEndRoadNoFlagMsg,Text,"{0}:Click, {1}:Ctrl","[{0}] to place post and complete road
 
-[{1}] to set waypoint",,,1728
-PathState_InvalidFilterMsg,Text,,Click on the highlighted tile,,,1729
-PathState_ClickToStart,Text,{0}:Click,[{0}] to start path,,,1730
-PathState_ClickToComplete,Text,{0}:Click,[{0}] to complete path,,,1731
-ResolutionVerify_Revert,Text,,Revert,,,1732
-ResolutionVerify_Confirm,Text,,Confirm,,,1733
-ResolutionVerify_Message,Text,{0}:number of seconds,Reverting in {0} seconds...,,,1734
+[{1}] to set waypoint","[{0}] per piazzare un palo stradale e completare la strada
+
+[{1}] per impostare una tappa intermedia",,
+PathState_InvalidFilterMsg,Text,,Click on the highlighted tile,Clicca sulla casella evidenziata,,
+PathState_ClickToStart,Text,{0}:Click,[{0}] to start path,[{0}] per iniziare un sentiero,,
+PathState_ClickToComplete,Text,{0}:Click,[{0}] to complete path,[{0}] per completare il sentiero,,
+ResolutionVerify_Revert,Text,,Revert,Ripristina,,
+ResolutionVerify_Confirm,Text,,Confirm,Conferma,,
+ResolutionVerify_Message,Text,{0}:number of seconds,Reverting in {0} seconds...,Ripristino in {0} secondi...,,
 AutoSaveLength,Text,{0}:number of minutes,{0} minutes,{0} minuti,,
-ScenarioBrowser_NoResults,Text,,No maps found. Try using other filter settings!,,,1736
-ScenarioBrowser_SearchPlaceholder,Text,,Search,,,1737
-ScenarioBrowser_NewVersion,Text,,This map requires a newer version of The Colonists! Check Steam for the latest version.,,,1738
-ScenarioBrowser_FilterPlayers_0,Text,,Any Players,,,1739
-ScenarioBrowser_FilterPlayers_1,Text,,1 Player,,,1740
-ScenarioBrowser_FilterPlayers_2,Text,,2+ Players,,,1741
-MapEditorSelectMode_NothingSelected,Text,,Nothing selected,,,1742
-MapEditorMapTitlePlaceholder,Text,,Map title...,,,1743
-MapEditorMapDescriptionPlaceholder,Text,,Map description...,,,1744
-Flora_44_Name,Text,,Rock 2x1,,,1745
-MapEditorVerificationErrors_Single,Text,,There is 1 problem with this map!,,,1746
-MapEditorVerificationErrors_Plural,Text,{0}:number of problems,There are {0} problems with this map!,,,1747
-MapEditorPlayerPlayable,Text,,Playable,,,1748
-MapEditorPlayerSetStartLocation,Text,,Set Landing Location,,,1749
-PlayerName,Text,,Player {0},,,1750
-BaseColonyName,Text,{0}:Player/Steam name,{0}'s Colony,,,1751
-RoadPostRulesDisabledTutorial,Text,,Setting road post rules is disabled for the first mission.,,,1752
-DayShort,Text,,d,,,1753
-UnitTooltip_BuildingUnderConstruction,Text,,Building under construction,,,1754
-UnitTooltip_NotArrived,Text,,Worker bot hasn't arrived yet,,,1755
-TransportBoatColonyShip_Provisions,Text,,Provisions,,,1756
-TransportBoatColonyShip_ProvisionsLoading,Text,{0}:number of resources,Loading {0} more expedition resources,,,1757
-TransportBoatColonyShip_ProvisionsCollecting,Text,{0}:port,Heading to {0} to collect expedition provisions,,,1758
-TransportBoatColonyShip_Navigation,Text,,Navigation,,,1759
-TransportBoatColonyShip_NavigationDesc,Text,,Click a water tile for the boat to navigate to.,,,1760
-TransportBoatColonyShip_NewColony,Text,,New Colony,,,1761
-TransportBoatColonyShip_BuildHarbour,Text,,Build Harbour,,,1762
-TransportBoatColonyShip_BuildHarbourCancel,Text,Cancel (build mode),Cancel,,,1763
-TransportBoatColonyShip_CancelExpedition,Text,,Cancel Expedition,,,1764
-TransportBoatColonyShip_CancelExpeditionDesc,Text,,Cancel the expedition to assign this boat to a trade route instead.,,,1765
-TransportBoatColonyShip_BuildHarbourDesc2,Text,,"Find a suitable location to build a new harbour. Once built, you will need to create a transport connection to another harbour as you destroyed the original one.",,,1766
-TransportBoatColonyShip_BuildHarbourDesc1,Text,{0}:original harbour,"Find a suitable location to build a new harbour. Once built, this ship will automatically create a trade route between the new harbour and {0}",,,1767
-TransportBoatColonyShip_BuildHarbourDesc4,Text,,"Heading to new harbour. Once built, you will need to create a transport connection to another harbour as you destroyed the original one",,,1768
-TransportBoatColonyShip_BuildHarbourDesc3,Text,{0}:original harbour,"Heading to new harbour. Once built, this ship will automatically create a trade route between the new harbour and {0}",,,1769
-NewMapStartHeight,Text,Default height of newly created map,Start Height,,,1770
-EntityProductionUI_ProductionControl,Text,,Production Control,,,1771
-EntityProductionUI_HaltProduction,Text,,Halt Production,,,1772
-EntityProductionUI_ResumeProduction,Text,,Resume Production,,,1773
-FloorInvalidAlreadyPath,Text,,Path already on tile,,,1774
-FloorInvalidTileOutsideTerritory,Text,,Tile outside territory,,,1775
-FloorInvalidRoadPostExisting,Text,,New road must start at existing post,,,1776
-FloorInvalidRoadPostRoad,Text,,Can't place road post on existing road,,,1777
-FloorInvalidRoadComplete,Text,,Can't complete road on existing road,,,1778
-FloorInvalidHeightGap,Text,When there is not enough space under a railways bridge for example,Not enough height gap,,,1779
-ItemDetails_CreatedAt,Text,Building that the resource was created at,Created at,,,1780
-ItemDetails_Destination,Text,,Destination,,,1781
-ItemDetails_Departed,Text,(Resource) departed: (5 days ago),Departed:,,,1782
-ItemDetails_ArrivingIn,Text,(Resource) arriving in: (5 days ago),Arriving In:,,,1783
-ItemDetails_UnknownBuilding,Text,,Unknown building,,,1784
-ItemDetails_WaitingAssignment,Text,,Waiting for assignment,,,1785
-ItemDetails_JourneyTime,Text,Journey time: (5 days ago),Journey Time:,,,1786
-DaysAgo,Text,(5) days ago,Days ago,,,1787
-EntityStorageUI_Storage,Text,,Storage,,,1788
-EntityFlagStorageUI_Empty,Text,,There are no resources waiting to be collected,,,1789
-BuildState_ChangeHeight,Text,{0}:Ctrl,Hold [{0}] to change height,,,1790
-BuildState_Rotate,Text,,<hotkey>{0}</hotkey> to rotate,,,1791
+ScenarioBrowser_NoResults,Text,,No maps found. Try using other filter settings!,Nessuna mappa trovata. Prova ad utilizzare dei filtri differenti!,,
+ScenarioBrowser_SearchPlaceholder,Text,,Search,Cerca,,
+ScenarioBrowser_NewVersion,Text,,This map requires a newer version of The Colonists! Check Steam for the latest version.,Questa mappa richiede una nuova versione di The Colonist! Controlla Steam per aggiornare il gioco.,,
+ScenarioBrowser_FilterPlayers_0,Text,,Any Players,Qualsiasi giocatore,,
+ScenarioBrowser_FilterPlayers_1,Text,,1 Player,1 Giocatore,,
+ScenarioBrowser_FilterPlayers_2,Text,,2+ Players,2+ Giocatori,,
+MapEditorSelectMode_NothingSelected,Text,,Nothing selected,Nessuna selezione,,
+MapEditorMapTitlePlaceholder,Text,,Map title...,Titolo mappa...,,
+MapEditorMapDescriptionPlaceholder,Text,,Map description...,Descrizione mappa...,,
+Flora_44_Name,Text,,Rock 2x1,Roccia 2x1,,
+MapEditorVerificationErrors_Single,Text,,There is 1 problem with this map!,C'è un problema con questa mappa!,,
+MapEditorVerificationErrors_Plural,Text,{0}:number of problems,There are {0} problems with this map!,Ci sono {0} problemi con questa mappa!,,
+MapEditorPlayerPlayable,Text,,Playable,Giocabile,,
+MapEditorPlayerSetStartLocation,Text,,Set Landing Location,Imposta posizione di atterraggio,,
+PlayerName,Text,,Player {0},Giocatore {0},,
+BaseColonyName,Text,{0}:Player/Steam name,{0}'s Colony,Colonia di {0},,
+RoadPostRulesDisabledTutorial,Text,,Setting road post rules is disabled for the first mission.,Le impostazioni dei pali stradali sono disabilitate per questa missione,,
+DayShort,Text,,d,d,,
+UnitTooltip_BuildingUnderConstruction,Text,,Building under construction,Edificio in costruzione,,
+UnitTooltip_NotArrived,Text,,Worker bot hasn't arrived yet,Il BotCostruttore non è ancora arrivato,,
+TransportBoatColonyShip_Provisions,Text,,Provisions,Provviste,,
+TransportBoatColonyShip_ProvisionsLoading,Text,{0}:number of resources,Loading {0} more expedition resources,Caricando {0} risorse per la spedizione,,
+TransportBoatColonyShip_ProvisionsCollecting,Text,{0}:port,Heading to {0} to collect expedition provisions,Diretto verso {0} per raccogliere le risorse della spedizione,,
+TransportBoatColonyShip_Navigation,Text,,Navigation,Navigazione,,
+TransportBoatColonyShip_NavigationDesc,Text,,Click a water tile for the boat to navigate to.,Clicca una casella d'acqua per navigarci,,
+TransportBoatColonyShip_NewColony,Text,,New Colony,Nuova colonia,,
+TransportBoatColonyShip_BuildHarbour,Text,,Build Harbour,Costruisci porto,,
+TransportBoatColonyShip_BuildHarbourCancel,Text,Cancel (build mode),Cancel,Annulla,,
+TransportBoatColonyShip_CancelExpedition,Text,,Cancel Expedition,Annulla spedizione,,
+TransportBoatColonyShip_CancelExpeditionDesc,Text,,Cancel the expedition to assign this boat to a trade route instead.,Annulla la spedizione per assegnare questa barca ad una rotta commerciale,,
+TransportBoatColonyShip_BuildHarbourDesc2,Text,,"Find a suitable location to build a new harbour. Once built, you will need to create a transport connection to another harbour as you destroyed the original one.","Trova un luogo adatto per costruire un nuovo porto. Una volta costruito, dovrai creare un collegamento con un altro porto mentre distruggi quello originale.",,
+TransportBoatColonyShip_BuildHarbourDesc1,Text,{0}:original harbour,"Find a suitable location to build a new harbour. Once built, this ship will automatically create a trade route between the new harbour and {0}","Trova un luogo adatto per costruire un nuovo porto. Una volta costruito, questa nave creerà automaticamente una rotta commerciale tra il nuovo porto e {0}",,
+TransportBoatColonyShip_BuildHarbourDesc4,Text,,"Heading to new harbour. Once built, you will need to create a transport connection to another harbour as you destroyed the original one","In viaggio verso il nuovo porto. Una volta costruito, dovrai creare un collegamento con un altro porto mentre distruggi quello originale",,
+TransportBoatColonyShip_BuildHarbourDesc3,Text,{0}:original harbour,"Heading to new harbour. Once built, this ship will automatically create a trade route between the new harbour and {0}","In viaggio verso il nuovo porto. Una volta costruito, questa nave creerà automaticamente una rotta commerciale tra il nuovo porto e {0}",,
+NewMapStartHeight,Text,Default height of newly created map,Start Height,Altezza iniziale,,
+EntityProductionUI_ProductionControl,Text,,Production Control,Controllo di produzione,,
+EntityProductionUI_HaltProduction,Text,,Halt Production,Ferma la produzione,,
+EntityProductionUI_ResumeProduction,Text,,Resume Production,Riprendi la produzione,,
+FloorInvalidAlreadyPath,Text,,Path already on tile,Percorso già sulla casella,,
+FloorInvalidTileOutsideTerritory,Text,,Tile outside territory,Casella fuori dal territorio,,
+FloorInvalidRoadPostExisting,Text,,New road must start at existing post,Una nuova strada deve iniziare da un palo stradale esistente,,
+FloorInvalidRoadPostRoad,Text,,Can't place road post on existing road,Non puoi piazzare una palo stradale su una strada esistente,,
+FloorInvalidRoadComplete,Text,,Can't complete road on existing road,Non puoi completare una strada su una strada esistente,,
+FloorInvalidHeightGap,Text,When there is not enough space under a railways bridge for example,Not enough height gap,Dislivello insufficiente,,
+ItemDetails_CreatedAt,Text,Building that the resource was created at,Created at,Creato presso,,
+ItemDetails_Destination,Text,,Destination,Destinazione,,
+ItemDetails_Departed,Text,(Resource) departed: (5 days ago),Departed:,Partito:,,
+ItemDetails_ArrivingIn,Text,(Resource) arriving in: (5 days ago),Arriving In:,Arrivo:,,
+ItemDetails_UnknownBuilding,Text,,Unknown building,Edificio sconosciuto,,
+ItemDetails_WaitingAssignment,Text,,Waiting for assignment,In attesa di assegnazione,,
+ItemDetails_JourneyTime,Text,Journey time: (5 days ago),Journey Time:,Tempo di viaggio:,,
+DaysAgo,Text,(5) days ago,Days ago,Giorni fa,,
+EntityStorageUI_Storage,Text,,Storage,Deposito,,
+EntityFlagStorageUI_Empty,Text,,There are no resources waiting to be collected,Non ci sono risorse in attesa di essere raccolte,,
+BuildState_ChangeHeight,Text,{0}:Ctrl,Hold [{0}] to change height,Tieni premuto [{0}] per cambiare altezza,,
+BuildState_Rotate,Text,,<hotkey>{0}</hotkey> to rotate,<hotkey>{0}</hotkey> per ruotare,,
 BuildState_RotateAndFlip,Text,,"<hotkey>{0}</hotkey> to rotate
-<hotkey>{1}</hotkey> to flip",,,1792
-SummaryUI_Yield,Text,This (Cypress tree) yield (1) (Logs),This {0} yields {1} <it>{2}</it>.,,,1793
-SummaryUI_YieldNatRes,Text,This (Stone Deposit) yields a total of (75) (Stone),This {0} yields a total of {1} <it>{2}</it>.,,,1794
+<hotkey>{1}</hotkey> to flip","<hotkey>{0}</hotkey> per ruotare
+<hotkey>{1}</hotkey> per capovolgere",,
+SummaryUI_Yield,Text,This (Cypress tree) yield (1) (Logs),This {0} yields {1} <it>{2}</it>.,Questo {0} rende {1} <it>{2}</it>.,,
+SummaryUI_YieldNatRes,Text,This (Stone Deposit) yields a total of (75) (Stone),This {0} yields a total of {1} <it>{2}</it>.,Questo {0} rende un totale di {1} <it>{2}</it>.,,
 DestroyConfirm,Text,"{0}: building, {1}:hotkey","Are you sure you want to destroy {0}?
 
-Hold [{1}] to skip this message.",,,1795
-CancelExpeditionConfirm,Text,,Cancelling the expedition will throw expedition resources overboard and you will be able to either create a transport route or start a new expedition. Are you sure you want to cancel expedition?,,,1796
-BoatClearRoute,Text,,Are you sure you want to clear all harbour stops for {0}? This will destroy all resources on board,,,1797
-TrainClearRoute,Text,,Are you sure you want to clear all station stops for {0}? This will destroy all resources on board,,,1798
-MilitaryWatchtowersInRange_Single,Text,,1 watchtower in range,,,1799
-MilitaryWatchtowersInRange_Plural,Text,,{0} watchtowers in range,,,1800
-WatchtowerCantAttack,Text,,This building can't currently attack. Upgrade to Level 2 to attack other Watchtowers.,,,1801
+Hold [{1}] to skip this message.","Sei sicuro di voler distruggere {0}?
+
+Tieni premuto [{1}] per saltare questo messaggio",,
+CancelExpeditionConfirm,Text,,Cancelling the expedition will throw expedition resources overboard and you will be able to either create a transport route or start a new expedition. Are you sure you want to cancel expedition?,Annullare la spedizione farà finire tutte le risorse in mare e sarai in grado di creare una rotta di trasporto o di iniziare una nuova spedizione. Sei sicuro di voler annullare la spedizione?,,
+BoatClearRoute,Text,,Are you sure you want to clear all harbour stops for {0}? This will destroy all resources on board,Sei sicuro di voler librerare tutti i porti per {0}? Questo distruggerà tutte le risorse a bordo,,
+TrainClearRoute,Text,,Are you sure you want to clear all station stops for {0}? This will destroy all resources on board,Sei sicuro di voler librerare tutte le stazioni per {0}? Questo distruggerà tutte le risorse a bordo,,
+MilitaryWatchtowersInRange_Single,Text,,1 watchtower in range,1 Torre di Guardia in vista,,
+MilitaryWatchtowersInRange_Plural,Text,,{0} watchtowers in range,{0} Torri di Guardia in vista,,
+WatchtowerCantAttack,Text,,This building can't currently attack. Upgrade to Level 2 to attack other Watchtowers.,Questo edificio non può attaccare al momento. Miglioralo al Livello 2 per attaccare le altre Torri di Guardia.,,
 CantAttack,Text,," ""This building can't attack.""","""Questo edificio non può attaccare.""",,
 MilitaryUI_AttackHeader,Text,,Attack,Attacca,,
 MilitaryUI_HitPoints,Text,,HIT POINTS,PUNTI VITA,,
