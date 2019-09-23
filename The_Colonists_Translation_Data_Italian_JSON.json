@@ -2659,7 +2659,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Stationbot",
-    "Italian": "??? - TODO",
+    "Italian": "BotCapostazione",
     "": "",
     "Verify": ""
   },
@@ -3550,7 +3550,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Set the area in which the treebot can plant trees.\n\nClick or click and drag to set tiles.\n<hotkey>[Shift]</hotkey> click a tile to unset it.",
-    "Italian": "Seleziona l'area in cui il BotTaglialegna può piantare alberi. \n\nClicca o clicca e trascina per selezionare le caselle.\n<hotkey>[Shift]</hotkey> clicca una casella per de-selezionarla.",
+    "Italian": "Seleziona l'area in cui il BotForestale può piantare alberi. \n\nClicca o clicca e trascina per selezionare le caselle.\n<hotkey>[Shift]</hotkey> clicca una casella per de-selezionarla.",
     "": "",
     "Verify": ""
   },
@@ -12181,522 +12181,522 @@
     "Type": "Text",
     "Desc": "",
     "English": "This map is incomplete! Open in the map editor and check the verification panel.",
-    "Italian": "",
+    "Italian": "Questa mappa è incompleta! Apri l'editor e controlla il pannello di verifica.",
     "": "",
-    "Verify": 1355
+    "Verify": ""
   },
   {
     "Key": "Tip_0",
     "Type": "Text",
     "Desc": "",
     "English": "You are always able to construct Level 1 buildings if you run out of resources for higher level ones.",
-    "Italian": "",
+    "Italian": "Sei sempre in grado di costruire edifici di livello 1 se esaurisci le risorse per quelli di livello superiore.",
     "": "",
-    "Verify": 1356
+    "Verify": ""
   },
   {
     "Key": "Tip_1",
     "Type": "Text",
     "Desc": "",
     "English": "You will always be able to find an underground deposit of <nr>Stone</nr> on the map somewhere.",
-    "Italian": "",
+    "Italian": "Sarai sempre in grado di trovare un deposito sotterraneo di <nr>Pietra</nr> sulla mappa da qualche parte.",
     "": "",
-    "Verify": 1357
+    "Verify": ""
   },
   {
     "Key": "Tip_10",
     "Type": "Text",
     "Desc": "",
     "English": "Use the Map to check the location and amount of natural resources you have inside and outside of your territory.",
-    "Italian": "",
+    "Italian": "Utilizza la Mappa per verificare la posizione e la quantità di risorse naturali presenti all'interno e all'esterno del tuo territorio.",
     "": "",
-    "Verify": 1358
+    "Verify": ""
   },
   {
     "Key": "Tip_11",
     "Type": "Text",
     "Desc": "",
     "English": "Use the priority panel on a Lumberjack Hut to prioritise trees you want to chop down first.",
-    "Italian": "",
+    "Italian": "Usa il pannello di priorità su una Capanna del Taglialegna per dare la priorità agli alberi che vuoi abbattere per primi.",
     "": "",
-    "Verify": 1359
+    "Verify": ""
   },
   {
     "Key": "Tip_12",
     "Type": "Text",
     "Desc": "",
     "English": "If you have a wall in the landscape you need to remove use the Sculpt tool in the bottom right of the screen.",
-    "Italian": "",
+    "Italian": "Se c'è un muro nel paesaggio che devi rimuovere, usa lo strumento Scolpisci nella parte in basso a destra dello schermo.",
     "": "",
-    "Verify": 1360
+    "Verify": ""
   },
   {
     "Key": "Tip_13",
     "Type": "Text",
     "Desc": "",
     "English": "You can create paths and then build roads on top of them later.",
-    "Italian": "",
+    "Italian": "Puoi creare percorsi e poi costruirci delle strade in seguito.",
     "": "",
-    "Verify": 1361
+    "Verify": ""
   },
   {
     "Key": "Tip_14",
     "Type": "Text",
     "Desc": "",
     "English": "Right-click at any point to cancel the mode you're in.",
-    "Italian": "",
+    "Italian": "Fai clic con il pulsante destro del mouse in qualsiasi momento per annullare la modalità in cui ti trovi.",
     "": "",
-    "Verify": 1362
+    "Verify": ""
   },
   {
     "Key": "Tip_15",
     "Type": "Text",
     "Desc": "",
     "English": "Expand more quickly by constructing higher level <bd>Watchtowers</bd>.",
-    "Italian": "",
+    "Italian": "Espanditi più rapidamente costruendo <bd>Torri di Guardia</bd> di livello superiore.",
     "": "",
-    "Verify": 1363
+    "Verify": ""
   },
   {
     "Key": "Tip_16",
     "Type": "Text",
     "Desc": "",
     "English": "Use <hotkey>[H]</hotkey> to jump back to your <bd>Colony Ship</bd>.",
-    "Italian": "",
+    "Italian": "Utilizza <hotkey>[H]</hotkey> per tornare alla <bd>Nave della Colonia</bd>",
     "": "",
-    "Verify": 1364
+    "Verify": ""
   },
   {
     "Key": "Tip_17",
     "Type": "Text",
     "Desc": "",
     "English": "Prioritise a building to make it request resources before all other buildings. You can also do this by holding <hotkey>[P]</hotkey> and clicking the building.",
-    "Italian": "",
+    "Italian": "Prioritizza un edificio per fargli richiedere risorse prima di tutti gli altri edifici. Puoi farlo anche tenendo premuto <hotkey>[P]</hotjey> e cliccando l'edificio.",
     "": "",
-    "Verify": 1365
+    "Verify": ""
   },
   {
     "Key": "Tip_18",
     "Type": "Text",
     "Desc": "",
     "English": "Use <hotkey>[F]</hotkey> to flip a building's orientation.",
-    "Italian": "",
+    "Italian": "Utilizza <hotkey>[F]</hotkey> per capovolgere l'orientamento di un edificio.",
     "": "",
-    "Verify": 1366
+    "Verify": ""
   },
   {
     "Key": "Tip_2",
     "Type": "Text",
     "Desc": "",
     "English": "When building a <lr>Road</lr> hold <hotkey>[Ctrl]</hotkey> and click to fix waypoint tiles to the road you're placing.",
-    "Italian": "",
+    "Italian": "Mentre costruisci una <lr>Strada</lr> tieni premuto <hotkey>[Ctrl]</hotkey> e clicca per fissare una posizione intermedia sulla strada che stai piazzando.",
     "": "",
-    "Verify": 1367
+    "Verify": ""
   },
   {
     "Key": "Tip_3",
     "Type": "Text",
     "Desc": "",
     "English": "If two buildings share a path then a Stackbot can deliver straight from one building to another, helping to reduce traffic on your roads.",
-    "Italian": "",
+    "Italian": "Se due Edifici condividono un sentiero, il BotImpilatore può consegnare direttamente le risorse da un edificio all'altro, riducendo il traffico sulle strade.",
     "": "",
-    "Verify": 1368
+    "Verify": ""
   },
   {
     "Key": "Tip_4",
     "Type": "Text",
     "Desc": "",
     "English": "Check the resource panel to check whether you're producing enough of a resource to meet demand.",
-    "Italian": "",
+    "Italian": "Controlla il pannello risorse per essere sicuro di produrre abbastanza una risorsa da soddisfarne la domanda.",
     "": "",
-    "Verify": 1369
+    "Verify": ""
   },
   {
     "Key": "Tip_5",
     "Type": "Text",
     "Desc": "",
     "English": "If resources are regularly being delivered over a long distance, build a <bd>Storage Yard</bd> near the destination building to keep a surplus of resources nearby.",
-    "Italian": "",
+    "Italian": "Se delle risorse sono inviate a lunghe distanze spesso, costruisci un <bd>Deposito</bd> vicino alla destinazione per tenerne una scorta.",
     "": "",
-    "Verify": 1370
+    "Verify": ""
   },
   {
     "Key": "Tip_6",
     "Type": "Text",
     "Desc": "",
     "English": "Jump to build modes using hotkeys <hotkey>[1]</hotkey> through <hotkey>[9]</hotkey>.",
-    "Italian": "",
+    "Italian": "Passa da una modalità di costruzione all'altra utilizzando i tasti da <hotkey>[1]</hotkey> fino a <hotkey>[9]</hotkey>.",
     "": "",
-    "Verify": 1371
+    "Verify": ""
   },
   {
     "Key": "Tip_7",
     "Type": "Text",
     "Desc": "",
     "English": "You can quickly upgrade a building by holding <hotkey>[U]</hotkey> and clicking it.",
-    "Italian": "",
+    "Italian": "Puoi migliorare velocemente un edificio tenendo premuto <hotkey>[U]</hotkey> e cliccandolo.",
     "": "",
-    "Verify": 1372
+    "Verify": ""
   },
   {
     "Key": "Tip_8",
     "Type": "Text",
     "Desc": "",
     "English": "If a route is likely to be a busy one in your colony, build short roads to move resources as quickly as possible.",
-    "Italian": "",
+    "Italian": "Se sai che una strada sarà molto trafficata, costruisci strade brevi per far muovere le risorse più velocemente possibile.",
     "": "",
-    "Verify": 1373
+    "Verify": ""
   },
   {
     "Key": "Tip_9",
     "Type": "Text",
     "Desc": "",
     "English": "You can help alleviate busy roads by upgrading them with the <bd>Road Layer</bd> building.",
-    "Italian": "",
+    "Italian": "Puoi alleviare il traffico sulle strade trafficate migliorandole con il <bd>Manto Stradale</bd>",
     "": "",
-    "Verify": 1374
+    "Verify": ""
   },
   {
     "Key": "TrackConstruction",
     "Type": "Text",
     "Desc": "",
     "English": "Track Construction",
-    "Italian": "",
+    "Italian": "Costruzione tracciato",
     "": "",
-    "Verify": 1375
+    "Verify": ""
   },
   {
     "Key": "TrackConstructionDirectionElevation",
     "Type": "Text",
     "Desc": "Section for direction and elevation of next track piece",
     "English": "Direction & Elevation",
-    "Italian": "",
+    "Italian": "Direzione & Elevazione",
     "": "",
-    "Verify": 1376
+    "Verify": ""
   },
   {
     "Key": "TrackConstructionPlace",
     "Type": "Text",
     "Desc": "Button to place track",
     "English": "Place Track",
-    "Italian": "",
+    "Italian": "Piazza tracciato",
     "": "",
-    "Verify": 1377
+    "Verify": ""
   },
   {
     "Key": "TrackConstructionRemove",
     "Type": "Text",
     "Desc": "Action to remove track",
     "English": "Remove Track",
-    "Italian": "",
+    "Italian": "Rimuovi tracciato",
     "": "",
-    "Verify": 1378
+    "Verify": ""
   },
   {
     "Key": "TrackConstructionSBend",
     "Type": "Text",
     "Desc": "",
     "English": "S-Bend",
-    "Italian": "",
+    "Italian": "Curva ad S",
     "": "",
-    "Verify": 1379
+    "Verify": ""
   },
   {
     "Key": "TrackConstructionStep",
     "Type": "Text",
     "Desc": "",
     "English": "Step",
-    "Italian": "",
+    "Italian": "Gradino",
     "": "",
-    "Verify": 1380
+    "Verify": ""
   },
   {
     "Key": "TrackConstructionSupportedHeight",
     "Type": "Text",
     "Desc": "",
     "English": "Current support height:",
-    "Italian": "",
+    "Italian": "Altezza supportata:",
     "": "",
-    "Verify": 1381
+    "Verify": ""
   },
   {
     "Key": "TrackConstructionType",
     "Type": "Text",
     "Desc": "Which type of track is it - land, bridge or unsupported bridge",
     "English": "Type",
-    "Italian": "",
+    "Italian": "Tipo",
     "": "",
-    "Verify": 1382
+    "Verify": ""
   },
   {
     "Key": "TrackConstructionUnsupportedLength",
     "Type": "Text",
     "Desc": "The current length of track the player is building that is unsupported",
     "English": "Unsupported length:",
-    "Italian": "",
+    "Italian": "Lunghezza non supportata:",
     "": "",
-    "Verify": 1383
+    "Verify": ""
   },
   {
     "Key": "TrackDirectionMode_0",
     "Type": "Text",
     "Desc": "",
     "English": "Straight",
-    "Italian": "",
+    "Italian": "Dritto",
     "": "",
-    "Verify": 1384
+    "Verify": ""
   },
   {
     "Key": "TrackDirectionMode_1",
     "Type": "Text",
     "Desc": "",
     "English": "Left",
-    "Italian": "",
+    "Italian": "Sinistra",
     "": "",
-    "Verify": 1385
+    "Verify": ""
   },
   {
     "Key": "TrackDirectionMode_2",
     "Type": "Text",
     "Desc": "",
     "English": "Right",
-    "Italian": "",
+    "Italian": "Destra",
     "": "",
-    "Verify": 1386
+    "Verify": ""
   },
   {
     "Key": "TrackDirectionMode_255",
     "Type": "Text",
     "Desc": "",
     "English": "None",
-    "Italian": "",
+    "Italian": "Nessuno",
     "": "",
-    "Verify": 1387
+    "Verify": ""
   },
   {
     "Key": "TrackElevationMode_0",
     "Type": "Text",
     "Desc": "",
     "English": "Flat",
-    "Italian": "",
+    "Italian": "Piatto",
     "": "",
-    "Verify": 1388
+    "Verify": ""
   },
   {
     "Key": "TrackElevationMode_1",
     "Type": "Text",
     "Desc": "",
     "English": "Up",
-    "Italian": "",
+    "Italian": "Su",
     "": "",
-    "Verify": 1389
+    "Verify": ""
   },
   {
     "Key": "TrackElevationMode_2",
     "Type": "Text",
     "Desc": "",
     "English": "Down",
-    "Italian": "",
+    "Italian": "Giù",
     "": "",
-    "Verify": 1390
+    "Verify": ""
   },
   {
     "Key": "TrackElevationMode_255",
     "Type": "Text",
     "Desc": "",
     "English": "None",
-    "Italian": "",
+    "Italian": "Nessuno",
     "": "",
-    "Verify": 1391
+    "Verify": ""
   },
   {
     "Key": "TrackLandMode_0",
     "Type": "Text",
     "Desc": "",
     "English": "Land",
-    "Italian": "",
+    "Italian": "Terra",
     "": "",
-    "Verify": 1392
+    "Verify": ""
   },
   {
     "Key": "TrackLandMode_1",
     "Type": "Text",
     "Desc": "",
     "English": "Unsupported Bridge",
-    "Italian": "",
+    "Italian": "Ponte senza supporti",
     "": "",
-    "Verify": 1393
+    "Verify": ""
   },
   {
     "Key": "TrackLandMode_2",
     "Type": "Text",
     "Desc": "",
     "English": "Supported Bridge",
-    "Italian": "",
+    "Italian": "Ponte con supporti",
     "": "",
-    "Verify": 1394
+    "Verify": ""
   },
   {
     "Key": "TrackSpecialMode_0",
     "Type": "Text",
     "Desc": "",
     "English": "S-Bend Left",
-    "Italian": "",
+    "Italian": "Curva a S a sinistra",
     "": "",
-    "Verify": 1395
+    "Verify": ""
   },
   {
     "Key": "TrackSpecialMode_1",
     "Type": "Text",
     "Desc": "",
     "English": "S-Bend Right",
-    "Italian": "",
+    "Italian": "Curva a S a destra",
     "": "",
-    "Verify": 1396
+    "Verify": ""
   },
   {
     "Key": "TrackSpecialMode_255",
     "Type": "Text",
     "Desc": "",
     "English": "None",
-    "Italian": "",
+    "Italian": "Nessuno",
     "": "",
-    "Verify": 1397
+    "Verify": ""
   },
   {
     "Key": "TrackStepMode_0",
     "Type": "Text",
     "Desc": "",
     "English": "Step Up",
-    "Italian": "",
+    "Italian": "Passo in su",
     "": "",
-    "Verify": 1398
+    "Verify": ""
   },
   {
     "Key": "TrackStepMode_1",
     "Type": "Text",
     "Desc": "",
     "English": "Step Down",
-    "Italian": "",
+    "Italian": "Passo in giù",
     "": "",
-    "Verify": 1399
+    "Verify": ""
   },
   {
     "Key": "TrackStepMode_2",
     "Type": "Text",
     "Desc": "",
     "English": "Small Step Up",
-    "Italian": "",
+    "Italian": "Piccolo passo in su",
     "": "",
-    "Verify": 1400
+    "Verify": ""
   },
   {
     "Key": "TrackStepMode_255",
     "Type": "Text",
     "Desc": "",
     "English": "None",
-    "Italian": "",
+    "Italian": "Nessuno",
     "": "",
-    "Verify": 1401
+    "Verify": ""
   },
   {
     "Key": "TrackStepMode_3",
     "Type": "Text",
     "Desc": "",
     "English": "Small Step Down",
-    "Italian": "",
+    "Italian": "Piccolo passo in giù",
     "": "",
-    "Verify": 1402
+    "Verify": ""
   },
   {
     "Key": "TraderRep_0_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Unknown",
-    "Italian": "",
+    "Italian": "Sconosciuto",
     "": "",
-    "Verify": 1403
+    "Verify": ""
   },
   {
     "Key": "TraderRep_1_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Local Trader",
-    "Italian": "",
+    "Italian": "Commerciante locale",
     "": "",
-    "Verify": 1404
+    "Verify": ""
   },
   {
     "Key": "TraderRep_2_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Master Merchant",
-    "Italian": "",
+    "Italian": "Maestro mercante",
     "": "",
-    "Verify": 1405
+    "Verify": ""
   },
   {
     "Key": "TraderRep_3_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Planetary Dealer",
-    "Italian": "",
+    "Italian": "Rivenditore planetario",
     "": "",
-    "Verify": 1406
+    "Verify": ""
   },
   {
     "Key": "TraderRep_4_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Galactic Trader",
-    "Italian": "",
+    "Italian": "Commerciante Galattico",
     "": "",
-    "Verify": 1407
+    "Verify": ""
   },
   {
     "Key": "TrainEngine_0_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Coal Engine",
-    "Italian": "",
+    "Italian": "Motore a carbone",
     "": "",
-    "Verify": 1408
+    "Verify": ""
   },
   {
     "Key": "TrainHopper_0_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Hopper",
-    "Italian": "",
+    "Italian": "Tramoggia",
     "": "",
-    "Verify": 1409
+    "Verify": ""
   },
   {
     "Key": "Train_0_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Basic coal engine with three hoppers",
-    "Italian": "",
+    "Italian": "Motore a carbone di base con tre tramogge",
     "": "",
-    "Verify": 1410
+    "Verify": ""
   },
   {
     "Key": "Train_0_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Locomotive",
-    "Italian": "",
+    "Italian": "Locomotiva",
     "": "",
-    "Verify": 1411
+    "Verify": ""
   },
   {
     "Key": "Transport Priorities",
     "Type": "Text",
     "Desc": "",
     "English": "Transport Priorities",
-    "Italian": "",
+    "Italian": "Priorità di trasporto",
     "": "",
-    "Verify": 1412
+    "Verify": ""
   },
   {
     "Key": "TutorialDialogues_T1_BuildAnotherFishingHut",
@@ -13594,270 +13594,270 @@
     "Type": "Text",
     "Desc": "",
     "English": "Energy",
-    "Italian": "",
+    "Italian": "Energia",
     "": "",
-    "Verify": 1512
+    "Verify": ""
   },
   {
     "Key": "UICategory_1_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Construction",
-    "Italian": "",
+    "Italian": "Costruzione",
     "": "",
-    "Verify": 1513
+    "Verify": ""
   },
   {
     "Key": "UICategory_2_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Water & Food",
-    "Italian": "",
+    "Italian": "Acqua & Cibo",
     "": "",
-    "Verify": 1514
+    "Verify": ""
   },
   {
     "Key": "UICategory_3_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Ores",
-    "Italian": "",
+    "Italian": "Minerali",
     "": "",
-    "Verify": 1515
+    "Verify": ""
   },
   {
     "Key": "UICategory_4_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Goods",
-    "Italian": "",
+    "Italian": "Merce",
     "": "",
-    "Verify": 1516
+    "Verify": ""
   },
   {
     "Key": "UICategory_5_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Fuel",
-    "Italian": "",
+    "Italian": "Carburante",
     "": "",
-    "Verify": 1517
+    "Verify": ""
   },
   {
     "Key": "UICategory_6_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Military",
-    "Italian": "",
+    "Italian": "Militare",
     "": "",
-    "Verify": 1518
+    "Verify": ""
   },
   {
     "Key": "Unit_0_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Carrybot",
-    "Italian": "",
+    "Italian": "BotTrasportatore",
     "": "",
-    "Verify": 1519
+    "Verify": ""
   },
   {
     "Key": "Unit_10_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Guardbot",
-    "Italian": "",
+    "Italian": "BotGuardia",
     "": "",
-    "Verify": 1520
+    "Verify": ""
   },
   {
     "Key": "Unit_11_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Waterbot",
-    "Italian": "",
+    "Italian": "AcquaBot",
     "": "",
-    "Verify": 1521
+    "Verify": ""
   },
   {
     "Key": "Unit_12_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Repairbot",
-    "Italian": "",
+    "Italian": "BotRiparatore",
     "": "",
-    "Verify": 1522
+    "Verify": ""
   },
   {
     "Key": "Unit_15_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Roadbot",
-    "Italian": "",
+    "Italian": "BotAsfaltatore",
     "": "",
-    "Verify": 1523
+    "Verify": ""
   },
   {
     "Key": "Unit_16_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Researchbot",
-    "Italian": "",
+    "Italian": "BotRicercatore",
     "": "",
-    "Verify": 1524
+    "Verify": ""
   },
   {
     "Key": "Unit_17_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Farmbot",
-    "Italian": "",
+    "Italian": "BotContadino",
     "": "",
-    "Verify": 1525
+    "Verify": ""
   },
   {
     "Key": "Unit_18_Name",
     "Type": "Text",
     "Desc": "Captain of a boat",
     "English": "Captainbot",
-    "Italian": "",
+    "Italian": "BotCapitano",
     "": "",
-    "Verify": 1526
+    "Verify": ""
   },
   {
     "Key": "Unit_19_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Farmbot",
-    "Italian": "",
+    "Italian": "BotContadino",
     "": "",
-    "Verify": 1527
+    "Verify": ""
   },
   {
     "Key": "Unit_1_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Stackbot",
-    "Italian": "",
+    "Italian": "BotImpilatore",
     "": "",
-    "Verify": 1528
+    "Verify": ""
   },
   {
     "Key": "Unit_20_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Minebot",
-    "Italian": "",
+    "Italian": "BotMinatore",
     "": "",
-    "Verify": 1529
+    "Verify": ""
   },
   {
     "Key": "Unit_21_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Bakerbot",
-    "Italian": "",
+    "Italian": "BotFornaio",
     "": "",
-    "Verify": 1530
+    "Verify": ""
   },
   {
     "Key": "Unit_22_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Smithbot",
-    "Italian": "",
+    "Italian": "BotFabbro",
     "": "",
-    "Verify": 1531
+    "Verify": ""
   },
   {
     "Key": "Unit_23_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Driverbot",
-    "Italian": "",
+    "Italian": "BotGuidatore",
     "": "",
-    "Verify": 1532
+    "Verify": ""
   },
   {
     "Key": "Unit_2_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Buildbot",
-    "Italian": "",
+    "Italian": "BotCostruttore",
     "": "",
-    "Verify": 1533
+    "Verify": ""
   },
   {
     "Key": "Unit_3_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Housebot",
-    "Italian": "",
+    "Italian": "BotCasalingo",
     "": "",
-    "Verify": 1534
+    "Verify": ""
   },
   {
     "Key": "Unit_4_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Workerbot",
-    "Italian": "",
+    "Italian": "BotLavoratore",
     "": "",
-    "Verify": 1535
+    "Verify": ""
   },
   {
     "Key": "Unit_5_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Lumberbot",
-    "Italian": "",
+    "Italian": "BotTaglialegna",
     "": "",
-    "Verify": 1536
+    "Verify": ""
   },
   {
     "Key": "Unit_6_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Minerbot",
-    "Italian": "",
+    "Italian": "BotMinatore",
     "": "",
-    "Verify": 1537
+    "Verify": ""
   },
   {
     "Key": "Unit_7_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Shipwrightbot",
-    "Italian": "",
+    "Italian": "BotCostruttore",
     "": "",
-    "Verify": 1538
+    "Verify": ""
   },
   {
     "Key": "Unit_8_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Treebot",
-    "Italian": "",
+    "Italian": "BotForestale",
     "": "",
-    "Verify": 1539
+    "Verify": ""
   },
   {
     "Key": "Unit_9_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Fisherbot",
-    "Italian": "",
+    "Italian": "BotPescatore",
     "": "",
-    "Verify": 1540
+    "Verify": ""
   },
   {
     "Key": "Unsubscribe",
     "Type": "Text",
     "Desc": "Unsubscribe from a map",
     "English": "Unsubscribe",
-    "Italian": "",
+    "Italian": "Disiscrivi",
     "": "",
-    "Verify": 1541
+    "Verify": ""
   },
   {
     "Key": "User Maps",
@@ -13882,27 +13882,27 @@
     "Type": "Text",
     "Desc": "In map editor the marker on the terrain for where a player starts",
     "English": "Player Start Marker",
-    "Italian": "",
+    "Italian": "Indicatore di inizio del giocatore",
     "": "",
-    "Verify": 1544
+    "Verify": ""
   },
   {
     "Key": "ViewTypeLastMonth",
     "Type": "Text",
     "Desc": "",
     "English": "Last Month",
-    "Italian": "",
+    "Italian": "Ultimo mese",
     "": "",
-    "Verify": 1545
+    "Verify": ""
   },
   {
     "Key": "ViewTypeLastYear",
     "Type": "Text",
     "Desc": "",
     "English": "Last Year",
-    "Italian": "",
+    "Italian": "Ultimo anno",
     "": "",
-    "Verify": 1546
+    "Verify": ""
   },
   {
     "Key": "Width",
@@ -13918,126 +13918,126 @@
     "Type": "Text",
     "Desc": "",
     "English": "Workshop",
-    "Italian": "",
+    "Italian": "Workshop",
     "": "",
-    "Verify": 1548
+    "Verify": ""
   },
   {
     "Key": "Workshop Browser",
     "Type": "Text",
     "Desc": "",
     "English": "Workshop Browser",
-    "Italian": "",
+    "Italian": "Esplora il Workshop",
     "": "",
-    "Verify": 1549
+    "Verify": ""
   },
   {
     "Key": "Workshop Maps",
     "Type": "Text",
     "Desc": "",
     "English": "Workshop Maps",
-    "Italian": "",
+    "Italian": "Mappe del Workshop",
     "": "",
-    "Verify": 1550
+    "Verify": ""
   },
   {
     "Key": "WorkshopQuerySort_0",
     "Type": "Text",
     "Desc": "",
     "English": "Sort by rating",
-    "Italian": "",
+    "Italian": "Ordina per valutazione",
     "": "",
-    "Verify": 1551
+    "Verify": ""
   },
   {
     "Key": "WorkshopQuerySort_1",
     "Type": "Text",
     "Desc": "",
     "English": "Sort by date",
-    "Italian": "",
+    "Italian": "Ordina per data",
     "": "",
-    "Verify": 1552
+    "Verify": ""
   },
   {
     "Key": "WorkshopQuerySort_12",
     "Type": "Text",
     "Desc": "",
     "English": "Sort by subscriptions",
-    "Italian": "",
+    "Italian": "Ordina per sottoscrizioni",
     "": "",
-    "Verify": 1553
+    "Verify": ""
   },
   {
     "Key": "Yes, Unpublish!",
     "Type": "Text",
     "Desc": "",
     "English": "Yes, Unpublish!",
-    "Italian": "",
+    "Italian": "Si, rimuovilo dalle pubblicazioni",
     "": "",
-    "Verify": 1554
+    "Verify": ""
   },
   {
     "Key": "StartHeight_0",
     "Type": "Text",
     "Desc": "",
     "English": "Deep sea",
-    "Italian": "",
+    "Italian": "Mare profondo",
     "": "",
-    "Verify": 1555
+    "Verify": ""
   },
   {
     "Key": "StartHeight_1",
     "Type": "Text",
     "Desc": "",
     "English": "Shallow sea",
-    "Italian": "",
+    "Italian": "Mare poco profondo",
     "": "",
-    "Verify": 1556
+    "Verify": ""
   },
   {
     "Key": "StartHeight_2",
     "Type": "Text",
     "Desc": "",
     "English": "Low land",
-    "Italian": "",
+    "Italian": "Pianura",
     "": "",
-    "Verify": 1557
+    "Verify": ""
   },
   {
     "Key": "StartHeight_3",
     "Type": "Text",
     "Desc": "",
     "English": "High land",
-    "Italian": "",
+    "Italian": "Area montuosa",
     "": "",
-    "Verify": 1558
+    "Verify": ""
   },
   {
     "Key": "StartHeight_4",
     "Type": "Text",
     "Desc": "",
     "English": "Mountain",
-    "Italian": "",
+    "Italian": "Montagna",
     "": "",
-    "Verify": 1559
+    "Verify": ""
   },
   {
     "Key": "GameSpeed_Paused",
     "Type": "Text",
     "Desc": "",
     "English": "Paused",
-    "Italian": "",
+    "Italian": "In pausa",
     "": "",
-    "Verify": 1560
+    "Verify": ""
   },
   {
     "Key": "GameSpeed_Speed",
     "Type": "Text",
     "Desc": "",
     "English": "Speed",
-    "Italian": "",
+    "Italian": "Velocità",
     "": "",
-    "Verify": 1561
+    "Verify": ""
   },
   {
     "Key": "GameMenu_UnsavedProgress",
@@ -14062,171 +14062,171 @@
     "Type": "Text",
     "Desc": "Change English to your language",
     "English": "The Colonists is now available in English!",
-    "Italian": "",
+    "Italian": "The Colonist è ora disponibile in Italiano!",
     "": "",
-    "Verify": 1564
+    "Verify": ""
   },
   {
     "Key": "Store_Description",
     "Type": "Text",
     "Desc": "",
     "English": "The Colonists is a relaxing settlement building game inspired by classic titles like The Settlers and the Anno series.\n\nTake on a series of individual missions or build your colony unfettered by any constraints in the [b]sandbox mode[/b].\n\nYou take control of a team of self-replicating robots built to simulate human civilisation.  After escaping Earth, The Colonists are now free to roam the galaxy in search of a new home and construct their dream settlement.\n\nYou'll advance through three different Ages as you build infrastructure for your colony by constructing road, boat and train transport systems.\n\nHarvest natural resources, set up farming and food production, create expeditions to discover new lands and research new technologies.\n\nWith two separate mission tracks, The Colonists lets either you create sprawling settlements in peace or race to compete against AI colonies in military winner-takes-all scenarios.\n\nExplore, research, manage, tweak and refine to your heart's content.\n\nAn extensive map editor and Steam Workshop support is included, so you can create, share and play custom maps.",
-    "Italian": "",
+    "Italian": "The Colonists è un rilassante gioco gestionale ispirato a titoli classici come The Settlers e la serie Anno.\n\nAffronta una serie di singole missioni o costruisci la tua colonia libera da eventuali vincoli nella modalità [b]sandbox[/b].\n\nPrendi il controllo di un team di robot autoreplicanti creati per simulare la civiltà umana. Dopo essere fuggiti dalla Terra, i Coloni sono ora liberi di vagare per la galassia in cerca di una nuova casa e costruire il loro insediamento da sogno.\n\nAvanzerai attraverso tre diverse epoche mentre costruisci infrastrutture per la tua colonia costruendo sistemi di trasporto su strada, in barca e in treno.\n\nRaccogli risorse naturali, avvia l'agricoltura e la produzione alimentare, crea spedizioni per scoprire nuove terre e ricercare nuove tecnologie.\n\nCon due percorsi di missione separati, The Colonists ti consente di creare enormi insediamenti in pace o gareggiare per competere contro le colonie di intelligenza artificiale in scenari militari vincitori.\n\nEsplora, ricerca, gestisci, modifica e perfeziona il contenuto del tuo cuore.\n\nE' incluso un vasto editor di mappe e il supporto per lo Steam Workshop, in modo da poter creare, condividere e giocare mappe personalizzate.",
     "": "",
-    "Verify": 1565
+    "Verify": ""
   },
   {
     "Key": "ResearchPanel_L1Workshop",
     "Type": "Text",
     "Desc": "",
     "English": "Level 1 Workshop",
-    "Italian": "",
+    "Italian": "Laboratorio Livello 1",
     "": "",
-    "Verify": 1566
+    "Verify": ""
   },
   {
     "Key": "ResearchPanel_L2Workshop",
     "Type": "Text",
     "Desc": "",
     "English": "Level 2 Workshop",
-    "Italian": "",
+    "Italian": "Laboratorio Livello 2",
     "": "",
-    "Verify": 1567
+    "Verify": ""
   },
   {
     "Key": "ResearchPanel_L3Workshop",
     "Type": "Text",
     "Desc": "",
     "English": "Level 3 Workshop",
-    "Italian": "",
+    "Italian": "Laboratorio Livello 3",
     "": "",
-    "Verify": 1568
+    "Verify": ""
   },
   {
     "Key": "ResearchPanel_Requires",
     "Type": "Text",
     "Desc": "(Workshop) requires (Energy LX)",
     "English": "Requires",
-    "Italian": "",
+    "Italian": "Richiede",
     "": "",
-    "Verify": 1569
+    "Verify": ""
   },
   {
     "Key": "Day",
     "Type": "Text",
     "Desc": "",
     "English": "Day",
-    "Italian": "",
+    "Italian": "Giorno",
     "": "",
-    "Verify": 1570
+    "Verify": ""
   },
   {
     "Key": "Days",
     "Type": "Text",
     "Desc": "",
     "English": "Days",
-    "Italian": "",
+    "Italian": "Giorni",
     "": "",
-    "Verify": 1571
+    "Verify": ""
   },
   {
     "Key": "Month",
     "Type": "Text",
     "Desc": "",
     "English": "Month",
-    "Italian": "",
+    "Italian": "Mese",
     "": "",
-    "Verify": 1572
+    "Verify": ""
   },
   {
     "Key": "Months",
     "Type": "Text",
     "Desc": "",
     "English": "Months",
-    "Italian": "",
+    "Italian": "Mesi",
     "": "",
-    "Verify": 1573
+    "Verify": ""
   },
   {
     "Key": "Year",
     "Type": "Text",
     "Desc": "",
     "English": "Year",
-    "Italian": "",
+    "Italian": "Anno",
     "": "",
-    "Verify": 1574
+    "Verify": ""
   },
   {
     "Key": "Years",
     "Type": "Text",
     "Desc": "",
     "English": "Years",
-    "Italian": "",
+    "Italian": "Anni",
     "": "",
-    "Verify": 1575
+    "Verify": ""
   },
   {
     "Key": "ResearchCosts",
     "Type": "Text",
     "Desc": "",
     "English": "Costs",
-    "Italian": "",
+    "Italian": "Costo",
     "": "",
-    "Verify": 1576
+    "Verify": ""
   },
   {
     "Key": "EntityTransportBoatReady_Construction",
     "Type": "Text",
     "Desc": "",
     "English": "You cannot give instructions to this boat until construction has been completed.",
-    "Italian": "",
+    "Italian": "Non puoi dare istruzioni a questa barca finchè non è stata costruita",
     "": "",
-    "Verify": 1577
+    "Verify": ""
   },
   {
     "Key": "EntityTransportBoatReady_Ready",
     "Type": "Text",
     "Desc": "",
     "English": "This boat is ready to sail! You can either assign this boat to an expedition, explore the seas and build a harbour on a new island or you can create a transport route between existing harbours.",
-    "Italian": "",
+    "Italian": "Questa barca è pronta a salpare! Puoi assegnarla ad una spedizione, esplorare i mari e costruire un nuovo porto su una nuova isola o creare una rotta di trasporto tra porti esistenti.",
     "": "",
-    "Verify": 1578
+    "Verify": ""
   },
   {
     "Key": "EntityTransportBoatReady_Assign",
     "Type": "Text",
     "Desc": "",
     "English": "Assign to expedition",
-    "Italian": "",
+    "Italian": "Assegna a spedizione",
     "": "",
-    "Verify": 1579
+    "Verify": ""
   },
   {
     "Key": "EntityTransportBoatReady_TransportRouteHeader",
     "Type": "Text",
     "Desc": "",
     "English": "Transport Route",
-    "Italian": "",
+    "Italian": "Percorso di trasporto",
     "": "",
-    "Verify": 1580
+    "Verify": ""
   },
   {
     "Key": "EntityTransportBoatReady_TransportRouteNoPorts",
     "Type": "Text",
     "Desc": "",
     "English": "You don't yet have enough harbours to be able to create a route.",
-    "Italian": "",
+    "Italian": "Non hai abbastanza porti per creare un percorso",
     "": "",
-    "Verify": 1581
+    "Verify": ""
   },
   {
     "Key": "EntityTransportBoatReady_TransportRouteCreate",
     "Type": "Text",
     "Desc": "",
     "English": "Create Transport Route",
-    "Italian": "",
+    "Italian": "Crea percorso di trasporto",
     "": "",
-    "Verify": 1582
+    "Verify": ""
   },
   {
     "Key": "MapPlayHARD",
