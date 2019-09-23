@@ -1885,7 +1885,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Fletcher",
-    "Italian": "??? - TODO",
+    "Italian": "Artigiano produttore di frecce",
     "": "",
     "Verify": ""
   },
@@ -1894,7 +1894,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Fletchers",
-    "Italian": "??? - TODO",
+    "Italian": "Artigiani produttori di frecce",
     "": "",
     "Verify": ""
   },
@@ -1903,7 +1903,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Fletchbot",
-    "Italian": "??? - TODO",
+    "Italian": "BotArtigiano",
     "": "",
     "Verify": ""
   },
@@ -7087,7 +7087,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Arrows are made at the <bd>Fletcher</bd>.",
-    "Italian": "Le frecce sono create nel <bd>Fletcher</bd>.",
+    "Italian": "Le frecce sono create dall'<bd>Artigiano</bd>.",
     "": "",
     "Verify": ""
   },
@@ -7096,7 +7096,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Arrows are made at the <bd>Fletcher</bd> from <it>Logs</it> and are used by Level 2 <bd>Watchtowers</bd> to attack enemy watchtowers.",
-    "Italian": "Le frecce sono create nel <bd>Fletcher</bd> dai <it>Tronchi</it> e sono usate dalle <bd>Torri di guardia</bd> di Livello 2 per attaccare le torri nemiche.",
+    "Italian": "Le frecce sono create dall'<bd>Artigiano</bd> dai <it>Tronchi</it> e sono usate dalle <bd>Torri di guardia</bd> di Livello 2 per attaccare le torri nemiche.",
     "": "",
     "Verify": ""
   },
@@ -7186,7 +7186,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Logs are chopped by the <bd>Lumberjack Hut</bd> by chopping down trees. \n\nLogs are used in the construction of basic buildings but are also needed to make <it>Planks</it> at the <bd>Sawmill</bd>, <it>Charcoal</it> at the <bd>Charcoal Burner</bd>, <it>Paper</it> at the <bd>Paper Mill</bd> and <it>Arrows</it> at the <bd>Fletcher</bd>.\n\nWatch out for warnings when your available trees run low and look at building <bd>Forestries</bd> to keep your Logs supplies going. Your <bd>Colony Ship</bd> also generates a slow supply of Logs so you never run out.",
-    "Italian": "I tronchi vengono tagliati dalla <bd>Capanna del Taglialegna</bd> tagliando gli alberi.\n\nI tronchi vengono utilizzati nella costruzione di edifici di base ma sono anche necessari per realizzare <it>Tavole</it> nella <bd>Segheria</bd>, <it>Carbone</it> nel <bd>Bruciatore di Carbonella</bd>, <it>Carta</it> nella <bd>Cartiera</bd> e <it>Frecce</it> nel <bd>Fletcher</bd>.\n\nFai attenzione agli avvisi quando i tuoi alberi disponibili scarseggiano e ricorda di costruire <bd>Foreste</bd> per far andare avanti le scorte di tronchi. La tua <bd>nave della Colonia</bd> genera anche una fornitura lenta di tronchi in modo da non rimanere mai senza.",
+    "Italian": "I tronchi vengono tagliati dalla <bd>Capanna del Taglialegna</bd> tagliando gli alberi.\n\nI tronchi vengono utilizzati nella costruzione di edifici di base ma sono anche necessari per realizzare <it>Tavole</it> nella <bd>Segheria</bd>, <it>Carbone</it> nel <bd>Bruciatore di Carbonella</bd>, <it>Carta</it> nella <bd>Cartiera</bd> e <it>Frecce</it> dall'<bd>Artigiano</bd>.\n\nFai attenzione agli avvisi quando i tuoi alberi disponibili scarseggiano e ricorda di costruire <bd>Foreste</bd> per far andare avanti le scorte di tronchi. La tua <bd>nave della Colonia</bd> genera anche una fornitura lenta di tronchi in modo da non rimanere mai senza.",
     "": "",
     "Verify": ""
   },
@@ -11326,7 +11326,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Unlocks creation of <it>Arrows</it> at the <bd>Fletcher</bd> and firing of <it>Arrows</it> from <bd>Watchtowers</bd>",
-    "Italian": "Sblocca la creazione delle <it>Frecce</it> presso il <bd>??? - TODO</bd> e l'abilità di sparare <it>Frecce</it> dalle <bd>Torri di Guardia</bd>",
+    "Italian": "Sblocca la creazione delle <it>Frecce</it> presso l'<bd>Artigiano</bd> e l'abilità di sparare <it>Frecce</it> dalle <bd>Torri di Guardia</bd>",
     "": "",
     "Verify": ""
   },
@@ -14260,27 +14260,27 @@
     "Type": "Text",
     "Desc": "",
     "English": "Info",
-    "Italian": "",
+    "Italian": "Informazioni",
     "": "",
-    "Verify": 1586
+    "Verify": ""
   },
   {
     "Key": "ConstructionPanel_LevelLocked",
     "Type": "Text",
     "Desc": "",
     "English": "Locked",
-    "Italian": "",
+    "Italian": "Bloccato",
     "": "",
-    "Verify": 1587
+    "Verify": ""
   },
   {
     "Key": "Mission",
     "Type": "Text",
     "Desc": "",
     "English": "Mission",
-    "Italian": "",
+    "Italian": "Missione",
     "": "",
-    "Verify": 1588
+    "Verify": ""
   },
   {
     "Key": "CursorConstrained",
@@ -14341,1260 +14341,1260 @@
     "Type": "Text",
     "Desc": "",
     "English": "Pause Construction",
-    "Italian": "",
+    "Italian": "Pausa costruzione",
     "": "",
-    "Verify": 1595
+    "Verify": ""
   },
   {
     "Key": "EntityConstruction_ResumeConstruction",
     "Type": "Text",
     "Desc": "",
     "English": "Resume Construction",
-    "Italian": "",
+    "Italian": "Riprendi costruzione",
     "": "",
-    "Verify": 1596
+    "Verify": ""
   },
   {
     "Key": "EntityConstruction_ConstructionPaused",
     "Type": "Text",
     "Desc": "",
     "English": "Construction Paused",
-    "Italian": "",
+    "Italian": "Costruzione in pausa",
     "": "",
-    "Verify": 1597
+    "Verify": ""
   },
   {
     "Key": "EntityConstruction_InProgress",
     "Type": "Text",
     "Desc": "",
     "English": "In Progress",
-    "Italian": "",
+    "Italian": "In corso",
     "": "",
-    "Verify": 1598
+    "Verify": ""
   },
   {
     "Key": "NoBuildingsYet",
     "Type": "Text",
     "Desc": "{0} is plural of building, e.g. Blacksmiths",
     "English": "You haven't built any {0} yet!",
-    "Italian": "",
+    "Italian": "Non hai ancora costruito nessun {0}!",
     "": "",
-    "Verify": 1599
+    "Verify": ""
   },
   {
     "Key": "NoTransportRules",
     "Type": "Text",
     "Desc": "{0} is resource type e.g. Bricks",
     "English": "You don't have any transport rules that affect the movement of {0}",
-    "Italian": "",
+    "Italian": "Non hai nessuna regola di trasporto che influenza il movimento di {0}",
     "": "",
-    "Verify": 1600
+    "Verify": ""
   },
   {
     "Key": "NotRequiredYet",
     "Type": "Text",
     "Desc": "{0} is resource type e.g. Bricks",
     "English": "No buildings require {0} yet",
-    "Italian": "",
+    "Italian": "Nessun edificio richiede {0} ancora",
     "": "",
-    "Verify": 1601
+    "Verify": ""
   },
   {
     "Key": "InPriorityOrder",
     "Type": "Text",
     "Desc": "(The following list of demand types are) in priority order",
     "English": "In priority order",
-    "Italian": "",
+    "Italian": "In ordine di priorità",
     "": "",
-    "Verify": 1602
+    "Verify": ""
   },
   {
     "Key": "Next Mission",
     "Type": "Text",
     "Desc": "(Go to) Next Mission",
     "English": "Next Mission",
-    "Italian": "",
+    "Italian": "Prossima missione",
     "": "",
-    "Verify": 1603
+    "Verify": ""
   },
   {
     "Key": "ConstructionMode_1",
     "Type": "Text",
     "Desc": "Bottom right circle",
     "English": "Build",
-    "Italian": "",
+    "Italian": "Costruisci",
     "": "",
-    "Verify": 1604
+    "Verify": ""
   },
   {
     "Key": "ConstructionMode_2",
     "Type": "Text",
     "Desc": "Bottom right circle",
     "English": "Sculpt",
-    "Italian": "",
+    "Italian": "Scolpisci",
     "": "",
-    "Verify": 1605
+    "Verify": ""
   },
   {
     "Key": "ConstructionMode_3",
     "Type": "Text",
     "Desc": "Bottom right circle",
     "English": "Destroy",
-    "Italian": "",
+    "Italian": "Distruggi",
     "": "",
-    "Verify": 1606
+    "Verify": ""
   },
   {
     "Key": "ItemInfoOverview",
     "Type": "Text",
     "Desc": "",
     "English": "Production & Demand",
-    "Italian": "",
+    "Italian": "Produzione & Domanda",
     "": "",
-    "Verify": 1607
+    "Verify": ""
   },
   {
     "Key": "Tutorial_Nice",
     "Type": "Text",
     "Desc": "",
     "English": "Nice!",
-    "Italian": "",
+    "Italian": "Bene!",
     "": "",
-    "Verify": 1608
+    "Verify": ""
   },
   {
     "Key": "SummaryUI_Destroy",
     "Type": "Text",
     "Desc": "Destroy (a resource)",
     "English": "Destroy",
-    "Italian": "",
+    "Italian": "Distruggi",
     "": "",
-    "Verify": 1609
+    "Verify": ""
   },
   {
     "Key": "GlobalItemIconUI_Production_Tooltip",
     "Type": "Text",
     "Desc": "{0}: amount, {1}: resource e.g. \"5 Bricks surplus per day",
     "English": "{0} {1} surplus per day",
-    "Italian": "",
+    "Italian": "{0} {1} in eccesso al giorno",
     "": "",
-    "Verify": 1610
+    "Verify": ""
   },
   {
     "Key": "GlobalItemIconUI_Storage_Tooltip",
     "Type": "Text",
     "Desc": "{0}: amount, {1}: resource e.g. \"7 Coal in storage",
     "English": "{0} {1} in storage",
-    "Italian": "",
+    "Italian": "{0} {1} nel deposito",
     "": "",
-    "Verify": 1611
+    "Verify": ""
   },
   {
     "Key": "GlobalItemIconUI_Demand_Tooltip_Singular",
     "Type": "Text",
     "Desc": "{0}: amount of buildings, {1}: resource e.g. \"1 building needs Logs",
     "English": "{0} building needs {1}",
-    "Italian": "",
+    "Italian": "{0} edificio ha bisogno di {1}",
     "": "",
-    "Verify": 1612
+    "Verify": ""
   },
   {
     "Key": "GlobalItemIconUI_Demand_Tooltip_Plural",
     "Type": "Text",
     "Desc": "{0}: amount of buildings, {1}: resource e.g. \"3 buildings need Logs",
     "English": "{0} buildings need {1}",
-    "Italian": "",
+    "Italian": "{0} edifici hanno bisogno di {1}",
     "": "",
-    "Verify": 1613
+    "Verify": ""
   },
   {
     "Key": "GlobalItemIconUI_NotProduced_Tooltip",
     "Type": "Text",
     "Desc": "{0}: resource e.g. \"You have not produced any Steel yet",
     "English": "You have not produced any {0} yet",
-    "Italian": "",
+    "Italian": "Non hai ancora prodotto nessun {0}",
     "": "",
-    "Verify": 1614
+    "Verify": ""
   },
   {
     "Key": "GraphStartTime_Day",
     "Type": "Text",
     "Desc": "",
     "English": "1 day ago",
-    "Italian": "",
+    "Italian": "1 giorno fa",
     "": "",
-    "Verify": 1615
+    "Verify": ""
   },
   {
     "Key": "GraphStartTime_Week",
     "Type": "Text",
     "Desc": "",
     "English": "1 week ago",
-    "Italian": "",
+    "Italian": "1 settimana fa",
     "": "",
-    "Verify": 1616
+    "Verify": ""
   },
   {
     "Key": "GraphStartTime_Month",
     "Type": "Text",
     "Desc": "",
     "English": "1 month ago",
-    "Italian": "",
+    "Italian": "1 mese fa",
     "": "",
-    "Verify": 1617
+    "Verify": ""
   },
   {
     "Key": "GraphStartTime_Year",
     "Type": "Text",
     "Desc": "",
     "English": "1 year ago",
-    "Italian": "",
+    "Italian": "1 anno fa",
     "": "",
-    "Verify": 1618
+    "Verify": ""
   },
   {
     "Key": "BotPrintedAge",
     "Type": "Text",
     "Desc": "{0}: bot name, {1} time e.g. \"Geoffbot was printed 3 years, 5 months, 19 days ago",
     "English": "{0} was printed {1} ago",
-    "Italian": "",
+    "Italian": "{0} è stato stampato {1} fa",
     "": "",
-    "Verify": 1619
+    "Verify": ""
   },
   {
     "Key": "BotSleepingReason",
     "Type": "Text",
     "Desc": "{0}: bot name, {1} is reason e.g. \"Jillbot is sleeping because they're waiting for more Energy",
     "English": "{0} is sleeping because {1}",
-    "Italian": "",
+    "Italian": "{0} sta dormendo perchè {1}",
     "": "",
-    "Verify": 1620
+    "Verify": ""
   },
   {
     "Key": "EntityProductionUI_ResourceRatio",
     "Type": "Text",
     "Desc": "The production ratio between two resources",
     "English": "Resource Ratio",
-    "Italian": "",
+    "Italian": "Rapporto risorse",
     "": "",
-    "Verify": 1621
+    "Verify": ""
   },
   {
     "Key": "Natural Resource",
     "Type": "Text",
     "Desc": "Any of Coal, Iron etc",
     "English": "Natural Resource",
-    "Italian": "",
+    "Italian": "Risorsa naturale",
     "": "",
-    "Verify": 1622
+    "Verify": ""
   },
   {
     "Key": "Tree Type",
     "Type": "Text",
     "Desc": "Which type of tree Forester is planting",
     "English": "Tree Type",
-    "Italian": "",
+    "Italian": "Tipo di albero",
     "": "",
-    "Verify": 1623
+    "Verify": ""
   },
   {
     "Key": "EntityInfoBuildingStorageIncomingEmpty",
     "Type": "Text",
     "Desc": "",
     "English": "There are no resources in the queue",
-    "Italian": "",
+    "Italian": "Non ci sono risorse in coda",
     "": "",
-    "Verify": 1624
+    "Verify": ""
   },
   {
     "Key": "EntityInfoBuildingStorageExportWhitelistHeader",
     "Type": "Text",
     "Desc": "",
     "English": "Export Whitelist",
-    "Italian": "",
+    "Italian": "Lista di Export",
     "": "",
-    "Verify": 1625
+    "Verify": ""
   },
   {
     "Key": "EntityInfoBuildingStorageExportWhitelistDesc",
     "Type": "Text",
     "Desc": "",
     "English": "Limit which buildings resources can be sent to:",
-    "Italian": "",
+    "Italian": "Limita a che edifici inviare la risorsa:",
     "": "",
-    "Verify": 1626
+    "Verify": ""
   },
   {
     "Key": "EntityInfoBuildingStorageImportWhitelistHeader",
     "Type": "Text",
     "Desc": "",
     "English": "Import Whitelist",
-    "Italian": "",
+    "Italian": "Lista di Import",
     "": "",
-    "Verify": 1627
+    "Verify": ""
   },
   {
     "Key": "EntityInfoBuildingStorageImportWhitelistDesc",
     "Type": "Text",
     "Desc": "",
     "English": "Limit which buildings can send resources here:",
-    "Italian": "",
+    "Italian": "Limita che risorse possono inviare le risorse:",
     "": "",
-    "Verify": 1628
+    "Verify": ""
   },
   {
     "Key": "UnknownItem",
     "Type": "Text",
     "Desc": "Fallback if resource type is not known",
     "English": "Unknown resource",
-    "Italian": "",
+    "Italian": "Risorsa sconosciuta",
     "": "",
-    "Verify": 1629
+    "Verify": ""
   },
   {
     "Key": "UnitState_Idle",
     "Type": "Text",
     "Desc": "",
     "English": "Idle",
-    "Italian": "",
+    "Italian": "Inattivo",
     "": "",
-    "Verify": 1630
+    "Verify": ""
   },
   {
     "Key": "UnitState_ReturningToIdle",
     "Type": "Text",
     "Desc": "",
     "English": "Returning to idle",
-    "Italian": "",
+    "Italian": "Ritornando inattivo",
     "": "",
-    "Verify": 1631
+    "Verify": ""
   },
   {
     "Key": "UnitState_GoingHome",
     "Type": "Text",
     "Desc": "",
     "English": "Going home",
-    "Italian": "",
+    "Italian": "Andando a casa",
     "": "",
-    "Verify": 1632
+    "Verify": ""
   },
   {
     "Key": "UnitState_PickingUp",
     "Type": "Text",
     "Desc": "{0}: the resource that the bot is picking up e.g. \"Picking up Bread",
     "English": "Picking up {0}",
-    "Italian": "",
+    "Italian": "Raccogliendo {0}",
     "": "",
-    "Verify": 1633
+    "Verify": ""
   },
   {
     "Key": "UnitState_DroppingOff",
     "Type": "Text",
     "Desc": "{0}: the resource that the bot is picking up e.g. \"Dropping off Bread",
     "English": "Dropping off {0}",
-    "Italian": "",
+    "Italian": "Lasciando {0}",
     "": "",
-    "Verify": 1634
+    "Verify": ""
   },
   {
     "Key": "UnitState_Fetching",
     "Type": "Text",
     "Desc": "{0}: the resource that the bot is fetching e.g. \"Fetching Bread",
     "English": "Fetching {0}",
-    "Italian": "",
+    "Italian": "Prendendo {0}",
     "": "",
-    "Verify": 1635
+    "Verify": ""
   },
   {
     "Key": "UnitState_Planting",
     "Type": "Text",
     "Desc": "{0}: tree being planted {1}: percent progress",
     "English": "Planting {0} - {1}%",
-    "Italian": "",
+    "Italian": "Piantando {0} - {1}%",
     "": "",
-    "Verify": 1636
+    "Verify": ""
   },
   {
     "Key": "UnitState_ImprovingRoad",
     "Type": "Text",
     "Desc": "",
     "English": "Improving road",
-    "Italian": "",
+    "Italian": "Migliorando la strada",
     "": "",
-    "Verify": 1637
+    "Verify": ""
   },
   {
     "Key": "UnitState_Chopping",
     "Type": "Text",
     "Desc": "{0}: tree being chopped down {1}: percent progress",
     "English": "Chopping down {0} - {1}%",
-    "Italian": "",
+    "Italian": "Tagliando {0} - {1}%",
     "": "",
-    "Verify": 1638
+    "Verify": ""
   },
   {
     "Key": "UnitState_Reloading",
     "Type": "Text",
     "Desc": "Guardbot reloading weapon",
     "English": "Reloading - {0}%",
-    "Italian": "",
+    "Italian": "Ricaricando - {0}%",
     "": "",
-    "Verify": 1639
+    "Verify": ""
   },
   {
     "Key": "UnitState_Firing",
     "Type": "Text",
     "Desc": "Guardbot firing weapon",
     "English": "Firing - {0}%",
-    "Italian": "",
+    "Italian": "Sparando - {0}%",
     "": "",
-    "Verify": 1640
+    "Verify": ""
   },
   {
     "Key": "UnitState_ConstructingBoat",
     "Type": "Text",
     "Desc": "",
     "English": "Constructing boat - {0}%",
-    "Italian": "",
+    "Italian": "Costruendo una barca - {0}%",
     "": "",
-    "Verify": 1641
+    "Verify": ""
   },
   {
     "Key": "UnitState_Processing",
     "Type": "Text",
     "Desc": "Fallback - bot is doing a generic process",
     "English": "Processing - {0}%",
-    "Italian": "",
+    "Italian": "Processando - {0}%",
     "": "",
-    "Verify": 1642
+    "Verify": ""
   },
   {
     "Key": "UnitState_ReturningHome",
     "Type": "Text",
     "Desc": "Returning from work with resource",
     "English": "Returning home",
-    "Italian": "",
+    "Italian": "Ritornando a casa",
     "": "",
-    "Verify": 1643
+    "Verify": ""
   },
   {
     "Key": "UnitState_Constructing",
     "Type": "Text",
     "Desc": "",
     "English": "Constructing",
-    "Italian": "",
+    "Italian": "Costruendo",
     "": "",
-    "Verify": 1644
+    "Verify": ""
   },
   {
     "Key": "UnitState_HeadingTo",
     "Type": "Text",
     "Desc": "{0}:tile or building that bot is heading to",
     "English": "Heading to {0}",
-    "Italian": "",
+    "Italian": "Diretto verso {0}",
     "": "",
-    "Verify": 1645
+    "Verify": ""
   },
   {
     "Key": "UnitState_Researching",
     "Type": "Text",
     "Desc": "{0}: technology that bot is currently researching",
     "English": "Researching {0}",
-    "Italian": "",
+    "Italian": "Ricercando {0}",
     "": "",
-    "Verify": 1646
+    "Verify": ""
   },
   {
     "Key": "UnitState_BeingPrinting",
     "Type": "Text",
     "Desc": "Bot is being printed",
     "English": "Printing... {0}%",
-    "Italian": "",
+    "Italian": "Stampando... {0}%",
     "": "",
-    "Verify": 1647
+    "Verify": ""
   },
   {
     "Key": "UnitState_Printed",
     "Type": "Text",
     "Desc": "Bot has been printed",
     "English": "Printed",
-    "Italian": "",
+    "Italian": "Stampato",
     "": "",
-    "Verify": 1648
+    "Verify": ""
   },
   {
     "Key": "BuildingTransportConnectionsUI_RoadPosts",
     "Type": "Text",
     "Desc": "Road posts that a building is connected to. {0}:amount",
     "English": "Road Posts ({0})",
-    "Italian": "",
+    "Italian": "Pali stradali ({0})",
     "": "",
-    "Verify": 1649
+    "Verify": ""
   },
   {
     "Key": "BuildingTransportConnectionsUI_Buildings",
     "Type": "Text",
     "Desc": "Other buildings that a building is connected to. {0}:amount",
     "English": "Buildings ({0})",
-    "Italian": "",
+    "Italian": "Edifici ({0})",
     "": "",
-    "Verify": 1650
+    "Verify": ""
   },
   {
     "Key": "BuildingTransportConnectionsUI_Harbours",
     "Type": "Text",
     "Desc": "Harbours that a building is connected to. {0}:amount",
     "English": "Boat Routes ({0})",
-    "Italian": "",
+    "Italian": "Rotte barca ({0})",
     "": "",
-    "Verify": 1651
+    "Verify": ""
   },
   {
     "Key": "BuildingTransportConnectionsUI_TrainStations",
     "Type": "Text",
     "Desc": "Train Stations a building is connected to. {0}:amount",
     "English": "Train Routes ({0})",
-    "Italian": "",
+    "Italian": "Rotte treno ({0})",
     "": "",
-    "Verify": 1652
+    "Verify": ""
   },
   {
     "Key": "Tooltip_ItemHeadingTo",
     "Type": "Text",
     "Desc": "{0}: building a resource is heading to",
     "English": "heading to {0}",
-    "Italian": "",
+    "Italian": "diretto verso {0}",
     "": "",
-    "Verify": 1653
+    "Verify": ""
   },
   {
     "Key": "Tooltip_YieldsFish",
     "Type": "Text",
     "Desc": "(Fish tile) yields (fish)",
     "English": "yields <it>{0}</it>",
-    "Italian": "",
+    "Italian": "rende <it>[0]</it>",
     "": "",
-    "Verify": 1654
+    "Verify": ""
   },
   {
     "Key": "Tooltip_YieldsNatResGrp",
     "Type": "Text",
     "Desc": "(Resource deposit) yields {10} of {78} {Stone}",
     "English": "yields {0} of {1} {2}",
-    "Italian": "",
+    "Italian": "rende {0} di {1} {2}",
     "": "",
-    "Verify": 1655
+    "Verify": ""
   },
   {
     "Key": "Tooltip_YieldsNatRes",
     "Type": "Text",
     "Desc": "(Resource deposit) yields {6} {Stone}",
     "English": "yields {0} {1}",
-    "Italian": "",
+    "Italian": "rende {0} {1}",
     "": "",
-    "Verify": 1656
+    "Verify": ""
   },
   {
     "Key": "Tooltip_YieldsTree",
     "Type": "Text",
     "Desc": "(Tree) yields {1} {Logs}",
     "English": "yields {0} {1}",
-    "Italian": "",
+    "Italian": "rende {0} {1}",
     "": "",
-    "Verify": 1657
+    "Verify": ""
   },
   {
     "Key": "Tooltip_TreeGrowing",
     "Type": "Text",
     "Desc": "{0}:percent that a tree has grown",
     "English": "{0}% grown",
-    "Italian": "",
+    "Italian": "{0}% cresciuto",
     "": "",
-    "Verify": 1658
+    "Verify": ""
   },
   {
     "Key": "Tooltip_YieldsMineInfinite",
     "Type": "Text",
     "Desc": "(Shaft mine) yields unlimited {Gold}",
     "English": "yields unlimited {0}",
-    "Italian": "",
+    "Italian": "rendimento illimitato {0}",
     "": "",
-    "Verify": 1659
+    "Verify": ""
   },
   {
     "Key": "AgeNameShort_0",
     "Type": "Text",
     "Desc": "Short for Level 1",
     "English": "L1",
-    "Italian": "",
+    "Italian": "L1",
     "": "",
-    "Verify": 1660
+    "Verify": ""
   },
   {
     "Key": "AgeNameShort_1",
     "Type": "Text",
     "Desc": "Short for Level 2",
     "English": "L2",
-    "Italian": "",
+    "Italian": "L2",
     "": "",
-    "Verify": 1661
+    "Verify": ""
   },
   {
     "Key": "AgeNameShort_2",
     "Type": "Text",
     "Desc": "Short for Level 3",
     "English": "L3",
-    "Italian": "",
+    "Italian": "L3",
     "": "",
-    "Verify": 1662
+    "Verify": ""
   },
   {
     "Key": "Tooltip_Build",
     "Type": "Text",
     "Desc": "{0}: building age, {1}: building type e.g. \"Build L2 Watchtower",
     "English": "Build {0}{1}",
-    "Italian": "",
+    "Italian": "Costruisci {0}{1}",
     "": "",
-    "Verify": 1663
+    "Verify": ""
   },
   {
     "Key": "Tooltip_CantBuild",
     "Type": "Text",
     "Desc": "{0}: building age, {1}: building type e.g. \"Can't build L2 Watchtower",
     "English": "Can't build {0}{1}",
-    "Italian": "",
+    "Italian": "Impossibile costruire {0}{1}",
     "": "",
-    "Verify": 1664
+    "Verify": ""
   },
   {
     "Key": "Tooltip_Place",
     "Type": "Text",
     "Desc": "{0}: something user puts down instantly e.g. \"Place sheep field",
     "English": "Place {0}",
-    "Italian": "",
+    "Italian": "Piazza {0}",
     "": "",
-    "Verify": 1665
+    "Verify": ""
   },
   {
     "Key": "Tooltip_CantPlace",
     "Type": "Text",
     "Desc": "",
     "English": "Can't place {0}",
-    "Italian": "",
+    "Italian": "Impossibile piazzare {0}",
     "": "",
-    "Verify": 1666
+    "Verify": ""
   },
   {
     "Key": "Tooltip_StartRoad",
     "Type": "Text",
     "Desc": "",
     "English": "Start road",
-    "Italian": "",
+    "Italian": "Inizia strada",
     "": "",
-    "Verify": 1667
+    "Verify": ""
   },
   {
     "Key": "Tooltip_CantStartRoad",
     "Type": "Text",
     "Desc": "",
     "English": "Can't start road",
-    "Italian": "",
+    "Italian": "Impossibile iniziare strada",
     "": "",
-    "Verify": 1668
+    "Verify": ""
   },
   {
     "Key": "Tooltip_CompleteRoad",
     "Type": "Text",
     "Desc": "",
     "English": "Complete road",
-    "Italian": "",
+    "Italian": "Completa strada",
     "": "",
-    "Verify": 1669
+    "Verify": ""
   },
   {
     "Key": "Tooltip_CompleteRoadAtTile",
     "Type": "Text",
     "Desc": "",
     "English": "Complete at highlighted tile",
-    "Italian": "",
+    "Italian": "Completa alla casella evidenziata",
     "": "",
-    "Verify": 1670
+    "Verify": ""
   },
   {
     "Key": "Tooltip_CantCompleteRoad",
     "Type": "Text",
     "Desc": "",
     "English": "Can't complete road",
-    "Italian": "",
+    "Italian": "Impossibile completare strada",
     "": "",
-    "Verify": 1671
+    "Verify": ""
   },
   {
     "Key": "Tooltip_StartPath",
     "Type": "Text",
     "Desc": "",
     "English": "Start path",
-    "Italian": "",
+    "Italian": "Inizia sentiero",
     "": "",
-    "Verify": 1672
+    "Verify": ""
   },
   {
     "Key": "Tooltip_CantCompletePath",
     "Type": "Text",
     "Desc": "",
     "English": "Complete path",
-    "Italian": "",
+    "Italian": "Completa sentiero",
     "": "",
-    "Verify": 1673
+    "Verify": ""
   },
   {
     "Key": "Tooltip_CantStartPath",
     "Type": "Text",
     "Desc": "",
     "English": "Can't start path",
-    "Italian": "",
+    "Italian": "Impossibile iniziare sentiero",
     "": "",
-    "Verify": 1674
+    "Verify": ""
   },
   {
     "Key": "Tooltip_SetPathWaypoint",
     "Type": "Text",
     "Desc": "",
     "English": "Set path waypoint",
-    "Italian": "",
+    "Italian": "Imposta fermata intermedia sentiero",
     "": "",
-    "Verify": 1675
+    "Verify": ""
   },
   {
     "Key": "Tooltip_Sculpt",
     "Type": "Text",
     "Desc": "{0}: sculpt mode",
     "English": "Sculpt {0}",
-    "Italian": "",
+    "Italian": "Scolpisci {0}",
     "": "",
-    "Verify": 1676
+    "Verify": ""
   },
   {
     "Key": "Tooltip_CantSculpt",
     "Type": "Text",
     "Desc": "{0}: sculpt mode",
     "English": "Can't sculpt {0}",
-    "Italian": "",
+    "Italian": "Impossibile scolpire {0}",
     "": "",
-    "Verify": 1677
+    "Verify": ""
   },
   {
     "Key": "Tooltip_Destroy",
     "Type": "Text",
     "Desc": "{0}: object to be destroyed",
     "English": "Destroy {0}",
-    "Italian": "",
+    "Italian": "Distruggi {0}",
     "": "",
-    "Verify": 1678
+    "Verify": ""
   },
   {
     "Key": "Tooltip_DestroyTrack",
     "Type": "Text",
     "Desc": "Destroy track segment",
     "English": "Destroy track",
-    "Italian": "",
+    "Italian": "Distruggi tracciato",
     "": "",
-    "Verify": 1679
+    "Verify": ""
   },
   {
     "Key": "Tooltip_CantDestroy",
     "Type": "Text",
     "Desc": "{0}: object that cannot be destroyed",
     "English": "Can't destroy {0}",
-    "Italian": "",
+    "Italian": "Impossibile distruggere {0}",
     "": "",
-    "Verify": 1680
+    "Verify": ""
   },
   {
     "Key": "Tooltip_CantDestroyBurningBuilding",
     "Type": "Text",
     "Desc": "",
     "English": "Can't destroy burning building",
-    "Italian": "",
+    "Italian": "Impossibile distruggere edificio in fiamme",
     "": "",
-    "Verify": 1681
+    "Verify": ""
   },
   {
     "Key": "Tooltip_SetTile",
     "Type": "Text",
     "Desc": "Set (priority) tile (for e.g. lumberjack)",
     "English": "Set tile",
-    "Italian": "",
+    "Italian": "Imposta casella",
     "": "",
-    "Verify": 1682
+    "Verify": ""
   },
   {
     "Key": "Tooltip_CantSetTile",
     "Type": "Text",
     "Desc": "",
     "English": "Can't set tile",
-    "Italian": "",
+    "Italian": "Impossibile impostare casella",
     "": "",
-    "Verify": 1683
+    "Verify": ""
   },
   {
     "Key": "Tooltip_RemoveTile",
     "Type": "Text",
     "Desc": "",
     "English": "Remove tile",
-    "Italian": "",
+    "Italian": "Rimuovi casella",
     "": "",
-    "Verify": 1684
+    "Verify": ""
   },
   {
     "Key": "MiscCat_0_Desc",
     "Type": "Text",
     "Desc": "Tooltip info for Fish",
     "English": "available from fish tiles",
-    "Italian": "",
+    "Italian": "disponibile dalle caselle pesce",
     "": "",
-    "Verify": 1685
+    "Verify": ""
   },
   {
     "Key": "MiscCat_10_Desc",
     "Type": "Text",
     "Desc": "Tooltip info for Mining L1",
     "English": "basic mining",
-    "Italian": "",
+    "Italian": "estrazione mineraria base",
     "": "",
-    "Verify": 1686
+    "Verify": ""
   },
   {
     "Key": "MiscCat_11_Desc",
     "Type": "Text",
     "Desc": "Tooltip info for Mining L2",
     "English": "advanced mining",
-    "Italian": "",
+    "Italian": "estrazione mineraria avanzata",
     "": "",
-    "Verify": 1687
+    "Verify": ""
   },
   {
     "Key": "MiscCat_12_Desc",
     "Type": "Text",
     "Desc": "Tooltip info for Mining L3",
     "English": "expert mining",
-    "Italian": "",
+    "Italian": "estrazione mineraria esperta",
     "": "",
-    "Verify": 1688
+    "Verify": ""
   },
   {
     "Key": "MiscCat_1_Desc",
     "Type": "Text",
     "Desc": "Tooltip info for water source for wells",
     "English": "available on green tiles",
-    "Italian": "",
+    "Italian": "Disponibile sulle celle verdi",
     "": "",
-    "Verify": 1689
+    "Verify": ""
   },
   {
     "Key": "MiscCat_2_Desc",
     "Type": "Text",
     "Desc": "Tooltip info for tree icon at lumberjack",
     "English": "any tree can be chopped down",
-    "Italian": "",
+    "Italian": "qualsiasi albero può essere tagliato",
     "": "",
-    "Verify": 1690
+    "Verify": ""
   },
   {
     "Key": "MiscCat_3_Desc",
     "Type": "Text",
     "Desc": "Tooltip info for wheat field icon",
     "English": "can be planted on green tiles",
-    "Italian": "",
+    "Italian": "può essere piantato sulle caselle verdi",
     "": "",
-    "Verify": 1691
+    "Verify": ""
   },
   {
     "Key": "MiscCat_4_Desc",
     "Type": "Text",
     "Desc": "Tooltip info for sapling at forester",
     "English": "can be planted in ground",
-    "Italian": "",
+    "Italian": "può essere piantato per terra",
     "": "",
-    "Verify": 1692
+    "Verify": ""
   },
   {
     "Key": "MiscCat_5_Desc",
     "Type": "Text",
     "Desc": "Tooltip info for upgrade at Road Improver L1",
     "English": "upgrades to stone roads and paths",
-    "Italian": "",
+    "Italian": "migliora a strade e sentieri di pietra",
     "": "",
-    "Verify": 1693
+    "Verify": ""
   },
   {
     "Key": "MiscCat_6_Desc",
     "Type": "Text",
     "Desc": "Tooltip info for apple tree icon at orchard",
     "English": "can be planted on green tiles",
-    "Italian": "",
+    "Italian": "può essere piantato sulle caselle verdi",
     "": "",
-    "Verify": 1694
+    "Verify": ""
   },
   {
     "Key": "MiscCat_7_Desc",
     "Type": "Text",
     "Desc": "Tooltip info for various resources at workshop",
     "English": "various resources",
-    "Italian": "",
+    "Italian": "risorse varie",
     "": "",
-    "Verify": 1695
+    "Verify": ""
   },
   {
     "Key": "MiscCat_8_Desc",
     "Type": "Text",
     "Desc": "Tooltip info for research icon at workshop",
     "English": "technology research",
-    "Italian": "",
+    "Italian": "ricerca tecnologia",
     "": "",
-    "Verify": 1696
+    "Verify": ""
   },
   {
     "Key": "MiscCat_9_Desc",
     "Type": "Text",
     "Desc": "Tooltip info for upgrade icon at Road Improver L2",
     "English": "upgrades to brick roads and paths",
-    "Italian": "",
+    "Italian": "migliora a strade e sentieri di mattoni",
     "": "",
-    "Verify": 1697
+    "Verify": ""
   },
   {
     "Key": "BuildMode_FilterInvalid",
     "Type": "Text",
     "Desc": "In tutorial when building not in right location",
     "English": "Place on the highlighted tiles!",
-    "Italian": "",
+    "Italian": "Piazza sulle caselle evidenziate!",
     "": "",
-    "Verify": 1698
+    "Verify": ""
   },
   {
     "Key": "BuildMode_InvalidAge",
     "Type": "Text",
     "Desc": "",
     "English": "You need to build the Level 1 {0}!",
-    "Italian": "",
+    "Italian": "Hai bisogno di costruire {0} Livello 1!",
     "": "",
-    "Verify": 1699
+    "Verify": ""
   },
   {
     "Key": "BuildMode_TechnologyUnresearched",
     "Type": "Text",
     "Desc": "",
     "English": "Technology not researched yet!",
-    "Italian": "",
+    "Italian": "Tecnologia non ancora ricercata!",
     "": "",
-    "Verify": 1700
+    "Verify": ""
   },
   {
     "Key": "OverlayDemandUI_UrgentSource",
     "Type": "Text",
     "Desc": "{0}: building, {1}: resource, {2}:purpose {3}:OverlayDemandUI_RulesAffected if applicable. E.g. \"Jane's Steel Mill is urgently trying to source Iron for production",
     "English": "{0} is urgently trying to source {1} for {2}{3}",
-    "Italian": "",
+    "Italian": "{0} sta urgentemente cercando di reperire {1} per {2}{3}",
     "": "",
-    "Verify": 1701
+    "Verify": ""
   },
   {
     "Key": "OverlayDemandUI_RulesAffected",
     "Type": "Text",
     "Desc": "If, for example, a road post has a blacklist rule for Bread, then a building may have trouble sourcing Bread because of the transport rules a player has set up. This is shown directly underneath OverlayDemandUI_UrgentSource",
     "English": "Sourcing may be affected by transport rules",
-    "Italian": "",
+    "Italian": "Il reperimento può essere influenzato dalle regole di trasporto",
     "": "",
-    "Verify": 1702
+    "Verify": ""
   },
   {
     "Key": "Alert",
     "Type": "Text",
     "Desc": "General alert",
     "English": "Alert!",
-    "Italian": "",
+    "Italian": "Attenzione!",
     "": "",
-    "Verify": 1703
+    "Verify": ""
   },
   {
     "Key": "OverlayDemandUI_BuildingNotConnected",
     "Type": "Text",
     "Desc": "",
     "English": "Building is not connected to a road post or path is too long",
-    "Italian": "",
+    "Italian": "L'edificio non è connesso ad un palo stradale o il sentiero è troppo lungo",
     "": "",
-    "Verify": 1704
+    "Verify": ""
   },
   {
     "Key": "Under construction",
     "Type": "Text",
     "Desc": "",
     "English": "Under construction",
-    "Italian": "",
+    "Italian": "In costruzione",
     "": "",
-    "Verify": 1705
+    "Verify": ""
   },
   {
     "Key": "ExpeditionHarbour_NoExpedition",
     "Type": "Text",
     "Desc": "",
     "English": "No expedition started",
-    "Italian": "",
+    "Italian": "Nessuna spedizione iniziata",
     "": "",
-    "Verify": 1706
+    "Verify": ""
   },
   {
     "Key": "ExpeditionHarbour_ExpeditionReady",
     "Type": "Text",
     "Desc": "",
     "English": "Expedition ready!",
-    "Italian": "",
+    "Italian": "Spedizione pronta!",
     "": "",
-    "Verify": 1707
+    "Verify": ""
   },
   {
     "Key": "ExpeditionHarbour_ExpeditionAlreadyAssigned",
     "Type": "Text",
     "Desc": "",
     "English": "Expedition already assigned",
-    "Italian": "",
+    "Italian": "Spedizione già assegnata!",
     "": "",
-    "Verify": 1708
+    "Verify": ""
   },
   {
     "Key": "ExpeditionHarbour_ExpeditionCollectionProgress",
     "Type": "Text",
     "Desc": "",
     "English": "Gathering expedition resources: {0}%",
-    "Italian": "",
+    "Italian": "Accumulando risorse per la spedizione: {0}%",
     "": "",
-    "Verify": 1709
+    "Verify": ""
   },
   {
     "Key": "Tooltip_ResourceDemand",
     "Type": "Text",
     "Desc": "{0}:resource name",
     "English": "{0} urgently needed",
-    "Italian": "",
+    "Italian": "{0} urgentemente necessario",
     "": "",
-    "Verify": 1710
+    "Verify": ""
   },
   {
     "Key": "Tooltip_ResourceEnRoute",
     "Type": "Text",
     "Desc": "{0}:amount, {1}:resource",
     "English": "{0} {1} en route",
-    "Italian": "",
+    "Italian": "{0} {1} in viaggio",
     "": "",
-    "Verify": 1711
+    "Verify": ""
   },
   {
     "Key": "Tooltip_ResourceProductionRate",
     "Type": "Text",
     "Desc": "{0}:amount, {1}:resource, {2}:rate",
     "English": "Producing {0} <it>{1}</it> at a rate of {2}/d",
-    "Italian": "",
+    "Italian": "Producendo {0} <it>{1}</it> al ritmo di {2}/d",
     "": "",
-    "Verify": 1712
+    "Verify": ""
   },
   {
     "Key": "WorkshopUpgradeWarning1",
     "Type": "Text",
     "Desc": "{0}:building, {1}:research",
     "English": "Are you sure you want to upgrade <bd>{0}</bd>?\n\nYou haven't yet researched <res>{1}</res> which you need to generate <it>Energy L3</it>.",
-    "Italian": "",
+    "Italian": "Sei sicuro di voler migliorare <bd>[0]</bd>?\n\nNon hai ancora ricercato <res>{1}</res> necessario per generare <it>Energia Livello 3</it>.",
     "": "",
-    "Verify": 1713
+    "Verify": ""
   },
   {
     "Key": "BuildingUpgradeUI_LockUnderConstruction",
     "Type": "Text",
     "Desc": "",
     "English": "Cannot upgrade whilst under construction",
-    "Italian": "",
+    "Italian": "Impossibile migliorare durante la costruzione",
     "": "",
-    "Verify": 1714
+    "Verify": ""
   },
   {
     "Key": "BuildingUpgradeUI_NotUnlocked",
     "Type": "Text",
     "Desc": "",
     "English": "Technology not researched",
-    "Italian": "",
+    "Italian": "Tecnologia non ricercata",
     "": "",
-    "Verify": 1715
+    "Verify": ""
   },
   {
     "Key": "BuildingUpgradeUI_LockWhileResearching",
     "Type": "Text",
     "Desc": "",
     "English": "Cannot upgrade whilst researching",
-    "Italian": "",
+    "Italian": "Impossibile migliorare durante la ricerca",
     "": "",
-    "Verify": 1716
+    "Verify": ""
   },
   {
     "Key": "BuildingUpgradeUI_LockWhileRepairing",
     "Type": "Text",
     "Desc": "",
     "English": "Cannot upgrade whilst repairing",
-    "Italian": "",
+    "Italian": "Impossibile migliorare durante la riparazione",
     "": "",
-    "Verify": 1717
+    "Verify": ""
   },
   {
     "Key": "BuildingLifetimeStats_ResourcesDelivered",
     "Type": "Text",
     "Desc": "",
     "English": "Resources Delivered",
-    "Italian": "",
+    "Italian": "Risorse consegnate",
     "": "",
-    "Verify": 1718
+    "Verify": ""
   },
   {
     "Key": "RoadState_StartHighlightTile",
     "Type": "Text",
     "Desc": "",
     "English": "Start road on highlighted tile",
-    "Italian": "",
+    "Italian": "Inizia strada nella casella evidenziata",
     "": "",
-    "Verify": 1719
+    "Verify": ""
   },
   {
     "Key": "InputClick",
     "Type": "Text",
     "Desc": "",
     "English": "Click",
-    "Italian": "",
+    "Italian": "Click",
     "": "",
-    "Verify": 1720
+    "Verify": ""
   },
   {
     "Key": "RoadState_ClickStartEmpty",
     "Type": "Text",
     "Desc": "{0}:Click",
     "English": "[{0}] to place post and start road",
-    "Italian": "",
+    "Italian": "[{0}] per piazzare un palo stradale e iniziare una strada",
     "": "",
-    "Verify": 1721
+    "Verify": ""
   },
   {
     "Key": "RoadState_ClickStartRoadPost",
     "Type": "Text",
     "Desc": "{0}:Click",
     "English": "[{0}] to start road from this post",
-    "Italian": "",
+    "Italian": "[{0}] per iniziare una strada da questo palo stradale",
     "": "",
-    "Verify": 1722
+    "Verify": ""
   },
   {
     "Key": "RoadState_InvalidFilter",
     "Type": "Text",
     "Desc": "",
     "English": "Place on the highlighted tile",
-    "Italian": "",
+    "Italian": "Piazza sulla tessera evidenziata",
     "": "",
-    "Verify": 1723
+    "Verify": ""
   },
   {
     "Key": "RoadState_InvalidEndRoadMsg",
     "Type": "Text",
     "Desc": "{0}:min road length, {1}:Click",
     "English": "Minimum road length is {0} tiles\n\n[{1}] to set road waypoint",
-    "Italian": "",
+    "Italian": "La strada deve essere lunga almeno {0} caselle\n\n[{1}] per impostare una tappa intermedia",
     "": "",
-    "Verify": 1724
+    "Verify": ""
   },
   {
     "Key": "RoadState_InvalidEndRoadInvalidWaypointMsg",
     "Type": "Text",
     "Desc": "",
     "English": "Minimum road length is {0} tiles",
-    "Italian": "",
+    "Italian": "La strada deve essere lunga almeno {0} caselle",
     "": "",
-    "Verify": 1725
+    "Verify": ""
   },
   {
     "Key": "RoadState_InvalidRoadMsg",
     "Type": "Text",
     "Desc": "",
     "English": "Cannot create road to this tile",
-    "Italian": "",
+    "Italian": "Impossibile creare strada per questa casella",
     "": "",
-    "Verify": 1726
+    "Verify": ""
   },
   {
     "Key": "RoadState_ValidEndRoadFlagMsg",
     "Type": "Text",
     "Desc": "{0}:Click",
     "English": "[{0}] to complete road",
-    "Italian": "",
+    "Italian": "[{0}] per completare la strada",
     "": "",
-    "Verify": 1727
+    "Verify": ""
   },
   {
     "Key": "RoadState_ValidEndRoadNoFlagMsg",
     "Type": "Text",
     "Desc": "{0}:Click, {1}:Ctrl",
     "English": "[{0}] to place post and complete road\n\n[{1}] to set waypoint",
-    "Italian": "",
+    "Italian": "[{0}] per piazzare un palo stradale e completare la strada\n\n[{1}] per impostare una tappa intermedia",
     "": "",
-    "Verify": 1728
+    "Verify": ""
   },
   {
     "Key": "PathState_InvalidFilterMsg",
     "Type": "Text",
     "Desc": "",
     "English": "Click on the highlighted tile",
-    "Italian": "",
+    "Italian": "Clicca sulla casella evidenziata",
     "": "",
-    "Verify": 1729
+    "Verify": ""
   },
   {
     "Key": "PathState_ClickToStart",
     "Type": "Text",
     "Desc": "{0}:Click",
     "English": "[{0}] to start path",
-    "Italian": "",
+    "Italian": "[{0}] per iniziare un sentiero",
     "": "",
-    "Verify": 1730
+    "Verify": ""
   },
   {
     "Key": "PathState_ClickToComplete",
     "Type": "Text",
     "Desc": "{0}:Click",
     "English": "[{0}] to complete path",
-    "Italian": "",
+    "Italian": "[{0}] per completare il sentiero",
     "": "",
-    "Verify": 1731
+    "Verify": ""
   },
   {
     "Key": "ResolutionVerify_Revert",
     "Type": "Text",
     "Desc": "",
     "English": "Revert",
-    "Italian": "",
+    "Italian": "Ripristina",
     "": "",
-    "Verify": 1732
+    "Verify": ""
   },
   {
     "Key": "ResolutionVerify_Confirm",
     "Type": "Text",
     "Desc": "",
     "English": "Confirm",
-    "Italian": "",
+    "Italian": "Conferma",
     "": "",
-    "Verify": 1733
+    "Verify": ""
   },
   {
     "Key": "ResolutionVerify_Message",
     "Type": "Text",
     "Desc": "{0}:number of seconds",
     "English": "Reverting in {0} seconds...",
-    "Italian": "",
+    "Italian": "Ripristino in {0} secondi...",
     "": "",
-    "Verify": 1734
+    "Verify": ""
   },
   {
     "Key": "AutoSaveLength",
@@ -15610,594 +15610,594 @@
     "Type": "Text",
     "Desc": "",
     "English": "No maps found. Try using other filter settings!",
-    "Italian": "",
+    "Italian": "Nessuna mappa trovata. Prova ad utilizzare dei filtri differenti!",
     "": "",
-    "Verify": 1736
+    "Verify": ""
   },
   {
     "Key": "ScenarioBrowser_SearchPlaceholder",
     "Type": "Text",
     "Desc": "",
     "English": "Search",
-    "Italian": "",
+    "Italian": "Cerca",
     "": "",
-    "Verify": 1737
+    "Verify": ""
   },
   {
     "Key": "ScenarioBrowser_NewVersion",
     "Type": "Text",
     "Desc": "",
     "English": "This map requires a newer version of The Colonists! Check Steam for the latest version.",
-    "Italian": "",
+    "Italian": "Questa mappa richiede una nuova versione di The Colonist! Controlla Steam per aggiornare il gioco.",
     "": "",
-    "Verify": 1738
+    "Verify": ""
   },
   {
     "Key": "ScenarioBrowser_FilterPlayers_0",
     "Type": "Text",
     "Desc": "",
     "English": "Any Players",
-    "Italian": "",
+    "Italian": "Qualsiasi giocatore",
     "": "",
-    "Verify": 1739
+    "Verify": ""
   },
   {
     "Key": "ScenarioBrowser_FilterPlayers_1",
     "Type": "Text",
     "Desc": "",
     "English": "1 Player",
-    "Italian": "",
+    "Italian": "1 Giocatore",
     "": "",
-    "Verify": 1740
+    "Verify": ""
   },
   {
     "Key": "ScenarioBrowser_FilterPlayers_2",
     "Type": "Text",
     "Desc": "",
     "English": "2+ Players",
-    "Italian": "",
+    "Italian": "2+ Giocatori",
     "": "",
-    "Verify": 1741
+    "Verify": ""
   },
   {
     "Key": "MapEditorSelectMode_NothingSelected",
     "Type": "Text",
     "Desc": "",
     "English": "Nothing selected",
-    "Italian": "",
+    "Italian": "Nessuna selezione",
     "": "",
-    "Verify": 1742
+    "Verify": ""
   },
   {
     "Key": "MapEditorMapTitlePlaceholder",
     "Type": "Text",
     "Desc": "",
     "English": "Map title...",
-    "Italian": "",
+    "Italian": "Titolo mappa...",
     "": "",
-    "Verify": 1743
+    "Verify": ""
   },
   {
     "Key": "MapEditorMapDescriptionPlaceholder",
     "Type": "Text",
     "Desc": "",
     "English": "Map description...",
-    "Italian": "",
+    "Italian": "Descrizione mappa...",
     "": "",
-    "Verify": 1744
+    "Verify": ""
   },
   {
     "Key": "Flora_44_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Rock 2x1",
-    "Italian": "",
+    "Italian": "Roccia 2x1",
     "": "",
-    "Verify": 1745
+    "Verify": ""
   },
   {
     "Key": "MapEditorVerificationErrors_Single",
     "Type": "Text",
     "Desc": "",
     "English": "There is 1 problem with this map!",
-    "Italian": "",
+    "Italian": "C'è un problema con questa mappa!",
     "": "",
-    "Verify": 1746
+    "Verify": ""
   },
   {
     "Key": "MapEditorVerificationErrors_Plural",
     "Type": "Text",
     "Desc": "{0}:number of problems",
     "English": "There are {0} problems with this map!",
-    "Italian": "",
+    "Italian": "Ci sono {0} problemi con questa mappa!",
     "": "",
-    "Verify": 1747
+    "Verify": ""
   },
   {
     "Key": "MapEditorPlayerPlayable",
     "Type": "Text",
     "Desc": "",
     "English": "Playable",
-    "Italian": "",
+    "Italian": "Giocabile",
     "": "",
-    "Verify": 1748
+    "Verify": ""
   },
   {
     "Key": "MapEditorPlayerSetStartLocation",
     "Type": "Text",
     "Desc": "",
     "English": "Set Landing Location",
-    "Italian": "",
+    "Italian": "Imposta posizione di atterraggio",
     "": "",
-    "Verify": 1749
+    "Verify": ""
   },
   {
     "Key": "PlayerName",
     "Type": "Text",
     "Desc": "",
     "English": "Player {0}",
-    "Italian": "",
+    "Italian": "Giocatore {0}",
     "": "",
-    "Verify": 1750
+    "Verify": ""
   },
   {
     "Key": "BaseColonyName",
     "Type": "Text",
     "Desc": "{0}:Player/Steam name",
     "English": "{0}'s Colony",
-    "Italian": "",
+    "Italian": "Colonia di {0}",
     "": "",
-    "Verify": 1751
+    "Verify": ""
   },
   {
     "Key": "RoadPostRulesDisabledTutorial",
     "Type": "Text",
     "Desc": "",
     "English": "Setting road post rules is disabled for the first mission.",
-    "Italian": "",
+    "Italian": "Le impostazioni dei pali stradali sono disabilitate per questa missione",
     "": "",
-    "Verify": 1752
+    "Verify": ""
   },
   {
     "Key": "DayShort",
     "Type": "Text",
     "Desc": "",
     "English": "d",
-    "Italian": "",
+    "Italian": "d",
     "": "",
-    "Verify": 1753
+    "Verify": ""
   },
   {
     "Key": "UnitTooltip_BuildingUnderConstruction",
     "Type": "Text",
     "Desc": "",
     "English": "Building under construction",
-    "Italian": "",
+    "Italian": "Edificio in costruzione",
     "": "",
-    "Verify": 1754
+    "Verify": ""
   },
   {
     "Key": "UnitTooltip_NotArrived",
     "Type": "Text",
     "Desc": "",
     "English": "Worker bot hasn't arrived yet",
-    "Italian": "",
+    "Italian": "Il BotCostruttore non è ancora arrivato",
     "": "",
-    "Verify": 1755
+    "Verify": ""
   },
   {
     "Key": "TransportBoatColonyShip_Provisions",
     "Type": "Text",
     "Desc": "",
     "English": "Provisions",
-    "Italian": "",
+    "Italian": "Provviste",
     "": "",
-    "Verify": 1756
+    "Verify": ""
   },
   {
     "Key": "TransportBoatColonyShip_ProvisionsLoading",
     "Type": "Text",
     "Desc": "{0}:number of resources",
     "English": "Loading {0} more expedition resources",
-    "Italian": "",
+    "Italian": "Caricando {0} risorse per la spedizione",
     "": "",
-    "Verify": 1757
+    "Verify": ""
   },
   {
     "Key": "TransportBoatColonyShip_ProvisionsCollecting",
     "Type": "Text",
     "Desc": "{0}:port",
     "English": "Heading to {0} to collect expedition provisions",
-    "Italian": "",
+    "Italian": "Diretto verso {0} per raccogliere le risorse della spedizione",
     "": "",
-    "Verify": 1758
+    "Verify": ""
   },
   {
     "Key": "TransportBoatColonyShip_Navigation",
     "Type": "Text",
     "Desc": "",
     "English": "Navigation",
-    "Italian": "",
+    "Italian": "Navigazione",
     "": "",
-    "Verify": 1759
+    "Verify": ""
   },
   {
     "Key": "TransportBoatColonyShip_NavigationDesc",
     "Type": "Text",
     "Desc": "",
     "English": "Click a water tile for the boat to navigate to.",
-    "Italian": "",
+    "Italian": "Clicca una casella d'acqua per navigarci",
     "": "",
-    "Verify": 1760
+    "Verify": ""
   },
   {
     "Key": "TransportBoatColonyShip_NewColony",
     "Type": "Text",
     "Desc": "",
     "English": "New Colony",
-    "Italian": "",
+    "Italian": "Nuova colonia",
     "": "",
-    "Verify": 1761
+    "Verify": ""
   },
   {
     "Key": "TransportBoatColonyShip_BuildHarbour",
     "Type": "Text",
     "Desc": "",
     "English": "Build Harbour",
-    "Italian": "",
+    "Italian": "Costruisci porto",
     "": "",
-    "Verify": 1762
+    "Verify": ""
   },
   {
     "Key": "TransportBoatColonyShip_BuildHarbourCancel",
     "Type": "Text",
     "Desc": "Cancel (build mode)",
     "English": "Cancel",
-    "Italian": "",
+    "Italian": "Annulla",
     "": "",
-    "Verify": 1763
+    "Verify": ""
   },
   {
     "Key": "TransportBoatColonyShip_CancelExpedition",
     "Type": "Text",
     "Desc": "",
     "English": "Cancel Expedition",
-    "Italian": "",
+    "Italian": "Annulla spedizione",
     "": "",
-    "Verify": 1764
+    "Verify": ""
   },
   {
     "Key": "TransportBoatColonyShip_CancelExpeditionDesc",
     "Type": "Text",
     "Desc": "",
     "English": "Cancel the expedition to assign this boat to a trade route instead.",
-    "Italian": "",
+    "Italian": "Annulla la spedizione per assegnare questa barca ad una rotta commerciale",
     "": "",
-    "Verify": 1765
+    "Verify": ""
   },
   {
     "Key": "TransportBoatColonyShip_BuildHarbourDesc2",
     "Type": "Text",
     "Desc": "",
     "English": "Find a suitable location to build a new harbour. Once built, you will need to create a transport connection to another harbour as you destroyed the original one.",
-    "Italian": "",
+    "Italian": "Trova un luogo adatto per costruire un nuovo porto. Una volta costruito, dovrai creare un collegamento con un altro porto mentre distruggi quello originale.",
     "": "",
-    "Verify": 1766
+    "Verify": ""
   },
   {
     "Key": "TransportBoatColonyShip_BuildHarbourDesc1",
     "Type": "Text",
     "Desc": "{0}:original harbour",
     "English": "Find a suitable location to build a new harbour. Once built, this ship will automatically create a trade route between the new harbour and {0}",
-    "Italian": "",
+    "Italian": "Trova un luogo adatto per costruire un nuovo porto. Una volta costruito, questa nave creerà automaticamente una rotta commerciale tra il nuovo porto e {0}",
     "": "",
-    "Verify": 1767
+    "Verify": ""
   },
   {
     "Key": "TransportBoatColonyShip_BuildHarbourDesc4",
     "Type": "Text",
     "Desc": "",
     "English": "Heading to new harbour. Once built, you will need to create a transport connection to another harbour as you destroyed the original one",
-    "Italian": "",
+    "Italian": "In viaggio verso il nuovo porto. Una volta costruito, dovrai creare un collegamento con un altro porto mentre distruggi quello originale",
     "": "",
-    "Verify": 1768
+    "Verify": ""
   },
   {
     "Key": "TransportBoatColonyShip_BuildHarbourDesc3",
     "Type": "Text",
     "Desc": "{0}:original harbour",
     "English": "Heading to new harbour. Once built, this ship will automatically create a trade route between the new harbour and {0}",
-    "Italian": "",
+    "Italian": "In viaggio verso il nuovo porto. Una volta costruito, questa nave creerà automaticamente una rotta commerciale tra il nuovo porto e {0}",
     "": "",
-    "Verify": 1769
+    "Verify": ""
   },
   {
     "Key": "NewMapStartHeight",
     "Type": "Text",
     "Desc": "Default height of newly created map",
     "English": "Start Height",
-    "Italian": "",
+    "Italian": "Altezza iniziale",
     "": "",
-    "Verify": 1770
+    "Verify": ""
   },
   {
     "Key": "EntityProductionUI_ProductionControl",
     "Type": "Text",
     "Desc": "",
     "English": "Production Control",
-    "Italian": "",
+    "Italian": "Controllo di produzione",
     "": "",
-    "Verify": 1771
+    "Verify": ""
   },
   {
     "Key": "EntityProductionUI_HaltProduction",
     "Type": "Text",
     "Desc": "",
     "English": "Halt Production",
-    "Italian": "",
+    "Italian": "Ferma la produzione",
     "": "",
-    "Verify": 1772
+    "Verify": ""
   },
   {
     "Key": "EntityProductionUI_ResumeProduction",
     "Type": "Text",
     "Desc": "",
     "English": "Resume Production",
-    "Italian": "",
+    "Italian": "Riprendi la produzione",
     "": "",
-    "Verify": 1773
+    "Verify": ""
   },
   {
     "Key": "FloorInvalidAlreadyPath",
     "Type": "Text",
     "Desc": "",
     "English": "Path already on tile",
-    "Italian": "",
+    "Italian": "Percorso già sulla casella",
     "": "",
-    "Verify": 1774
+    "Verify": ""
   },
   {
     "Key": "FloorInvalidTileOutsideTerritory",
     "Type": "Text",
     "Desc": "",
     "English": "Tile outside territory",
-    "Italian": "",
+    "Italian": "Casella fuori dal territorio",
     "": "",
-    "Verify": 1775
+    "Verify": ""
   },
   {
     "Key": "FloorInvalidRoadPostExisting",
     "Type": "Text",
     "Desc": "",
     "English": "New road must start at existing post",
-    "Italian": "",
+    "Italian": "Una nuova strada deve iniziare da un palo stradale esistente",
     "": "",
-    "Verify": 1776
+    "Verify": ""
   },
   {
     "Key": "FloorInvalidRoadPostRoad",
     "Type": "Text",
     "Desc": "",
     "English": "Can't place road post on existing road",
-    "Italian": "",
+    "Italian": "Non puoi piazzare una palo stradale su una strada esistente",
     "": "",
-    "Verify": 1777
+    "Verify": ""
   },
   {
     "Key": "FloorInvalidRoadComplete",
     "Type": "Text",
     "Desc": "",
     "English": "Can't complete road on existing road",
-    "Italian": "",
+    "Italian": "Non puoi completare una strada su una strada esistente",
     "": "",
-    "Verify": 1778
+    "Verify": ""
   },
   {
     "Key": "FloorInvalidHeightGap",
     "Type": "Text",
     "Desc": "When there is not enough space under a railways bridge for example",
     "English": "Not enough height gap",
-    "Italian": "",
+    "Italian": "Dislivello insufficiente",
     "": "",
-    "Verify": 1779
+    "Verify": ""
   },
   {
     "Key": "ItemDetails_CreatedAt",
     "Type": "Text",
     "Desc": "Building that the resource was created at",
     "English": "Created at",
-    "Italian": "",
+    "Italian": "Creato presso",
     "": "",
-    "Verify": 1780
+    "Verify": ""
   },
   {
     "Key": "ItemDetails_Destination",
     "Type": "Text",
     "Desc": "",
     "English": "Destination",
-    "Italian": "",
+    "Italian": "Destinazione",
     "": "",
-    "Verify": 1781
+    "Verify": ""
   },
   {
     "Key": "ItemDetails_Departed",
     "Type": "Text",
     "Desc": "(Resource) departed: (5 days ago)",
     "English": "Departed:",
-    "Italian": "",
+    "Italian": "Partito:",
     "": "",
-    "Verify": 1782
+    "Verify": ""
   },
   {
     "Key": "ItemDetails_ArrivingIn",
     "Type": "Text",
     "Desc": "(Resource) arriving in: (5 days ago)",
     "English": "Arriving In:",
-    "Italian": "",
+    "Italian": "Arrivo:",
     "": "",
-    "Verify": 1783
+    "Verify": ""
   },
   {
     "Key": "ItemDetails_UnknownBuilding",
     "Type": "Text",
     "Desc": "",
     "English": "Unknown building",
-    "Italian": "",
+    "Italian": "Edificio sconosciuto",
     "": "",
-    "Verify": 1784
+    "Verify": ""
   },
   {
     "Key": "ItemDetails_WaitingAssignment",
     "Type": "Text",
     "Desc": "",
     "English": "Waiting for assignment",
-    "Italian": "",
+    "Italian": "In attesa di assegnazione",
     "": "",
-    "Verify": 1785
+    "Verify": ""
   },
   {
     "Key": "ItemDetails_JourneyTime",
     "Type": "Text",
     "Desc": "Journey time: (5 days ago)",
     "English": "Journey Time:",
-    "Italian": "",
+    "Italian": "Tempo di viaggio:",
     "": "",
-    "Verify": 1786
+    "Verify": ""
   },
   {
     "Key": "DaysAgo",
     "Type": "Text",
     "Desc": "(5) days ago",
     "English": "Days ago",
-    "Italian": "",
+    "Italian": "Giorni fa",
     "": "",
-    "Verify": 1787
+    "Verify": ""
   },
   {
     "Key": "EntityStorageUI_Storage",
     "Type": "Text",
     "Desc": "",
     "English": "Storage",
-    "Italian": "",
+    "Italian": "Deposito",
     "": "",
-    "Verify": 1788
+    "Verify": ""
   },
   {
     "Key": "EntityFlagStorageUI_Empty",
     "Type": "Text",
     "Desc": "",
     "English": "There are no resources waiting to be collected",
-    "Italian": "",
+    "Italian": "Non ci sono risorse in attesa di essere raccolte",
     "": "",
-    "Verify": 1789
+    "Verify": ""
   },
   {
     "Key": "BuildState_ChangeHeight",
     "Type": "Text",
     "Desc": "{0}:Ctrl",
     "English": "Hold [{0}] to change height",
-    "Italian": "",
+    "Italian": "Tieni premuto [{0}] per cambiare altezza",
     "": "",
-    "Verify": 1790
+    "Verify": ""
   },
   {
     "Key": "BuildState_Rotate",
     "Type": "Text",
     "Desc": "",
     "English": "<hotkey>{0}</hotkey> to rotate",
-    "Italian": "",
+    "Italian": "<hotkey>{0}</hotkey> per ruotare",
     "": "",
-    "Verify": 1791
+    "Verify": ""
   },
   {
     "Key": "BuildState_RotateAndFlip",
     "Type": "Text",
     "Desc": "",
     "English": "<hotkey>{0}</hotkey> to rotate\n<hotkey>{1}</hotkey> to flip",
-    "Italian": "",
+    "Italian": "<hotkey>{0}</hotkey> per ruotare\n<hotkey>{1}</hotkey> per capovolgere",
     "": "",
-    "Verify": 1792
+    "Verify": ""
   },
   {
     "Key": "SummaryUI_Yield",
     "Type": "Text",
     "Desc": "This (Cypress tree) yield (1) (Logs)",
     "English": "This {0} yields {1} <it>{2}</it>.",
-    "Italian": "",
+    "Italian": "Questo {0} rende {1} <it>{2}</it>.",
     "": "",
-    "Verify": 1793
+    "Verify": ""
   },
   {
     "Key": "SummaryUI_YieldNatRes",
     "Type": "Text",
     "Desc": "This (Stone Deposit) yields a total of (75) (Stone)",
     "English": "This {0} yields a total of {1} <it>{2}</it>.",
-    "Italian": "",
+    "Italian": "Questo {0} rende un totale di {1} <it>{2}</it>.",
     "": "",
-    "Verify": 1794
+    "Verify": ""
   },
   {
     "Key": "DestroyConfirm",
     "Type": "Text",
     "Desc": "{0}: building, {1}:hotkey",
     "English": "Are you sure you want to destroy {0}?\n\nHold [{1}] to skip this message.",
-    "Italian": "",
+    "Italian": "Sei sicuro di voler distruggere {0}?\n\nTieni premuto [{1}] per saltare questo messaggio",
     "": "",
-    "Verify": 1795
+    "Verify": ""
   },
   {
     "Key": "CancelExpeditionConfirm",
     "Type": "Text",
     "Desc": "",
     "English": "Cancelling the expedition will throw expedition resources overboard and you will be able to either create a transport route or start a new expedition. Are you sure you want to cancel expedition?",
-    "Italian": "",
+    "Italian": "Annullare la spedizione farà finire tutte le risorse in mare e sarai in grado di creare una rotta di trasporto o di iniziare una nuova spedizione. Sei sicuro di voler annullare la spedizione?",
     "": "",
-    "Verify": 1796
+    "Verify": ""
   },
   {
     "Key": "BoatClearRoute",
     "Type": "Text",
     "Desc": "",
     "English": "Are you sure you want to clear all harbour stops for {0}? This will destroy all resources on board",
-    "Italian": "",
+    "Italian": "Sei sicuro di voler librerare tutti i porti per {0}? Questo distruggerà tutte le risorse a bordo",
     "": "",
-    "Verify": 1797
+    "Verify": ""
   },
   {
     "Key": "TrainClearRoute",
     "Type": "Text",
     "Desc": "",
     "English": "Are you sure you want to clear all station stops for {0}? This will destroy all resources on board",
-    "Italian": "",
+    "Italian": "Sei sicuro di voler librerare tutte le stazioni per {0}? Questo distruggerà tutte le risorse a bordo",
     "": "",
-    "Verify": 1798
+    "Verify": ""
   },
   {
     "Key": "MilitaryWatchtowersInRange_Single",
     "Type": "Text",
     "Desc": "",
     "English": "1 watchtower in range",
-    "Italian": "",
+    "Italian": "1 Torre di Guardia in vista",
     "": "",
-    "Verify": 1799
+    "Verify": ""
   },
   {
     "Key": "MilitaryWatchtowersInRange_Plural",
     "Type": "Text",
     "Desc": "",
     "English": "{0} watchtowers in range",
-    "Italian": "",
+    "Italian": "{0} Torri di Guardia in vista",
     "": "",
-    "Verify": 1800
+    "Verify": ""
   },
   {
     "Key": "WatchtowerCantAttack",
     "Type": "Text",
     "Desc": "",
     "English": "This building can't currently attack. Upgrade to Level 2 to attack other Watchtowers.",
-    "Italian": "",
+    "Italian": "Questo edificio non può attaccare al momento. Miglioralo al Livello 2 per attaccare le altre Torri di Guardia.",
     "": "",
-    "Verify": 1801
+    "Verify": ""
   },
   {
     "Key": "CantAttack",
