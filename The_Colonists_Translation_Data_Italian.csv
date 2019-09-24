@@ -59,7 +59,7 @@ Advice_27_Desc,Text,,"To construct a <bd>Small Monument</bd> you're going to nee
 Build a <bd>Blast Furnace</bd>.","Per costruire un <bd>Piccolo Monumento</bd> hai bisogno di iniziare a produrre del <it>Ferro</it>.
 
 Costruisci un <bd>Altoforno</bd>.",,
-Advice_27_Name,Text,,Generate <it>Iron</it>!,Genera <ir>Ferro</it>!,,
+Advice_27_Name,Text,,Generate <it>Iron</it>!,Genera <it>Ferro</it>!,,
 Advice_28_Desc,Text,,"Use the Map, accessible via the icon in the top-left, to see how much of a natural resource you have available and in which direction there are more resources to reveal.","Utilizza la Mappa, accessibile tramite l'icona in alto a sinistra, per visualizzare quante risorse naturali hai a disposizione e in che direzione ci sono altre risorse da trovare.",,
 Advice_28_Name,Text,,Check out the Map!,Controlla la Mappa!,,
 Advice_29_Desc,Text,,Consider placing related supply and demands building closer as well as using transport rules at road posts or harbours to control how resources move around your colony. Click on any roads to find out more.,"Considera di piazzare gli edifici per la produzione di risorse vicini a quelli che le richiedono, oltre ad usare le regole di trasporto agli incroci e i porti per controllare come le risorse vengono trasportate nella tua colonia. Clicca su una strada per scoprire di più",,
@@ -142,7 +142,7 @@ BuildingCat_5,Text,,Military,Militare,,
 BuildingCat_6,Text,,Transport,Trasporto,,
 BuildingCat_7,Text,,Storage,Stoccaggio,,
 BuildingCat_8,Text,,Research,Ricerca,,
-Building_0_Description,Text,,Your Colony ship is the starting hub of your colony and slowly generates <it>Logs</it> and <it>Energy L1</it>,La tua astronave della Colonia è l'hub iniziale della tua colonia e lentamente genera <it>Tronchi</it> e </it>Energia L1</it>,,
+Building_0_Description,Text,,Your Colony ship is the starting hub of your colony and slowly generates <it>Logs</it> and <it>Energy L1</it>,La tua astronave della Colonia è l'hub iniziale della tua colonia e lentamente genera <it>Tronchi</it> e <it>Energia L1</it>,,
 Building_0_Name,Text,,Colony Ship,Nave della Colonia,,
 Building_0_Plural,Text,,Colony Ships,Navi della Colonia,,
 Building_0_Worker,Text,,Stackbot,BotImpilatore,,
@@ -158,7 +158,7 @@ Building_14_Description,Text,,Mines natural resources from surface deposits.,Est
 Building_14_Name,Text,,Surface Mine,Miniera di Superficie,,
 Building_14_Plural,Text,,Surface Mines,Miniere di Superficie,,
 Building_14_Worker,Text,,Axebot,BotMinatore,,
-Building_15_Description,Text,,Bakes <it>Bread</it> from <it>Flour</it> and <it>Water</it> using <cat>Coal</cat>.,Prepara il <it>Pane</it> con <it>Farina</it> e </it>Acqua</it> utilizzando <cat>Carbone</cat>,,
+Building_15_Description,Text,,Bakes <it>Bread</it> from <it>Flour</it> and <it>Water</it> using <cat>Coal</cat>.,Prepara il <it>Pane</it> con <it>Farina</it> e <it>Acqua</it> utilizzando <cat>Carbone</cat>,,
 Building_15_Name,Text,,Bakery,Panificio,,
 Building_15_Plural,Text,,Bakeries,Panifici,,
 Building_15_Worker,Text,,Bakerbot,BotFornaio,,
@@ -207,7 +207,7 @@ Building_27_Description,Text,,Creates <it>Iron</it> from <it>Iron Ore</it> using
 Building_27_Name,Text,,Blast Furnace,Altoforno,,
 Building_27_Plural,Text,,Blast Furnaces,Altiforni,,
 Building_27_Worker,Text,,Smeltbot,BotFondatore,,
-Building_29_Description,Text,,Creates <it>Woollen Garments</it> from <it>Wool</it>.,Crea <it>Indumenti di Lana<it> dalla <it>Lana</it>.,,
+Building_29_Description,Text,,Creates <it>Woollen Garments</it> from <it>Wool</it>.,Crea <it>Indumenti di Lana</it> dalla <it>Lana</it>.,,
 Building_29_Name,Text,,Weaver,Tessitore,,
 Building_29_Plural,Text,,Weavers,Tessitori,,
 Building_29_Worker,Text,,Weaverbot,BotTessitore,,
@@ -531,10 +531,10 @@ EntityPortColonyShipProvisionsReady,Text,,Provisions ready!,Provviste pronte!,,
 EntityStationTrainsCreateTrain,Text,,Create Train,Crea treno,,
 EntityStationTrainsEmptyDesc,Text,,No trains currently stop here,Nessun treno attualmente si ferma qui,,
 EntityStructuresEditingChange,Text,,Change,Cambia,,
-EntityStructuresEditingFinish,Text,,Finish,Fne,,
+EntityStructuresEditingFinish,Text,,Finish,Fine,,
 EntityStructuresFarmFieldDesc,Text,,"Add a new {0} by clicking next to an existing one.
-Remove a {1} by <hotkey>[Shift]</hotkey> + clicking.","Aggiungi un nuovo ({0}) cliccando di fianco ad uno esistente.
-Rimuovi un ({0)) <hotkey>[Shift]</hotkey> + click.",,
+Remove a {1} by <hotkey>[Shift]</hotkey> + clicking.","Aggiungi un nuovo {0} cliccando di fianco ad uno esistente.
+Rimuovi un {1} con <hotkey>[Shift]</hotkey> + click.",,
 EntityStructuresManualAdd,Text,,Manual Add,Aggiunta manuale,,
 EntityTransportBoatStorageLoadingEmpty,Text,,There are no resources being loaded,Non ci sono risorse in caricamento,,
 EntityTransportBoatStorageLoadingHeader,Text,,Loading ({0}),Caricamento ({0}),,
@@ -907,7 +907,7 @@ ItemCat_4_Desc,Text,,<it>Cider</it> / <it>Beer</it>,<it>Cidro</it> / <it>Birra</
 ItemCat_4_FullDesc,Text,,<cat>Alcohol</cat> is needed by Level 2 <bd>Residences</bd> and can be <it>Cider</it> or <it>Beer</it>.,<cat>Alcol</cat> è necessario per le <bd>Residenze</bd> di Livello 2 e può essere <it>Cidro</it> o <it>Birra</it>.,,
 ItemCat_4_Name,Text,,Alcohol,Alcol,,
 ItemCat_7_Desc,Text,,<it>Coal</it> / <it>Charcoal</it>,<it>Carbone</it> / <it>Carbonella</it>,,
-ItemCat_7_FullDesc,Text,,"<cat>Fuel</cat> is needed in the production processes of the <bd>Bakery</bd>, <bd>Blacksmith</bd>, <bd>Blast Furnace</bd>, <bd>Brickyard</bd>, <bd>Glassworks</bd>, <bd>Steel Mill</bd>, <bd>Weaponsmith</bd> and can be <it>Coal</it> or <it>Charcoal</it>.","Il <cat>Carburante</cat> è necessario nei processi di produzione di <bd>Panetteria</bd>, <bd>Fabbro</bd>, <bd>Altoforno</bd>, <bd>Mattonificio</ bd>, <bd>Vetrerie</bd>, <bd>Acciaieria</bd>, <bd>Armaiolo</bd> e può essere <it>Carbone</it> o <it Carbonella</it>.",,
+ItemCat_7_FullDesc,Text,,"<cat>Fuel</cat> is needed in the production processes of the <bd>Bakery</bd>, <bd>Blacksmith</bd>, <bd>Blast Furnace</bd>, <bd>Brickyard</bd>, <bd>Glassworks</bd>, <bd>Steel Mill</bd>, <bd>Weaponsmith</bd> and can be <it>Coal</it> or <it>Charcoal</it>.","Il <cat>Carburante</cat> è necessario nei processi di produzione di <bd>Panetteria</bd>, <bd>Fabbro</bd>, <bd>Altoforno</bd>, <bd>Mattonificio</bd>, <bd>Vetrerie</bd>, <bd>Acciaieria</bd>, <bd>Armaiolo</bd> e può essere <it>Carbone</it> o <it>Carbonella</it>.",,
 ItemCat_7_Name,Text,,Fuel,Carburante,,
 ItemDemandSourceType_0_Name,Text,Reasons why a resource is being requested,Construction,Costruzione,,
 ItemDemandSourceType_10_Name,Text,^,Resource Production,Produzione di risorse,,
@@ -996,7 +996,7 @@ Item_1_Name,Text,,Cider,Cidro,,
 Item_1_Past,Text,,Pressed,Pressato,,
 Item_1_Present,Text,,Pressing,In preparazione,,
 Item_20_Desc,Text,,Iron Ore is mined by the <bd>Level 2 Surface Mine</bd> and the <bd>Level 1 Shaft Mine</bd>.,Il ferro gresso è estratto dalla <bd>Miniera di Superficie Livello 2</bd> e dalla <bd>Miniera Livello 1</bd>.,,
-Item_20_FullDesc,Text,,Iron Ore is mined by the <bd>Level 2 Surface Mine</bd> and the <bd>Level 1 Shaft Mine</bd> and is used by the <bd>Blast Furnace</bd> to create <it>Iron</it>.,Il ferro gresso è estratto dalla <bd>Miniera di Superficie Livello 2</bd> e dalla <bd>Miniera Livello 1</bd> ed è usato nell'<bd>Altoforno</br> per creare <it>Ferro</it>.,,
+Item_20_FullDesc,Text,,Iron Ore is mined by the <bd>Level 2 Surface Mine</bd> and the <bd>Level 1 Shaft Mine</bd> and is used by the <bd>Blast Furnace</bd> to create <it>Iron</it>.,Il ferro gresso è estratto dalla <bd>Miniera di Superficie Livello 2</bd> e dalla <bd>Miniera Livello 1</bd> ed è usato nell'<bd>Altoforno</bd> per creare <it>Ferro</it>.,,
 Item_20_Name,Text,,Iron Ore,Ferro grezzo,,
 Item_20_Past,Text,,Mined,Estratto,,
 Item_20_Present,Text,,Mining,In estrazione,,
@@ -1011,7 +1011,7 @@ Item_253_Name,Text,,Natural Resource,Risorsa naturale,,
 Item_254_Name,Text,,No Resources,Nessuna risorsa,,
 Item_255_Name,Text,,All Resources,Tutte le risorse,,
 Item_25_Desc,Text,,Leather is created at the <bd>Tannery</bd>.,La pelle viene creata nella <bd>Conceria</bd>.,,
-Item_25_FullDesc,Text,,Leather is created at the <bd>Tannery</bd> from <it>Hide</it> and <it>Salt</it> and is used to create <it>Books</it> at the <bd>Printing Press</bd>.,La pelle viene creata nella <bd>Conceria</bd> da <it>Pelle animale</it> e <it>Sale</it> e viene utilizzata per creare <it>Libri</it> nella <bd>Macchina da stampa</ bd>.,,
+Item_25_FullDesc,Text,,Leather is created at the <bd>Tannery</bd> from <it>Hide</it> and <it>Salt</it> and is used to create <it>Books</it> at the <bd>Printing Press</bd>.,La pelle viene creata nella <bd>Conceria</bd> da <it>Pelle animale</it> e <it>Sale</it> e viene utilizzata per creare <it>Libri</it> nella <bd>Macchina da stampa</bd>.,,
 Item_25_Name,Text,,Leather,Pelle,,
 Item_25_Past,Text,,Tanned,Conciata,,
 Item_25_Present,Text,,Tanning,In conciatura,,
@@ -1044,7 +1044,7 @@ Item_2_Name,Text,,Logs,Tronchi,,
 Item_2_Past,Text,,Chopped,Tagliati,,
 Item_2_Present,Text,,Chopping,In taglio,,
 Item_30_Desc,Text,,Steel is smelted at the <bd>Steelworks</bd>.,L'acciaio viene fuso nella <bd>Acciaieria</bd>.,,
-Item_30_FullDesc,Text,,Steel is smelted at the <bd>Steelworks</bd> from <it>Iron</it> using <cat>Fuel</cat> and is used in the construction of advanced buildings.,L'acciaio viene fuso nell'<bd Acciaieria</bd> dal <it>Ferro</it> usando <cat>Carburante</cat> e viene usato nella costruzione di edifici avanzati.,,
+Item_30_FullDesc,Text,,Steel is smelted at the <bd>Steelworks</bd> from <it>Iron</it> using <cat>Fuel</cat> and is used in the construction of advanced buildings.,L'acciaio viene fuso nell'<bd>Acciaieria</bd> dal <it>Ferro</it> usando <cat>Carburante</cat> e viene usato nella costruzione di edifici avanzati.,,
 Item_30_Name,Text,,Steel,Acciaio,,
 Item_30_Past,Text,,Smelted,Fuso,,
 Item_30_Present,Text,,Smelting,In fusione,,
@@ -1096,13 +1096,13 @@ Item_43_Past,Text,,Generated,Generata,,
 Item_43_Present,Text,,Generating,In generazione,,
 Item_45_Desc,Text,,Energy L2 is generated at <bd>Level 2 Residences</bd>.,L'energia L2 viene generata dalle <bd>Residenze di livello 2</bd>.,,
 Item_45_FullDesc,Text,,"Energy L2 is generated at <bd>Level 2 Residences</bd> from <cat>Food</cat>, <it>Water</it> and <cat>Alcohol</cat>.
-It's used to power worker bots at the Level 2 <bd>Workshop</bd>, Level 2 <bd>Lumberjack Hut</bd>, Level 2 <bd>Surface Mine</bd> and Level 1 <bd>Shaft Mine</bd>.","L'energia L2 è generata dalle <bd>Residenze di Livello 2</bd> utilizzando <cat>Cibo</cat>, <it>Acqua</it> e <cat>Alcol</cat>. È usata per potenziare i BotLavoratori al Livello 2 nel <bd>Laboratorio</bd>, le <bd>Capanne del Taglialegna</bd> al Livello 2, le <bd>Miniere di Superficie</bd> al Livello 2 e le <bd>Miniere</ bd> al Livello 1.",,
+It's used to power worker bots at the Level 2 <bd>Workshop</bd>, Level 2 <bd>Lumberjack Hut</bd>, Level 2 <bd>Surface Mine</bd> and Level 1 <bd>Shaft Mine</bd>.","L'energia L2 è generata dalle <bd>Residenze di Livello 2</bd> utilizzando <cat>Cibo</cat>, <it>Acqua</it> e <cat>Alcol</cat>. È usata per potenziare i BotLavoratori al Livello 2 nel <bd>Laboratorio</bd>, le <bd>Capanne del Taglialegna</bd> al Livello 2, le <bd>Miniere di Superficie</bd> al Livello 2 e le <bd>Miniere</bd> al Livello 1.",,
 Item_45_Name,Text,,Energy L2,Energia L2,,
 Item_45_Past,Text,,Generated,Generata,,
 Item_45_Present,Text,,Generating,In generazione,,
 Item_46_Desc,Text,,Energy L3 is generated at <bd>Level 3 Residences</bd>.,L'energia L3 viene generata dalle <bd>Residenze di livello 3</bd>.,,
 Item_46_FullDesc,Text,,"Energy L3 is generated at <bd>Level 3 Residences</bd> from <cat>Food</cat>, <it>Water</it> and <cat>Alcohol</cat>.
-It's used to power worker bots at the Level 3 <bd>Workshop</bd>, Level 3 <bd>Lumberjack Hut</bd>, Level 3 <bd>Surface Mine</bd> and Level 2 <bd>Shaft Mine</bd>.","L'energia L3 è generata dalle <bd>Residenze di Livello 3</bd> utilizzando <cat>Cibo</cat>, <it>Acqua</it> e <cat>Alcol</cat>. È usata per potenziare i BotLavoratori al Livello 3 nel <bd>Laboratorio</bd>, le <bd>Capanne del Taglialegna</bd> al Livello 3, le <bd>Miniere di Superficie</bd> al Livello 3 e <bd>Miniere</ bd> al Livello 2.",,
+It's used to power worker bots at the Level 3 <bd>Workshop</bd>, Level 3 <bd>Lumberjack Hut</bd>, Level 3 <bd>Surface Mine</bd> and Level 2 <bd>Shaft Mine</bd>.","L'energia L3 è generata dalle <bd>Residenze di Livello 3</bd> utilizzando <cat>Cibo</cat>, <it>Acqua</it> e <cat>Alcol</cat>. È usata per potenziare i BotLavoratori al Livello 3 nel <bd>Laboratorio</bd>, le <bd>Capanne del Taglialegna</bd> al Livello 3, le <bd>Miniere di Superficie</bd> al Livello 3 e <bd>Miniere</bd> al Livello 2.",,
 Item_46_Name,Text,,Energy L3,Energia L3,,
 Item_46_Past,Text,,Generated,Generata,,
 Item_46_Present,Text,,Generating,In generazione,,
@@ -1599,9 +1599,9 @@ Tech_36_Desc,Text,,Increases repair speed by <amount>%,Aumenta la velocità di r
 Tech_36_Name,Text,,Repair II,Riparazione II,,
 Tech_37_Desc,Text,,Increases repair speed by <amount>%,Aumenta la velocità di riparazione dell'<amount>%,,
 Tech_37_Name,Text,,Repair III,Riparazione III,,
-Tech_40_Desc,Text,,"Unlocks mining of <nr>Coal</nr>, <nr>Iron Ore</nr>, <nr>Clay</nr> at <bd>Level 2 Surface Mine</bd> and <bd>Level 1 Shaft Mine</bd>.","Sblocca l'estrazione di <nr>Carbone</nr>, <nr>Ferro gresso</nr>, <nr>Argilla</nr> presso <bd>Miniera di Superficie Livello 2</br> e <bd>Miniera Livello 1</bd>",,
+Tech_40_Desc,Text,,"Unlocks mining of <nr>Coal</nr>, <nr>Iron Ore</nr>, <nr>Clay</nr> at <bd>Level 2 Surface Mine</bd> and <bd>Level 1 Shaft Mine</bd>.","Sblocca l'estrazione di <nr>Carbone</nr>, <nr>Ferro grezzoo</nr>, <nr>Argilla</nr> presso <bd>Miniera di Superficie Livello 2</bd> e <bd>Miniera Livello 1</bd>",,
 Tech_40_Name,Text,,Mining I,Estrazione mineraria I,,
-Tech_41_Desc,Text,,"Unlocks mining of <nr>Salt</nr>, <nr>Quartz</nr> and <nr>Gold</nr> at <bd>Level 3 Surface Mine</bd> and <bd>Level 2 Shaft Mine</bd>.","Sblocca l'estrazione di <nr>Sale</nr>, <nr>Quarzo</nr> e <nr>Oro</nr> presso <br>Miniera di Superficie Livello 3</br> e <bd>Miniera Livello 2</bd>",,
+Tech_41_Desc,Text,,"Unlocks mining of <nr>Salt</nr>, <nr>Quartz</nr> and <nr>Gold</nr> at <bd>Level 3 Surface Mine</bd> and <bd>Level 2 Shaft Mine</bd>.","Sblocca l'estrazione di <nr>Sale</nr>, <nr>Quarzo</nr> e <nr>Oro</nr> presso <bd>Miniera di Superficie Livello 3</bd> e <bd>Miniera Livello 2</bd>",,
 Tech_41_Name,Text,,Mining II,Estrazione mineraria II,,
 Tech_43_Desc,Text,,Improves mining speed of <bd>Surface Mines</bd> and <bd>Shaft Mines</bd> by <amount>%,Migliora la velocità di estrazione della <bd>Miniera di Superficie</bd> e della <bd>Miniera</bd> dell'<amount>%,,
 Tech_43_Name,Text,,Mining Speed I,Velocità estrazione mineraria I,,
@@ -1753,12 +1753,12 @@ You can generate additional <it>Energy L1</it> at <bd>Residences</bd> so next le
 Puoi generare più <it>Energia L1</it> alle <bd>Residenze</bd> quindi costruisci la tua prima <bd>Residenza</bd>.",,
 TutorialDialogues_T1_BuildSurfaceMine,Text,,"Great, your territory has expanded and now includes the <nr>Stone Deposit</nr>!
 Go ahead and build a <bd>Surface Mine</bd> to mine the <nr>Stone Deposit</nr> and start producing <it>Stone</it>.","Bene, il tuo territorio si è espanso e ora include il <nr>Deposito di Pietra</nr>!
-Continua e costruisci una <bd>Miniera di Superficie</bd> per estrarre materiale dal <nr>Deposito di Pietra</nr> e produrre </it>Pietra</it>.",,
+Continua e costruisci una <bd>Miniera di Superficie</bd> per estrarre materiale dal <nr>Deposito di Pietra</nr> e produrre <it>Pietra</it>.",,
 TutorialDialogues_T1_BuildWatchtower,Text,,"First you need to build a <bd>Watchtower</bd> near the <nr>Stone Deposit</nr> to expand your borders.
 You can choose where to build the <bd>Watchtower</bd> yourself but you'll need to place it near the border so you can access the <nr>Stone Deposit</nr>.","Per prima cosa costruisci una <bd>Torre di Guardia</bd> vicino al <nr>Deposito di Pietra</nr> per allargare i tuoi confini.
 Puoi costruire dove costruire la <bd>Torre di Guardia</bd> ma dovrai piazzarla vicino al bordo in modo da poter accedere al <nr>Deposito di Pietra</nr>.",,
 TutorialDialogues_T1_BuildWell,Text,,"To produce <it>Energy L1</it> the first resource a <bd>Residence</bd> needs is <it>Water</it>.
-Build a <bd>Well</bd> at the highlighted tiles.","Per produrre <it>Energia L1</nr> la prima risorsa di cui una <bd>Residenza</bd> ha bisogno è l'<it>Acqua</it>.
+Build a <bd>Well</bd> at the highlighted tiles.","Per produrre <it>Energia L1</it> la prima risorsa di cui una <bd>Residenza</bd> ha bisogno è l'<it>Acqua</it>.
 Costruisci un <bd>Pozzo</bd> sulle caselle evidenziate.",,
 TutorialDialogues_T1_ClickStoneDeposit,Text,,"You have some <nr>Stone Deposit</nr> just outside your territory on the other side of the island.
 Click on it now.","Hai alcuni <nr>Depositi di Pietra</nr> appena fuori dal tuo territorio sull'altro lato dell'isola.
@@ -1898,7 +1898,7 @@ TutorialDialogues_T2_CreateSheepFarmFields_TaskFields,Text,,Expand at least 20 e
 TutorialDialogues_T2_OnResearchComplete2a,Text,,"Great, you've researched <res>Construction I</res>!
 This means you've unlocked a new range of buildings and the ability to upgrade some existing ones.","Bene! Hai ricercato <res>Costruzione I</res>!
 Questo significa che hai sbloccato nuovi edifici e l'abilità di migliorare alcuni edifici esistenti.",,
-TutorialDialogues_T2_OnResearchComplete2b,Text,,To mine <nr>Coal</nr> and <nr>Iron Ore</nr> you need to research <res>Mining I</res> as well as supply the more advanced <it>Energy L2</it>.,Per estrarre <nd>Carbone</nr> e <nr>Ferro grezzo</nr> hai bisogno di ricercare <res>Estrazione Mineraria I</res> oltre a fornire <it>Energia L2</it> più avanzata.,,
+TutorialDialogues_T2_OnResearchComplete2b,Text,,To mine <nr>Coal</nr> and <nr>Iron Ore</nr> you need to research <res>Mining I</res> as well as supply the more advanced <it>Energy L2</it>.,Per estrarre <nr>Carbone</nr> e <nr>Ferro grezzo</nr> hai bisogno di ricercare <res>Estrazione Mineraria I</res> oltre a fornire <it>Energia L2</it> più avanzata.,,
 TutorialDialogues_T2_OnResearchComplete2c,Text,,"<it>Energy L2</it> is generated by Level 2 <bd>Residences</bd>.
 You can either upgrade Level 1 <bd>Residences</bd> via the building's upgrade panel or you can construct the building from scratch.
 Your next job is to create your first Level 2 <bd>Workshop</bd> and your first Level 2 <bd>Residence</bd>!","L'<it>Energia L2</it> è generata dalle <bd>Residenze</bd> Livello 2.
@@ -1924,7 +1924,7 @@ You should set up your colony and expand quickly!","Sembra che non siamo soli in
 Crea la tua colonia ed espanditi rapidamente!",,
 TutorialDialogues__Overlay_CoalDiscovered,Text,,"You now have some <nr>Coal</nr> deposits within your territory!
 <nr>Coal</nr> deposits can only be mined by a Level 2 <bd>Surface Mine</bd> once you've researched <res>Mining I</res>.","Ora hai dei depositi di <nr>Carbone</nr> nel tuo territorio!
-I depositi di <nr>Carbone</nr> possono essere estratti solo da una <br>Miniera di Superficie</br> Livello 2 una volta che avrai ricercato <res>Estrazione Mineraria I</res>.",,
+I depositi di <nr>Carbone</nr> possono essere estratti solo da una <bd>Miniera di Superficie</bd> Livello 2 una volta che avrai ricercato <res>Estrazione Mineraria I</res>.",,
 TutorialDialogues__Overlay_FirstBoatConstructed,Text,,"You've built your first boat!
 When a boat is complete you can either create a route between existing <bd>Harbours</bd> or assign it to an expedition to explore the seas and build a new <bd>Harbour</bd> on another island.
 As this is your first boat you need to start collecting resources for an expedition at a <bd>Harbour</bd>. When ready, select your boat and assign it to the expedition.","Hai costruito la tua prima barca!
@@ -1956,12 +1956,12 @@ Le <bd>Torri di Guardia</bd> Livello 2 possono attaccare le vicine <bd>Torri di 
 Ricerca tecnologie militari per migliorare le tue <bd>Torri di Guardia</bd> per prepararti al combattimento!",,
 TutorialDialogues__Overlay_ResearchedMining,Text,,"You've researched <res>Mining I</res>!
 You can now build Level 2 <bd>Surface Mines</bd> and Level 1 <bd>Shaft Mines</bd> which can mine <nr>Coal</nr> and <nr>Iron Ore</nr>.","Hai ricercato <res>Estrazione Mineraria I</res>!
-Ora puoi costruire la <bd>Miniera di Superficie</bd> Livello 2 e la <bd>Miniera</bd> Livello 1 che può estrarre <nd>Carbone</nr> e <nr>Ferro grezzo</nr>",,
+Ora puoi costruire la <bd>Miniera di Superficie</bd> Livello 2 e la <bd>Miniera</bd> Livello 1 che può estrarre <nr>Carbone</nr> e <nr>Ferro grezzo</nr>",,
 TutorialDialogues__Overlay_ResidenceUpgraded,Text,,"You now have a Level 2 <bd>Residence</bd> which can generate <it>Energy L2</it>!
 Level 2 <bd>Residences</bd> have an additional requirement though - <cat>Alcohol</cat>.
 Build an <bd>Orchard</bd> and <bd>Cider Press</bd> to start producing <it>Cider</it>.","Ora hai una <bd>Residenza</bd> Livello 2 che può generare <it>Energia L2</it>!
 Le <bd>Residenze</bd> Livello 2 hanno un altro requisito però: <cat>Alcool</cat>.
-Costruisci un <bd>Frutteto</bd> e una <bd>Pressa per Sidro</bd> per iniziare a produrre <bd>Sidro</bd>.",,
+Costruisci un <bd>Frutteto</bd> e una <bd>Pressa per Sidro</bd> per iniziare a produrre <it>Sidro</it>.",,
 TutorialDialogues__Overlay_ShaftMineCanConstruct,Text,,"You now have a Underground Deposit inside your territory!
 You can mine this location by constructing a <bd>Shaft Mine</bd> on it.
 When placing the <bd>Shaft Mine</bd> you need to line up the building footprint so the mine track lines up to the mine entrance.","Ora hai un deposito sotterraneo nel tuo territorio!
@@ -2176,7 +2176,7 @@ BuildingTransportConnectionsUI_Buildings,Text,Other buildings that a building is
 BuildingTransportConnectionsUI_Harbours,Text,Harbours that a building is connected to. {0}:amount,Boat Routes ({0}),Rotte barca ({0}),,
 BuildingTransportConnectionsUI_TrainStations,Text,Train Stations a building is connected to. {0}:amount,Train Routes ({0}),Rotte treno ({0}),,
 Tooltip_ItemHeadingTo,Text,{0}: building a resource is heading to,heading to {0},diretto verso {0},,
-Tooltip_YieldsFish,Text,(Fish tile) yields (fish),yields <it>{0}</it>,rende <it>[0]</it>,,
+Tooltip_YieldsFish,Text,(Fish tile) yields (fish),yields <it>{0}</it>,rende <it>{0}</it>,,
 Tooltip_YieldsNatResGrp,Text,(Resource deposit) yields {10} of {78} {Stone},yields {0} of {1} {2},estratto {0} di {1} {2},,
 Tooltip_YieldsNatRes,Text,(Resource deposit) yields {6} {Stone},yields {0} {1},rende {0} {1},,
 Tooltip_YieldsTree,Text,(Tree) yields {1} {Logs},yields {0} {1},rende {0} {1},,
@@ -2237,7 +2237,7 @@ Tooltip_ResourceEnRoute,Text,"{0}:amount, {1}:resource",{0} {1} en route,{0} {1}
 Tooltip_ResourceProductionRate,Text,"{0}:amount, {1}:resource, {2}:rate",Producing {0} <it>{1}</it> at a rate of {2}/d,Producendo {0} <it>{1}</it> al ritmo di {2}/d,,
 WorkshopUpgradeWarning1,Text,"{0}:building, {1}:research","Are you sure you want to upgrade <bd>{0}</bd>?
 
-You haven't yet researched <res>{1}</res> which you need to generate <it>Energy L3</it>.","Sei sicuro di voler migliorare <bd>[0]</bd>?
+You haven't yet researched <res>{1}</res> which you need to generate <it>Energy L3</it>.","Sei sicuro di voler migliorare <bd>{0}</bd>?
 
 Non hai ancora ricercato <res>{1}</res> necessario per generare <it>Energia Livello 3</it>.",,
 BuildingUpgradeUI_LockUnderConstruction,Text,,Cannot upgrade whilst under construction,Impossibile migliorare durante la costruzione,,
@@ -2362,7 +2362,7 @@ AlertWheatFarmFields,Text,,You have not planted any wheat fields,Non hai ancora 
 AlertProductionStopped,Text,(at this building),Production has been stopped,La produzione è stata fermata,,
 PercentComplete,Text,,{0}% complete,{0}% completato,,
 TransportRuleBlacklist,Text,"{0}:can be blank, TransportRuleForExport or TransportRuleForImport {1}:resource, {2}: either blank or TransportRuleExceptStorage
-E.g. Export rule: Planks are banned except for storage",{0}<it>{1}</it> are banned{2},{0}<it>{1}</it> sono vietate{1},,
+E.g. Export rule: Planks are banned except for storage",{0}<it>{1}</it> are banned{2},{0}<it>{1}</it> sono vietate{2},,
 TransportRuleWhitelist,Text,"{0}:can be blank, TransportRuleForExport or TransportRuleForImport {1}:resource, {2}: either blank or TransportRuleOnlyStorage
 E.g. Export rule: Only Planks are allowed and only for storagt",{0} Only <it>{1}</it> are allowed{2},{0} solo <it>{1}</it> sono permesse{2},,
 TransportRuleExceptStorage,Text,Only used as potential part of TransportRuleBlacklist,except for storage,tranne che per il deposito,,
