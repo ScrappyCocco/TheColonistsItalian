@@ -301,7 +301,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Research <res>Mining I</res> at the Level 2 <bd>Workshop</bd> to unlock Level 2 <bd>Surface Mine</bd> and Level 1 <bd>Shaft Mine</nr> and be able to mine <nr>Coal</nr> and <nr>Iron ore</nr>.",
-    "Italian": "Ricerca <res>Estrazione I</res> al <bd>Laboratorio</bd> Livello 2 per sbloccare la <bd>Miniera di Superficie</bd> Livello 2 e la <bd>Miniera</bd> Livello 1 in modo da poter estrarre <nr>Carbone</nr> e <nr>Ferro gresso</nr>",
+    "Italian": "Ricerca <res>Estrazione I</res> al <bd>Laboratorio</bd> Livello 2 per sbloccare la <bd>Miniera di Superficie</bd> Livello 2 e la <bd>Miniera</bd> Livello 1 in modo da poter estrarre <nr>Carbone</nr> e <nr>Ferro grezzoo</nr>",
     "": "",
     "Verify": ""
   },
@@ -3622,7 +3622,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Auto Place",
-    "Italian": "Piazzamento automatico",
+    "Italian": "Piazza automaticamente",
     "": "",
     "Verify": ""
   },
@@ -3901,7 +3901,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Outgoing Queue ({0})",
-    "Italian": "Cosa in uscita ({0})",
+    "Italian": "Coda in uscita ({0})",
     "": "",
     "Verify": ""
   },
@@ -5341,7 +5341,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Hit Points represent the health of your building",
-    "Italian": "I punti ferita rappresentano la salute del tuo edificio",
+    "Italian": "I punti vita rappresentano la salute del tuo edificio",
     "": "",
     "Verify": ""
   },
@@ -5350,7 +5350,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Hit Points",
-    "Italian": "Punti ferita",
+    "Italian": "Punti vita",
     "": "",
     "Verify": ""
   },
@@ -12280,7 +12280,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Use <hotkey>[F]</hotkey> to flip a building's orientation.",
-    "Italian": "Utilizza <hotkey>[F]</hotkey> per capovolgere l'orientamento di un edificio.",
+    "Italian": "Utilizza <hotkey>[F]</hotkey> per invertire l'orientamento di un edificio.",
     "": "",
     "Verify": ""
   },
