@@ -1465,7 +1465,7 @@ ScenGameVerErr_5,Text,,Domination victory requires other colonies!,La vittoria i
 ScenGameVerErr_6,Text,,Market needs to be abled for $ victories!,Il mercato deve essere abilitato per $ vittorie!,,
 ScenVict_0_Desc,Text,,Capture enemy colony ships.,Cattura le navi nemiche della colonia.,,
 ScenVict_0_Name,Text,,Domination,Dominazione,,
-ScenVict_1_Desc,Text,,Build <amount> <building>.,Costruisci <amount> <buildng>.,,
+ScenVict_1_Desc,Text,,Build <amount> <building>.,Costruisci <amount> <building>.,,
 ScenVict_1_Name,Text,,Construct Building,Costruisci edificio,,
 ScenVict_5_Desc,Text,,Have $<amount> in bank.,Hai $<amount> in banca.,,
 ScenVict_5_Name,Text,,Cash Balance,Bilancio,,
