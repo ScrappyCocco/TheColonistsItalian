@@ -4,7 +4,7 @@ Advice_0_Desc,Text,,"Build some <bd>Residences</bd> to generate more <it>Energy<
 Advice_0_Name,Text,,No <bd>Residences</bd>!,Nessuna <bd>Residenza</bd>!,,
 Advice_10_Desc,Text,,Keep expanding until you find a <nr>Coal</nr> deposit and it's inside your territory.,Continua ad espanderti finchè non trovi un deposito di <nr>Carbone</nr> incluso nel tuo territorio.,,
 Advice_10_Name,Text,,Find <nr>Coal</nr>!,Trova del <nr>Carbone</nr>!,,
-Advice_11_Desc,Text,,Keep expanding until you find a <nr>Iron Ore</nr> deposit and it's inside your territory.,Continua ad espanderti finchè non trovi un deposito di <nr>Ferro</nr> incluso nel tuo territorio.,,
+Advice_11_Desc,Text,,Keep expanding until you find a <nr>Iron Ore</nr> deposit and it's inside your territory.,Continua ad espanderti finché non trovi un deposito di <nr>Ferro</nr> incluso nel tuo territorio.,,
 Advice_11_Name,Text,,Find <nr>Iron Ore</nr>!,Trova del <nr>Ferro grezzo</nr>!,,
 Advice_12_Desc,Text,,"Research <res>Construction I</res> at the <bd>Workshop</bd> to be able to build more advanced buildings.
 
@@ -60,20 +60,20 @@ Build a <bd>Blast Furnace</bd>.","Per costruire un <bd>Piccolo Monumento</bd> ha
 
 Costruisci un <bd>Altoforno</bd>.",,
 Advice_27_Name,Text,,Generate <it>Iron</it>!,Genera <ir>Ferro</it>!,,
-Advice_28_Desc,Text,,"Use the Map, accessible via the icon in the top-left, to see how much of a natural resource you have available and in which direction there are more resources to reveal.","Utilizza la Mappa, accessibile tramite l'icona in alto a sinistra, per visualizzare quante risorse naturali hai a dispozione e in che direzione ci sono altre risorse da trovare.",,
+Advice_28_Desc,Text,,"Use the Map, accessible via the icon in the top-left, to see how much of a natural resource you have available and in which direction there are more resources to reveal.","Utilizza la Mappa, accessibile tramite l'icona in alto a sinistra, per visualizzare quante risorse naturali hai a disposizione e in che direzione ci sono altre risorse da trovare.",,
 Advice_28_Name,Text,,Check out the Map!,Controlla la Mappa!,,
 Advice_29_Desc,Text,,Consider placing related supply and demands building closer as well as using transport rules at road posts or harbours to control how resources move around your colony. Click on any roads to find out more.,"Considera di piazzare gli edifici per la produzione di risorse vicini a quelli che le richiedono, oltre ad usare le regole di trasporto agli incroci e i porti per controllare come le risorse vengono trasportate nella tua colonia. Clicca su una strada per scoprire di più",,
 Advice_29_Name,Text,,You have some blocked roads!,Hai delle strade bloccate!,,
 Advice_2_Desc,Text,,Always start a colony by building a <bd>Lumberjack Hut</bd> to make sure you have a steady supply of <it>Logs</it>.,Inizia sempre una colonia costruendo una <bd>Capanna del Taglialegna</bd> per avere una fornitura costante di <it>Tronchi</it>.,,
 Advice_2_Name,Text,,No <bd>Lumberjack Huts</bd>!,Nessuna <bd>Capanna del Taglialegna</bd>!,,
 Advice_30_Desc,Text,,To create <it>Iron</it> a <bd>Blast Furnace</bd> needs either <it>Charcoal</it> from a <bd>Charcoal Burner</bd> or <it>Coal</it> from a <bd>Surface Mine</bd> or <bd>Shaft Mine</bd>.,Per creare <it>Ferro</it> un <bd>Altoforno</bd> ha bisogno di <it>Carbonella</it> da un <bd>Bruciatore di Carbonella</bd> o di <it>Carbone</it> da una <bd>Miniera di Superficie</bd> o da una <bd>Miniera</bd>,,
-Advice_30_Name,Text,,Create <cat>Fuel</cat>!,Crea del <cat>Carbutante</cat>!,,
+Advice_30_Name,Text,,Create <cat>Fuel</cat>!,Crea del <cat>Carburante</cat>!,,
 Advice_3_Desc,Text,,Use paths to connect buildings to a road.,Usa i sentieri per collegare gli edifici ad una strada.,,
 Advice_3_Name,Text,,<amount> of your buildings <isare> not connected to your road network!,<amount> dei tuoi edifici <isare> non sono connessi alla tua rete stradale!,,
-Advice_6_Desc,Text,,A <bd>Forestry</bd> won't plant trees until you assign it tiles.,Una <bd>Guardia Forestale</bd> non pianterà alberi finchè non le assegnerai le caselle.,,
+Advice_6_Desc,Text,,A <bd>Forestry</bd> won't plant trees until you assign it tiles.,Una <bd>Guardia Forestale</bd> non pianterà alberi finché non le assegnerai le caselle.,,
 Advice_6_Name,Text,,You have <amount> <bd>Forestries</bd> without any tiles set!,Hai <amount> <bd>Guardia(e) Forestale</bd> senza nessuna casella impostata!,,
 Advice_7_Desc,Text,,Use your idle <bd>Workshop</bd> to research technologies.,Usa i tuoi <bd>Laboratori</bd> inattivi per ricercare tecnologie.,,
-Advice_7_Name,Text,,<amount> Workshop available!,<amount> Laboratoro(i) disponibili!,,
+Advice_7_Name,Text,,<amount> Workshop available!,<amount> Laboratorio(i) disponibili!,,
 Advice_8_Desc,Text,,Build a <bd>Watchtower</bd> near your borders to expand your territory.,Costruisci una <bd>Torre di Osservazione</bd> vicino ai tuoi confini per espandere il tuo territorio.,,
 Advice_8_Name,Text,,Expand your territory!,Espandi il tuo territorio!,,
 Advice_9_Desc,Text,,Build a <bd>Workshop</bd> so you can research new technologies.,Costruisci un <bd>Laboratorio</bd> in modo da ricercare nuove tecnologie.,,
@@ -122,7 +122,7 @@ BdPlVaResults_34_Name,Text,,Not enough space above,Spazio sopra insufficiente,,
 BdPlVaResults_35_Name,Text,,Bridge needs support,Il ponte necessita di supporti,,
 BdPlVaResults_36_Name,Text,,Too high for bridge supports,Troppo alto per i supporti del ponte,,
 BdPlVaResults_37_Name,Text,,Not enough height,Altezza insufficiente,,
-BdPlVaResults_38_Name,Text,,Cannot create train - blocked,Impossibile crare il treno - bloccato,,
+BdPlVaResults_38_Name,Text,,Cannot create train - blocked,Impossibile creare il treno - bloccato,,
 BdPlVaResults_39_Name,Text,,Support blocked by road or path,Supporto bloccato da strada o sentiero,,
 BdPlVaResults_3_Name,Text,,Below water,Sott'acqua,,
 BdPlVaResults_4_Name,Text,,Not below water,Non sott'acqua,,
@@ -203,7 +203,7 @@ Building_26_Description,Text,,Creates <it>Books</it> using <it>Paper</it> and <i
 Building_26_Name,Text,,Printing Press,Stampatrice,,
 Building_26_Plural,Text,,Printing Presses,Stampatrici,,
 Building_26_Worker,Text,,Printbot,BotStampatore,,
-Building_27_Description,Text,,Creates <it>Iron</it> from <it>Iron Ore</it> using <cat>Fuel</cat>.,Crea <it>Ferro</it> da <it>Ferro gresso</it> utilizzando <cat>Carbutante</cat>,,
+Building_27_Description,Text,,Creates <it>Iron</it> from <it>Iron Ore</it> using <cat>Fuel</cat>.,Crea <it>Ferro</it> da <it>Ferro gresso</it> utilizzando <cat>Carburante</cat>,,
 Building_27_Name,Text,,Blast Furnace,Altoforno,,
 Building_27_Plural,Text,,Blast Furnaces,Altiforni,,
 Building_27_Worker,Text,,Smeltbot,BotFondatore,,
@@ -281,7 +281,7 @@ Building_51_Plural,Text,,Shaft Mines,Miniere,,
 Building_51_Worker,Text,,Minebot,BotMinatore,,
 Building_57_Description,Text,,"Upgrades roads and paths, improving transport speed.","Migliora strade e sentieri, incrementando la velocità di trasporto.",,
 Building_57_Name,Text,,Road Layer,Manto Stradale,,
-Building_57_Plural,Text,,Road Layers,Manti Stradlae,,
+Building_57_Plural,Text,,Road Layers,Manti Stradale,,
 Building_57_Worker,Text,,Roadbot,BotAsfaltatore,,
 Building_58_Description,Text,,Brews <it>Beer</it> from <it>Flour</it> and <it>Water</it>.,Produce <it>Birra</it> da <it>Farina</it> e <it>Acqua</it>.,,
 Building_58_Name,Text,,Brewery,Fabbrica di birra,,
@@ -338,9 +338,9 @@ ColonyStatisticsNoMatch,Text,,No recently delivered resources match the filters.
 ColonyStatisticsProductivityHeader,Text,,Colony Productivity,Produttività della Colonia,,
 ColonyStatsTooltipBlockedRoadsDesc,Text,,The number of roads where a carrybot is blocked because a road post is full,Il numero di strade in cui un BotTrasportatore è bloccato perchè un palo stradale è pieno,,
 ColonyStatsTooltipBlockedRoadsTitle,Text,,Blocked Roads,Strade bloccate,,
-ColonyStatsTooltipIncomeRateDesc,Text,,The amount of money earned on average per day over the last month,la quantitò di denaro guadagnata in media al giorno nell'ultimo mese,,
+ColonyStatsTooltipIncomeRateDesc,Text,,The amount of money earned on average per day over the last month,la quantità di denaro guadagnata in media al giorno nell'ultimo mese,,
 ColonyStatsTooltipIncomeRateTitle,Text,,Income Rate,Tasso di reddito,,
-ColonyStatsTooltipProductivityDesc,Text,,The average productivity of all the buildings in your colony,La produttivitò media di tutti gli edifici della tua colonia,,
+ColonyStatsTooltipProductivityDesc,Text,,The average productivity of all the buildings in your colony,La produttività media di tutti gli edifici della tua colonia,,
 ColonyStatsTooltipProductivityTitle,Text,,Colony Productivity,Produttività della colonia,,
 ColonyStatsTooltipResourceDeliveryDesc,Text,,The precentage of resources delivered in the last week that were on time,Percentuale di risorse consegnate puntuali nell'ultima settimana,,
 ColonyStatsTooltipResourceDeliveryTitle,Text,,Resource Delivery,Consegna delle risorse,,
@@ -428,7 +428,7 @@ EntityBuildingPriorityLayersForestryHeader,Text,,Planting Area,Area di piantagio
 EntityBuildingPriorityLayersLumberjackHutDesc,Text,,"By default lumberbots will chop down the nearest tree but you can override this behaviour by prioritising selected tiles.
 
 Click or click and drag to set tiles.
-<hotkey>[Shift]</hotkey> click a tile to unset it.","Di default i BotTaglialegna taglieranno l'ablero più vicino, puoi cambiare questo comporamento prioritizzando le caselle selezionate.
+<hotkey>[Shift]</hotkey> click a tile to unset it.","Di default i BotTaglialegna taglieranno l'albero più vicino, puoi cambiare questo comportamento prioritizzando le caselle selezionate.
 
 Clicca o clicca e trascina per selezionare le caselle.
 <hotkey>[Shift]</hotkey> clicca una casella per de-selezionarla.",,
@@ -544,7 +544,7 @@ EntityTransportVehicleStopsBoatAction,Text,,Add Harbour Stop,Aggiungi fermata po
 EntityTransportVehicleStopsBoatIntro,Text,,{0} will automatically transport resources between these harbours,{0} trasporterà automaticamente le risorse tra questi porti,,
 EntityTransportVehicleStopsCancel,Text,,Cancel,Annulla,,
 EntityTransportVehicleStopsChangeRoute,Text,,Change Route,Cambia percorso,,
-EntityTransportVehicleStopsClearRoute,Text,,Clear Route,Annulla pecorso,,
+EntityTransportVehicleStopsClearRoute,Text,,Clear Route,Annulla percorso,,
 EntityTransportVehicleStopsConfirm,Text,,Confirm,Conferma,,
 EntityTransportVehicleStopsInvalidBoatStartEnd,Text,,Invalid Route! Start harbour and end harbour are same. This is unnecessary as boat will automatically loop.,Percorso non valido! Il porto di partenza e di fine porto sono uguali. Questo non è necessario in quanto la barca effettuerà automaticamente il loop.,,
 EntityTransportVehicleStopsInvalidSequence,Text,,Invalid Route! Route stops at {0} twice in a row!,Percorso non valido! Il percorso si ferma a {0} due volte di seguito!,,
@@ -694,7 +694,7 @@ For example, if you have a remote <bd>Mine</bd>, you can build a nearby <bd>Stor
 
 Firstly you could limit the export buildings in the <bd>Storage Yard</bd> settings to just your <bd>Mine</bd>. Secondly you could create a transport rule on a road post to only allow <it>Energy</it> to pass through if going to a <bd>Storage Yard</bd>.","Questo pannello secondario elenca le risorse consegnate di recente a un edificio di produzione. Puoi filtrare i risultati in base a"" In orario"","" Allerta"" e ""Allarme"" e puoi selezionare qualsiasi voce per vedere il percorso seguito. Il numero percentuale indica che il tempo impiegato per il viaggio rispetto al tempo necessario per mantenere la produttività del 100% nell'edificio di destinazione.
 
-Ad esempio, una <bd>Capanna del Taglialegna</bd> richiede <it>Energia</it> al prezzo di una al giorno e può archiviare fino a quattro risorse <it>Energia</it> come buffer. Se una risorsa <it>Energia</it> impiega 4,5 giorni per arrivare, verrà elencata qui come 112% come se quel tempo di viaggio fosse coerente, quindi le risorse non arriverebbero abbastanza rapidamente per mantenere una produttività del 100%.
+Ad esempio, una <bd>Capanna del Taglialegna</bd> richiede <it>Energia</it> al prezzo di una unità al giorno e può archiviare fino a quattro risorse <it>Energia</it> come buffer. Se una risorsa <it>Energia</it> impiega 4,5 giorni per arrivare, verrà elencata qui come 112% come se quel tempo di viaggio fosse coerente, quindi le risorse non arriverebbero abbastanza rapidamente per mantenere una produttività del 100%.
 
 Questo è solo uno dei fattori. Quando si tiene conto del fatto che un edificio possa funzionare al 100%, si deve anche tenere conto del fatto che in primo luogo viene prodotta abbastanza quella risorsa.
 
@@ -764,7 +764,7 @@ Lista nera (tranne archiviazione): questa opzione significa accettare la risorsa
 
 Lista delle richieste: significa che solo le risorse selezionate saranno in grado di passare.
 
-Lista delle richieste (solo deposito): questa opzione significa che solo le risorse nella lista deelle richieste saranno in grado di passare e solo se stanno andando in un deposito.",,
+Lista delle richieste (solo deposito): questa opzione significa che solo le risorse nella lista delle richieste saranno in grado di passare e solo se stanno andando in un deposito.",,
 HelpPanel_36,Text,,"This panel lists how much money you have, your current Trader Reputation and resource prices.
 
 Trader Reputation points are gained by buying and selling resources. Gain enough points and your Trader Reputation will increase, allowing you to build another <bd>Space Port</bd>.
@@ -901,7 +901,7 @@ ItemCat_2_Desc,Text,,<it>Fish</it> / <it>Meat</it>,<it>Pesce</it> / <it>Carne</i
 ItemCat_2_FullDesc,Text,,<cat>Food</cat> is needed by all <bd>Residences</bd> and can be <it>Fish</it> or <it>Meat</it>.,Il <cat>Cibo</cat> è necessario per tutte le <bd>Residenze</bd> e può essere <it>Pesce</it> o <it>Carne</it>.,,
 ItemCat_2_Name,Text,,Food,Cibo,,
 ItemCat_3_Desc,Text,,<it>Bread</it>,<it>Pane</it>,,
-ItemCat_3_FullDesc,Text,,<cat>Luxury Food</cat> is needed by Level 3 <bd>Residences</bd> and can be <it>Bread</it>,Il <cat>Cibo di lusso</cat> è necessario per le <bd>Residenzze</bd> di Livello 3 e può essere <it>Pane</it>.,,
+ItemCat_3_FullDesc,Text,,<cat>Luxury Food</cat> is needed by Level 3 <bd>Residences</bd> and can be <it>Bread</it>,Il <cat>Cibo di lusso</cat> è necessario per le <bd>Residenze</bd> di Livello 3 e può essere <it>Pane</it>.,,
 ItemCat_3_Name,Text,,Luxury Food,Cibo di lusso,,
 ItemCat_4_Desc,Text,,<it>Cider</it> / <it>Beer</it>,<it>Cidro</it> / <it>Birra</it>,,
 ItemCat_4_FullDesc,Text,,<cat>Alcohol</cat> is needed by Level 2 <bd>Residences</bd> and can be <it>Cider</it> or <it>Beer</it>.,<cat>Alcol</cat> è necessario per le <bd>Residenze</bd> di Livello 2 e può essere <it>Cidro</it> o <it>Birra</it>.,,
@@ -966,7 +966,7 @@ Item_13_Name,Text,,Charcoal,Carbonella,,
 Item_13_Past,Text,,Burned,Bruciata,,
 Item_13_Present,Text,,Burning,In bruciatura,,
 Item_14_Desc,Text,,Coal is a <cat>Fuel</cat> mined by the <bd>Level 2 Surface Mine</bd> or the <bd>Level 1 Shaft Mine</bd>.,Il carbone è un <cat>combustibile</cat> estratto dalla <bd>Miniera di Superficie Livello 2</bd> o dalla <bd>Miniera Livello 1</bd>.,,
-Item_14_FullDesc,Text,,Coal is a <cat>Fuel</cat> mined by the <bd>Level 2 Surface Mine</bd> or the <bd>Level 1 Shaft Mine</bd> and used is by various buildings as fuel.,Il carbone è un <cat>combustibile</cat> estratto dalla <bd>Miniera di Superficie Livello 2</bd> o dalla <bd>Miniera Livello 1</bd> ed è usato da vari edifici come caburante.,,
+Item_14_FullDesc,Text,,Coal is a <cat>Fuel</cat> mined by the <bd>Level 2 Surface Mine</bd> or the <bd>Level 1 Shaft Mine</bd> and used is by various buildings as fuel.,Il carbone è un <cat>combustibile</cat> estratto dalla <bd>Miniera di Superficie Livello 2</bd> o dalla <bd>Miniera Livello 1</bd> ed è usato da vari edifici come carburante.,,
 Item_14_Name,Text,,Coal,Carbone,,
 Item_14_Past,Text,,Mined,Estratto,,
 Item_14_Present,Text,,Mining,In estrazione,,
@@ -1252,7 +1252,7 @@ MapEditorMode_29_Desc,Text,,"Click to select an object.
 
 [Shift] + Click to remove an object.","Clicca per selezionare un oggetto.
 
-[Shift] + Click per rimuovere un oggetto",,
+[Shift] + Clic per rimuovere un oggetto",,
 MapEditorMode_29_Name,Text,,Select,Seleziona,,
 MapEditorMode_7_Desc,Text,,"Click and hold to raise land
 Hold [Shift] to lower land
@@ -1385,7 +1385,7 @@ Notification_13_Desc,Text,,<req>,<req>,,
 Notification_13_Name,Text,,New trade contract,Nuovo contratto commerciale,,
 Notification_14_Desc,Text,,You earned <reputation_amount> reputation and $<cashmoney_amount>,Hai guadagnato <reputation_amount> reputazione e $<cashmoney_amount>,,
 Notification_14_Name,Text,,Trade contract complete!,Contratto commerciale completato!,,
-Notification_15_Desc,Text,,<nr><natres></nr> has been spotted outside your borders,<nr><natres></nr> è stato indiduato fuori dai tuoi confini,,
+Notification_15_Desc,Text,,<nr><natres></nr> has been spotted outside your borders,<nr><natres></nr> è stato individuato fuori dai tuoi confini,,
 Notification_15_Name,Text,,<nr> discovered!,<nr> scoperto!,,
 Notification_16_Desc,Text,,<nr><natres></nr> can now be mined,<nr><natres></nr> può ora essere estratto,,
 Notification_16_Name,Text,,<nr> available!,<nr> disponibile,,
@@ -1394,7 +1394,7 @@ Notification_17_Name,Text,,<nr> discovered!,<nr> scoperto!,,
 Notification_18_Desc,Text,,<amount> <nr><natres></nr> can now be mined,<amount> <nr><natres></nr> può ora essere estratto,,
 Notification_18_Name,Text,,<nr> available!,<nr> disponibile!,,
 Notification_19_Desc,Text,,<player> has declared war upon you!,<player> ti ha dichiarato guerra!,,
-Notification_19_Name,Text,,You've met a hostile colony!,Hai inconrato una colonia ostile!,,
+Notification_19_Name,Text,,You've met a hostile colony!,Hai incontrato una colonia ostile!,,
 Notification_1_Desc,Text,,<research> has been completed at <building>,<research> è stata completata presso <building>,,
 Notification_1_Name,Text,,Research complete!,Ricerca completata!,,
 Notification_20_Desc,Text,,<player> states they wish you no harm.,<player> afferma che non ti farà del male.,,
@@ -1424,7 +1424,7 @@ Notification_4_Name,Text,,Expedition provisions ready!,Risorse per la spedizione
 Notification_5_Desc,Text,,<boat> has finished loading expedition provisions,<boat> ha finito di caricare le risorse per la spedizione,,
 Notification_5_Name,Text,,Expedition boat ready!,Barca pronta per la spedizione!,,
 Notification_6_Desc,Text,,<building> is under fire from <player>!,<building> è sotto attacco da <player>!,,
-Notification_6_Name,Text,,Watchtower Under Attack!,Toprre di Guardia sotto attacco!,,
+Notification_6_Name,Text,,Watchtower Under Attack!,Torre di Guardia sotto attacco!,,
 Off,Text,Opposite to On,Off,Off,,
 On,Text,Opposite to Off,On,On,,
 Options,Text,Game Settings,Options,Opzioni,,
@@ -1529,7 +1529,7 @@ Subscribed,Text,Subscribed Maps tab,Subscribed,Sottoscritto,,
 TechTreeAgriculture,Text,Tech research category,Agriculture,Agricoltura,,
 TechTreeButtonSelectIdleWorkshop,Text,,Select Idle Workshop,Seleziona un Laboratorio inattivo,,
 TechTreeButtonSelectResearchIdleWorkshop,Text,,"Select Research &
-Idle Workshop",Seleziona Riceca e Laboratorio inattivo,,
+Idle Workshop",Seleziona Ricerca e Laboratorio inattivo,,
 TechTreeButtonStartResearch,Text,,Start Research,Inizia ricerca,,
 TechTreeConstruction,Text,Tech research category,Construction,Costruzione,,
 TechTreeErrorNeedsHigherLevelWorkshop,Text,,Needs Higher Level Workshop,Hai bisogno di un Laboratorio di livello superiore,,
@@ -1619,7 +1619,7 @@ Tech_54_Desc,Text,,Unlocks <res>Construction I</res>,Sblocca <res>Costruzione I<
 Tech_54_Name,Text,,Scaffolding I,Impalcature I,,
 Tech_55_Desc,Text,,Unlocks <res>Construction II</res>,Sblocca <res>Costruzione II</res>,,
 Tech_55_Name,Text,,Scaffolding II,Impalcature II,,
-Tech_56_Desc,Text,,Unlocks <bd>Brickyard</bd> and <res>Construction II</res>,Sblocca <bd>Mattonificioi</bd> e <res>Costruzione II</res>,,
+Tech_56_Desc,Text,,Unlocks <bd>Brickyard</bd> and <res>Construction II</res>,Sblocca <bd>Mattonificio</bd> e <res>Costruzione II</res>,,
 Tech_56_Name,Text,,Brickmaking I,Produzione di Mattoni I,,
 Tech_57_Desc,Text,,Unlocks <bd>Glassworks</bd> and <res>Construction III</res>,Sblocca la <bd>Vetreria</bd> e <res>Costruzione III</res>,,
 Tech_57_Name,Text,,Glassmaking,Produzione del vetro,,
@@ -1678,7 +1678,7 @@ Tip_13,Text,,You can create paths and then build roads on top of them later.,Puo
 Tip_14,Text,,Right-click at any point to cancel the mode you're in.,Fai clic con il pulsante destro del mouse in qualsiasi momento per annullare la modalità in cui ti trovi.,,
 Tip_15,Text,,Expand more quickly by constructing higher level <bd>Watchtowers</bd>.,Espanditi più rapidamente costruendo <bd>Torri di Guardia</bd> di livello superiore.,,
 Tip_16,Text,,Use <hotkey>[H]</hotkey> to jump back to your <bd>Colony Ship</bd>.,Utilizza <hotkey>[H]</hotkey> per tornare alla <bd>Nave della Colonia</bd>,,
-Tip_17,Text,,Prioritise a building to make it request resources before all other buildings. You can also do this by holding <hotkey>[P]</hotkey> and clicking the building.,Prioritizza un edificio per fargli richiedere risorse prima di tutti gli altri edifici. Puoi farlo anche tenendo premuto <hotkey>[P]</hotjey> e cliccando l'edificio.,,
+Tip_17,Text,,Prioritise a building to make it request resources before all other buildings. You can also do this by holding <hotkey>[P]</hotkey> and clicking the building.,Prioritizza un edificio per fargli richiedere risorse prima di tutti gli altri edifici. Puoi farlo anche tenendo premuto <hotkey>[P]</hotkey> e cliccando l'edificio.,,
 Tip_18,Text,,Use <hotkey>[F]</hotkey> to flip a building's orientation.,Utilizza <hotkey>[F]</hotkey> per capovolgere l'orientamento di un edificio.,,
 Tip_2,Text,,When building a <lr>Road</lr> hold <hotkey>[Ctrl]</hotkey> and click to fix waypoint tiles to the road you're placing.,Mentre costruisci una <lr>Strada</lr> tieni premuto <hotkey>[Ctrl]</hotkey> e clicca per fissare una posizione intermedia sulla strada che stai piazzando.,,
 Tip_3,Text,,"If two buildings share a path then a Stackbot can deliver straight from one building to another, helping to reduce traffic on your roads.","Se due Edifici condividono un sentiero, il BotImpilatore può consegnare direttamente le risorse da un edificio all'altro, riducendo il traffico sulle strade.",,
@@ -1731,7 +1731,7 @@ But more <bd>Residences</bd> mean more Housebot needs, so demand for <it>Water</
 Build another <bd>Fishing Hut</bd> on the coast to increase your <cat>Food</cat> production.","Fantastico! Ora hai la capacità di produrre più <it>Energia L1</it>.
 Ma più <bd>Residenze</bd> significano più BotCasaligni, che necessiteranno di <it>Acqua</it> e <cat>Cibo</cat>.
 Costruisci un altra <bd>Capanna del Pescatore</bd> sulla costa per aumentare la tua produzione di <cat>cibo</cat>.",,
-TutorialDialogues_T1_BuildFishingHut,Text,,We're near the shore and have several jumping fish tiles available which can be farmed by a <bd>Fishing Hut</bd>.,Siamo vicini alla costa e ci sono molte caselle pesce disponbiili che possono essere pescate con una <bd>Capanna del Pescatore</bd>.,,
+TutorialDialogues_T1_BuildFishingHut,Text,,We're near the shore and have several jumping fish tiles available which can be farmed by a <bd>Fishing Hut</bd>.,Siamo vicini alla costa e ci sono molte caselle pesce disponibili che possono essere pescate con una <bd>Capanna del Pescatore</bd>.,,
 TutorialDialogues_T1_BuildForestry,Text,,"Great! <bd>Watchtowers</bd> take a little longer to build though.
 While your <bd>Watchtower</bd> is being built, let's construct a <bd>Forestry</bd> to plant some more trees.","Bene! Purtroppo le <bd>Torri di Guardia</bd> richiedono più tempo per essere costruite.
 Mentre le tue <bd>Torri di Guardia</bd> vengono costruire, costruisci una <bd>Guardia Forestale</bd> per piantare alcuni alberi.",,
@@ -1747,7 +1747,7 @@ TutorialDialogues_T1_BuildPathComplete,Text,,"Excellent! Your <bd>Well</bd> will
 Because the <bd>Well</bd> and the <bd>Residence</bd> are connected by a path, the Stackbot can deliver the <it>Water</it> directly.
 This means the <it>Water</it> resource will not impact your road network and can help reduce traffic on your roads when your colony grows and gets busier.","Eccellente! Il tuo <bd>Pozzo</bd> sarà costruito presto e <it>Acqua</it> verrà fornita alle <bd>Residenze</bd>.
 Siccome il <bd>Pozzo</bd> e le <bd>Residenze</bd> sono connesse da un sentiero, il BotImpilatore può consegnare l'<it>Acqua</it> direttamente.
-Questo significa che l'<it>Acqua</it> non impatterà la reste stradale, aiutando a ridurre il traffico quando la tua colonia crescerà.",,
+Questo significa che l'<it>Acqua</it> non impatterà la rete stradale, aiutando a ridurre il traffico quando la tua colonia crescerà.",,
 TutorialDialogues_T1_BuildResidence0,Text,,"The <bd>Colony Ship</bd> generates a small amount of <it>Energy L1</it> to get you started but your colony will soon require lots more.
 You can generate additional <it>Energy L1</it> at <bd>Residences</bd> so next let's build your first <bd>Residence</bd>.","La <bd>Nave della Colonia</bd> genera una piccola quantità di <it>Energia l1</it> per iniziare, ma la tua colonia ne richiederà presto di più.
 Puoi generare più <it>Energia L1</it> alle <bd>Residenze</bd> quindi costruisci la tua prima <bd>Residenza</bd>:",,
@@ -1800,7 +1800,7 @@ Follow the yellow alert icons on the <bd>Forestry</bd> building and allocate som
 Segui l'icona gialla di avviso sull'edificio della <bd>Guardia Forestale</bd> per assegnare le caselle in cui piantare gli alberi.",,
 TutorialDialogues_T1_ForestryPlantTreesComplete,Text,,Well done! This means you won't run out of trees for Lumberbots to create <it>Logs</it> out of.,Ben fatto! Ora non finirai gli alberi che i BotTaglialegna utilizzano per ottenere <it>Tronchi</it>:,,
 TutorialDialogues_T1_Intro1,Text,,"At last, terra firma!
-We have finally reached a habitable planet and we can set our wheels to ground.","Finalmente, terra ferma!
+We have finally reached a habitable planet and we can set our wheels to ground.","Finalmente, terraferma!
 Abbiamo finalmente raggiungo un pianeta abitabile e possiamo mettere le ruote a terra!",,
 TutorialDialogues_T1_Intro2,Text,,"You are Dronebot <name> and are in charge of colony operations.
 This looks like a good island to test our anthrobotic systems.","Tu sei il BotDrone <name> e sei incaricato delle operazioni della colonia.
@@ -1811,19 +1811,19 @@ TutorialDialogues_T1_KeyboardControls_TaskPan,Text,,Pan the camera using <hotkey
 TutorialDialogues_T1_KeyboardControls_TaskRotate,Text,,Rotate the camera using <hotkey>[Q]</hotkey><hotkey>[E]</hotkey>.,Ruota la visuale utilizzando <hotkey>[Q]</hotkey><hotkey>[E]</hotkey>,,
 TutorialDialogues_T1_LumberjackHutConstructionComplete,Text,,The <bd>Lumberjack Hut</bd> is complete! Now the <bd>Colony Ship</bd> will print a Lumberbot and they will head to the new building.,Questa <bd>Capanna del Taglialegna</bd> è ora completa! Ora la <bd>Nave della Colonia</bd> stamperà un BotTaglialegna che si dirigerà verso la nuova costruzione.,,
 TutorialDialogues_T1_LumberjackHutWaitForBot,Text,,"The Lumberbot has arrived and has headed off to work! You may have noticed that another resource was delivered to the <bd>Lumberjack Hut</bd>.
-Click on your new <bd>Lumberjack Hut</bd> building to find out more.","Il BotTaglialegna è arrivato e si è diretto al lavoro! Potresti aver notato che un'altra risorsa è stata cosegnata alla <bd>Capanna del Taglialegna</bd>.
+Click on your new <bd>Lumberjack Hut</bd> building to find out more.","Il BotTaglialegna è arrivato e si è diretto al lavoro! Potresti aver notato che un'altra risorsa è stata consegnata alla <bd>Capanna del Taglialegna</bd>.
 Clicca sulla tua nuova <bd>Capanna del Taglialegna</bd> per saperne di più.",,
 TutorialDialogues_T1_MouseControls,Text,,You can also use your mouse to move around:,Puoi sempre utilizzare il mouse per guardarti attorno:,,
 TutorialDialogues_T1_MouseControls_TaskPan,Text,,<hotkey>Right-click</hotkey> and drag to move about the world as well as move the mouse to the edge of screen.,"<hotkey>Click-destro</hotkey> e trascina per muoverti per il mondo, oppure trascina il mouse al bordo dello schermo-",,
 TutorialDialogues_T1_MouseControls_TaskTilt,Text,,Hold and drag the <hotkey>middle mouse button</hotkey> to rotate and tilt the camera.,Tieni premuto e trascina <hotkey>Pulsante centrale mouse</hotkey> per ruotare e inclinare la visuale.,,
-TutorialDialogues_T1_MouseControls_TaskZoom,Text,,Use the <hotkey>mouse wheel</hotkey> to zoom.,Utilizza la <hotkey>rotella del mouse</hotkey> per zoommare.,,
+TutorialDialogues_T1_MouseControls_TaskZoom,Text,,Use the <hotkey>mouse wheel</hotkey> to zoom.,Utilizza la <hotkey>rotella del mouse</hotkey> per zoomare.,,
 TutorialDialogues_T1_PlaceFishingHut,Text,,"You can use <hotkey>[F]</hotkey> to flip a building's orientation.
 Use <hotkey>[F]</hotkey> to flip and <hotkey>[R]</hotkey> to rotate to build a <bd>Fishing Hut</bd> on the highlighted location.","Ora puoi utilizzare <hotkey>[F]</hotkey> per capovolgere un edificio.
 Utilizza <hotkey>[F]</hotkey> per capovolgere e <hotkey>[R]</hotkey> per ruotare per costruire una <bd>Capanna da Pesca</bd> sulle caselle evidenziate",,
 TutorialDialogues_T1_PlaceLumberjackHut,Text,,"You're in the build mode, so place the <bd>Lumberjack Hut</bd> on the highlighted tiles near your Colony Ship.","Sei in modalità costruzione, quindi piazza la <bd>Capanna del Taglialegna</bd> sulle caselle evidenziate vicino alla tua Nave della Colonia.",,
 TutorialDialogues_T1_PlaceResidence,Text,,You can rotate a building when you're placing it. Rotate using <hotkey>[R]</hotkey> and match the <bd>Residence</bd> to the highlighted tiles.,Puoi ruotare un edificio mentre lo stai piazzando. Ruotalo utilizzando <hotkey>[R]</hotkey> in modo da far combaciare la <bd>Residenza</bd> con le caselle evidenziate.,,
 TutorialDialogues_T1_ResourceClickOverview,Text,,Click the highlighted tab to go to the <it>Logs</it> overview panel.,Clicca la scheda evidenziata per andare al pannello riassuntivo dei <it>Logs</it>.,,
-TutorialDialogues_T1_ResourceCloseOverview,Text,,"First, close the resource panel by <hotkey>right-clicking</hotkey> anywhere inside the panel or by using the 'x' button.","Per prima cosa, chiudi il panenllo risorse cliccando <hotkey>click-destro</hotkey> ovunque dentro il pannello o utilizzando il bottone 'x'.",,
+TutorialDialogues_T1_ResourceCloseOverview,Text,,"First, close the resource panel by <hotkey>right-clicking</hotkey> anywhere inside the panel or by using the 'x' button.","Per prima cosa, chiudi il pannello risorse cliccando <hotkey>click-destro</hotkey> ovunque dentro il pannello o utilizzando il bottone 'x'.",,
 TutorialDialogues_T1_ResourceOverview,Text,,"This section tells you how many <it>Logs</it> you're producing and how many are in demand. This is a good panel to check whether you're producing enough of a resource.
 <it>Logs</it> are an important construction material and your <bd>Colony Ship</bd> has a basic replicator which slowly produces <it>Logs</it> to ensure you never completely run out.
 But you're going to need a lot more <it>Logs</it> so let's build a <bd>Lumberjack Hut</bd>.","Questa sezione ti dice quanti <it>Tronchi</it> stai producendo e quanta domanda c'è. Questo è un bel pannello per controllare se stai producendo abbastanza di una risorsa.
@@ -1834,7 +1834,7 @@ You can see how many of each resource you currently have in storage in the botto
 Puoi vedere la quantità disponibile nel deposito di ciascuna risorsa in basso a sinistra. Clicca l'icona lampeggiante dei <it>Tronchi</it> per aprire le informazioni sulla risorsa.",,
 TutorialDialogues_T1_ResourceStorage2,Text,,"The resource panel tells you how many <it>Logs</it> you currently have stored and how much that number has changed over the last day or week.
 Below that is the list of buildings where the resources are stored.
-So you currently have 16 <it>Logs</it> stored at your <bd>Colony Ship</bd>.","Il pannello risorsa ti dice quanti <it>Tronchi</it> hai attualmente e come il numero è cambiato nell'ultimo girono o settimana.
+So you currently have 16 <it>Logs</it> stored at your <bd>Colony Ship</bd>.","Il pannello risorsa ti dice quanti <it>Tronchi</it> hai attualmente e come il numero è cambiato nell'ultimo giorno o settimana.
 Sotto, c'è la lista degli edifici in cui la risorsa è depositata.
 Quindi, attualmente hai 16 <it>Tronchi</it> depositati presso la tua <bd>Nave della Colonia</bd>.",,
 TutorialDialogues_T1_RoadToLumberjackHut1,Text,,"You have some <it>Logs</it> at the <bd>Colony Ship</bd> but there is no route to your <bd>Lumberjack Hut</bd> yet as indicated by the yellow alert icon.
@@ -1843,7 +1843,7 @@ Select the <lr>Roads</lr> build mode in the bottom right of the screen.","Hai al
 Le risorse si muovono attraverso la tua colonia utilizzando le <lr>Strade</lr>. Costruiamone una!
 Seleziona la modalità di costruzione <lr>Strade</lr> in basso a destra dello schermo.",,
 TutorialDialogues_T1_RoadToLumberjackHut2,Text,,"Roads can only be started from existing road posts.
-<hotkey>Click</hotkey> on the blue road post outside the <bd>Colony Ship</bd> and then <hotkey>click</hotkey> on the next highlighted tile.","Le strade possono iniziare soltato dai pali stradali esistenti.
+<hotkey>Click</hotkey> on the blue road post outside the <bd>Colony Ship</bd> and then <hotkey>click</hotkey> on the next highlighted tile.","Le strade possono iniziare soltanto dai pali stradali esistenti.
 <hotkey>Clicca</hotkey> sul palo stradale blu fuori dalla <bd>Nave della Colonia</bd> e poi <hotkey>clicca</hotkey> sulla casella evidenziata.",,
 TutorialDialogues_T1_RoadToLumberjackHut3,Text,,Got it! Roads can be between 4 and 6 tiles long. Build another <lr>Road</lr> to connect your <bd>Lumberjack</bd>.,Fatto! Le strade possono essere lunghe da 4 a 6 caselle. Costruisci un'altra <lr>Strada</lr> per collegare la tua <bd>Capanna del Taglialegna</bd>.,,
 TutorialDialogues_T1_RoadToLumberjackHut4,Text,,Great! Each <lr>Road</lr> has a Carrybot who moves resources between the posts at either end of the <lr>Road</lr> depending on where the resource needs to go.,Bene! Ogni <lr>Strada</lr> ha un BotTrasportatore che muove le risorse tra le due estremità della <lr>Strada</lr> a seconda di dove deve andare la risorsa.,,
@@ -1853,7 +1853,7 @@ TutorialDialogues_T1_SpeedControls_TaskPause,Text,,Pause and unpause the game us
 TutorialDialogues_T1_SpeedControls_TaskSpeedUpDown,Text,,Change game speed using <hotkey>[Z]</hotkey> and <hotkey>[X]</hotkey>.,Cambia la velocità di gioco utilizzando <hotkey>[Z]</hotkey> e <hotkey>[X]</hotkey>.,,
 TutorialDialogues_T1_StoneDepositInfo,Text,,"<it>Stone</it> is used to build more advanced buildings.
 You can mine this <nr>Stone Deposit</nr> with the <bd>Surface Mine</bd> but only once the deposit is inside your territory.","La <it>Pietra</it> è utilizzata per costruire edifici più avanzati.
-Puoi estrarla ai <nr>Depositi di Pietra</nr> con la <bd>Miniera di Superficir</bd> ma solo una volta che il deposito è nel tuo territorio.",,
+Puoi estrarla ai <nr>Depositi di Pietra</nr> con la <bd>Miniera di Superficie</bd> ma solo una volta che il deposito è nel tuo territorio.",,
 TutorialDialogues_T1_SurfaceMineComplete,Text,,"Nice work! Your Minerbot will now head off and begin harvesting <it>Stone</it>.
 You may have noticed that the <bd>Surface Mine</bd> also requires <it>Energy L1</it> to function.
 Click on the <it>Energy L1</it> panel in the bottom left to check the colony's <it>Energy L1</it> demands.","Ben fatto! Il tuo BotMinatore ora si dirigerà ad estrarre <it>Pietra</it>.
@@ -1869,7 +1869,7 @@ The Stackbot for the <bd>Lumberjack Hut</bd> will then pick up the resources and
 Let's watch!","Il tuo BotTrasportatore può ora trasportare i <it>Tronchi</it> lungo la strada fino al palo stradale fuori dalla <bd>Capanna del Taglialegna</bd>.
 Il BotImpilatore della <bd>Capanna del Taglialegna</bd> quindi prenderà le risorse e il BotCostruttore sarà pronto a costruire l'edificio!
 Stiamo a vedere!",,
-TutorialDialogues_T1_WaitForResidenceConstruction,Text,,Good! Now let's watch the construction resources reach the <bd>Residence</bd> and the buildbot finish their work.,Bene! Ira guardiamo come le risorse di costruzione raggiungono la <bd>Residenza</bd> e come il BotCostruttore finisce il suo lavoro.,,
+TutorialDialogues_T1_WaitForResidenceConstruction,Text,,Good! Now let's watch the construction resources reach the <bd>Residence</bd> and the buildbot finish their work.,Bene! Ora guardiamo come le risorse di costruzione raggiungono la <bd>Residenza</bd> e come il BotCostruttore finisce il suo lavoro.,,
 TutorialDialogues_T1_WaitForResidenceConstruction2,Text,,The <bd>Residence</bd> is finished but as the icons above the building show the Housebot doesn't have the required resources yet to begin production of <it>Energy L1</it>.,"La bd>Residenza</bd> è finita ma come le icone sopra l'edificio mostrano, il BotCasalingo non ha le risorse necessarie per iniziare a produrre <it>Energia L1</it>.",,
 TutorialDialogues_T1_WaitWatchtowerComplete,Text,,"Now let's wait for the <bd>Watchtower</bd> to finish construction.
 Remember you can change the game speed with <hotkey>[Z]</hotkey> and <hotkey>[X]</hotkey>.","Ora aspettiamo che la <bd>Torre di Guardia</bd> sia costruita.
@@ -1877,8 +1877,8 @@ Ricorda che puoi cambiare la velocità di gioco con <hotkey>[Z]</hotkey> e <hotk
 TutorialDialogues_T1_WatchFirstFish,Text,,The Fisherbot is now heading off to fish and will soon have some <it>Fish</it> for your <bd>Residence</bd>.,Il BotPescatore si sta ora dirigendo a pescare e presto avrà del <it>Pesce</it> per la tua <bd>Residenza</bd>.,,
 TutorialDialogues_T2_BuildSheepFarm,Text,,"First though, we can see that we haven't got any <nr>Fish</nr> available so you'll need to build a <bd>Sheep Farm</bd>.
 Sheep Farms can produce enough <cat>Food</cat> for 4 <bd>Residences</bd> but they need space for the sheep to graze.
-Build a <bd>Sheep Farm</bd> in the highlighted location.","Per prima cosa, posssiamo vedere che non abbiamo nessun <nr>Pesce</nr> disponibile quindi avrai bisogno di costruire un <bd>Allevamento di Pecore</bd>.
-Gli Allevamenti di pecore possono produrre abbastanza <cat>Cibo</cat> per 4 <br>Residenze</bd> ma hanno bisogno di spazio per far pascolare le percore.
+Build a <bd>Sheep Farm</bd> in the highlighted location.","Per prima cosa, possiamo vedere che non abbiamo nessun <nr>Pesce</nr> disponibile quindi avrai bisogno di costruire un <bd>Allevamento di Pecore</bd>.
+Gli Allevamenti di pecore possono produrre abbastanza <cat>Cibo</cat> per 4 <br>Residenze</bd> ma hanno bisogno di spazio per far pascolare le pecore.
 Costruisci un <bd>Allevamento di Pecore</bd> nel punto evidenziato.",,
 TutorialDialogues_T2_BuildSheepFarm2,Text,,Nice! Let's wait for the buildbot to finish construction of your <bd>Sheep Farm</bd>.,Bene! Ora aspettiamo che il BotCostruttore finisca la costruzione del tuo <bd>Allevamento di Pecore</bd>.,,
 TutorialDialogues_T2_BuildSheepFarm_TaskBuildSheepFarm,Text,,Build 1 <bd>Sheep Farm</bd>,Costruisci 1 <bd>Allevamento di pecore</bd>,,
@@ -1923,7 +1923,7 @@ TutorialDialogues_T4_Intro,Text,,"It looks like you might not be alone this plan
 You should set up your colony and expand quickly!","Sembra che non siamo soli in questo pianeta...
 Crea la tua colonia ed espanditi rapidamente!",,
 TutorialDialogues__Overlay_CoalDiscovered,Text,,"You now have some <nr>Coal</nr> deposits within your territory!
-<nr>Coal</nr> deposits can only be mined by a Level 2 <bd>Surface Mine</bd> once you've researched <res>Mining I</res>.","Ora hai dei depositi di <nr>Carbone</nr> nel tuo territodio!
+<nr>Coal</nr> deposits can only be mined by a Level 2 <bd>Surface Mine</bd> once you've researched <res>Mining I</res>.","Ora hai dei depositi di <nr>Carbone</nr> nel tuo territorio!
 I depositi di <nr>Carbone</nr> possono essere estratti solo da una <br>Miniera di Superficie</br> Livello 2 una volta che avrai ricercato <res>Estrazione Mineraria I</res>.",,
 TutorialDialogues__Overlay_FirstBoatConstructed,Text,,"You've built your first boat!
 When a boat is complete you can either create a route between existing <bd>Harbours</bd> or assign it to an expedition to explore the seas and build a new <bd>Harbour</bd> on another island.
@@ -1968,7 +1968,7 @@ When placing the <bd>Shaft Mine</bd> you need to line up the building footprint 
 Puoi estrarre minerali costruendoci una <bd>Miniera</bd>.
 Quando piazzi la <bd>Miniera</bd> hai bisogno di allinearla in modo che il tracciato sia allineato con l'entrata.",,
 TutorialDialogues__Overlay_ShaftMineMiningNotResearched,Text,,"You now have a Underground Deposit inside your territory!
-You can mine this location by constructing a Level 1 <bd>Shaft Mine</bd>  once you've researched <res>Mining I</res>.","Ora hai un deposito sotterrraneo nel tuo territorio!
+You can mine this location by constructing a Level 1 <bd>Shaft Mine</bd>  once you've researched <res>Mining I</res>.","Ora hai un deposito sotterraneo nel tuo territorio!
 Puoi estrarre minerali costruendoci una <bd>Miniera</bd> Livello 1 una volta che avrai ricercato <res>Estrazione Mineraria I</res>.",,
 TutorialDialogues__Overlay_ShaftMineUnlock,Text,,"You have unlocked the Shaft Mine!
 Level 1 Shaft Mines bots are powered by <it>Energy L2</it> can mine <nr>Coal</nr>, <nr>Iron Ore</nr>, <nr>Clay</nr> and <nr>Salt</nr> as well as mining <nr>Stone</nr>.
@@ -1978,8 +1978,8 @@ La Miniera crea tunnel sotterranei quindi deve essere piazzata in punti specific
 TutorialDialogues__Overlay_SurfaceMineUpgrade,Text,,"You now have access to a Level 2 Surface Mine! Click the tab at the top of the construction panel to change the level of the building.
 Level 2 Surface Mines bots are powered by <it>Energy L2</it> and can mine <nr>Coal</nr>, <nr>Iron Ore</nr> and <nr>Clay</nr> as well as mining <nr>Stone</nr> faster.
 But remember, you can always choose to build Level 1 Surface Mines to mine <nr>Stone</nr> if you prefer or in the event you run out of <it>Stone</it> to construct Level 2 Surface Mines.","Ora hai accesso alla Miniera di Superficie Livello 2! Clicca sulla scheda in alto al pannello costruzione per cambiare il livello dell'edificio.
-I Bot dela Miniera di Superficie Livello 2 utilizzano <it>Energia L2</it> e possono estrarre <nr>Carbone</nr>, <nr>Ferro grezzo</nr> e <nr>Argilla</nr> oltre ad estrarre <nr>Pietra</nr> più velocemente.
-Ma ricorda, puoi sempre costruire una Miniera di Superficie L1 per estrarer <nr>Pietra</nr> se lo preferisci o se non hai abbastanza <it>Pietra</it> per costruire una Miniera di Superficie Livello 2",,
+I Bot della Miniera di Superficie Livello 2 utilizzano <it>Energia L2</it> e possono estrarre <nr>Carbone</nr>, <nr>Ferro grezzo</nr> e <nr>Argilla</nr> oltre ad estrarre <nr>Pietra</nr> più velocemente.
+Ma ricorda, puoi sempre costruire una Miniera di Superficie L1 per estrarre <nr>Pietra</nr> se lo preferisci o se non hai abbastanza <it>Pietra</it> per costruire una Miniera di Superficie Livello 2",,
 TutorialDialogues__Overlay_SurfaceMineUpgraded,Text,,"You've upgraded a <bd>Surface Mine</bd> to Level 2!
 It's now capable of mining more advanced ores of <nr>Coal</nr>, <nr>Iron Ore</nr> and <nr>Clay</nr>.
 Your Level 2 <bd>Surface Mine</bd> will still be set to mine its previous resource (<nr>Stone</nr>) so if you want it to mine <nr>Coal</nr> instead then you need to click on the mine's production panel and manually change it.","Hai migliorato una <bd>Miniera di Superficie</bd> al Livello 2!
@@ -2099,7 +2099,7 @@ Months,Text,,Months,Mesi,,
 Year,Text,,Year,Anno,,
 Years,Text,,Years,Anni,,
 ResearchCosts,Text,,Costs,Costo,,
-EntityTransportBoatReady_Construction,Text,,You cannot give instructions to this boat until construction has been completed.,Non puoi dare istruzioni a questa barca finchè non è stata costruita,,
+EntityTransportBoatReady_Construction,Text,,You cannot give instructions to this boat until construction has been completed.,Non puoi dare istruzioni a questa barca finché non è stata costruita,,
 EntityTransportBoatReady_Ready,Text,,"This boat is ready to sail! You can either assign this boat to an expedition, explore the seas and build a harbour on a new island or you can create a transport route between existing harbours.","Questa barca è pronta a salpare! Puoi assegnarla ad una spedizione, esplorare i mari e costruire un nuovo porto su una nuova isola o creare una rotta di trasporto tra porti esistenti.",,
 EntityTransportBoatReady_Assign,Text,,Assign to expedition,Assegna a spedizione,,
 EntityTransportBoatReady_TransportRouteHeader,Text,,Transport Route,Percorso di trasporto,,
@@ -2142,7 +2142,7 @@ GraphStartTime_Week,Text,,1 week ago,1 settimana fa,,
 GraphStartTime_Month,Text,,1 month ago,1 mese fa,,
 GraphStartTime_Year,Text,,1 year ago,1 anno fa,,
 BotPrintedAge,Text,"{0}: bot name, {1} time e.g. ""Geoffbot was printed 3 years, 5 months, 19 days ago""",{0} was printed {1} ago,{0} è stato stampato {1} fa,,
-BotSleepingReason,Text,"{0}: bot name, {1} is reason e.g. ""Jillbot is sleeping because they're waiting for more Energy""",{0} is sleeping because {1},{0} sta dormendo perchè {1},,
+BotSleepingReason,Text,"{0}: bot name, {1} is reason e.g. ""Jillbot is sleeping because they're waiting for more Energy""",{0} is sleeping because {1},{0} sta dormendo perché {1},,
 EntityProductionUI_ResourceRatio,Text,The production ratio between two resources,Resource Ratio,Rapporto risorse,,
 Natural Resource,Text,"Any of Coal, Iron etc",Natural Resource,Risorsa naturale,,
 Tree Type,Text,Which type of tree Forester is planting,Tree Type,Tipo di albero,,
@@ -2337,8 +2337,8 @@ Hold [{1}] to skip this message.","Sei sicuro di voler distruggere {0}?
 
 Tieni premuto [{1}] per saltare questo messaggio",,
 CancelExpeditionConfirm,Text,,Cancelling the expedition will throw expedition resources overboard and you will be able to either create a transport route or start a new expedition. Are you sure you want to cancel expedition?,Annullare la spedizione farà finire tutte le risorse in mare e sarai in grado di creare una rotta di trasporto o di iniziare una nuova spedizione. Sei sicuro di voler annullare la spedizione?,,
-BoatClearRoute,Text,,Are you sure you want to clear all harbour stops for {0}? This will destroy all resources on board,Sei sicuro di voler librerare tutti i porti per {0}? Questo distruggerà tutte le risorse a bordo,,
-TrainClearRoute,Text,,Are you sure you want to clear all station stops for {0}? This will destroy all resources on board,Sei sicuro di voler librerare tutte le stazioni per {0}? Questo distruggerà tutte le risorse a bordo,,
+BoatClearRoute,Text,,Are you sure you want to clear all harbour stops for {0}? This will destroy all resources on board,Sei sicuro di voler liberare tutti i porti per {0}? Questo distruggerà tutte le risorse a bordo,,
+TrainClearRoute,Text,,Are you sure you want to clear all station stops for {0}? This will destroy all resources on board,Sei sicuro di voler liberare tutte le stazioni per {0}? Questo distruggerà tutte le risorse a bordo,,
 MilitaryWatchtowersInRange_Single,Text,,1 watchtower in range,1 Torre di Guardia in vista,,
 MilitaryWatchtowersInRange_Plural,Text,,{0} watchtowers in range,{0} Torri di Guardia in vista,,
 WatchtowerCantAttack,Text,,This building can't currently attack. Upgrade to Level 2 to attack other Watchtowers.,Questo edificio non può attaccare al momento. Miglioralo al Livello 2 per attaccare le altre Torri di Guardia.,,
@@ -2427,7 +2427,7 @@ EntPanelHead_254,Text,Same as EntPanelHead_90 etc,Info,Informazioni,,
 ExpeditionAssignToPort,Text,Assign (boat to harbour expedition),Assign,Assegna,,
 OverlayPrioritisedBuildingTooltip,Text,{0}: building type e.g. (this is the ) prioritised watchtower,Prioritised {0},Prioritizzato {0},,
 FutureExpeditionHarbour,Text,The harbour that will be created as a result of completing the expedition,Expedition's Future Harbour,Porto della spedizione,,
-ProductionChangeTreeType,Text,,Change tree type,Cambia tipo ti albero,,
+ProductionChangeTreeType,Text,,Change tree type,Cambia tipo di albero,,
 TrackEditorPrompt,Text,,Select an existing piece of track to start from,Seleziona un tracciato esistente da cui iniziare,,
 VehicleAverageJourney,Text,,Average journey: ,Viaggio medio:,,
 TrackEditorTrackConnected,Text,,Track connected!,Tracciato connesso!,,
@@ -2480,7 +2480,7 @@ EntitySidePanelRuleBlacklistExcStorageConfirm,Text,,Ban resource except for stor
 EntitySidePanelRuleWhitelistConfirm,Text,,Allow this resource,Permetti questa risorsa,,
 EntitySidePanelRuleWhitelistStorageOnlyConfirm,Text,,Allow this resource but only for storage,Permetti questa risorsa ma solo per il deposito,,
 TrackEditorCantRemove,Text,{0}: further error info,"Can't Remove Track
-{0}",Impossibile rumuovere tracciato {0},,
+{0}",Impossibile rimuovere tracciato {0},,
 TrackCantRemoveReasonStation,Text,,Track is part of train station,Il tracciato fa parte della stazione ferroviaria,,
 NotificationLowStoneAmount,Text,{0}: amount of stone,{0} stone available!,{0} pietra disponibile,,
 UnitStateHeadingToRoad,Text,,Heading to road,Verso la strada,,
@@ -2496,7 +2496,7 @@ CampaignWindow_BackToInfo,Text,(Return to) scenario info,Scenario Info,Informazi
 CampaignWindow_RankingsName,Text,Name (of player on leaderboard),Name,Nome,,
 CampaignWindow_RankingsTime,Text,Time (of leadeboard entry),Time,Titolo,,
 ScenGameVerErr_7,Text,,Inaccessible shaft mine!,Miniera inaccessibile!,,
-GameComplete_Gold,Text,,Amazing! You achieved a Gold medal!,Congraturazioni! Hai ottenuto una medaglia d'oro!,,
+GameComplete_Gold,Text,,Amazing! You achieved a Gold medal!,Congratulazioni! Hai ottenuto una medaglia d'oro!,,
 GameComplete_Silver,Text,,Well done! You earned a silver medal!,Molto bene! Hai guadagnato una medaglia d'argento!,,
 GameComplete_Bronze,Text,,Well done! You earned a bronze medal!,Molto bene! Hai guadagnato una medaglia di bronzo!,,
 GameComplete_NoMedal,Text,,"Well done! Although you didn't earn a medal, you completed the mission!","Molto bene! Anche se non hai guadagnato una medaglia, hai completato la missione!",,
