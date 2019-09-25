@@ -15,14 +15,16 @@ class CSVValidator:
 
     # ---------------------------------------------------------------------
 
-    def csv_columns_validation(self, first_row: list) -> bool:
+    @staticmethod
+    def __csv_columns_validation(first_row: list) -> bool:
         if len(first_row) != 7:
             return False
         else:
             print("Column name confirmed valid:" + str(len(first_row)))
             return True
 
-    def row_param_validation(self, row: list) -> bool:
+    @staticmethod
+    def __row_param_validation(row: list) -> bool:
         # Get the original content
         english_content = row[3]
         # Check that there is at least one {
@@ -47,7 +49,8 @@ class CSVValidator:
         # Everything is fine
         return True
 
-    def row_extract_tags(self, english_content: str) -> list:
+    @staticmethod
+    def __row_extract_tags(english_content: str) -> list:
         soup = BeautifulSoup(english_content, "html.parser")
         # I have to check manually if a tag is closed or not to add both
         return_list = []
@@ -61,12 +64,12 @@ class CSVValidator:
         # Return the list of tags
         return return_list
 
-    def row_tags_validation(self, row: list) -> bool:
+    def __row_tags_validation(self, row: list) -> bool:
         # Get the original content and the translated content
         english_content = row[3]
         translated_content = row[4]
         # Count and list tags from english content
-        tags = self.row_extract_tags(english_content)
+        tags = self.__row_extract_tags(english_content)
         if len(tags) > 0:
             # For every tag
             for tag in tags:
@@ -86,14 +89,14 @@ class CSVValidator:
             line_counter = 1
             for row in csv_reader:
                 if line_counter == 0:
-                    if not self.csv_columns_validation(row):
+                    if not self.__csv_columns_validation(row):
                         raise Exception("Column name not valid (LINE 1)! Found: " + str(len(row)) + " expected 7!")
                 else:
-                    if not self.row_param_validation(row):
+                    if not self.__row_param_validation(row):
                         raise Exception("Looks like there is an error on ENTRY " + str(line_counter) + "!" +
                                         "The parameters (ex: {0}) looks invalid, check the line:\n'" + str(
                             row[4]) + "'")
-                    if not self.row_tags_validation(row):
+                    if not self.__row_tags_validation(row):
                         raise Exception("Looks like there is an error on ENTRY " + str(line_counter) + "!" +
                                         "The tags looks invalid, check the line:\n'" + str(row[4]) + "'")
                 line_counter += 1
