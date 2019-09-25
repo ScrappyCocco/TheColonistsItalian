@@ -14638,7 +14638,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Limit which buildings can send resources here:",
-    "Italian": "Limita che risorse possono inviare le risorse:",
+    "Italian": "Limita che edifici possono inviare risorse:",
     "": "",
     "Verify": ""
   },
@@ -15916,7 +15916,7 @@
     "Type": "Text",
     "Desc": "Default height of newly created map",
     "English": "Start Height",
-    "Italian": "Altezza iniziale",
+    "Italian": "Terreno iniziale",
     "": "",
     "Verify": ""
   },
@@ -17248,7 +17248,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "any",
-    "Italian": "qualsiasi",
+    "Italian": "tutti",
     "": "",
     "Verify": ""
   },
@@ -18450,11 +18450,11 @@
     "Verify": ""
   },
   {
-    "Key": "",
+    "Key": "EntPanelHead_25",
     "Type": "Text",
-    "Desc": "",
-    "English": "",
-    "Italian": "",
+    "Desc": "Header of panel where you can change your colony colour",
+    "English": "Colony Colour",
+    "Italian": "Colore Colonia",
     "": "",
     "Verify": ""
   },
