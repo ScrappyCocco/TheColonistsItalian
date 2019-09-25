@@ -2,7 +2,6 @@
 # IMPORTS
 
 import csv
-import re
 
 from bs4 import BeautifulSoup
 
@@ -71,11 +70,9 @@ class CSVValidator:
         if len(tags) > 0:
             # For every tag
             for tag in tags:
-                # I search the tag index
-                tag_position = translated_content.find(tag)
-                # If is present
-                if tag_position != -1:
-                    # Remove the found tag from the string
+                # Check if the tag is present
+                if tag in translated_content:
+                    # Remove the found tag from the string because it's checked
                     translated_content = translated_content.replace(tag, "", 1)
                 else:
                     # Tag not present return false
