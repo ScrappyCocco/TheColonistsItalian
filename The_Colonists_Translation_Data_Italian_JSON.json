@@ -300,7 +300,7 @@
     "Key": "Advice_24_Desc",
     "Type": "Text",
     "Desc": "",
-    "English": "Research <res>Mining I</res> at the Level 2 <bd>Workshop</bd> to unlock Level 2 <bd>Surface Mine</bd> and Level 1 <bd>Shaft Mine</nr> and be able to mine <nr>Coal</nr> and <nr>Iron ore</nr>.",
+    "English": "Research <res>Mining I</res> at the Level 2 <bd>Workshop</bd> to unlock Level 2 <bd>Surface Mine</bd> and Level 1 <bd>Shaft Mine</bd> and be able to mine <nr>Coal</nr> and <nr>Iron ore</nr>.",
     "Italian": "Ricerca <res>Estrazione I</res> al <bd>Laboratorio</bd> Livello 2 per sbloccare la <bd>Miniera di Superficie</bd> Livello 2 e la <bd>Miniera</bd> Livello 1 in modo da poter estrarre <nr>Carbone</nr> e <nr>Ferro grezzoo</nr>",
     "": "",
     "Verify": ""
@@ -3622,7 +3622,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Auto Place",
-    "Italian": "Piazza automaticamente",
+    "Italian": "Auto-Piazza",
     "": "",
     "Verify": ""
   },
@@ -5017,7 +5017,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Prioritise",
-    "Italian": "Dare priorità",
+    "Italian": "Dai priorità",
     "": "",
     "Verify": ""
   },
@@ -6043,7 +6043,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "<it>Cider</it> / <it>Beer</it>",
-    "Italian": "<it>Cidro</it> / <it>Birra</it>",
+    "Italian": "<it>Sidro</it> / <it>Birra</it>",
     "": "",
     "Verify": ""
   },
@@ -6052,7 +6052,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "<cat>Alcohol</cat> is needed by Level 2 <bd>Residences</bd> and can be <it>Cider</it> or <it>Beer</it>.",
-    "Italian": "<cat>Alcol</cat> è necessario per le <bd>Residenze</bd> di Livello 2 e può essere <it>Cidro</it> o <it>Birra</it>.",
+    "Italian": "<cat>Alcol</cat> è necessario per le <bd>Residenze</bd> di Livello 2 e può essere <it>Sidro</it> o <it>Birra</it>.",
     "": "",
     "Verify": ""
   },
@@ -6844,7 +6844,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Cider",
-    "Italian": "Cidro",
+    "Italian": "Sidro",
     "": "",
     "Verify": ""
   },
@@ -18094,7 +18094,7 @@
     "Type": "Text",
     "Desc": "{0}: level {1}:building e.g. Requires Level 1 Shaft Mine",
     "English": "Requires {0} {1}",
-    "Italian": "Richiede {0} {1}",
+    "Italian": "Richiede {1} di {0}",
     "": "",
     "Verify": ""
   },
