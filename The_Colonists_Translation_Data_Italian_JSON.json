@@ -31,7 +31,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Keep expanding until you find a <nr>Coal</nr> deposit and it's inside your territory.",
-    "Italian": "Continua ad espanderti finchè non trovi un deposito di <nr>Carbone</nr> incluso nel tuo territorio.",
+    "Italian": "Continua ad espanderti finché non trovi un deposito di <nr>Carbone</nr> incluso nel tuo territorio.",
     "": "",
     "Verify": ""
   },
@@ -301,7 +301,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Research <res>Mining I</res> at the Level 2 <bd>Workshop</bd> to unlock Level 2 <bd>Surface Mine</bd> and Level 1 <bd>Shaft Mine</bd> and be able to mine <nr>Coal</nr> and <nr>Iron ore</nr>.",
-    "Italian": "Ricerca <res>Estrazione I</res> al <bd>Laboratorio</bd> Livello 2 per sbloccare la <bd>Miniera di Superficie</bd> Livello 2 e la <bd>Miniera</bd> Livello 1 in modo da poter estrarre <nr>Carbone</nr> e <nr>Ferro grezzoo</nr>",
+    "Italian": "Ricerca <res>Estrazione I</res> al <bd>Laboratorio</bd> Livello 2 per sbloccare la <bd>Miniera di Superficie</bd> Livello 2 e la <bd>Miniera</bd> Livello 1 in modo da poter estrarre <nr>Carbone</nr> e <nr>Ferro grezzo</nr>",
     "": "",
     "Verify": ""
   },
@@ -1111,7 +1111,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Your Colony ship is the starting hub of your colony and slowly generates <it>Logs</it> and <it>Energy L1</it>",
-    "Italian": "La tua astronave della Colonia è l'hub iniziale della tua colonia e lentamente genera <it>Tronchi</it> e <it>Energia L1</it>",
+    "Italian": "La tua Nave della Colonia è l'hub iniziale della tua colonia e lentamente genera <it>Tronchi</it> e <it>Energia L1</it>",
     "": "",
     "Verify": ""
   },
@@ -3532,7 +3532,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Click or click and drag to set tiles.\n\n<hotkey>[Shift]</hotkey> click a tile to unset it.",
-    "Italian": "Clicca o clicca e trascina per selezionare le caselle.\n\n<hotkey>[Shift]</hotkey> clicca una casella per de-selezionarla.",
+    "Italian": "Clicca o clicca e trascina per selezionare le caselle.\n\n<hotkey>[Shift]</hotkey> + clicca una casella per de-selezionarla.",
     "": "",
     "Verify": ""
   },
@@ -4261,7 +4261,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Expedition Boat",
-    "Italian": "Nave da spedizione",
+    "Italian": "Barca da spedizione",
     "": "",
     "Verify": ""
   },
@@ -4270,7 +4270,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Gather the required provisions to stock an expedition boat which can explore the seas and build a harbour on new land.",
-    "Italian": "Raccogli le provviste necessarie per rifornire una nave da spedizione che può esplorare i mari e costruire un porto su nuove terre.",
+    "Italian": "Raccogli le provviste necessarie per rifornire una barca da spedizione che può esplorare i mari e costruire un porto su nuove terre.",
     "": "",
     "Verify": ""
   },
@@ -5071,7 +5071,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "The transport priorities determine which resource a carrybot will pick up from a road post or a stackbot will unload from a boat or train.\n\nResource types higher up the list will be picked up before resource types below it.\n\nThe transport priorities will be overridden if a resource heading to a <pr>Prioritised</pr> building is available to be picked up.\n\nUse the arrows to move a resource type up or down the priority list.",
-    "Italian": "Le priorità di trasporto determinano la risorsa che un BotTrasportatore prenderà da un posto di strada o uno BotImpilatore scaricherà da una nave o da un treno.\n\nI tipi di risorse più in alto nell'elenco verranno raccolti prima dei tipi di risorse sottostanti.\n\nLe priorità di trasporto saranno ignorate se è disponibile per essere ritirata una risorsa destinata a un edificio <pr>Prioritizzato</pr>.\n\nUtilizza le frecce per spostare un tipo di risorsa in alto o in basso nell'elenco delle priorità.",
+    "Italian": "Le priorità di trasporto determinano la risorsa che un BotTrasportatore prenderà da un posto di strada o uno BotImpilatore scaricherà da una barca o da un treno.\n\nI tipi di risorse più in alto nell'elenco verranno raccolti prima dei tipi di risorse sottostanti.\n\nLe priorità di trasporto saranno ignorate se è disponibile per essere ritirata una risorsa destinata a un edificio <pr>Prioritizzato</pr>.\n\nUtilizza le frecce per spostare un tipo di risorsa in alto o in basso nell'elenco delle priorità.",
     "": "",
     "Verify": ""
   },
@@ -5125,7 +5125,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "This sub-panel lists resources recently delivered to a production building. You can filter the results by 'On Time', 'Warning' and 'Alert' and you can select any entry to see the route it took. The percentage number indicates the time the journey took compared to the time needed to maintain 100% productivity at the destination building.\n\nFor example, a <bd>Lumberjack Hut</bd> requires <it>Energy</it> at a rate of one per day and can store up to four <it>Energy</it> resources as a buffer. If an <it>Energy</it> resource takes 4.5 days to arrive, it will be listed here as 112% as if that journey time was consistent then resources wouldn't arrive quickly enough to maintain 100% productivity.\n\nThis is just one factor When taking into account whether a building can work at 100% as you also need to take into account whether there is enough of that resource being produced in the first place.\n\nIt is usually optimal to place a building that supply another building close together so that supply routes are short. Sometimes this is not possible but to work around this you can build <bd>Storage Yards</bd> near your destination to create an extra supply 'buffer'.\n\nFor example, if you have a remote <bd>Mine</bd>, you can build a nearby <bd>Storage Yard</bd> to keep a supply of <it>Energy</it> nearby. If you do this bear in mind that, by default, the <it>Energy</it> stored there will still be available to other buildings, potentially far away. There are two options to make it so that <it>Energy</it> only goes to that <bd>Mine</bd>:\n\nFirstly you could limit the export buildings in the <bd>Storage Yard</bd> settings to just your <bd>Mine</bd>. Secondly you could create a transport rule on a road post to only allow <it>Energy</it> to pass through if going to a <bd>Storage Yard</bd>.",
-    "Italian": "Questo pannello secondario elenca le risorse consegnate di recente a un edificio di produzione. Puoi filtrare i risultati in base a\" In orario\",\" Allerta\" e \"Allarme\" e puoi selezionare qualsiasi voce per vedere il percorso seguito. Il numero percentuale indica che il tempo impiegato per il viaggio rispetto al tempo necessario per mantenere la produttività del 100% nell'edificio di destinazione.\n\nAd esempio, una <bd>Capanna del Taglialegna</bd> richiede <it>Energia</it> al prezzo di una unità al giorno e può archiviare fino a quattro risorse <it>Energia</it> come buffer. Se una risorsa <it>Energia</it> impiega 4,5 giorni per arrivare, verrà elencata qui come 112% come se quel tempo di viaggio fosse coerente, quindi le risorse non arriverebbero abbastanza rapidamente per mantenere una produttività del 100%.\n\nQuesto è solo uno dei fattori. Quando si tiene conto del fatto che un edificio possa funzionare al 100%, si deve anche tenere conto del fatto che in primo luogo viene prodotta abbastanza quella risorsa.\n\nDi solito è ottimale posizionare un edificio che rifornisca un altro edificio vicino in modo che i percorsi di approvvigionamento siano brevi. A volte ciò non è possibile, ma per ovviare a questo problema è possibile creare <bd>Depositi</bd> vicino alla destinazione per creare un \"buffer\" di approvvigionamento aggiuntivo.\n\nAd esempio, se possiedi uan <bd>Miniera</bd> remota, puoi costruire un <bd>Deposito</bd> nelle vicinanze per mantenere un rifornimento di <it>Energia</it> nelle vicinanze. Se lo fai, tieni presente che, per impostazione predefinita, l '<it>Energia</it> immagazzinata sarà comunque disponibile per altri edifici, potenzialmente lontani. Ci sono due opzioni per farlo in modo che <it>Energia</it> vada solo a quella <bd>Miniera</bd>.\n\nIn primo luogo potresti limitare gli edifici di esportazione nelle impostazioni <bd>Deposito </bd> solo alla tua <bd>Miniera</bd>. In secondo luogo, è possibile creare una regola di trasporto su un Palo Stradale per consentire il passaggio di <it>Energia</it> solo se si va in un <bd>Deposito</bd>.",
+    "Italian": "Questo pannello secondario elenca le risorse consegnate di recente a un edificio di produzione. Puoi filtrare i risultati in base a\" In orario\",\" Allerta\" e \"Allarme\" e puoi selezionare qualsiasi voce per vedere il percorso seguito. Il numero percentuale indica che il tempo impiegato per il viaggio rispetto al tempo necessario per mantenere la produttività del 100% nell'edificio di destinazione.\n\nAd esempio, una <bd>Capanna del Taglialegna</bd> richiede <it>Energia</it> al prezzo di una unità al giorno e può archiviare fino a quattro risorse <it>Energia</it> come buffer. Se una risorsa <it>Energia</it> impiega 4,5 giorni per arrivare, verrà elencata qui come 112% come se quel tempo di viaggio fosse coerente, quindi le risorse non arriverebbero abbastanza rapidamente per mantenere una produttività del 100%.\n\nQuesto è solo uno dei fattori. Quando si tiene conto del fatto che un edificio possa funzionare al 100%, si deve anche tenere conto del fatto che in primo luogo viene prodotta abbastanza quella risorsa.\n\nDi solito è ottimale posizionare un edificio che rifornisca un altro edificio vicino in modo che i percorsi di approvvigionamento siano brevi. A volte ciò non è possibile, ma per ovviare a questo problema è possibile creare <bd>Depositi</bd> vicino alla destinazione per creare un \"buffer\" di approvvigionamento aggiuntivo.\n\nAd esempio, se possiedi una <bd>Miniera</bd> remota, puoi costruire un <bd>Deposito</bd> nelle vicinanze per mantenere un rifornimento di <it>Energia</it> nelle vicinanze. Se lo fai, tieni presente che, per impostazione predefinita, l '<it>Energia</it> immagazzinata sarà comunque disponibile per altri edifici, potenzialmente lontani. Ci sono due opzioni per farlo in modo che <it>Energia</it> vada solo a quella <bd>Miniera</bd>.\n\nIn primo luogo potresti limitare gli edifici di esportazione nelle impostazioni <bd>Deposito </bd> solo alla tua <bd>Miniera</bd>. In secondo luogo, è possibile creare una regola di trasporto su un Palo Stradale per consentire il passaggio di <it>Energia</it> solo se si va in un <bd>Deposito</bd>.",
     "": "",
     "Verify": ""
   },
@@ -11560,7 +11560,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Unlocks mining of <nr>Coal</nr>, <nr>Iron Ore</nr>, <nr>Clay</nr> at <bd>Level 2 Surface Mine</bd> and <bd>Level 1 Shaft Mine</bd>.",
-    "Italian": "Sblocca l'estrazione di <nr>Carbone</nr>, <nr>Ferro grezzoo</nr>, <nr>Argilla</nr> presso <bd>Miniera di Superficie Livello 2</bd> e <bd>Miniera Livello 1</bd>",
+    "Italian": "Sblocca l'estrazione di <nr>Carbone</nr>, <nr>Ferro grezzo</nr>, <nr>Argilla</nr> presso <bd>Miniera di Superficie Livello 2</bd> e <bd>Miniera Livello 1</bd>",
     "": "",
     "Verify": ""
   },
@@ -16915,7 +16915,7 @@
     "Type": "Text",
     "Desc": "{0}: building type e.g. (this is the ) prioritised watchtower",
     "English": "Prioritised {0}",
-    "Italian": "Prioritizzato {0}",
+    "Italian": "{0} ha la priorità",
     "": "",
     "Verify": ""
   },

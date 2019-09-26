@@ -2,7 +2,7 @@ Key,Type,Desc,English,Italian,,Verify
 AI Players,Text,Computer-controlled players you compete against in the game,AI Players,Giocatori I.A.,,
 Advice_0_Desc,Text,,"Build some <bd>Residences</bd> to generate more <it>Energy</it> for lumbering, mining and technology research.","Costruisci alcune <bd>Residenze</bd> per generare più <it>Energia</it> per tagliare la legna, estrarre minerali e ricercare nuova tecnologia.",,
 Advice_0_Name,Text,,No <bd>Residences</bd>!,Nessuna <bd>Residenza</bd>!,,
-Advice_10_Desc,Text,,Keep expanding until you find a <nr>Coal</nr> deposit and it's inside your territory.,Continua ad espanderti finchè non trovi un deposito di <nr>Carbone</nr> incluso nel tuo territorio.,,
+Advice_10_Desc,Text,,Keep expanding until you find a <nr>Coal</nr> deposit and it's inside your territory.,Continua ad espanderti finché non trovi un deposito di <nr>Carbone</nr> incluso nel tuo territorio.,,
 Advice_10_Name,Text,,Find <nr>Coal</nr>!,Trova del <nr>Carbone</nr>!,,
 Advice_11_Desc,Text,,Keep expanding until you find a <nr>Iron Ore</nr> deposit and it's inside your territory.,Continua ad espanderti finché non trovi un deposito di <nr>Ferro</nr> incluso nel tuo territorio.,,
 Advice_11_Name,Text,,Find <nr>Iron Ore</nr>!,Trova del <nr>Ferro grezzo</nr>!,,
@@ -48,7 +48,7 @@ Advice_22_Desc,Text,,The expedition's resources are ready! Find an idle boat and
 Advice_22_Name,Text,,Load Expedition Provisions,Carica provviste Spedizione,,
 Advice_23_Desc,Text,,By using the navigation tab on your boat you can freely sail around. When you discover new land build a new harbour on a suitable piece of shoreline. Once built the boat will automatically set up a trade route between the harbours.,"Usando la scheda Navigazione sulla tua barca puoi navigare liberamente. Quando scopri una nuova zona costruisci un porto su una zona costiera adatta. Una volta costruito, la barca imposterà automaticamente una rotta commerciale tra i due porti.",,
 Advice_23_Name,Text,,Build a <bd>Harbour</bd> on a new island!,Costruisci un <bd>Porto</bd> su una nuova isola!,,
-Advice_24_Desc,Text,,Research <res>Mining I</res> at the Level 2 <bd>Workshop</bd> to unlock Level 2 <bd>Surface Mine</bd> and Level 1 <bd>Shaft Mine</bd> and be able to mine <nr>Coal</nr> and <nr>Iron ore</nr>.,Ricerca <res>Estrazione I</res> al <bd>Laboratorio</bd> Livello 2 per sbloccare la <bd>Miniera di Superficie</bd> Livello 2 e la <bd>Miniera</bd> Livello 1 in modo da poter estrarre <nr>Carbone</nr> e <nr>Ferro grezzoo</nr>,,
+Advice_24_Desc,Text,,Research <res>Mining I</res> at the Level 2 <bd>Workshop</bd> to unlock Level 2 <bd>Surface Mine</bd> and Level 1 <bd>Shaft Mine</bd> and be able to mine <nr>Coal</nr> and <nr>Iron ore</nr>.,Ricerca <res>Estrazione I</res> al <bd>Laboratorio</bd> Livello 2 per sbloccare la <bd>Miniera di Superficie</bd> Livello 2 e la <bd>Miniera</bd> Livello 1 in modo da poter estrarre <nr>Carbone</nr> e <nr>Ferro grezzo</nr>,,
 Advice_24_Name,Text,,Research <res>Mining I</res>!,Ricerca <res>Estrazione I</res>,,
 Advice_25_Desc,Text,,You can upgrade <bd>Workshops</bd> in order to research more advanced technologies including ore mining.,"Puoi migliorare i <bd>Laboratori</bd> in modo da poter ricercare tecnologie più avanzate, inclusa l'estrazione del Ferro.",,
 Advice_25_Name,Text,,Upgrade a <bd>Workshop</bd>!,Migliora un <bd>Laboratorio</bd>!,,
@@ -142,7 +142,7 @@ BuildingCat_5,Text,,Military,Militare,,
 BuildingCat_6,Text,,Transport,Trasporto,,
 BuildingCat_7,Text,,Storage,Stoccaggio,,
 BuildingCat_8,Text,,Research,Ricerca,,
-Building_0_Description,Text,,Your Colony ship is the starting hub of your colony and slowly generates <it>Logs</it> and <it>Energy L1</it>,La tua astronave della Colonia è l'hub iniziale della tua colonia e lentamente genera <it>Tronchi</it> e <it>Energia L1</it>,,
+Building_0_Description,Text,,Your Colony ship is the starting hub of your colony and slowly generates <it>Logs</it> and <it>Energy L1</it>,La tua Nave della Colonia è l'hub iniziale della tua colonia e lentamente genera <it>Tronchi</it> e <it>Energia L1</it>,,
 Building_0_Name,Text,,Colony Ship,Nave della Colonia,,
 Building_0_Plural,Text,,Colony Ships,Navi della Colonia,,
 Building_0_Worker,Text,,Stackbot,BotImpilatore,,
@@ -415,7 +415,7 @@ EntityBuildingPriorityLayersDesc,Text,,"Click or click and drag to set tiles.
 
 <hotkey>[Shift]</hotkey> click a tile to unset it.","Clicca o clicca e trascina per selezionare le caselle.
 
-<hotkey>[Shift]</hotkey> clicca una casella per de-selezionarla.",,
+<hotkey>[Shift]</hotkey> + clicca una casella per de-selezionarla.",,
 EntityBuildingPriorityLayersFinishAction,Text,,Finish,Fine,,
 EntityBuildingPriorityLayersForestryDesc,Text,,"Set the area in which the treebot can plant trees.
 
@@ -522,8 +522,8 @@ EntityPortColonyShipBoatEnRoute,Text,,{0} is on its way to collect expedition pr
 EntityPortColonyShipBoatLoading,Text,,{0} is loading {1} more provisions...,{0} sta caricando {1} altre provviste...,,
 EntityPortColonyShipBoatWaiting,Text,,{0} is waiting for docking space to become available,{0} è in attesa della disponibilità dello spazio di attracco,,
 EntityPortColonyShipCollectingProvisions,Text,,Collecting provisions...,Raccolta delle provviste...,,
-EntityPortColonyShipColonyShipHeader,Text,,Expedition Boat,Nave da spedizione,,
-EntityPortColonyShipGatherProvisions,Text,,Gather the required provisions to stock an expedition boat which can explore the seas and build a harbour on new land.,Raccogli le provviste necessarie per rifornire una nave da spedizione che può esplorare i mari e costruire un porto su nuove terre.,,
+EntityPortColonyShipColonyShipHeader,Text,,Expedition Boat,Barca da spedizione,,
+EntityPortColonyShipGatherProvisions,Text,,Gather the required provisions to stock an expedition boat which can explore the seas and build a harbour on new land.,Raccogli le provviste necessarie per rifornire una barca da spedizione che può esplorare i mari e costruire un porto su nuove terre.,,
 EntityPortColonyShipPrepareCollectResources,Text,,Collect Resources,Raccogli risorse,,
 EntityPortColonyShipPrepareIntro,Text,,Choose where this boat makes port and control the resources it can transport.,Scegli dove questa barca si fermerà e controlla le risorse che può trasportare.,,
 EntityPortColonyShipPreparingCancel,Text,,Cancel Provision Collection,Annulla la raccolta di risorse,,
@@ -625,7 +625,7 @@ Resource types higher up the list will be picked up before resource types below 
 
 The transport priorities will be overridden if a resource heading to a <pr>Prioritised</pr> building is available to be picked up.
 
-Use the arrows to move a resource type up or down the priority list.","Le priorità di trasporto determinano la risorsa che un BotTrasportatore prenderà da un posto di strada o uno BotImpilatore scaricherà da una nave o da un treno.
+Use the arrows to move a resource type up or down the priority list.","Le priorità di trasporto determinano la risorsa che un BotTrasportatore prenderà da un posto di strada o uno BotImpilatore scaricherà da una barca o da un treno.
 
 I tipi di risorse più in alto nell'elenco verranno raccolti prima dei tipi di risorse sottostanti.
 
@@ -700,7 +700,7 @@ Questo è solo uno dei fattori. Quando si tiene conto del fatto che un edificio 
 
 Di solito è ottimale posizionare un edificio che rifornisca un altro edificio vicino in modo che i percorsi di approvvigionamento siano brevi. A volte ciò non è possibile, ma per ovviare a questo problema è possibile creare <bd>Depositi</bd> vicino alla destinazione per creare un ""buffer"" di approvvigionamento aggiuntivo.
 
-Ad esempio, se possiedi uan <bd>Miniera</bd> remota, puoi costruire un <bd>Deposito</bd> nelle vicinanze per mantenere un rifornimento di <it>Energia</it> nelle vicinanze. Se lo fai, tieni presente che, per impostazione predefinita, l '<it>Energia</it> immagazzinata sarà comunque disponibile per altri edifici, potenzialmente lontani. Ci sono due opzioni per farlo in modo che <it>Energia</it> vada solo a quella <bd>Miniera</bd>.
+Ad esempio, se possiedi una <bd>Miniera</bd> remota, puoi costruire un <bd>Deposito</bd> nelle vicinanze per mantenere un rifornimento di <it>Energia</it> nelle vicinanze. Se lo fai, tieni presente che, per impostazione predefinita, l '<it>Energia</it> immagazzinata sarà comunque disponibile per altri edifici, potenzialmente lontani. Ci sono due opzioni per farlo in modo che <it>Energia</it> vada solo a quella <bd>Miniera</bd>.
 
 In primo luogo potresti limitare gli edifici di esportazione nelle impostazioni <bd>Deposito </bd> solo alla tua <bd>Miniera</bd>. In secondo luogo, è possibile creare una regola di trasporto su un Palo Stradale per consentire il passaggio di <it>Energia</it> solo se si va in un <bd>Deposito</bd>.",,
 HelpPanel_29,Text,,"By default, resource priorities are determined by the order set in the demands panel for each resource.
@@ -1599,7 +1599,7 @@ Tech_36_Desc,Text,,Increases repair speed by <amount>%,Aumenta la velocità di r
 Tech_36_Name,Text,,Repair II,Riparazione II,,
 Tech_37_Desc,Text,,Increases repair speed by <amount>%,Aumenta la velocità di riparazione dell'<amount>%,,
 Tech_37_Name,Text,,Repair III,Riparazione III,,
-Tech_40_Desc,Text,,"Unlocks mining of <nr>Coal</nr>, <nr>Iron Ore</nr>, <nr>Clay</nr> at <bd>Level 2 Surface Mine</bd> and <bd>Level 1 Shaft Mine</bd>.","Sblocca l'estrazione di <nr>Carbone</nr>, <nr>Ferro grezzoo</nr>, <nr>Argilla</nr> presso <bd>Miniera di Superficie Livello 2</bd> e <bd>Miniera Livello 1</bd>",,
+Tech_40_Desc,Text,,"Unlocks mining of <nr>Coal</nr>, <nr>Iron Ore</nr>, <nr>Clay</nr> at <bd>Level 2 Surface Mine</bd> and <bd>Level 1 Shaft Mine</bd>.","Sblocca l'estrazione di <nr>Carbone</nr>, <nr>Ferro grezzo</nr>, <nr>Argilla</nr> presso <bd>Miniera di Superficie Livello 2</bd> e <bd>Miniera Livello 1</bd>",,
 Tech_40_Name,Text,,Mining I,Estrazione mineraria I,,
 Tech_41_Desc,Text,,"Unlocks mining of <nr>Salt</nr>, <nr>Quartz</nr> and <nr>Gold</nr> at <bd>Level 3 Surface Mine</bd> and <bd>Level 2 Shaft Mine</bd>.","Sblocca l'estrazione di <nr>Sale</nr>, <nr>Quarzo</nr> e <nr>Oro</nr> presso <bd>Miniera di Superficie Livello 3</bd> e <bd>Miniera Livello 2</bd>",,
 Tech_41_Name,Text,,Mining II,Estrazione mineraria II,,
@@ -2425,7 +2425,7 @@ TradeTerminalDeparting,Text,(Trade) Ship (is) departing,Ship departing,Nave in p
 HarbourUIRoutesEmpty,Text,,No boats currently stop here,Nessuna barca si ferma qui,,
 EntPanelHead_254,Text,Same as EntPanelHead_90 etc,Info,Informazioni,,
 ExpeditionAssignToPort,Text,Assign (boat to harbour expedition),Assign,Assegna,,
-OverlayPrioritisedBuildingTooltip,Text,{0}: building type e.g. (this is the ) prioritised watchtower,Prioritised {0},Prioritizzato {0},,
+OverlayPrioritisedBuildingTooltip,Text,{0}: building type e.g. (this is the ) prioritised watchtower,Prioritised {0},{0} ha la priorità,,
 FutureExpeditionHarbour,Text,The harbour that will be created as a result of completing the expedition,Expedition's Future Harbour,Porto della spedizione,,
 ProductionChangeTreeType,Text,,Change tree type,Cambia tipo di albero,,
 TrackEditorPrompt,Text,,Select an existing piece of track to start from,Seleziona un tracciato esistente da cui iniziare,,
