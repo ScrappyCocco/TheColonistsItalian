@@ -778,7 +778,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "No route found",
-    "Italian": "Nessuna percorso trovata",
+    "Italian": "Nessuna percorso trovato",
     "": "",
     "Verify": ""
   },
@@ -1057,7 +1057,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Production",
-    "Italian": "Produzione di cibo",
+    "Italian": "Produzione",
     "": "",
     "Verify": ""
   },
@@ -3487,7 +3487,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Change Boat",
-    "Italian": "Camia barca",
+    "Italian": "Cambia barca",
     "": "",
     "Verify": ""
   },
@@ -16690,7 +16690,7 @@
     "Type": "Text",
     "Desc": "Deprioritise (building)",
     "English": "Deprioritise",
-    "Italian": "De-Prioritizza",
+    "Italian": "Togli priorità",
     "": "",
     "Verify": ""
   },
