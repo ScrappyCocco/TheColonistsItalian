@@ -206,7 +206,7 @@ Building_26_Worker,Text,,Printbot,BotStampatore,,
 Building_27_Description,Text,,Creates <it>Iron</it> from <it>Iron Ore</it> using <cat>Fuel</cat>.,Crea <it>Ferro</it> da <it>Ferro gresso</it> utilizzando <cat>Carburante</cat>,,
 Building_27_Name,Text,,Blast Furnace,Altoforno,,
 Building_27_Plural,Text,,Blast Furnaces,Altiforni,,
-Building_27_Worker,Text,,Smeltbot,BotFondatore,,
+Building_27_Worker,Text,,Smeltbot,BotFonditore,,
 Building_29_Description,Text,,Creates <it>Woollen Garments</it> from <it>Wool</it>.,Crea <it>Indumenti di Lana</it> dalla <it>Lana</it>.,,
 Building_29_Name,Text,,Weaver,Tessitore,,
 Building_29_Plural,Text,,Weavers,Tessitori,,
@@ -854,7 +854,7 @@ Hotkey_44,Text,,Tilt Camera Down,Inclina visuale verso il basso,,
 Hotkey_45,Text,,Jump to Last Notification,Vai all'ultima notifica,,
 Hotkey_46,Text,,Zoom Camera In,Zoom visuale avanti,,
 Hotkey_47,Text,,Zoom Camera Out,Zoom visuale indietro,,
-Hotkey_5,Text,,Flip Building Footprint,Capovolgi l'edificio,,
+Hotkey_5,Text,,Flip Building Footprint,Specchia l'edificio,,
 Hotkey_51,Text,,Game Speed Increase,Aumento della velocità di gioco,,
 Hotkey_52,Text,,Game Speed Decrease,Riduzione della velocità di gioco,,
 Hotkey_53,Text,,Pause/Unpause Game,Pausa / Ripresa del gioco,,
@@ -1818,7 +1818,7 @@ TutorialDialogues_T1_MouseControls_TaskPan,Text,,<hotkey>Right-click</hotkey> an
 TutorialDialogues_T1_MouseControls_TaskTilt,Text,,Hold and drag the <hotkey>middle mouse button</hotkey> to rotate and tilt the camera.,Tieni premuto e trascina <hotkey>Pulsante centrale mouse</hotkey> per ruotare e inclinare la visuale.,,
 TutorialDialogues_T1_MouseControls_TaskZoom,Text,,Use the <hotkey>mouse wheel</hotkey> to zoom.,Utilizza la <hotkey>rotella del mouse</hotkey> per zoomare.,,
 TutorialDialogues_T1_PlaceFishingHut,Text,,"You can use <hotkey>[F]</hotkey> to flip a building's orientation.
-Use <hotkey>[F]</hotkey> to flip and <hotkey>[R]</hotkey> to rotate to build a <bd>Fishing Hut</bd> on the highlighted location.","Ora puoi utilizzare <hotkey>[F]</hotkey> per capovolgere un edificio.
+Use <hotkey>[F]</hotkey> to flip and <hotkey>[R]</hotkey> to rotate to build a <bd>Fishing Hut</bd> on the highlighted location.","Ora puoi utilizzare <hotkey>[F]</hotkey> per specchiare un edificio.
 Utilizza <hotkey>[F]</hotkey> per capovolgere e <hotkey>[R]</hotkey> per ruotare per costruire una <bd>Capanna da Pesca</bd> sulle caselle evidenziate",,
 TutorialDialogues_T1_PlaceLumberjackHut,Text,,"You're in the build mode, so place the <bd>Lumberjack Hut</bd> on the highlighted tiles near your Colony Ship.","Sei in modalità costruzione, quindi piazza la <bd>Capanna del Taglialegna</bd> sulle caselle evidenziate vicino alla tua Nave della Colonia.",,
 TutorialDialogues_T1_PlaceResidence,Text,,You can rotate a building when you're placing it. Rotate using <hotkey>[R]</hotkey> and match the <bd>Residence</bd> to the highlighted tiles.,Puoi ruotare un edificio mentre lo stai piazzando. Ruotalo utilizzando <hotkey>[R]</hotkey> in modo da far combaciare la <bd>Residenza</bd> con le caselle evidenziate.,,
@@ -2328,7 +2328,7 @@ BuildState_ChangeHeight,Text,{0}:Ctrl,Hold [{0}] to change height,Tieni premuto 
 BuildState_Rotate,Text,,<hotkey>{0}</hotkey> to rotate,<hotkey>{0}</hotkey> per ruotare,,
 BuildState_RotateAndFlip,Text,,"<hotkey>{0}</hotkey> to rotate
 <hotkey>{1}</hotkey> to flip","<hotkey>{0}</hotkey> per ruotare
-<hotkey>{1}</hotkey> per capovolgere",,
+<hotkey>{1}</hotkey> per specchiare",,
 SummaryUI_Yield,Text,This (Cypress tree) yield (1) (Logs),This {0} yields {1} <it>{2}</it>.,Questo {0} rende {1} <it>{2}</it>.,,
 SummaryUI_YieldNatRes,Text,This (Stone Deposit) yields a total of (75) (Stone),This {0} yields a total of {1} <it>{2}</it>.,Questo {0} rende un totale di {1} <it>{2}</it>.,,
 DestroyConfirm,Text,"{0}: building, {1}:hotkey","Are you sure you want to destroy {0}?
@@ -2522,7 +2522,7 @@ Advice_31_Desc,Text,,"Use the Market panel, accessible via the icon in the top-l
 Advice_32_Name,Text,,Build a <bd>Space Port</bd>!,Costruisci un <bd>Porto Spaziale</bd>!,,
 Advice_32_Desc,Text,,Build a <bd>Space Port</bd> where you can buy and sell resources.,Costruisci un <bd>Porto Spaziale</bd> dove puoi vendere e comprare risorse.,,
 Scenario_10_Name,Text,,River Crossing,Attraversamento del fiume,,
-Scenario_10_Description,Text,,"As you explore the plains, build a Large Monument and set up Space Ports to trade resources and accumulate $10000.","Mentre esplori le pianure, costruisci un Monumento Grande e imposta Porti Spaziali per scambiare risorse e accumulare %10000.",,
+Scenario_10_Description,Text,,"As you explore the plains, build a Large Monument and set up Space Ports to trade resources and accumulate $10000.","Mentre esplori le pianure, costruisci un Monumento Grande e imposta Porti Spaziali per scambiare risorse e accumulare $10000.",,
 Scenario_11_Name,Text,,Panning For Gold,Alla ricerca d'oro,,
 Scenario_11_Description,Text,,Find your way around the archipelago as you build a Large Monument and accumulate $20000.,Fatti strada nell'arcipelago mentre costruisci un Monumento Grande e accumuli $20000.,,
 GameComplete_Leaderboard,Text,,Leaderboard,Classifica,,

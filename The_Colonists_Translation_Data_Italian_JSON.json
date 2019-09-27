@@ -1687,7 +1687,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Smeltbot",
-    "Italian": "BotFondatore",
+    "Italian": "BotFonditore",
     "": "",
     "Verify": ""
   },
@@ -5710,7 +5710,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Flip Building Footprint",
-    "Italian": "Capovolgi l'edificio",
+    "Italian": "Specchia l'edificio",
     "": "",
     "Verify": ""
   },
@@ -13045,7 +13045,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "You can use <hotkey>[F]</hotkey> to flip a building's orientation.\nUse <hotkey>[F]</hotkey> to flip and <hotkey>[R]</hotkey> to rotate to build a <bd>Fishing Hut</bd> on the highlighted location.",
-    "Italian": "Ora puoi utilizzare <hotkey>[F]</hotkey> per capovolgere un edificio.\nUtilizza <hotkey>[F]</hotkey> per capovolgere e <hotkey>[R]</hotkey> per ruotare per costruire una <bd>Capanna da Pesca</bd> sulle caselle evidenziate",
+    "Italian": "Ora puoi utilizzare <hotkey>[F]</hotkey> per specchiare un edificio.\nUtilizza <hotkey>[F]</hotkey> per capovolgere e <hotkey>[R]</hotkey> per ruotare per costruire una <bd>Capanna da Pesca</bd> sulle caselle evidenziate",
     "": "",
     "Verify": ""
   },
@@ -16114,7 +16114,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "<hotkey>{0}</hotkey> to rotate\n<hotkey>{1}</hotkey> to flip",
-    "Italian": "<hotkey>{0}</hotkey> per ruotare\n<hotkey>{1}</hotkey> per capovolgere",
+    "Italian": "<hotkey>{0}</hotkey> per ruotare\n<hotkey>{1}</hotkey> per specchiare",
     "": "",
     "Verify": ""
   },
@@ -17743,7 +17743,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "As you explore the plains, build a Large Monument and set up Space Ports to trade resources and accumulate $10000.",
-    "Italian": "Mentre esplori le pianure, costruisci un Monumento Grande e imposta Porti Spaziali per scambiare risorse e accumulare %10000.",
+    "Italian": "Mentre esplori le pianure, costruisci un Monumento Grande e imposta Porti Spaziali per scambiare risorse e accumulare $10000.",
     "": "",
     "Verify": ""
   },
