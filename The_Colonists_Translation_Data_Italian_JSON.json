@@ -103,7 +103,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Level 2 <bd>Residences</bd> need <cat>Alcohol</cat> to be able to generate the more powerful <it>Energy L2</it> needed at the Level 2 <bd>Workshop</bd> and to mine <it>Iron Ore</it> and <it>Coal</it>.\n\nBuild an <bd>Orchard</bd> and <bd>Cider Press</bd> to start producing <it>Cider</it>.",
-    "Italian": "Le <bd>Residenze</bd> Livello 2 hanno bisogno di <cat>Alcohol</cat> per poter generare <it>Energia L2</it> necessaria al <bd>Laboratorio</bd> di Livello 2 e per estrarre <it>Ferro grezzo</it> e <it>Carbone</it>.\n\nCostruisci un <bd>Frutteto</bd> e una <bd>Pressa per Sidro</bd> per iniziare a produrre del <it>Sidro</it>.",
+    "Italian": "Le <bd>Residenze</bd> Livello 2 hanno bisogno di <cat>Alcol</cat> per poter generare <it>Energia L2</it> necessaria al <bd>Laboratorio</bd> di Livello 2 e per estrarre <it>Ferro grezzo</it> e <it>Carbone</it>.\n\nCostruisci un <bd>Frutteto</bd> e una <bd>Pressa per Sidro</bd> per iniziare a produrre del <it>Sidro</it>.",
     "": "",
     "Verify": ""
   },
@@ -157,7 +157,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Build a <bd>Blast Furnace</bd> to create <it>Iron</it> from <it>Iron Ore</it> and <it>Coal</it>.",
-    "Italian": "Costruisci un <bd>Altoforno</bd> per ottenere <it>Ferro</it> dal <it>Ferro grezzo</it> e <it>Carbone</it>.",
+    "Italian": "Costruisci un <bd>Altoforno</bd> per ottenere del <it>Ferro</it> da <it>Ferro grezzo</it> e <it>Carbone</it>.",
     "": "",
     "Verify": ""
   },
@@ -247,7 +247,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Before you can explore the seas you need the resources to build a new <bd>Harbour</bd> on newly discovered land. In the expedition tab at your existing <bd>Harbour</bd> start gathering the necessary resources.",
-    "Italian": "Prima che tu possa esplorare il mare hai bisogno di risorse per costruire un nuovo <bd>Porto</bd> nella zona scoperta. Inizia a prepare le risorse nella scheda Spedizione del tuo <bd>Porto</bd>.",
+    "Italian": "Prima che tu possa esplorare il mare hai bisogno di risorse per costruire un nuovo <bd>Porto</bd> nella zona scoperta. Inizia a preparare le risorse nella scheda Spedizione del tuo <bd>Porto</bd>.",
     "": "",
     "Verify": ""
   },
@@ -778,7 +778,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "No route found",
-    "Italian": "Nessuna percorso trovato",
+    "Italian": "Nessun percorso trovato",
     "": "",
     "Verify": ""
   },
@@ -877,7 +877,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Below ground",
-    "Italian": "Sotto terra",
+    "Italian": "Sottoterra",
     "": "",
     "Verify": ""
   },
@@ -1543,7 +1543,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Creates <it>Paper</it> using <it>Logs</it> and <it>Water</it>.",
-    "Italian": "Crea <it>Carta</it> utilizzando <it>Tronchi</it> e <it>Acquz</it>.",
+    "Italian": "Crea <it>Carta</it> utilizzando <it>Tronchi</it> e <it>Acqua</it>.",
     "": "",
     "Verify": ""
   },
@@ -1660,7 +1660,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Creates <it>Iron</it> from <it>Iron Ore</it> using <cat>Fuel</cat>.",
-    "Italian": "Crea <it>Ferro</it> da <it>Ferro gresso</it> utilizzando <cat>Carburante</cat>",
+    "Italian": "Crea <it>Ferro</it> da <it>Ferro grezzo</it> utilizzando <cat>Carburante</cat>",
     "": "",
     "Verify": ""
   },
@@ -2857,7 +2857,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "The number of roads where a carrybot is blocked because a road post is full",
-    "Italian": "Il numero di strade in cui un BotTrasportatore è bloccato perchè un palo stradale è pieno",
+    "Italian": "Il numero di strade in cui un BotTrasportatore è bloccato perché un palo stradale è pieno",
     "": "",
     "Verify": ""
   },
@@ -3730,7 +3730,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "By default this building imports all resources.\nYou can manage which resources can be imported by setting up rules.",
-    "Italian": "Per impostazione predefinita, questo edificio importa tutte le risorse.Puoi gestire quali risorse possono essere importate impostando le regole.",
+    "Italian": "Per impostazione predefinita, questo edificio importa tutte le risorse. Puoi gestire quali risorse possono essere importate impostando le regole.",
     "": "",
     "Verify": ""
   },
@@ -3775,7 +3775,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "By default this building exports all resources.\nYou can manage which resources can be exported by setting up rules.",
-    "Italian": "Per impostazione predefinita, questo edificio esporta tutte le risorse.Puoi gestire quali risorse possono essere esportate impostando le regole.",
+    "Italian": "Per impostazione predefinita, questo edificio esporta tutte le risorse. Puoi gestire quali risorse possono essere esportate impostando le regole.",
     "": "",
     "Verify": ""
   },
@@ -4459,7 +4459,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Invalid Route! Start harbour and end harbour are same. This is unnecessary as boat will automatically loop.",
-    "Italian": "Percorso non valido! Il porto di partenza e di fine porto sono uguali. Questo non è necessario in quanto la barca effettuerà automaticamente il loop.",
+    "Italian": "Percorso non valido! Il porto di partenza e di fine sono uguali. Questo non è necessario in quanto la barca effettuerà automaticamente il loop.",
     "": "",
     "Verify": ""
   },
@@ -5980,7 +5980,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "The Story So Far...",
-    "Italian": "La storia fin'ora",
+    "Italian": "La storia finora",
     "": "",
     "Verify": ""
   },
@@ -6871,7 +6871,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Iron Ore is mined by the <bd>Level 2 Surface Mine</bd> and the <bd>Level 1 Shaft Mine</bd>.",
-    "Italian": "Il ferro gresso è estratto dalla <bd>Miniera di Superficie Livello 2</bd> e dalla <bd>Miniera Livello 1</bd>.",
+    "Italian": "Il ferro grezzo è estratto dalla <bd>Miniera di Superficie Livello 2</bd> e dalla <bd>Miniera Livello 1</bd>.",
     "": "",
     "Verify": ""
   },
@@ -6880,7 +6880,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Iron Ore is mined by the <bd>Level 2 Surface Mine</bd> and the <bd>Level 1 Shaft Mine</bd> and is used by the <bd>Blast Furnace</bd> to create <it>Iron</it>.",
-    "Italian": "Il ferro gresso è estratto dalla <bd>Miniera di Superficie Livello 2</bd> e dalla <bd>Miniera Livello 1</bd> ed è usato nell'<bd>Altoforno</bd> per creare <it>Ferro</it>.",
+    "Italian": "Il ferro grezzo è estratto dalla <bd>Miniera di Superficie Livello 2</bd> e dalla <bd>Miniera Livello 1</bd> ed è usato nell'<bd>Altoforno</bd> per creare <it>Ferro</it>.",
     "": "",
     "Verify": ""
   },
@@ -8005,7 +8005,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "A path connects a building to a road or road post.\n\nA building's stackbot uses paths to collect and drop off resources at road posts.\n\nPaths do not have a maximum length but the longer the path, the more time it takes a stackbot to drop off and collect resources which may lead to delays.                                                    \n\nPaths can useful as they allow direct delivery between buildings which can reduce the traffic on your roads.",
-    "Italian": "Un percorso collega un edificio a una strada o ad un palo stradale.\n\nIl BotImpilatore di un edificio utilizza percorsi per raccogliere e scaricare risorse sui pali stradali.\n\nI percorsi non hanno una lunghezza massima ma più lungo è il percorso, più tempo impiega un BotImilatore a scendere e raccogliere risorse che possono causare ritardi.\n\nI percorsi possono essere utili in quanto consentono la consegna diretta tra edifici che può ridurre il traffico sulle strade.",
+    "Italian": "Un percorso collega un edificio a una strada o ad un palo stradale.\n\nIl BotImpilatore di un edificio utilizza percorsi per raccogliere e scaricare risorse sui pali stradali.\n\nI percorsi non hanno una lunghezza massima ma più lungo è il percorso, più tempo impiega un BotImpilatore a scendere e raccogliere risorse che possono causare ritardi.\n\nI percorsi possono essere utili in quanto consentono la consegna diretta tra edifici che può ridurre il traffico sulle strade.",
     "": "",
     "Verify": ""
   },
@@ -9256,7 +9256,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "This Gold deposit can be harvested by the <bd>Level 3 Surface Mine</bd>.",
-    "Italian": "Questo deposito di Oro può essere estratto con la <bd>MIniera di Superficie Livello 3</bd>",
+    "Italian": "Questo deposito di Oro può essere estratto con la <bd>Miniera di Superficie Livello 3</bd>",
     "": "",
     "Verify": ""
   },
@@ -9274,7 +9274,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "This Clay deposit can be harvested by the <bd>Level 2 Surface Mine</bd>.",
-    "Italian": "Questo deposito di Argilla può essere estratto con la <bd>MIniera di Superficie Livello 2</bd>",
+    "Italian": "Questo deposito di Argilla può essere estratto con la <bd>Miniera di Superficie Livello 2</bd>",
     "": "",
     "Verify": ""
   },
@@ -9292,7 +9292,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "This Salt deposit can be harvested by the <bd>Level 2 Surface Mine</bd>.",
-    "Italian": "Questo deposito di Sale può essere estratto con la <bd>MIniera di Superficie Livello 2</bd>",
+    "Italian": "Questo deposito di Sale può essere estratto con la <bd>Miniera di Superficie Livello 2</bd>",
     "": "",
     "Verify": ""
   },
@@ -12703,7 +12703,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Fantastic! You now have the capacity to produce more <it>Energy L1</it>.\nBut more <bd>Residences</bd> mean more Housebot needs, so demand for <it>Water</it> and <cat>Food</cat> has also increased.\nBuild another <bd>Fishing Hut</bd> on the coast to increase your <cat>Food</cat> production.",
-    "Italian": "Fantastico! Ora hai la capacità di produrre più <it>Energia L1</it>.\nMa più <bd>Residenze</bd> significano più BotCasaligni, che necessiteranno di <it>Acqua</it> e <cat>Cibo</cat>.\nCostruisci un altra <bd>Capanna del Pescatore</bd> sulla costa per aumentare la tua produzione di <cat>Cibo</cat>.",
+    "Italian": "Fantastico! Ora hai la capacità di produrre più <it>Energia L1</it>.\nMa più <bd>Residenze</bd> significano più BotCasaligni, che necessiteranno di <it>Acqua</it> e <cat>Cibo</cat>.\nCostruisci un'altra <bd>Capanna del Pescatore</bd> sulla costa per aumentare la tua produzione di <cat>Cibo</cat>.",
     "": "",
     "Verify": ""
   },
@@ -12721,7 +12721,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Great! <bd>Watchtowers</bd> take a little longer to build though.\nWhile your <bd>Watchtower</bd> is being built, let's construct a <bd>Forestry</bd> to plant some more trees.",
-    "Italian": "Bene! Purtroppo le <bd>Torri di Guardia</bd> richiedono più tempo per essere costruite.\nMentre la tua <bd>Torre di Guardia</bd> viene costruita, costruisci una <bd>Guardia Forestale</bd> per piantare alcuni alberi.",
+    "Italian": "Bene! Purtroppo, le <bd>Torri di Guardia</bd> richiedono più tempo per essere costruite.\nMentre la tua <bd>Torre di Guardia</bd> viene costruita, costruisci una <bd>Guardia Forestale</bd> per piantare alcuni alberi.",
     "": "",
     "Verify": ""
   },
@@ -12847,7 +12847,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "In this construction panel the arrows tell you which resources the building produces and the resources required to do so.\nIt also shows you the construction materials and how long construction will take.",
-    "Italian": "In questo pannello costruzione le frecce ti dicono che risorse l'edificio produce e che risorse sono necessarie.\ni mostra anche i materiali di costruzione e quanto impiegherà la costruzione.",
+    "Italian": "In questo pannello costruzione le frecce ti dicono che risorse l'edificio produce e che risorse sono necessarie.\nTi mostra anche i materiali di costruzione e quanto impiegherà la costruzione.",
     "": "",
     "Verify": ""
   },
@@ -13315,7 +13315,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Your <bd>Sheep Farm</bd> won't produce at its most optimal rate until you place the full 50 pastures.\nClick on the yellow alert symbol above the <bd>Sheep Farm</bd> building and click 'Auto Place'.",
-    "Italian": "Il tuo <bd>Allevamento di pecore</bd> non produrrà in maniera ottimale finchè non piazzerai tutti e 50 i pascoli.\nClicca sull'avviso giallo sopra l'<bd>Allevamento di pecore</bd> e clicca 'Auto Piazza'.",
+    "Italian": "Il tuo <bd>Allevamento di pecore</bd> non produrrà in maniera ottimale finché non piazzerai tutti e 50 i pascoli.\nClicca sull'avviso giallo sopra l'<bd>Allevamento di pecore</bd> e clicca 'Auto Piazza'.",
     "": "",
     "Verify": ""
   },
@@ -13378,7 +13378,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "It's time to build this colony on your own!\nI'll still be around to help though. Click on the flashing 'Help' icon the top-left.",
-    "Italian": "E' il momento di costruire la tua colonia!\nSarò ancora in giro ad aiutare. Clicca il tasto 'Aiuto' lampeggiante in alto a sinistra.",
+    "Italian": "È il momento di costruire la tua colonia!\nSarò ancora in giro ad aiutare. Clicca il tasto 'Aiuto' lampeggiante in alto a sinistra.",
     "": "",
     "Verify": ""
   },
@@ -13387,7 +13387,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Here you can see the mission goal as well as advice, warnings and tips if you need them.\nYou can also click on each advice item for more information.\nGood luck!",
-    "Italian": "Qui puoi vedere gli obiettivi di missione insieme ai suggerimenti e agli avvisi se ne hai bisogno.\nPuoi anche cliccare su ciascun suggerimento per ulteriori informazionI!\nBuona fortuna!",
+    "Italian": "Qui puoi vedere gli obiettivi di missione insieme ai suggerimenti e agli avvisi se ne hai bisogno.\nPuoi anche cliccare su ciascun suggerimento per ulteriori informazioni!\nBuona fortuna!",
     "": "",
     "Verify": ""
   },
@@ -13450,7 +13450,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Your new <bd>Harbour</bd> is under construction!\nYour boat has also automatically created a transport route between your new <bd>Harbour</bd> and its original <bd>Harbour</bd>.\nResources will automatically be delivered through your <bd>Harbours</bd> when they are requested by buildings on either island.\nAs your colony expands you will want to control which resources can pass through your network in order to prevent resources being sourced from too far away or from different islands.\nCheck out the transport rule system by clicking on any road post or harbour.",
-    "Italian": "Il tuo nuovo <bd>Porto</bd> è in costruzione!\nLa tua barca ha creato automaticamente una rotta di trasporto tra il tuo nuovo <bd>Porto</bd> e il <bd>Porto</bd> originale.\nLe risorse verranno consegnate automaticamente tra <bd>Porti</bd> quando richieste da edifici in un isola o nell'altra.\nMan mano che la tua colonia si espande vorrai avere più controllo su che risorse possono passare, in modo da impedire che le risorse vengano inviate troppo lontano in isole differenti.\nControlla le regole di trasporto cliccando su un qualsiasi palo stradale o su un porto.",
+    "Italian": "Il tuo nuovo <bd>Porto</bd> è in costruzione!\nLa tua barca ha creato automaticamente una rotta di trasporto tra il tuo nuovo <bd>Porto</bd> e il <bd>Porto</bd> originale.\nLe risorse verranno consegnate automaticamente tra <bd>Porti</bd> quando richieste da edifici in un'isola o nell'altra.\nMan mano che la tua colonia si espande vorrai avere più controllo su che risorse possono passare, in modo da impedire che le risorse vengano inviate troppo lontano in isole differenti.\nControlla le regole di trasporto cliccando su un qualsiasi palo stradale o su un porto.",
     "": "",
     "Verify": ""
   },
@@ -13477,7 +13477,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "You've come across another robot colony! They do not look friendly though...\nLevel 2 <bd>Watchtowers</bd> can attack nearby hostile <bd>Watchtowers</bd> with arrows.\nResearch military technologies and upgrade your <bd>Watchtowers</bd> to prepare for combat!",
-    "Italian": "Hai incontrato un'altra colonia di robot! Purtroppo non sembrano amichevoli...\nLe <bd>Torri di Guardia</bd> Livello 2 possono attaccare le vicine <bd>Torri di Guardia</bd> ostili con le frecce.\nRicerca tecnologie militari per migliorare le tue <bd>Torri di Guardia</bd> per prepararti al combattimento!",
+    "Italian": "Hai incontrato un'altra colonia di robot! Purtroppo, non sembrano amichevoli...\nLe <bd>Torri di Guardia</bd> Livello 2 possono attaccare le vicine <bd>Torri di Guardia</bd> ostili con le frecce.\nRicerca tecnologie militari per migliorare le tue <bd>Torri di Guardia</bd> per prepararti al combattimento!",
     "": "",
     "Verify": ""
   },
@@ -13495,7 +13495,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "You now have a Level 2 <bd>Residence</bd> which can generate <it>Energy L2</it>!\nLevel 2 <bd>Residences</bd> have an additional requirement though - <cat>Alcohol</cat>.\nBuild an <bd>Orchard</bd> and <bd>Cider Press</bd> to start producing <it>Cider</it>.",
-    "Italian": "Ora hai una <bd>Residenza</bd> Livello 2 che può generare <it>Energia L2</it>!\nLe <bd>Residenze</bd> Livello 2 hanno un altro requisito però: <cat>Alcool</cat>.\nCostruisci un <bd>Frutteto</bd> e una <bd>Pressa per Sidro</bd> per iniziare a produrre <it>Sidro</it>.",
+    "Italian": "Ora hai una <bd>Residenza</bd> Livello 2 che può generare <it>Energia L2</it>!\nLe <bd>Residenze</bd> Livello 2 hanno un altro requisito però: <cat>Alcol</cat>.\nCostruisci un <bd>Frutteto</bd> e una <bd>Pressa per Sidro</bd> per iniziare a produrre <it>Sidro</it>.",
     "": "",
     "Verify": ""
   },
@@ -13558,7 +13558,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "You've captured a hostile <bd>Watchtower</bd>!\nIt's currently damaged and a Guardbot can only occupy it once it's fully repaired.\nConnect the <bd>Watchtower</bd> to your network and repair it quickly otherwise it will collapse!",
-    "Italian": "Hai catturato una <bd>Torre di Guardia</bd> ostile!\nE' attualmente danneggiata e il BotGuardia può occuparla solo una volta riparata.\nConnetti la <bd>Torre di Guardia</bd> alla tua rete e riparala velocemente o crollerà!",
+    "Italian": "Hai catturato una <bd>Torre di Guardia</bd> ostile!\nÈ attualmente danneggiata e il BotGuardia può occuparla solo una volta riparata.\nConnetti la <bd>Torre di Guardia</bd> alla tua rete e riparala velocemente o crollerà!",
     "": "",
     "Verify": ""
   },
@@ -14062,7 +14062,7 @@
     "Type": "Text",
     "Desc": "Change English to your language",
     "English": "The Colonists is now available in English!",
-    "Italian": "The Colonist è ora disponibile in Italiano!",
+    "Italian": "The Colonist è ora disponibile in italiano!",
     "": "",
     "Verify": ""
   },
@@ -14071,7 +14071,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "The Colonists is a relaxing settlement building game inspired by classic titles like The Settlers and the Anno series.\n\nTake on a series of individual missions or build your colony unfettered by any constraints in the [b]sandbox mode[/b].\n\nYou take control of a team of self-replicating robots built to simulate human civilisation.  After escaping Earth, The Colonists are now free to roam the galaxy in search of a new home and construct their dream settlement.\n\nYou'll advance through three different Ages as you build infrastructure for your colony by constructing road, boat and train transport systems.\n\nHarvest natural resources, set up farming and food production, create expeditions to discover new lands and research new technologies.\n\nWith two separate mission tracks, The Colonists lets either you create sprawling settlements in peace or race to compete against AI colonies in military winner-takes-all scenarios.\n\nExplore, research, manage, tweak and refine to your heart's content.\n\nAn extensive map editor and Steam Workshop support is included, so you can create, share and play custom maps.",
-    "Italian": "The Colonists è un rilassante gioco gestionale ispirato a titoli classici come The Settlers e la serie Anno.\n\nAffronta una serie di singole missioni o costruisci la tua colonia libera da eventuali vincoli nella modalità [b]sandbox[/b].\n\nPrendi il controllo di un team di robot autoreplicanti creati per simulare la civiltà umana. Dopo essere fuggiti dalla Terra, i Coloni sono ora liberi di vagare per la galassia in cerca di una nuova casa e costruire il loro insediamento da sogno.\n\nAvanzerai attraverso tre diverse epoche mentre costruisci infrastrutture per la tua colonia costruendo sistemi di trasporto su strada, in barca e in treno.\n\nRaccogli risorse naturali, avvia l'agricoltura e la produzione alimentare, crea spedizioni per scoprire nuove terre e ricercare nuove tecnologie.\n\nCon due percorsi di missione separati, The Colonists ti consente di creare enormi insediamenti in pace o gareggiare per competere contro le colonie di intelligenza artificiale in scenari militari vincitori.\n\nEsplora, ricerca, gestisci, modifica e perfeziona il contenuto del tuo cuore.\n\nE' incluso un vasto editor di mappe e il supporto per lo Steam Workshop, in modo da poter creare, condividere e giocare mappe personalizzate.",
+    "Italian": "The Colonists è un rilassante gioco gestionale ispirato a titoli classici come The Settlers e la serie Anno.\n\nAffronta una serie di singole missioni o costruisci la tua colonia libera da eventuali vincoli nella modalità [b]sandbox[/b].\n\nPrendi il controllo di un team di robot autoreplicanti creati per simulare la civiltà umana. Dopo essere fuggiti dalla Terra, i Coloni sono ora liberi di vagare per la galassia in cerca di una nuova casa e costruire il loro insediamento da sogno.\n\nAvanzerai attraverso tre diverse epoche mentre costruisci infrastrutture per la tua colonia costruendo sistemi di trasporto su strada, in barca e in treno.\n\nRaccogli risorse naturali, avvia l'agricoltura e la produzione alimentare, crea spedizioni per scoprire nuove terre e ricercare nuove tecnologie.\n\nCon due percorsi di missione separati, The Colonists ti consente di creare enormi insediamenti in pace o gareggiare per competere contro le colonie di intelligenza artificiale in scenari militari vincitori.\n\nEsplora, ricerca, gestisci, modifica e perfeziona il contenuto del tuo cuore.\n\nÈ incluso un vasto editor di mappe e il supporto per lo Steam Workshop, in modo da poter creare, condividere e giocare mappe personalizzate.",
     "": "",
     "Verify": ""
   },
@@ -15979,7 +15979,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Can't place road post on existing road",
-    "Italian": "Non puoi piazzare una palo stradale su una strada esistente",
+    "Italian": "Non puoi piazzare un palo stradale su una strada esistente",
     "": "",
     "Verify": ""
   },
@@ -17410,7 +17410,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Sorry, the first tutorial mission cannot be saved. Don't worry, it doesn't take long to complete!",
-    "Italian": "Purtroppo la prima missione tutorial non può essere salvata. Non ti preoccupare, non ci vuole molto per completarla!",
+    "Italian": "Purtroppo, la prima missione tutorial non può essere salvata. Non ti preoccupare, non ci vuole molto per completarla!",
     "": "",
     "Verify": ""
   },
@@ -18459,11 +18459,11 @@
     "Verify": ""
   },
   {
-    "Key": "",
+    "Key": "StoreDesc_Short",
     "Type": "Text",
     "Desc": "",
-    "English": "",
-    "Italian": "",
+    "English": "Build a new home for your team of robots as they begin a new life for themselves on a distant planet where they can fulfil their ultimate dream: to be human.",
+    "Italian": "Costruisci una nuova casa per il tuo team di robot mentre iniziano una nuova vita su un pianeta distante dove possono realizzare il loro sogno: essere umani.",
     "": "",
     "Verify": ""
   },
