@@ -1137,8 +1137,8 @@
     "Key": "Building_0_Worker",
     "Type": "Text",
     "Desc": "",
-    "English": "Stackbot",
-    "Italian": "BotImpilatore",
+    "English": "Shipbot",
+    "Italian": "BotNavigatore",
     "": "",
     "Verify": ""
   },
@@ -12747,8 +12747,8 @@
     "Key": "TutorialDialogues_T1_BuildPath",
     "Type": "Text",
     "Desc": "",
-    "English": "Select <lr>Path</lr> building mode and then build a <lr>Path</lr> on the highlighted tiles.#",
-    "Italian": "Seleziona la modalità di costruzione <lr>Percorsi</lr> e costruisci un <lr>Sentiero</lr> sulle caselle evidenziate. #",
+    "English": "Select <lr>Path</lr> building mode and then build a <lr>Path</lr> on the highlighted tiles.",
+    "Italian": "Seleziona la modalità di costruzione <lr>Percorsi</lr> e costruisci un <lr>Sentiero</lr> sulle caselle evidenziate.",
     "": "",
     "Verify": ""
   },
@@ -16373,18 +16373,18 @@
   {
     "Key": "TransportRuleBlacklist",
     "Type": "Text",
-    "Desc": "{0}:can be blank, TransportRuleForExport or TransportRuleForImport {1}:resource, {2}: either blank or TransportRuleExceptStorage\nE.g. Export rule: Planks are banned except for storage",
-    "English": "{0}<it>{1}</it> are banned{2}",
-    "Italian": "{0}<it>{1}</it> sono vietate{2}",
+    "Desc": "{0}:can be blank, TransportRuleForExport or TransportRuleForImport {1}:resource, {2}: either blank or TransportRuleExceptStorage\nE.g. Export rule: Steel is banned except for storage",
+    "English": "{0}<it>{1}</it> is banned{2}",
+    "Italian": "{0}<it>{1}</it> è vietato{2}",
     "": "",
     "Verify": ""
   },
   {
     "Key": "TransportRuleWhitelist",
     "Type": "Text",
-    "Desc": "{0}:can be blank, TransportRuleForExport or TransportRuleForImport {1}:resource, {2}: either blank or TransportRuleOnlyStorage\nE.g. Export rule: Only Planks are allowed and only for storagt",
-    "English": "{0} Only <it>{1}</it> are allowed{2}",
-    "Italian": "{0} solo <it>{1}</it> sono permesse{2}",
+    "Desc": "{0}:can be blank, TransportRuleForExport or TransportRuleForImport {1}:resource, {2}: either blank or TransportRuleOnlyStorage\nE.g. Export rule: Only Steel is allowed and only for storage",
+    "English": "{0} Only <it>{1}</it> is allowed{2}",
+    "Italian": "{0} solo <it>{1}</it> è permesso{2}",
     "": "",
     "Verify": ""
   },
@@ -17653,7 +17653,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "[click to continue]",
-    "Italian": "[click to continue]",
+    "Italian": "[clicca per continuare]",
     "": "",
     "Verify": ""
   },
@@ -18372,8 +18372,8 @@
     "Key": "Item_47_FullDesc",
     "Type": "Text",
     "Desc": "",
-    "English": "Vegetables are harvested at the <bd>Vegetable Farm</bd> from <it>Logs</it> and  and is consumed by <bd>Level 1 Residences</bd>.",
-    "Italian": "Le Verdure sono raccolte alla <bd>Fattoria di Verdure</bd> dai <it>Tronchi</it> e sono consumate dalle <bd>Residenze Livello 1</bd>.",
+    "English": "Vegetables are harvested at the <bd>Vegetable Farm</bd> and are consumed by <bd>Level 1 Residences</bd>.",
+    "Italian": "Le Verdure sono raccolte alla <bd>Fattoria di Verdure</bd> e sono consumate dalle <bd>Residenze di Livello 1</bd>.",
     "": "",
     "Verify": ""
   },
@@ -18468,29 +18468,83 @@
     "Verify": ""
   },
   {
-    "Key": "",
+    "Key": "AffectedTransportRulesDesc",
     "Type": "Text",
-    "Desc": "",
-    "English": "",
-    "Italian": "",
+    "Desc": "{0}: resource type. e.g. Planks",
+    "English": "The following transport rules affect the movement of {0}.",
+    "Italian": "Le seguenti regole di trasporto influenzano il trasporti di: {0}.",
     "": "",
     "Verify": ""
   },
   {
-    "Key": "",
+    "Key": "Building_66_Description_Alt",
     "Type": "Text",
     "Desc": "",
-    "English": "",
-    "Italian": "",
+    "English": "Create <it>Pumpkins</it> from pumpkin patches.",
+    "Italian": "Crea <it>Zucche</it> dai campi di zucche.",
     "": "",
     "Verify": ""
   },
   {
-    "Key": "",
+    "Key": "Building_66_Name_Alt",
     "Type": "Text",
     "Desc": "",
-    "English": "",
-    "Italian": "",
+    "English": "Pumpkin Patch",
+    "Italian": "Campo di Zucche",
+    "": "",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_66_Plural_Alt",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Pumpkin Patches",
+    "Italian": "Campi di Zucche",
+    "": "",
+    "Verify": ""
+  },
+  {
+    "Key": "Item_47_Desc_Alt",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Pumpkins are harvested at the <bd>Pumpkin Patch</bd>.",
+    "Italian": "Le Zucche sono raccolte al <bd>Campo di Zucche</bd>.",
+    "": "",
+    "Verify": ""
+  },
+  {
+    "Key": "Item_47_FullDesc_Alt",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Pumpkins are harvested at the <bd>Pumpkin Patch</bd> and are consumed by <bd>Level 1 Residences</bd>.",
+    "Italian": "Le Zucche sono raccolte al <bd>Campo di Zucche</bd> e sono consumate dalle <bd>Residenze di Livello 1</bd>.",
+    "": "",
+    "Verify": ""
+  },
+  {
+    "Key": "Item_47_Name_Alt",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Pumpkins",
+    "Italian": "Zucche",
+    "": "",
+    "Verify": ""
+  },
+  {
+    "Key": "MapEditorMapSettingTerritoryEnabled",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Territory & fog of war enabled",
+    "Italian": "Territori e Nebbia di guerra attivati",
+    "": "",
+    "Verify": ""
+  },
+  {
+    "Key": "MapEditorTestVerificationFailed",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Cannot test this scenario! Check the verification panel in the top right.",
+    "Italian": "Impossibile testare questo scenario! Controlla il pannello di verifica in alto a destra.",
     "": "",
     "Verify": ""
   }
