@@ -60,7 +60,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Research <res>Construction I</res> at the <bd>Workshop</bd> to be able to build more advanced buildings.\n\nTo research a technology, open an idle <bd>Workshop</bd> or open the Technology panel in the top left of the screen.",
-    "Italian": "Ricerca <res>Costruzione I</res> al <bd>Laboratorio</bd> per costruire edifici più avanzati!\n\nPer ricercare una tecnologia, apri un <bd>Laboratorio</bd> inattivo oppure apri il pannello Tecnologia in alto a sinistra dello schermo",
+    "Italian": "Ricerca <res>Costruzione I</res> al <bd>Laboratorio</bd> per costruire edifici più avanzati.\n\nPer ricercare una tecnologia, apri un <bd>Laboratorio</bd> inattivo oppure apri il pannello Tecnologia in alto a sinistra dello schermo.",
     "Verify": ""
   },
   {
@@ -76,7 +76,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "You can upgrade <bd>Residences</bd> to produce Level 2 <it>Energy</it>.\n\n<it>Energy L2</it> is used by the upgraded <bd>Workshop</bd> to research more advanced technologies.\n\n<it>Energy L2</it> is also used by the <bd>Shaft Mine</bd> and Level 2 <bd>Surface Mine</bd> to excavate <nr>Coal</nr>, <nr>Iron Ore</nr>, <nr>Salt</nr> and <nr>Clay</nr>.",
-    "Italian": "Puoi migliorare le <bd>Residenze</bd> per produrre <it>Energia</it> di Livello 2.\n\nL'<it>Energia L2</it> è usata dal <bd>Laboratorio</bd> avanzato per ricercare tecnologie più avanzate\n\nL'<it>Energia L2</it> è inoltre usata dalla <bd>Miniera</bd> e dalla <bd>Miniera di Superficie</bd> Livello 2 per estrarre <nr>Carbone</nr>, <nr>Ferro grezzo</nr>, <nr>Sale</nr> e <nr>Argilla</nr>",
+    "Italian": "Puoi migliorare le <bd>Residenze</bd> per produrre <it>Energia</it> di Livello 2.\n\nL'<it>Energia L2</it> è usata dal <bd>Laboratorio</bd> avanzato per ricercare tecnologie più avanzate.\n\nL'<it>Energia L2</it> è inoltre usata dalla <bd>Miniera</bd> e dalla <bd>Miniera di Superficie</bd> Livello 2 per estrarre <nr>Carbone</nr>, <nr>Ferro grezzo</nr>, <nr>Sale</nr> e <nr>Argilla</nr>.",
     "Verify": ""
   },
   {
@@ -108,7 +108,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Begin mining <nr>Coal</nr> by building a Level 2 <bd>Surface Mine</bd> or <bd>Shaft Mine</bd> depending on whether it's a surface deposit or an underground deposit.",
-    "Italian": "Inizia ad estrarre del <nr>Carbone</nr> costruendo una <bd>Miniera di Superficie</bd> Livello 2 o una <bd>Miniera</bd> a seconda se è un deposito in superficie o sotterraneo",
+    "Italian": "Inizia ad estrarre del <nr>Carbone</nr> costruendo una <bd>Miniera di Superficie</bd> Livello 2 o una <bd>Miniera</bd> a seconda se è un deposito in superficie o sotterraneo.",
     "Verify": ""
   },
   {
@@ -268,7 +268,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Research <res>Mining I</res> at the Level 2 <bd>Workshop</bd> to unlock Level 2 <bd>Surface Mine</bd> and Level 1 <bd>Shaft Mine</bd> and be able to mine <nr>Coal</nr> and <nr>Iron ore</nr>.",
-    "Italian": "Ricerca <res>Estrazione I</res> al <bd>Laboratorio</bd> Livello 2 per sbloccare la <bd>Miniera di Superficie</bd> Livello 2 e la <bd>Miniera</bd> Livello 1 in modo da poter estrarre <nr>Carbone</nr> e <nr>Ferro grezzo</nr>",
+    "Italian": "Ricerca <res>Estrazione I</res> al <bd>Laboratorio</bd> Livello 2 per sbloccare la <bd>Miniera di Superficie</bd> Livello 2 e la <bd>Miniera</bd> Livello 1 in modo da poter estrarre <nr>Carbone</nr> e <nr>Ferro grezzo</nr>.",
     "Verify": ""
   },
   {
@@ -276,7 +276,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Research <res>Mining I</res>!",
-    "Italian": "Ricerca <res>Estrazione I</res>",
+    "Italian": "Ricerca <res>Estrazione I</res>!",
     "Verify": ""
   },
   {
@@ -348,7 +348,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Consider placing related supply and demands building closer as well as using transport rules at road posts or harbours to control how resources move around your colony. Click on any roads to find out more.",
-    "Italian": "Considera di piazzare gli edifici per la produzione di risorse vicini a quelli che le richiedono, oltre ad usare le regole di trasporto agli incroci e i porti per controllare come le risorse vengono trasportate nella tua colonia. Clicca su una strada per scoprire di più",
+    "Italian": "Considera di piazzare gli edifici per la produzione di risorse vicini a quelli che le richiedono, oltre ad usare le regole di trasporto agli incroci e i porti per controllare come le risorse vengono trasportate nella tua colonia. Clicca su una strada per scoprire di più.",
     "Verify": ""
   },
   {
@@ -380,7 +380,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "To create <it>Iron</it> a <bd>Blast Furnace</bd> needs either <it>Charcoal</it> from a <bd>Charcoal Burner</bd> or <it>Coal</it> from a <bd>Surface Mine</bd> or <bd>Shaft Mine</bd>.",
-    "Italian": "Per creare <it>Ferro</it> un <bd>Altoforno</bd> ha bisogno di <it>Carbonella</it> da un <bd>Bruciatore di Carbonella</bd> o di <it>Carbone</it> da una <bd>Miniera di Superficie</bd> o da una <bd>Miniera</bd>",
+    "Italian": "Per creare <it>Ferro</it> un <bd>Altoforno</bd> ha bisogno di <it>Carbonella</it> da un <bd>Bruciatore di Carbonella</bd> o di <it>Carbone</it> da una <bd>Miniera di Superficie</bd> o da una <bd>Miniera</bd>.",
     "Verify": ""
   },
   {
@@ -1116,7 +1116,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Bakes <it>Bread</it> from <it>Flour</it> and <it>Water</it> using <cat>Coal</cat>.",
-    "Italian": "Prepara il <it>Pane</it> con <it>Farina</it> e <it>Acqua</it> utilizzando <cat>Carbone</cat>",
+    "Italian": "Prepara il <it>Pane</it> con <it>Farina</it> e <it>Acqua</it> utilizzando <cat>Carbone</cat>.",
     "Verify": ""
   },
   {
@@ -1148,7 +1148,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Mills <it>Flour</it> from <it>Wheat</it>.",
-    "Italian": "Macina il <it>Grano</it> in <it>Farina</it>",
+    "Italian": "Macina il <it>Grano</it> in <it>Farina</it>.",
     "Verify": ""
   },
   {
@@ -1276,7 +1276,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Creates <it>Charcoal</it> from <it>Logs</it>.",
-    "Italian": "Crea <it>Carbonella</it> dai <it>Tronchi</it>",
+    "Italian": "Crea <it>Carbonella</it> dai <it>Tronchi</it>.",
     "Verify": ""
   },
   {
@@ -1412,7 +1412,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Creates <it>Tools</it> from <it>Iron</it> and <it>Planks</it> using <cat>Fuel</cat>.",
-    "Italian": "Crea <it>Strumenti</it> da <it>Ferro</it> e <it>Assi</it> utilizzando <cat>Carburante</cat>",
+    "Italian": "Crea <it>Strumenti</it> da <it>Ferro</it> e <it>Assi</it> utilizzando <cat>Carburante</cat>.",
     "Verify": ""
   },
   {
@@ -1444,7 +1444,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Creates <it>Books</it> using <it>Paper</it> and <it>Leather</it>.",
-    "Italian": "Crea <it>Libri</it> utilizzando <it>Carta</it> e <it>Pelle</it>",
+    "Italian": "Crea <it>Libri</it> utilizzando <it>Carta</it> e <it>Pelle</it>.",
     "Verify": ""
   },
   {
@@ -1476,7 +1476,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Creates <it>Iron</it> from <it>Iron Ore</it> using <cat>Fuel</cat>.",
-    "Italian": "Crea <it>Ferro</it> da <it>Ferro grezzo</it> utilizzando <cat>Carburante</cat>",
+    "Italian": "Crea <it>Ferro</it> da <it>Ferro grezzo</it> utilizzando <cat>Carburante</cat>.",
     "Verify": ""
   },
   {
@@ -1764,7 +1764,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Research new technologies.",
-    "Italian": "Ricerca nuove tecnologie",
+    "Italian": "Ricerca nuove tecnologie.",
     "Verify": ""
   },
   {
@@ -1892,7 +1892,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Creates <it>Steel</it> from <it>Iron</it> using <cat>Fuel</cat>.",
-    "Italian": "Crea <it>Acciaio</it> da <it>Ferro</it> utilizzando <cat>Carburante</cat>",
+    "Italian": "Crea <it>Acciaio</it> da <it>Ferro</it> utilizzando <cat>Carburante</cat>.",
     "Verify": ""
   },
   {
@@ -2500,7 +2500,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "All filters are turned off!",
-    "Italian": "Tutti i filtri sono disattivati",
+    "Italian": "Tutti i filtri sono disattivati!",
     "Verify": ""
   },
   {
@@ -2524,7 +2524,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "No recently delivered resources match the filters.",
-    "Italian": "Nessuna risorsa consegnata di recente corrisponde ai filtri",
+    "Italian": "Nessuna risorsa consegnata di recente corrisponde ai filtri.",
     "Verify": ""
   },
   {
@@ -3236,7 +3236,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Researchbot is currently idle.",
-    "Italian": "BotRicercatore è attualmente inattivo",
+    "Italian": "BotRicercatore è attualmente inattivo.",
     "Verify": ""
   },
   {
@@ -3700,7 +3700,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Control the resources that [vh] will load at this stop for <bd>[bd]</bd>.",
-    "Italian": "Controlla le risorse che [vh] caricherà a questa fermata per <bd>[bd]</bd>",
+    "Italian": "Controlla le risorse che [vh] caricherà a questa fermata per <bd>[bd]</bd>.",
     "Verify": ""
   },
   {
@@ -4556,7 +4556,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "This sub-panel lists resources recently delivered to a production building. You can filter the results by 'On Time', 'Warning' and 'Alert' and you can select any entry to see the route it took. The percentage number indicates the time the journey took compared to the time needed to maintain 100% productivity at the destination building.\n\nFor example, a <bd>Lumberjack Hut</bd> requires <it>Energy</it> at a rate of one per day and can store up to four <it>Energy</it> resources as a buffer. If an <it>Energy</it> resource takes 4.5 days to arrive, it will be listed here as 112% as if that journey time was consistent then resources wouldn't arrive quickly enough to maintain 100% productivity.\n\nThis is just one factor When taking into account whether a building can work at 100% as you also need to take into account whether there is enough of that resource being produced in the first place.\n\nIt is usually optimal to place a building that supply another building close together so that supply routes are short. Sometimes this is not possible but to work around this you can build <bd>Storage Yards</bd> near your destination to create an extra supply 'buffer'.\n\nFor example, if you have a remote <bd>Mine</bd>, you can build a nearby <bd>Storage Yard</bd> to keep a supply of <it>Energy</it> nearby. If you do this bear in mind that, by default, the <it>Energy</it> stored there will still be available to other buildings, potentially far away. There are two options to make it so that <it>Energy</it> only goes to that <bd>Mine</bd>:\n\nFirstly you could limit the export buildings in the <bd>Storage Yard</bd> settings to just your <bd>Mine</bd>. Secondly you could create a transport rule on a road post to only allow <it>Energy</it> to pass through if going to a <bd>Storage Yard</bd>.",
-    "Italian": "Questo pannello secondario elenca le risorse consegnate di recente a un edificio di produzione. Puoi filtrare i risultati in base a\" In orario\",\" Allerta\" e \"Allarme\" e puoi selezionare qualsiasi voce per vedere il percorso seguito. Il numero percentuale indica che il tempo impiegato per il viaggio rispetto al tempo necessario per mantenere la produttività del 100% nell'edificio di destinazione.\n\nAd esempio, una <bd>Capanna del Taglialegna</bd> richiede <it>Energia</it> al prezzo di una unità al giorno e può archiviare fino a quattro risorse <it>Energia</it> come buffer. Se una risorsa <it>Energia</it> impiega 4,5 giorni per arrivare, verrà elencata qui come 112% come se quel tempo di viaggio fosse coerente, quindi le risorse non arriverebbero abbastanza rapidamente per mantenere una produttività del 100%.\n\nQuesto è solo uno dei fattori. Quando si tiene conto del fatto che un edificio possa funzionare al 100%, si deve anche tenere conto del fatto che in primo luogo viene prodotta abbastanza quella risorsa.\n\nDi solito è ottimale posizionare un edificio che rifornisca un altro edificio vicino in modo che i percorsi di approvvigionamento siano brevi. A volte ciò non è possibile, ma per ovviare a questo problema è possibile creare <bd>Depositi</bd> vicino alla destinazione per creare un \"buffer\" di approvvigionamento aggiuntivo.\n\nAd esempio, se possiedi una <bd>Miniera</bd> remota, puoi costruire un <bd>Deposito</bd> nelle vicinanze per mantenere un rifornimento di <it>Energia</it> nelle vicinanze. Se lo fai, tieni presente che, per impostazione predefinita, l '<it>Energia</it> immagazzinata sarà comunque disponibile per altri edifici, potenzialmente lontani. Ci sono due opzioni per farlo in modo che <it>Energia</it> vada solo a quella <bd>Miniera</bd>.\n\nIn primo luogo potresti limitare gli edifici di esportazione nelle impostazioni <bd>Deposito </bd> solo alla tua <bd>Miniera</bd>. In secondo luogo, è possibile creare una regola di trasporto su un Palo Stradale per consentire il passaggio di <it>Energia</it> solo se si va in un <bd>Deposito</bd>.",
+    "Italian": "Questo pannello secondario elenca le risorse consegnate di recente a un edificio di produzione. Puoi filtrare i risultati in base a\" In orario\",\" Allerta\" e \"Allarme\" e puoi selezionare qualsiasi voce per vedere il percorso seguito. Il numero percentuale indica che il tempo impiegato per il viaggio rispetto al tempo necessario per mantenere la produttività del 100% nell'edificio di destinazione.\n\nAd esempio, una <bd>Capanna del Taglialegna</bd> richiede <it>Energia</it> al prezzo di una unità al giorno e può archiviare fino a quattro risorse <it>Energia</it> come buffer. Se una risorsa <it>Energia</it> impiega 4,5 giorni per arrivare, verrà elencata qui come 112% come se quel tempo di viaggio fosse coerente, quindi le risorse non arriverebbero abbastanza rapidamente per mantenere una produttività del 100%.\n\nQuesto è solo uno dei fattori. Quando si tiene conto del fatto che un edificio possa funzionare al 100%, si deve anche tenere conto del fatto che in primo luogo viene prodotta abbastanza quella risorsa.\n\nDi solito è ottimale posizionare un edificio che rifornisca un altro edificio vicino in modo che i percorsi di approvvigionamento siano brevi. A volte ciò non è possibile, ma per ovviare a questo problema è possibile creare <bd>Depositi</bd> vicino alla destinazione per creare un \"buffer\" di approvvigionamento aggiuntivo.\n\nAd esempio, se possiedi una <bd>Miniera</bd> remota, puoi costruire un <bd>Deposito</bd> nelle vicinanze per mantenere un rifornimento di <it>Energia</it> nelle vicinanze. Se lo fai, tieni presente che, per impostazione predefinita, l '<it>Energia</it> immagazzinata sarà comunque disponibile per altri edifici, potenzialmente lontani. Ci sono due opzioni per farlo in modo che <it>Energia</it> vada solo a quella <bd>Miniera</bd>:\n\nIn primo luogo potresti limitare gli edifici di esportazione nelle impostazioni <bd>Deposito </bd> solo alla tua <bd>Miniera</bd>. In secondo luogo, è possibile creare una regola di trasporto su un Palo Stradale per consentire il passaggio di <it>Energia</it> solo se si va in un <bd>Deposito</bd>.",
     "Verify": ""
   },
   {
@@ -5316,7 +5316,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "The Story So Far...",
-    "Italian": "La storia finora",
+    "Italian": "La storia finora...",
     "Verify": ""
   },
   {
@@ -5675,7 +5675,7 @@
     "Key": "Item_0_FullDesc",
     "Type": "Text",
     "Desc": "",
-    "English": "Apples are harvested from apple trees at the <bd>Orchard</bd>. and used to make <it>Cider</it> at the <bd>Cider Press</bd>.",
+    "English": "Apples are harvested from apple trees at the <bd>Orchard</bd> and used to make <it>Cider</it> at the <bd>Cider Press</bd>.",
     "Italian": "Le mele vengono raccolte dagli alberi di mele nel <bd>Frutteto</bd> e usate per fare <it>sidro</it> alla <bd>Pressa per Sidro</bd>.",
     "Verify": ""
   },
@@ -7604,7 +7604,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Click to select an object.\n\n[Shift] + Click to remove an object.",
-    "Italian": "Clicca per selezionare un oggetto.\n\n[Shift] + Clic per rimuovere un oggetto",
+    "Italian": "Clicca per selezionare un oggetto.\n\n[Shift] + Clic per rimuovere un oggetto.",
     "Verify": ""
   },
   {
@@ -8036,7 +8036,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Click on an empty to snap to neighbour heights.",
-    "Italian": "Clicca una cella vuota per trasformarla all'altezza dei vicini",
+    "Italian": "Clicca una cella vuota per trasformarla all'altezza dei vicini.",
     "Verify": ""
   },
   {
@@ -8148,7 +8148,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "This Stone deposit can be harvested by the <bd>Level 1 Surface Mine</bd>.",
-    "Italian": "Questo deposito di Pietra può essere estratto con la <bd>Miniera di Superficie Livello 1</bd>",
+    "Italian": "Questo deposito di Pietra può essere estratto con la <bd>Miniera di Superficie Livello 1</bd>.",
     "Verify": ""
   },
   {
@@ -8164,7 +8164,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "This Iron Ore deposit can be harvested by the <bd>Level 2 Surface Mine</bd>.",
-    "Italian": "Questo deposito di Ferro grezzo può essere estratto con la <bd>Miniera di Superficie Livello 2</bd>",
+    "Italian": "Questo deposito di Ferro grezzo può essere estratto con la <bd>Miniera di Superficie Livello 2</bd>.",
     "Verify": ""
   },
   {
@@ -8196,7 +8196,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "This Coal deposit can be harvested by the <bd>Level 2 Surface Mine</bd>.",
-    "Italian": "Questo deposito di Carbone può essere estratto con la <bd>Miniera di Superficie Livello 2</bd>",
+    "Italian": "Questo deposito di Carbone può essere estratto con la <bd>Miniera di Superficie Livello 2</bd>.",
     "Verify": ""
   },
   {
@@ -8212,7 +8212,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "This Quartz deposit can be harvested by the <bd>Level 3 Surface Mine</bd>.",
-    "Italian": "Questo deposito di Quarzo può essere estratto con la <bd>Miniera di Superficie Livello 3</bd>",
+    "Italian": "Questo deposito di Quarzo può essere estratto con la <bd>Miniera di Superficie Livello 3</bd>.",
     "Verify": ""
   },
   {
@@ -8228,7 +8228,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "This Gold deposit can be harvested by the <bd>Level 3 Surface Mine</bd>.",
-    "Italian": "Questo deposito di Oro può essere estratto con la <bd>Miniera di Superficie Livello 3</bd>",
+    "Italian": "Questo deposito di Oro può essere estratto con la <bd>Miniera di Superficie Livello 3</bd>.",
     "Verify": ""
   },
   {
@@ -8244,7 +8244,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "This Clay deposit can be harvested by the <bd>Level 2 Surface Mine</bd>.",
-    "Italian": "Questo deposito di Argilla può essere estratto con la <bd>Miniera di Superficie Livello 2</bd>",
+    "Italian": "Questo deposito di Argilla può essere estratto con la <bd>Miniera di Superficie Livello 2</bd>.",
     "Verify": ""
   },
   {
@@ -8260,7 +8260,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "This Salt deposit can be harvested by the <bd>Level 2 Surface Mine</bd>.",
-    "Italian": "Questo deposito di Sale può essere estratto con la <bd>Miniera di Superficie Livello 2</bd>",
+    "Italian": "Questo deposito di Sale può essere estratto con la <bd>Miniera di Superficie Livello 2</bd>.",
     "Verify": ""
   },
   {
@@ -8596,7 +8596,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "<nr> available!",
-    "Italian": "<nr> disponibile",
+    "Italian": "<nr> disponibile!",
     "Verify": ""
   },
   {
@@ -9260,7 +9260,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Gain Reputation: <reputation>.",
-    "Italian": "Ottieni reputazione: <reputation>",
+    "Italian": "Ottieni reputazione: <reputation>.",
     "Verify": ""
   },
   {
@@ -9356,7 +9356,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Explore the oceans and expand your colony.",
-    "Italian": "Esplora gli oceani ed espandi la tua colonia",
+    "Italian": "Esplora gli oceani ed espandi la tua colonia.",
     "Verify": ""
   },
   {
@@ -9372,7 +9372,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "You meet someone familiar.",
-    "Italian": "Incontri qualcuno di familiare",
+    "Italian": "Incontri qualcuno di familiare.",
     "Verify": ""
   },
   {
@@ -10276,7 +10276,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Unlocks mining of <nr>Coal</nr>, <nr>Iron Ore</nr>, <nr>Clay</nr> at <bd>Level 2 Surface Mine</bd> and <bd>Level 1 Shaft Mine</bd>.",
-    "Italian": "Sblocca l'estrazione di <nr>Carbone</nr>, <nr>Ferro grezzo</nr>, <nr>Argilla</nr> presso <bd>Miniera di Superficie Livello 2</bd> e <bd>Miniera Livello 1</bd>",
+    "Italian": "Sblocca l'estrazione di <nr>Carbone</nr>, <nr>Ferro grezzo</nr>, <nr>Argilla</nr> presso <bd>Miniera di Superficie Livello 2</bd> e <bd>Miniera Livello 1</bd>.",
     "Verify": ""
   },
   {
@@ -10292,7 +10292,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Unlocks mining of <nr>Salt</nr>, <nr>Quartz</nr> and <nr>Gold</nr> at <bd>Level 3 Surface Mine</bd> and <bd>Level 2 Shaft Mine</bd>.",
-    "Italian": "Sblocca l'estrazione di <nr>Sale</nr>, <nr>Quarzo</nr> e <nr>Oro</nr> presso <bd>Miniera di Superficie Livello 3</bd> e <bd>Miniera Livello 2</bd>",
+    "Italian": "Sblocca l'estrazione di <nr>Sale</nr>, <nr>Quarzo</nr> e <nr>Oro</nr> presso <bd>Miniera di Superficie Livello 3</bd> e <bd>Miniera Livello 2</bd>.",
     "Verify": ""
   },
   {
@@ -10356,7 +10356,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Unlocks construction of more advanced buildings.",
-    "Italian": "Sblocca la costruzione di edifici più avanzati",
+    "Italian": "Sblocca la costruzione di edifici più avanzati.",
     "Verify": ""
   },
   {
@@ -10372,7 +10372,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Unlocks construction of more advanced buildings.",
-    "Italian": "Sblocca la costruzione di edifici più avanzati",
+    "Italian": "Sblocca la costruzione di edifici più avanzati.",
     "Verify": ""
   },
   {
@@ -10484,7 +10484,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Unlocks construction of more advanced buildings.",
-    "Italian": "Sblocca la costruzione di edifici più avanzati",
+    "Italian": "Sblocca la costruzione di edifici più avanzati.",
     "Verify": ""
   },
   {
@@ -10900,7 +10900,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Use <hotkey>[H]</hotkey> to jump back to your <bd>Colony Ship</bd>.",
-    "Italian": "Utilizza <hotkey>[H]</hotkey> per tornare alla <bd>Nave della Colonia</bd>",
+    "Italian": "Utilizza <hotkey>[H]</hotkey> per tornare alla <bd>Nave della Colonia</bd>.",
     "Verify": ""
   },
   {
@@ -10980,7 +10980,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "You can help alleviate busy roads by upgrading them with the <bd>Road Layer</bd> building.",
-    "Italian": "Puoi alleviare il traffico sulle strade trafficate migliorandole con il <bd>Manto Stradale</bd>",
+    "Italian": "Puoi alleviare il traffico sulle strade trafficate migliorandole con il <bd>Manto Stradale</bd>.",
     "Verify": ""
   },
   {
@@ -11508,7 +11508,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "At last, terra firma!\nWe have finally reached a habitable planet and we can set our wheels to ground.",
-    "Italian": "Finalmente, terraferma!\nAbbiamo finalmente raggiungo un pianeta abitabile e possiamo mettere le ruote a terra!",
+    "Italian": "Finalmente, terraferma!\nAbbiamo finalmente raggiungo un pianeta abitabile e possiamo mettere le ruote a terra.",
     "Verify": ""
   },
   {
@@ -11532,7 +11532,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Pan the camera using <hotkey>[W]</hotkey><hotkey>[A]</hotkey><hotkey>[S]</hotkey><hotkey>[D]</hotkey>.",
-    "Italian": "Muovi la visuale utilizzando\n<hotkey>[W]</hotkey><hotkey>[A]</hotkey><hotkey>[S]</hotkey><hotkey>[D]</hotkey>",
+    "Italian": "Muovi la visuale utilizzando\n<hotkey>[W]</hotkey><hotkey>[A]</hotkey><hotkey>[S]</hotkey><hotkey>[D]</hotkey>.",
     "Verify": ""
   },
   {
@@ -11540,7 +11540,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Rotate the camera using <hotkey>[Q]</hotkey><hotkey>[E]</hotkey>.",
-    "Italian": "Ruota la visuale utilizzando <hotkey>[Q]</hotkey><hotkey>[E]</hotkey>",
+    "Italian": "Ruota la visuale utilizzando <hotkey>[Q]</hotkey><hotkey>[E]</hotkey>.",
     "Verify": ""
   },
   {
@@ -11572,7 +11572,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "<hotkey>Right-click</hotkey> and drag to move about the world as well as move the mouse to the edge of screen.",
-    "Italian": "<hotkey>Click-destro</hotkey> e trascina per muoverti per il mondo, oppure trascina il mouse al bordo dello schermo-",
+    "Italian": "<hotkey>Click-destro</hotkey> e trascina per muoverti per il mondo, oppure trascina il mouse al bordo dello schermo.",
     "Verify": ""
   },
   {
@@ -11596,7 +11596,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "You can use <hotkey>[F]</hotkey> to flip a building's orientation.\nUse <hotkey>[F]</hotkey> to flip and <hotkey>[R]</hotkey> to rotate to build a <bd>Fishing Hut</bd> on the highlighted location.",
-    "Italian": "Ora puoi utilizzare <hotkey>[F]</hotkey> per specchiare un edificio.\nUtilizza <hotkey>[F]</hotkey> per capovolgere e <hotkey>[R]</hotkey> per ruotare per costruire una <bd>Capanna da Pesca</bd> sulle caselle evidenziate",
+    "Italian": "Ora puoi utilizzare <hotkey>[F]</hotkey> per specchiare un edificio.\nUtilizza <hotkey>[F]</hotkey> per capovolgere e <hotkey>[R]</hotkey> per ruotare per costruire una <bd>Capanna da Pesca</bd> sulle caselle evidenziate.",
     "Verify": ""
   },
   {
@@ -11764,7 +11764,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Your Carrybots can now transport the <it>Logs</it> along the roads to the road post outside the <bd>Lumberjack Hut</bd>.\nThe Stackbot for the <bd>Lumberjack Hut</bd> will then pick up the resources and the Buildbot will then be able to construct the building.\nLet's watch!",
-    "Italian": "Il tuo BotTrasportatore può ora trasportare i <it>Tronchi</it> lungo la strada fino al palo stradale fuori dalla <bd>Capanna del Taglialegna</bd>.\nIl BotImpilatore della <bd>Capanna del Taglialegna</bd> quindi prenderà le risorse e il BotCostruttore sarà pronto a costruire l'edificio!\nStiamo a vedere!",
+    "Italian": "Il tuo BotTrasportatore può ora trasportare i <it>Tronchi</it> lungo la strada fino al palo stradale fuori dalla <bd>Capanna del Taglialegna</bd>.\nIl BotImpilatore della <bd>Capanna del Taglialegna</bd> quindi prenderà le risorse e il BotCostruttore sarà pronto a costruire l'edificio.\nStiamo a vedere!",
     "Verify": ""
   },
   {
@@ -11788,7 +11788,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Now let's wait for the <bd>Watchtower</bd> to finish construction.\nRemember you can change the game speed with <hotkey>[Z]</hotkey> and <hotkey>[X]</hotkey>.",
-    "Italian": "Ora aspettiamo che la <bd>Torre di Guardia</bd> sia costruita.\nRicorda che puoi cambiare la velocità di gioco con <hotkey>[Z]</hotkey> e <hotkey>[X]</hotkey>",
+    "Italian": "Ora aspettiamo che la <bd>Torre di Guardia</bd> sia costruita.\nRicorda che puoi cambiare la velocità di gioco con <hotkey>[Z]</hotkey> e <hotkey>[X]</hotkey>.",
     "Verify": ""
   },
   {
@@ -11868,7 +11868,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Great, you've researched <res>Construction I</res>!\nThis means you've unlocked a new range of buildings and the ability to upgrade some existing ones.",
-    "Italian": "Bene! Hai ricercato <res>Costruzione I</res>!\nQuesto significa che hai sbloccato nuovi edifici e l'abilità di migliorare alcuni edifici esistenti.",
+    "Italian": "Bene, hai ricercato <res>Costruzione I</res>!\nQuesto significa che hai sbloccato nuovi edifici e l'abilità di migliorare alcuni edifici esistenti.",
     "Verify": ""
   },
   {
@@ -11884,7 +11884,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "<it>Energy L2</it> is generated by Level 2 <bd>Residences</bd>.\nYou can either upgrade Level 1 <bd>Residences</bd> via the building's upgrade panel or you can construct the building from scratch.\nYour next job is to create your first Level 2 <bd>Workshop</bd> and your first Level 2 <bd>Residence</bd>!",
-    "Italian": "L'<it>Energia L2</it> è generata dalle <bd>Residenze</bd> Livello 2.\nPuoi migliorare le <bd>Residenze</bd> Livello 1 attraverso il pannello migliora dell'edificio o puoi costruirle da zero.\nIl tuo prossimo incarico è di creare il tuo primo <bd>Laboratorio</bd> Livello 2 e la tua prima <bd>Residenza</bd> Livello 2.",
+    "Italian": "L'<it>Energia L2</it> è generata dalle <bd>Residenze</bd> Livello 2.\nPuoi migliorare le <bd>Residenze</bd> Livello 1 attraverso il pannello migliora dell'edificio o puoi costruirle da zero.\nIl tuo prossimo incarico è di creare il tuo primo <bd>Laboratorio</bd> Livello 2 e la tua prima <bd>Residenza</bd> Livello 2!",
     "Verify": ""
   },
   {
@@ -11900,7 +11900,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Here you can see the mission goal as well as advice, warnings and tips if you need them.\nYou can also click on each advice item for more information.\nGood luck!",
-    "Italian": "Qui puoi vedere gli obiettivi di missione insieme ai suggerimenti e agli avvisi se ne hai bisogno.\nPuoi anche cliccare su ciascun suggerimento per ulteriori informazioni!\nBuona fortuna!",
+    "Italian": "Qui puoi vedere gli obiettivi di missione insieme ai suggerimenti e agli avvisi, se ne hai bisogno.\nPuoi anche cliccare su ciascun suggerimento per ulteriori informazioni.\nBuona fortuna!",
     "Verify": ""
   },
   {
@@ -11964,7 +11964,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Your expedition boat is ready!\nSelect it to enter navigation mode. You can now click on a water tile to explore the ocean and discover new islands.\nYou can check the Map (<hotkey>[M]</hotkey>) screen to see where the hidden resources are located.\nOnce you've found a new island, use the 'Build Harbour' option on the boat panel to construct a new <bd>Harbour</bd> your new land.",
-    "Italian": "La tua barca da spedizione è pronta!\nSelezionala per entrare in modalità navigazione. Puoi ora cliccare su una casella d'acqua per esplorare l'oceano e scoprire nuove isole.\nPuoi controllare la mappa (<hotkey>[M]</hotkey>) per vedere dove sono le risorse nascoste-\nUna volta che hai trovato una nuova isola, utilizza l'opzione 'Costruisci Porto' nel pannello della barca per costruire un nuovo <bd>Porto</bd> sulla nuova terra.",
+    "Italian": "La tua barca da spedizione è pronta!\nSelezionala per entrare in modalità navigazione. Puoi ora cliccare su una casella d'acqua per esplorare l'oceano e scoprire nuove isole.\nPuoi controllare la mappa (<hotkey>[M]</hotkey>) per vedere dove sono le risorse nascoste.\nUna volta che hai trovato una nuova isola, utilizza l'opzione 'Costruisci Porto' nel pannello della barca per costruire un nuovo <bd>Porto</bd> sulla nuova terra.",
     "Verify": ""
   },
   {
@@ -11988,7 +11988,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "You've researched <res>Mining I</res>!\nYou can now build Level 2 <bd>Surface Mines</bd> and Level 1 <bd>Shaft Mines</bd> which can mine <nr>Coal</nr> and <nr>Iron Ore</nr>.",
-    "Italian": "Hai ricercato <res>Estrazione Mineraria I</res>!\nOra puoi costruire la <bd>Miniera di Superficie</bd> Livello 2 e la <bd>Miniera</bd> Livello 1 che può estrarre <nr>Carbone</nr> e <nr>Ferro grezzo</nr>",
+    "Italian": "Hai ricercato <res>Estrazione Mineraria I</res>!\nOra puoi costruire la <bd>Miniera di Superficie</bd> Livello 2 e la <bd>Miniera</bd> Livello 1 che può estrarre <nr>Carbone</nr> e <nr>Ferro grezzo</nr>.",
     "Verify": ""
   },
   {
@@ -12028,7 +12028,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "You now have access to a Level 2 Surface Mine! Click the tab at the top of the construction panel to change the level of the building.\nLevel 2 Surface Mines bots are powered by <it>Energy L2</it> and can mine <nr>Coal</nr>, <nr>Iron Ore</nr> and <nr>Clay</nr> as well as mining <nr>Stone</nr> faster.\nBut remember, you can always choose to build Level 1 Surface Mines to mine <nr>Stone</nr> if you prefer or in the event you run out of <it>Stone</it> to construct Level 2 Surface Mines.",
-    "Italian": "Ora hai accesso alla Miniera di Superficie Livello 2! Clicca sulla scheda in alto al pannello costruzione per cambiare il livello dell'edificio.\nI Bot della Miniera di Superficie Livello 2 utilizzano <it>Energia L2</it> e possono estrarre <nr>Carbone</nr>, <nr>Ferro grezzo</nr> e <nr>Argilla</nr> oltre ad estrarre <nr>Pietra</nr> più velocemente.\nMa ricorda, puoi sempre costruire una Miniera di Superficie L1 per estrarre <nr>Pietra</nr> se lo preferisci o se non hai abbastanza <it>Pietra</it> per costruire una Miniera di Superficie Livello 2",
+    "Italian": "Ora hai accesso alla Miniera di Superficie Livello 2! Clicca sulla scheda in alto al pannello costruzione per cambiare il livello dell'edificio.\nI Bot della Miniera di Superficie Livello 2 utilizzano <it>Energia L2</it> e possono estrarre <nr>Carbone</nr>, <nr>Ferro grezzo</nr> e <nr>Argilla</nr> oltre ad estrarre <nr>Pietra</nr> più velocemente.\nMa ricorda, puoi sempre costruire una Miniera di Superficie L1 per estrarre <nr>Pietra</nr> se lo preferisci o se non hai abbastanza <it>Pietra</it> per costruire una Miniera di Superficie Livello 2.",
     "Verify": ""
   },
   {
@@ -12068,7 +12068,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "You now have access to a Level 2 Watchtower!\nWhile Level 2 Watchtowers give more territory they do require <it>Planks</it> and <it>Stone</it> for construction.\nSo if you don't have access to, or don't wish to use your <it>Stone</it> you are always able to expand your territory using Level 1 Watchtowers.",
-    "Italian": "Ora hai accesso alle Torri di Guardia Livello 2!\nAnche se forniscono più territorio, hanno bisogno di <it>Assi</it> e <it>Pietra</it> per essere costruite.\nQuindi se non ne hai, o non vuoi utilizzare la <it>Pietra</it>, puoi sempre espanderti con le Torri di Guardia Livello 1",
+    "Italian": "Ora hai accesso alle Torri di Guardia Livello 2!\nAnche se forniscono più territorio, hanno bisogno di <it>Assi</it> e <it>Pietra</it> per essere costruite.\nQuindi se non ne hai, o non vuoi utilizzare la <it>Pietra</it>, puoi sempre espanderti con le Torri di Guardia Livello 1.",
     "Verify": ""
   },
   {
@@ -12420,7 +12420,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Yes, Unpublish!",
-    "Italian": "Si, rimuovilo dalle pubblicazioni",
+    "Italian": "Si, rimuovilo dalle pubblicazioni!",
     "Verify": ""
   },
   {
@@ -12604,7 +12604,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "You cannot give instructions to this boat until construction has been completed.",
-    "Italian": "Non puoi dare istruzioni a questa barca finché non è stata costruita",
+    "Italian": "Non puoi dare istruzioni a questa barca finché non è stata costruita.",
     "Verify": ""
   },
   {
@@ -12636,7 +12636,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "You don't yet have enough harbours to be able to create a route.",
-    "Italian": "Non hai abbastanza porti per creare un percorso",
+    "Italian": "Non hai abbastanza porti per creare un percorso.",
     "Verify": ""
   },
   {
@@ -14004,7 +14004,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Setting road post rules is disabled for the first mission.",
-    "Italian": "Le impostazioni dei pali stradali sono disabilitate per questa missione",
+    "Italian": "Le impostazioni dei pali stradali sono disabilitate per questa missione.",
     "Verify": ""
   },
   {
@@ -14068,7 +14068,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Click a water tile for the boat to navigate to.",
-    "Italian": "Clicca una casella d'acqua per navigarci",
+    "Italian": "Clicca una casella d'acqua per navigarci.",
     "Verify": ""
   },
   {
@@ -14108,7 +14108,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Cancel the expedition to assign this boat to a trade route instead.",
-    "Italian": "Annulla la spedizione per assegnare questa barca ad una rotta commerciale",
+    "Italian": "Annulla la spedizione per assegnare questa barca ad una rotta commerciale.",
     "Verify": ""
   },
   {
@@ -14348,7 +14348,7 @@
     "Type": "Text",
     "Desc": "{0}: building, {1}:hotkey",
     "English": "Are you sure you want to destroy {0}?\n\nHold [{1}] to skip this message.",
-    "Italian": "Sei sicuro di voler distruggere {0}?\n\nTieni premuto [{1}] per saltare questo messaggio",
+    "Italian": "Sei sicuro di voler distruggere {0}?\n\nTieni premuto [{1}] per saltare questo messaggio.",
     "Verify": ""
   },
   {
@@ -15452,7 +15452,7 @@
     "Type": "Text",
     "Desc": "{0}: amount of stone",
     "English": "{0} stone available!",
-    "Italian": "{0} pietra disponibile",
+    "Italian": "{0} pietra disponibile!",
     "Verify": ""
   },
   {
@@ -15604,7 +15604,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Well done! You captured all the Colony Ships!",
-    "Italian": "Molto bene! Hai catturato tutte le Navi delle Colonie",
+    "Italian": "Molto bene! Hai catturato tutte le Navi delle Colonie!",
     "Verify": ""
   },
   {
@@ -15724,7 +15724,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Use unsupported elevated railways to span gaps and obstacles that could otherwise not be reached.",
-    "Italian": "Usa ferrovie sopraelevate senza supporti per superare ostacoli e raggiungere punti che altrimenti non potrebbero essere raggiunti",
+    "Italian": "Usa ferrovie sopraelevate senza supporti per superare ostacoli e raggiungere punti che altrimenti non potrebbero essere raggiunti.",
     "Verify": ""
   },
   {
@@ -16148,7 +16148,7 @@
     "Type": "Text",
     "Desc": "When selecting export rules for a building",
     "English": "You currently have no buildings that {0} can export to.",
-    "Italian": "Non hai edifici in cui esportare {0}",
+    "Italian": "Non hai edifici in cui esportare {0}.",
     "Verify": ""
   },
   {
@@ -16156,7 +16156,7 @@
     "Type": "Text",
     "Desc": "When selecting import rules for a building",
     "English": "You currently have no buildings that {0} can import from.",
-    "Italian": "Non hai edifici da cui importare {0}",
+    "Italian": "Non hai edifici da cui importare {0}.",
     "Verify": ""
   },
   {
@@ -16500,7 +16500,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "<cat>Food</cat> is needed by all <bd>Residences</bd> and can be <it>Fish</it>, <it>Meat</it> or <it>Pumpkins</it>.",
-    "Italian": "<cat>Cibo</cat> è richiesto da tutte le <bd>Residenze</bd> e può essere <it>Pesce</it>, <it>Carne</it> o <it>Zucche</it>",
+    "Italian": "<cat>Cibo</cat> è richiesto da tutte le <bd>Residenze</bd> e può essere <it>Pesce</it>, <it>Carne</it> o <it>Zucche</it>.",
     "Verify": ""
   }
 ]
