@@ -12,3 +12,14 @@ python main.py filename.csv
 ```
 **Remember:** you need to use it on **your** csv file, **not the main one** with **all* the languages.
 Simply go to **your** sheet and export it using File -> Download as -> Comma-separated values.
+
+## Validator steps
+Here's what the validator check:
+1. Open the file, checking it has the .csv extension, and check that the number of the columns is 6 or 7;
+1. If the line is in the `lines_to_ignore[]` array the check will skip it;
+1. Check that the **row parameters** are valid. For example, if in english there is a `{0}` that must be present also in the translated string; 
+This check will count how many parameters in format `{n}` are present and will validate the translated string;
+1. Check that the **row symbol-grammar** is correct. For example, if the english phrase ends with '!' or with '.', the translation string must contain the same symbols;
+1. Check that the **row tags** are valid. For example, if the english string has `<cat>String</cat>` the translated string must have `<cat>` and `</cat>` too.
+
+If none of these checks stops the program, the file is valid.

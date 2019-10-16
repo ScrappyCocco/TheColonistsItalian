@@ -20,7 +20,7 @@ class CSVValidator:
 
     @staticmethod
     def __csv_columns_validation(first_row: list) -> bool:
-        if len(first_row) != 7:
+        if len(first_row) > 7 or len(first_row) < 6:
             return False
         else:
             print("Column name confirmed valid:" + str(len(first_row)))
@@ -116,9 +116,9 @@ class CSVValidator:
                 print("THIS CHECK IS IGNORING FEW LINES, MAKE SURE THIS IS INTENDED")
                 print("-----")
             for row in csv_reader:
-                if line_counter == 0:
+                if line_counter == 1:
                     if not self.__csv_columns_validation(row):
-                        raise Exception("Column name not valid (LINE 1)! Found: " + str(len(row)) + " expected 7!")
+                        raise Exception("Column name not valid (LINE 1)! Found: " + str(len(row)) + " expected 6 or 7!")
                 else:
                     if line_counter in self.lines_to_ignore:
                         print("---Skipped line " + str(line_counter) + " because in ignore list!")
