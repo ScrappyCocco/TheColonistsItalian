@@ -10,9 +10,10 @@ from bs4 import BeautifulSoup
 
 
 class CSVValidator:
-
     # ---------------------------------------------------------------------
 
+    # List of lines to ignore
+    # For example [500, 1025] will make the check skip line 500 and line 1025
     lines_to_ignore = []
 
     # ---------------------------------------------------------------------
