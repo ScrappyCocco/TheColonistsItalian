@@ -83,6 +83,26 @@ class CSVValidator:
         # Everything is fine
         return True
 
+    @staticmethod
+    def __row_grammar_validation(row: list) -> bool:
+        elements_to_check = [",", ".", ":", "!"]
+        # Get the original content and the translated content
+        english_content = row[3]
+        translated_content = row[4]
+        for grammar_element in elements_to_check:
+            # Get the number of occurrences in english phrase
+            en_count = english_content.count(grammar_element)
+            # If the counter is not 0, check the translated content
+            for i in range(0, en_count):
+                # For every element check that's in the translated content
+                if grammar_element in translated_content:
+                    # If is present remove the occurrence
+                    translated_content = translated_content.replace(grammar_element, "", 1)
+                else:
+                    # If is not present return false
+                    return False
+        return True
+
     def process_file(self, filename: str):
         with open(filename, encoding="utf8") as csv_file:
             csv_reader = csv.reader(csv_file, delimiter=',')
@@ -96,6 +116,10 @@ class CSVValidator:
                         raise Exception("Looks like there is an error on ENTRY " + str(line_counter) + "!" +
                                         "The parameters (ex: {0}) looks invalid, check the line:\n'" + str(
                             row[4]) + "'")
+                    if not self.__row_grammar_validation(row):
+                        raise Exception("Looks like there is an error on ENTRY " + str(line_counter) + "!" +
+                                        "The grammar (ex: .(dot) or !(exclamation point)) looks invalid, "
+                                        "check the line:\n'" + str(row[4]) + "'")
                     if not self.__row_tags_validation(row):
                         raise Exception("Looks like there is an error on ENTRY " + str(line_counter) + "!" +
                                         "The tags looks invalid, check the line:\n'" + str(row[4]) + "'")
