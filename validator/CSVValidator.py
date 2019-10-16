@@ -13,6 +13,8 @@ class CSVValidator:
 
     # ---------------------------------------------------------------------
 
+    lines_to_ignore = []
+
     # ---------------------------------------------------------------------
 
     @staticmethod
@@ -107,21 +109,29 @@ class CSVValidator:
         with open(filename, encoding="utf8") as csv_file:
             csv_reader = csv.reader(csv_file, delimiter=',')
             line_counter = 1
+            if len(self.lines_to_ignore) > 0:
+                print("-----")
+                print("WARNING")
+                print("THIS CHECK IS IGNORING FEW LINES, MAKE SURE THIS IS INTENDED")
+                print("-----")
             for row in csv_reader:
                 if line_counter == 0:
                     if not self.__csv_columns_validation(row):
                         raise Exception("Column name not valid (LINE 1)! Found: " + str(len(row)) + " expected 7!")
                 else:
-                    if not self.__row_param_validation(row):
-                        raise Exception("Looks like there is an error on ENTRY " + str(line_counter) + "!" +
-                                        "The parameters (ex: {0}) looks invalid, check the line:\n'" + str(
-                            row[4]) + "'")
-                    if not self.__row_grammar_validation(row):
-                        raise Exception("Looks like there is an error on ENTRY " + str(line_counter) + "!" +
-                                        "The grammar (ex: .(dot) or !(exclamation point)) looks invalid, "
-                                        "check the line:\n'" + str(row[4]) + "'")
-                    if not self.__row_tags_validation(row):
-                        raise Exception("Looks like there is an error on ENTRY " + str(line_counter) + "!" +
-                                        "The tags looks invalid, check the line:\n'" + str(row[4]) + "'")
+                    if line_counter in self.lines_to_ignore:
+                        print("---Skipped line " + str(line_counter) + " because in ignore list!")
+                    else:
+                        if not self.__row_param_validation(row):
+                            raise Exception("Looks like there is an error on ENTRY " + str(line_counter) + "!" +
+                                            "The parameters (ex: {0}) looks invalid, check the line:\n'" + str(
+                                row[4]) + "'")
+                        if not self.__row_grammar_validation(row):
+                            raise Exception("Looks like there is an error on ENTRY " + str(line_counter) + "!" +
+                                            "The grammar (ex: .(dot) or !(exclamation point)) looks invalid, "
+                                            "check the line:\n'" + str(row[4]) + "'")
+                        if not self.__row_tags_validation(row):
+                            raise Exception("Looks like there is an error on ENTRY " + str(line_counter) + "!" +
+                                            "The tags looks invalid, check the line:\n'" + str(row[4]) + "'")
                 line_counter += 1
             print("For-loop Ended - No errors found...")
