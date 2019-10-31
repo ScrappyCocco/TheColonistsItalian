@@ -16300,7 +16300,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Vegetable Farm",
-    "Italian": "Fattoria di Verdure",
+    "Italian": "Campo di Verdure",
     "Verify": ""
   },
   {
@@ -16308,7 +16308,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Vegetable Farms",
-    "Italian": "Fattorie di Verdure",
+    "Italian": "Campi di Verdure",
     "Verify": ""
   },
   {
@@ -16324,7 +16324,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Vegetables are harvested at the <bd>Vegetable Farm</bd>.",
-    "Italian": "Le Verdure sono raccolte alla <bd>Fattoria di Verdure</bd>.",
+    "Italian": "Le Verdure sono raccolte al <bd>Campo di Verdure</bd>.",
     "Verify": ""
   },
   {
@@ -16332,7 +16332,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Vegetables are harvested at the <bd>Vegetable Farm</bd> and are consumed by <bd>Level 1 Residences</bd>.",
-    "Italian": "Le Verdure sono raccolte alla <bd>Fattoria di Verdure</bd> e sono consumate dalle <bd>Residenze di Livello 1</bd>.",
+    "Italian": "Le Verdure sono raccolte al <bd>Campo di Verdure</bd> e sono consumate dalle <bd>Residenze di Livello 1</bd>.",
     "Verify": ""
   },
   {
@@ -16508,7 +16508,7 @@
     "Type": "Text",
     "Desc": "These are the \"fields\" the player manually places",
     "English": "Pumpkin Patch",
-    "Italian": "Zona Zucche",
+    "Italian": "Orto(Zucche)",
     "Verify": ""
   },
   {
@@ -16516,7 +16516,7 @@
     "Type": "Text",
     "Desc": "These are the \"fields\" the player manually places",
     "English": "Pumpkin Patches",
-    "Italian": "Zone Zucche",
+    "Italian": "Orti(Zucche)",
     "Verify": ""
   },
   {
@@ -16524,7 +16524,7 @@
     "Type": "Text",
     "Desc": "These are the \"fields\" the player manually places",
     "English": "Vegetable Plot",
-    "Italian": "Zona Verdure",
+    "Italian": "Orto(Verdure)",
     "Verify": ""
   },
   {
@@ -16532,7 +16532,7 @@
     "Type": "Text",
     "Desc": "These are the \"fields\" the player manually places",
     "English": "Vegetable Plots",
-    "Italian": "Zone Verdure",
+    "Italian": "Orti(Verdure)",
     "Verify": ""
   },
   {
@@ -16580,7 +16580,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Pumpkin Patches",
-    "Italian": "Zone Zucche",
+    "Italian": "Orti(Zucche)",
     "Verify": ""
   },
   {
@@ -16604,7 +16604,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Pumpkin Patches",
-    "Italian": "Zone Zucche",
+    "Italian": "Orti(Zucche)",
     "Verify": ""
   },
   {
