@@ -88,7 +88,7 @@ class CSVValidator:
 
     @staticmethod
     def __row_grammar_validation(row: list) -> bool:
-        elements_to_check = [",", ".", ":", "!"]
+        elements_to_check = [",", ".", ":", "!", " - "]
         # Get the original content and the translated content
         english_content = row[3]
         translated_content = row[4]
