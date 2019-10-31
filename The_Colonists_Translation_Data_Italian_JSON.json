@@ -6867,8 +6867,8 @@
     "Key": "Item_46_FullDesc",
     "Type": "Text",
     "Desc": "",
-    "English": "Energy L3 is generated at <bd>Level 3 Residences</bd> from <cat>Food</cat>, <it>Water</it> and <cat>Alcohol</cat>.\nIt's used to power worker bots at the Level 3 <bd>Workshop</bd>, Level 3 <bd>Lumberjack Hut</bd>, Level 3 <bd>Surface Mine</bd> and Level 2 <bd>Shaft Mine</bd>.",
-    "Italian": "L'energia L3 è generata dalle <bd>Residenze di Livello 3</bd> utilizzando <cat>Cibo</cat>, <it>Acqua</it> e <cat>Alcol</cat>. È usata per potenziare i BotLavoratori al Livello 3 nel <bd>Laboratorio</bd>, le <bd>Capanne del Taglialegna</bd> al Livello 3, le <bd>Miniere di Superficie</bd> al Livello 3 e <bd>Miniere</bd> al Livello 2.",
+    "English": "Energy L3 is generated at <bd>Level 3 Residences</bd> from <cat>Food</cat>, <it>Water</it>, <cat>Alcohol</cat> and <cat>Luxury Food</cat>.\nIt's used to power worker bots at the Level 3 <bd>Workshop</bd>, Level 3 <bd>Lumberjack Hut</bd>, Level 3 <bd>Surface Mine</bd> and Level 2 <bd>Shaft Mine</bd>.",
+    "Italian": "L'energia L3 è generata dalle <bd>Residenze di Livello 3</bd> utilizzando <cat>Cibo</cat>, <it>Acqua</it>, <cat>Alcol</cat> e <cat>Cibo di lusso</cat>. È usata per potenziare i BotLavoratori al Livello 3 nel <bd>Laboratorio</bd>, le <bd>Capanne del Taglialegna</bd> al Livello 3, le <bd>Miniere di Superficie</bd> al Livello 3 e <bd>Miniere</bd> al Livello 2.",
     "Verify": ""
   },
   {
@@ -7268,7 +7268,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Casual - AI is less expansionist and generally more relaxed",
-    "Italian": "Facile: l'IA è meno espansionista e generalmente più rilassata",
+    "Italian": "Facile - L'IA è meno espansionista e generalmente più rilassata",
     "Verify": ""
   },
   {
@@ -10528,7 +10528,7 @@
     "Verify": ""
   },
   {
-    "Key": "Tech_66_Desc",
+    "Key": "Tech_66_Desc_Old",
     "Type": "Text",
     "Desc": "",
     "English": "Reduces boat construction time by <amount>%",
@@ -11996,7 +11996,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "You now have a Level 2 <bd>Residence</bd> which can generate <it>Energy L2</it>!\nLevel 2 <bd>Residences</bd> have an additional requirement though - <cat>Alcohol</cat>.\nBuild an <bd>Orchard</bd> and <bd>Cider Press</bd> to start producing <it>Cider</it>.",
-    "Italian": "Ora hai una <bd>Residenza</bd> Livello 2 che può generare <it>Energia L2</it>!\nLe <bd>Residenze</bd> Livello 2 hanno un altro requisito però: <cat>Alcol</cat>.\nCostruisci un <bd>Frutteto</bd> e una <bd>Pressa per Sidro</bd> per iniziare a produrre <it>Sidro</it>.",
+    "Italian": "Ora hai una <bd>Residenza</bd> Livello 2 che può generare <it>Energia L2</it>!\nLe <bd>Residenze</bd> Livello 2 hanno un altro requisito - <cat>l'Alcol</cat>.\nCostruisci un <bd>Frutteto</bd> e una <bd>Pressa per Sidro</bd> per iniziare a produrre <it>Sidro</it>.",
     "Verify": ""
   },
   {
@@ -16288,7 +16288,7 @@
     "Verify": ""
   },
   {
-    "Key": "Building_66_Description",
+    "Key": "Building_66_Description_Veg",
     "Type": "Text",
     "Desc": "",
     "English": "Create <it>Vegetables</it> from vegetable plots.",
@@ -16296,7 +16296,7 @@
     "Verify": ""
   },
   {
-    "Key": "Building_66_Name",
+    "Key": "Building_66_Name_Veg",
     "Type": "Text",
     "Desc": "",
     "English": "Vegetable Farm",
@@ -16304,7 +16304,7 @@
     "Verify": ""
   },
   {
-    "Key": "Building_66_Plural",
+    "Key": "Building_66_Plural_Veg",
     "Type": "Text",
     "Desc": "",
     "English": "Vegetable Farms",
@@ -16320,7 +16320,7 @@
     "Verify": ""
   },
   {
-    "Key": "Item_47_Desc",
+    "Key": "Item_47_Veg_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Vegetables are harvested at the <bd>Vegetable Farm</bd>.",
@@ -16328,7 +16328,7 @@
     "Verify": ""
   },
   {
-    "Key": "Item_47_FullDesc",
+    "Key": "Item_47_Veg_FullDesc",
     "Type": "Text",
     "Desc": "",
     "English": "Vegetables are harvested at the <bd>Vegetable Farm</bd> and are consumed by <bd>Level 1 Residences</bd>.",
@@ -16336,7 +16336,7 @@
     "Verify": ""
   },
   {
-    "Key": "Item_47_Name",
+    "Key": "Item_47_Veg_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Vegetables",
@@ -16424,7 +16424,7 @@
     "Verify": ""
   },
   {
-    "Key": "Building_66_Description_Alt",
+    "Key": "Building_66_Description",
     "Type": "Text",
     "Desc": "",
     "English": "Create <it>Pumpkins</it> from pumpkin patches.",
@@ -16432,23 +16432,23 @@
     "Verify": ""
   },
   {
-    "Key": "Building_66_Name_Alt",
+    "Key": "Building_66_Name",
     "Type": "Text",
     "Desc": "",
-    "English": "Pumpkin Patch",
+    "English": "Pumpkin Farm",
     "Italian": "Campo di Zucche",
     "Verify": ""
   },
   {
-    "Key": "Building_66_Plural_Alt",
+    "Key": "Building_66_Plural",
     "Type": "Text",
     "Desc": "",
-    "English": "Pumpkin Patches",
+    "English": "Pumpkin Farms",
     "Italian": "Campi di Zucche",
     "Verify": ""
   },
   {
-    "Key": "Item_47_Desc_Alt",
+    "Key": "Item_47_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Pumpkins are harvested at the <bd>Pumpkin Patch</bd>.",
@@ -16456,7 +16456,7 @@
     "Verify": ""
   },
   {
-    "Key": "Item_47_FullDesc_Alt",
+    "Key": "Item_47_FullDesc",
     "Type": "Text",
     "Desc": "",
     "English": "Pumpkins are harvested at the <bd>Pumpkin Patch</bd> and are consumed by <bd>Level 1 Residences</bd>.",
@@ -16464,7 +16464,7 @@
     "Verify": ""
   },
   {
-    "Key": "Item_47_Name_Alt",
+    "Key": "Item_47_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Pumpkins",
@@ -16488,7 +16488,7 @@
     "Verify": ""
   },
   {
-    "Key": "",
+    "Key": "ItemCat_2_FullDesc_Veg",
     "Type": "Text",
     "Desc": "",
     "English": "<cat>Food</cat> is needed by all <bd>Residences</bd> and can be <it>Fish</it>, <it>Meat</it> or <it>Vegetables</it>.",
@@ -16496,11 +16496,123 @@
     "Verify": ""
   },
   {
-    "Key": "",
+    "Key": "ItemCat_2_FullDesc",
     "Type": "Text",
     "Desc": "",
     "English": "<cat>Food</cat> is needed by all <bd>Residences</bd> and can be <it>Fish</it>, <it>Meat</it> or <it>Pumpkins</it>.",
     "Italian": "<cat>Cibo</cat> è richiesto da tutte le <bd>Residenze</bd> e può essere <it>Pesce</it>, <it>Carne</it> o <it>Zucche</it>.",
+    "Verify": ""
+  },
+  {
+    "Key": "Structure_2_Name",
+    "Type": "Text",
+    "Desc": "These are the \"fields\" the player manually places",
+    "English": "Pumpkin Patch",
+    "Italian": "Zona Zucche",
+    "Verify": ""
+  },
+  {
+    "Key": "Structure_2_Plural",
+    "Type": "Text",
+    "Desc": "These are the \"fields\" the player manually places",
+    "English": "Pumpkin Patches",
+    "Italian": "Zone Zucche",
+    "Verify": ""
+  },
+  {
+    "Key": "Structure_2_Name_Veg",
+    "Type": "Text",
+    "Desc": "These are the \"fields\" the player manually places",
+    "English": "Vegetable Plot",
+    "Italian": "Zona Verdure",
+    "Verify": ""
+  },
+  {
+    "Key": "Structure_2_Plural_Veg",
+    "Type": "Text",
+    "Desc": "These are the \"fields\" the player manually places",
+    "English": "Vegetable Plots",
+    "Italian": "Zone Verdure",
+    "Verify": ""
+  },
+  {
+    "Key": "Tech_66_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Unlocks construction of Lugger",
+    "Italian": "Sblocca la costruzione del Lugger",
+    "Verify": ""
+  },
+  {
+    "Key": "AlertVegetableFarmFields_Veg",
+    "Type": "Text",
+    "Desc": "",
+    "English": "You have not planted any vegetable plots",
+    "Italian": "Non hai piantato nessuna zona per le verdure",
+    "Verify": ""
+  },
+  {
+    "Key": "AlertVegetableFarmFields",
+    "Type": "Text",
+    "Desc": "",
+    "English": "You have not planted any pumpkin patches",
+    "Italian": "Non hai piantato nessuna zona per le zucche",
+    "Verify": ""
+  },
+  {
+    "Key": "ItemCat_2_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "<it>Fish</it> / <it>Meat</it> / <it>Pumpkins</it>",
+    "Italian": "<it>Pesce</it> / <it>Carne</it> / <it>Zucche</it>",
+    "Verify": ""
+  },
+  {
+    "Key": "AlertVegetableFarmFields_Veg",
+    "Type": "Text",
+    "Desc": "",
+    "English": "<it>Fish</it> / <it>Meat</it> / <it>Vegetables</it>",
+    "Italian": "<it>Pesce</it> / <it>Carne</it> / <it>Verdure</it>",
+    "Verify": ""
+  },
+  {
+    "Key": "AlertVegetableFarmFields",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Pumpkin Patches",
+    "Italian": "Zone Zucche",
+    "Verify": ""
+  },
+  {
+    "Key": "ItemCat_2_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "<it>Fish</it> / <it>Meat</it> / <it>Pumpkins</it>",
+    "Italian": "<it>Pesce</it> / <it>Carne</it> / <it>Zucche</it>",
+    "Verify": ""
+  },
+  {
+    "Key": "ItemCat_2_Desc_Veg",
+    "Type": "Text",
+    "Desc": "",
+    "English": "<it>Fish</it> / <it>Meat</it> / <it>Vegetables</it>",
+    "Italian": "<it>Pesce</it> / <it>Carne</it> / <it>Verdure</it>",
+    "Verify": ""
+  },
+  {
+    "Key": "MiscCat_13_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Pumpkin Patches",
+    "Italian": "Zone Zucche",
+    "Verify": ""
+  },
+  {
+    "Key": "MiscCat_13_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "can be planted on green tiles",
+    "Italian": "può essere piantato sulla caselle verdi",
     "Verify": ""
   }
 ]
