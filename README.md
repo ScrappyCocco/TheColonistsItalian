@@ -23,6 +23,7 @@ La traduzione sarà inclusa nel gioco una volta completata al 100%.
 Tutte le traduzioni per The Colonists sono visibili nel [relativo foglio](https://docs.google.com/spreadsheets/d/1laq8t0firN-AsQtYfEr1QiP1-qIWYtMLSixQ-P9Bwgk/edit?usp=sharing).
 
 ## Ho trovato un errore / voglio suggerirvi una modifica
+Purtroppo la traduzione essendo fatta da una persona sola, potrebbe non essere perfetta.
 Se trovi un errore nella traduzione o vuoi suggerire una modifica, per piacere apri una [issue](https://github.com/ScrappyCocco/TheColonistsItalian/issues).
 
 ## Autori Principali
