@@ -7131,8 +7131,8 @@
     "Key": "LandRoute_1_Desc",
     "Type": "Text",
     "Desc": "",
-    "English": "A road is a connection between two road posts. Road posts can hold four resources and each road has a Carrybot who moves resources between the posts.\n\nRoads have a minimum length of 4 tiles and a maximum length of 6 tiles.\n\nTo build a road, click on an existing road post and then click on the tile you want to end on.\n\nHold <hotkey>[Ctrl]</hotkey> when clicking a tile to fix a waypoint in your prospective road.",
-    "Italian": "Una strada è un collegamento tra due incroci. I pali stradali possono contenere quattro risorse e ogni strada ha un BotTrasportatore che sposta le risorse tra i pali.\n\nLe strade hanno una lunghezza minima di 4 caselle e una lunghezza massima di 6 caselle.\n\nPer costruire una strada, fai clic su un palo stradale esistente, quindi fai clic sulla casella su cui vuoi terminarla.\n\nTieni premuto <hotkey>[Ctrl]</hotkey> quando fai clic su una casella per fissare un waypoint nella tua potenziale strada.",
+    "English": "A road is a connection between two road posts. Road posts can hold four resources and each road has a Carrybot who moves resources between the posts.\n\nRoads have a minimum length of 4 tiles and a maximum length of 6 tiles.\n\nTo build a road, click on an existing road post and then click on the tile you want to end on.\n\nHold <hotkey>[Ctrl]</hotkey> and click a tile to fix a waypoint in your prospective road.",
+    "Italian": "Una strada è un collegamento tra due incroci. I pali stradali possono contenere quattro risorse e ogni strada ha un BotTrasportatore che sposta le risorse tra i pali.\n\nLe strade hanno una lunghezza minima di 4 caselle e una lunghezza massima di 6 caselle.\n\nPer costruire una strada, fai clic su un palo stradale esistente, quindi fai clic sulla casella su cui vuoi terminarla.\n\nTieni premuto <hotkey>[Ctrl]</hotkey> e fai clic su una casella per fissare una tappa intermedia nella tua strada.",
     "Verify": ""
   },
   {
@@ -7992,7 +7992,7 @@
     "Verify": ""
   },
   {
-    "Key": "MiscCat_5_Name",
+    "Key": "MiscCat_6_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Orchard Plot",
@@ -8000,7 +8000,7 @@
     "Verify": ""
   },
   {
-    "Key": "MiscCat_6_Name",
+    "Key": "MiscCat_5_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Cobbled Roads",
@@ -11851,8 +11851,8 @@
     "Key": "TutorialDialogues_T2_CreateSheepFarmFields3",
     "Type": "Text",
     "Desc": "",
-    "English": "Great! Your <bd>Sheep Farm</bd> is going to give you a good start on <cat>Food</cat> production.\nIf, at any point, you want to set the sheep pastures manually, you can use the 'Change' mode.",
-    "Italian": "Bene! Il tuo <bd>Allevamento di Pecore</bd> ti darà un buon inizio sulla produzione di <cat>Cibo</cat>.\nSe, in qualsiasi momento, vuoi impostare il pascolo manualmente, utilizza la modalità 'Cambia'.",
+    "English": "Great! Your <bd>Sheep Farm</bd> is going to give you a good start on <cat>Food</cat> production.\nYou can also add sheep pastures manually by clicking on an empty tile adjacent to an existing pasture, or remove them by <hotkey>[Shift]</hotkey> and clicking on an existing pasture.",
+    "Italian": "Bene! Il tuo <bd>Allevamento di Pecore</bd> ti avvierà alla produzione di <cat>Cibo</cat>.\nPuoi anche aggiungere pascoli manualmente cliccando su una calsella adiacente al pascolo esistente, o rimuoverli con <hotkey>[Shift]</hotkey> e cliccando su un pascolo esistente.",
     "Verify": ""
   },
   {
@@ -16568,30 +16568,6 @@
     "Verify": ""
   },
   {
-    "Key": "AlertVegetableFarmFields_Veg",
-    "Type": "Text",
-    "Desc": "",
-    "English": "<it>Fish</it> / <it>Meat</it> / <it>Vegetables</it>",
-    "Italian": "<it>Pesce</it> / <it>Carne</it> / <it>Verdure</it>",
-    "Verify": ""
-  },
-  {
-    "Key": "AlertVegetableFarmFields",
-    "Type": "Text",
-    "Desc": "",
-    "English": "Pumpkin Patches",
-    "Italian": "Orti(Zucche)",
-    "Verify": ""
-  },
-  {
-    "Key": "ItemCat_2_Desc",
-    "Type": "Text",
-    "Desc": "",
-    "English": "<it>Fish</it> / <it>Meat</it> / <it>Pumpkins</it>",
-    "Italian": "<it>Pesce</it> / <it>Carne</it> / <it>Zucche</it>",
-    "Verify": ""
-  },
-  {
     "Key": "ItemCat_2_Desc_Veg",
     "Type": "Text",
     "Desc": "",
@@ -16613,6 +16589,54 @@
     "Desc": "",
     "English": "can be planted on green tiles",
     "Italian": "può essere piantato sulla caselle verdi",
+    "Verify": ""
+  },
+  {
+    "Key": "RoadState_ValidEndRoadMsg",
+    "Type": "Text",
+    "Desc": "{0}: click",
+    "English": "[{0}] to place post and complete road",
+    "Italian": "[{0}] per piazzare un palo stradale e completare la strada",
+    "Verify": ""
+  },
+  {
+    "Key": "RoadState_ValidWaypointMsg",
+    "Type": "Text",
+    "Desc": "{0}: click",
+    "English": "[{0}] to set road waypoint",
+    "Italian": "[{0}] per impostare una tappa intermedia",
+    "Verify": ""
+  },
+  {
+    "Key": "RoadState_SetWaypointMsg",
+    "Type": "Text",
+    "Desc": "{0}: ctrl {1}: click",
+    "English": "[{0}] and [{1}] to set road waypoint",
+    "Italian": "[{0}] e [{1}] per impostare una tappa intermedia",
+    "Verify": ""
+  },
+  {
+    "Key": "Tooltip_SetRoadWaypoint",
+    "Type": "Text",
+    "Desc": "Shows as main tooltip header when setting a road waypoint",
+    "English": "Set Waypoint",
+    "Italian": "Imposta tappa intermedia",
+    "Verify": ""
+  },
+  {
+    "Key": "TutorialDialogues_T2_CreateSheepFarmFields3_Updated",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Great! Your <bd>Sheep Farm</bd> is going to give you a good start on <cat>Food</cat> production.\n\nYou can also add sheep pastures manually by clicking on an empty tile adjacent to an existing pasture, or remove them by <hotkey>[Shift]</hotkey> and clicking on an existing pasture.",
+    "Italian": "Bene! Il tuo <bd>Allevamento di Pecore</bd> ti avvierà alla produzione di <cat>Cibo</cat>.\nPuoi anche aggiungere pascoli manualmente cliccando su una calsella adiacente al pascolo esistente, o rimuoverli con <hotkey>[Shift]</hotkey> e cliccando su un pascolo esistente.",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_58_Description",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Brews <it>Beer</it> from <it>Wheat</it> and <it>Water</it>.",
+    "Italian": "Fermenta <it>Birra</it> da <it>Grano</it> e <it>Acqua</it>.",
     "Verify": ""
   }
 ]
