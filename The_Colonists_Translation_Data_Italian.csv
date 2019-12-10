@@ -2612,13 +2612,13 @@ Puoi fare clic su una risorsa nell'elenco e ti mostrerà il percorso che la riso
 Un edificio fornirà sempre la risorsa disponibile più vicina. Una volta che una risorsa è stata inviata, la sua destinazione è fissa.
 
 Usa le regole ai pali stradali, nei porti e nelle stazioni ferroviarie per controllare da dove provengono le risorse, nonché importare ed esportare liste delle richieste sugli edifici.",
-Building_66_Description_Veg,Text,,Create <it>Vegetables</it> from vegetable plots.,Crea <it>Verdure</it> dagli orti.,
-Building_66_Name_Veg,Text,,Vegetable Farm,Campo di Verdure,
-Building_66_Plural_Veg,Text,,Vegetable Farms,Campi di Verdure,
+Building_66_Description,Text,,Create <it>Vegetables</it> from vegetable plots.,Crea <it>Verdure</it> dagli orti.,
+Building_66_Name,Text,,Vegetable Farm,Campo di Verdure,
+Building_66_Plural,Text,,Vegetable Farms,Campi di Verdure,
 Building_66_Worker,Text,,Farmbot,BotContadino,
-Item_47_Veg_Desc,Text,,Vegetables are harvested at the <bd>Vegetable Farm</bd>.,Le Verdure sono raccolte al <bd>Campo di Verdure</bd>.,
-Item_47_Veg_FullDesc,Text,,Vegetables are harvested at the <bd>Vegetable Farm</bd> and are consumed by <bd>Level 1 Residences</bd>.,Le Verdure sono raccolte al <bd>Campo di Verdure</bd> e sono consumate dalle <bd>Residenze di Livello 1</bd>.,
-Item_47_Veg_Name,Text,,Vegetables,Verdure,
+Item_47_Desc,Text,,Vegetables are harvested at the <bd>Vegetable Farm</bd>.,Le Verdure sono raccolte al <bd>Campo di Verdure</bd>.,
+Item_47_FullDesc,Text,,Vegetables are harvested at the <bd>Vegetable Farm</bd> and are consumed by <bd>Level 1 Residences</bd>.,Le Verdure sono raccolte al <bd>Campo di Verdure</bd> e sono consumate dalle <bd>Residenze di Livello 1</bd>.,
+Item_47_Name,Text,,Vegetables,Verdure,
 Item_47_Past,Text,,Harvested,Raccolti,
 Item_47_Present,Text,,Harvesting,Raccogliendo,
 EntityBuildingTransportRulesOutgoingWhitelistOnlyStorageDesc,Text,,Resources allowed to be exported only if headed to a storage yard:,Risorse autorizzate ad essere esportate solo se dirette verso un deposito:,
@@ -2629,26 +2629,26 @@ MapEditorClearAllFish,Text,"In the map editor, removes all the fish on the map",
 EntPanelHead_25,Text,Header of panel where you can change your colony colour,Colony Colour,Colore Colonia,
 StoreDesc_Short,Text,,Build a new home for your team of robots as they begin a new life for themselves on a distant planet where they can fulfil their ultimate dream: to be human.,Costruisci una nuova casa per il tuo team di robot mentre iniziano una nuova vita su un pianeta distante dove possono realizzare il loro sogno: essere umani.,
 AffectedTransportRulesDesc,Text,{0}: resource type. e.g. Planks,The following transport rules affect the movement of {0}.,Le seguenti regole di trasporto influenzano il trasporti di: {0}.,
-Building_66_Description,Text,,Create <it>Pumpkins</it> from pumpkin patches.,Crea <it>Zucche</it> dai campi di zucche.,
-Building_66_Name,Text,,Pumpkin Farm,Campo di Zucche,
-Building_66_Plural,Text,,Pumpkin Farms,Campi di Zucche,
-Item_47_Desc,Text,,Pumpkins are harvested at the <bd>Pumpkin Patch</bd>.,Le Zucche sono raccolte al <bd>Campo di Zucche</bd>.,
-Item_47_FullDesc,Text,,Pumpkins are harvested at the <bd>Pumpkin Patch</bd> and are consumed by <bd>Level 1 Residences</bd>.,Le Zucche sono raccolte al <bd>Campo di Zucche</bd> e sono consumate dalle <bd>Residenze di Livello 1</bd>.,
-Item_47_Name,Text,,Pumpkins,Zucche,
+Pumpkins_Building_66_Description,Text,,Create <it>Pumpkins</it> from pumpkin patches.,Crea <it>Zucche</it> dai campi di zucche.,
+Pumpkins_Building_66_Name,Text,,Pumpkin Farm,Campo di Zucche,
+Pumpkins_Building_66_Plural,Text,,Pumpkin Farms,Campi di Zucche,
+Pumpkins_Item_47_Desc,Text,,Pumpkins are harvested at the <bd>Pumpkin Patch</bd>.,Le Zucche sono raccolte al <bd>Campo di Zucche</bd>.,
+Pumpkins_Item_47_FullDesc,Text,,Pumpkins are harvested at the <bd>Pumpkin Patch</bd> and are consumed by <bd>Level 1 Residences</bd>.,Le Zucche sono raccolte al <bd>Campo di Zucche</bd> e sono consumate dalle <bd>Residenze di Livello 1</bd>.,
+Pumpkins_Item_47_Name,Text,,Pumpkins,Zucche,
 MapEditorMapSettingTerritoryEnabled,Text,,Territory & fog of war enabled,Territori e Nebbia di guerra attivati,
 MapEditorTestVerificationFailed,Text,,Cannot test this scenario! Check the verification panel in the top right.,Impossibile testare questo scenario! Controlla il pannello di verifica in alto a destra.,
-ItemCat_2_FullDesc_Veg,Text,,"<cat>Food</cat> is needed by all <bd>Residences</bd> and can be <it>Fish</it>, <it>Meat</it> or <it>Vegetables</it>.","<cat>Cibo</cat> è richiesto da tutte le <bd>Residenze</bd> e può essere <it>Pesce</it>, <it>Carne</it> o <it>Verdure</it>.",
-ItemCat_2_FullDesc,Text,,"<cat>Food</cat> is needed by all <bd>Residences</bd> and can be <it>Fish</it>, <it>Meat</it> or <it>Pumpkins</it>.","<cat>Cibo</cat> è richiesto da tutte le <bd>Residenze</bd> e può essere <it>Pesce</it>, <it>Carne</it> o <it>Zucche</it>.",
-Structure_2_Name,Text,"These are the ""fields"" the player manually places",Pumpkin Patch,Orto(Zucche),
-Structure_2_Plural,Text,"These are the ""fields"" the player manually places",Pumpkin Patches,Orti(Zucche),
-Structure_2_Name_Veg,Text,"These are the ""fields"" the player manually places",Vegetable Plot,Orto(Verdure),
-Structure_2_Plural_Veg,Text,"These are the ""fields"" the player manually places",Vegetable Plots,Orti(Verdure),
+ItemCat_2_FullDesc,Text,,"<cat>Food</cat> is needed by all <bd>Residences</bd> and can be <it>Fish</it>, <it>Meat</it> or <it>Vegetables</it>.","<cat>Cibo</cat> è richiesto da tutte le <bd>Residenze</bd> e può essere <it>Pesce</it>, <it>Carne</it> o <it>Verdure</it>.",
+Pumpkins_ItemCat_2_FullDesc,Text,,"<cat>Food</cat> is needed by all <bd>Residences</bd> and can be <it>Fish</it>, <it>Meat</it> or <it>Pumpkins</it>.","<cat>Cibo</cat> è richiesto da tutte le <bd>Residenze</bd> e può essere <it>Pesce</it>, <it>Carne</it> o <it>Zucche</it>.",
+Pumpkins_Structure_2_Name,Text,"These are the ""fields"" the player manually places",Pumpkin Patch,Orto(Zucche),
+Pumpkins_Structure_2_Plural,Text,"These are the ""fields"" the player manually places",Pumpkin Patches,Orti(Zucche),
+Structure_2_Name,Text,"These are the ""fields"" the player manually places",Vegetable Plot,Orto(Verdure),
+Structure_2_Plural,Text,"These are the ""fields"" the player manually places",Vegetable Plots,Orti(Verdure),
 Tech_66_Desc,Text,,Unlocks construction of Lugger,Sblocca la costruzione del Lugger,
-AlertVegetableFarmFields_Veg,Text,,You have not planted any vegetable plots,Non hai piantato nessuna zona per le verdure,
-AlertVegetableFarmFields,Text,,You have not planted any pumpkin patches,Non hai piantato nessuna zona per le zucche,
-ItemCat_2_Desc,Text,,<it>Fish</it> / <it>Meat</it> / <it>Pumpkins</it>,<it>Pesce</it> / <it>Carne</it> / <it>Zucche</it>,
-ItemCat_2_Desc_Veg,Text,,<it>Fish</it> / <it>Meat</it> / <it>Vegetables</it>,<it>Pesce</it> / <it>Carne</it> / <it>Verdure</it>,
-MiscCat_13_Name,Text,,Pumpkin Patches,Orti(Zucche),
+AlertVegetableFarmFields,Text,,You have not planted any vegetable plots,Non hai piantato nessuna zona per le verdure,
+Pumpkins_AlertVegetableFarmFields,Text,,You have not planted any pumpkin patches,Non hai piantato nessuna zona per le zucche,
+Pumpkins_ItemCat_2_Desc,Text,,<it>Fish</it> / <it>Meat</it> / <it>Pumpkins</it>,<it>Pesce</it> / <it>Carne</it> / <it>Zucche</it>,
+ItemCat_2_Desc,Text,,<it>Fish</it> / <it>Meat</it> / <it>Vegetables</it>,<it>Pesce</it> / <it>Carne</it> / <it>Verdure</it>,
+Pumpkin_MiscCat_13_Name,Text,,Pumpkin Patches,Orti(Zucche),
 MiscCat_13_Desc,Text,,can be planted on green tiles,può essere piantato sulla caselle verdi,
 RoadState_ValidEndRoadMsg,Text,{0}: click,[{0}] to place post and complete road,[{0}] per piazzare un palo stradale e completare la strada,
 RoadState_ValidWaypointMsg,Text,{0}: click,[{0}] to set road waypoint,[{0}] per impostare una tappa intermedia,
@@ -2659,3 +2659,34 @@ TutorialDialogues_T2_CreateSheepFarmFields3_Updated,Text,,"Great! Your <bd>Sheep
 You can also add sheep pastures manually by clicking on an empty tile adjacent to an existing pasture, or remove them by <hotkey>[Shift]</hotkey> and clicking on an existing pasture.","Bene! Il tuo <bd>Allevamento di Pecore</bd> ti avvierà alla produzione di <cat>Cibo</cat>.
 Puoi anche aggiungere pascoli manualmente cliccando su una calsella adiacente al pascolo esistente, o rimuoverli con <hotkey>[Shift]</hotkey> e cliccando su un pascolo esistente.",
 Building_58_Description,Text,,Brews <it>Beer</it> from <it>Wheat</it> and <it>Water</it>.,Fermenta <it>Birra</it> da <it>Grano</it> e <it>Acqua</it>.,
+SandboxUnrestrictedElevatedRail,Text,,Unrestricted Elevated Rail,Ferrovia sopraelevata senza restrizioni,
+Structure_8_Name,Text,,One Way Signal,Segnale unidirezionale,
+Structure_8_Desc,Text,,"One way signals allow you to control the direction trains can move. This lets you create circular routes for your railways.
+
+To place a one way signal, first select a section of track and then select the highlighted track to indicate in which direction you'd like to allow travel.
+
+To remove a one way signal <hotkey>[SHIFT]</hotkey> and click on it.","I Segnali unidirezionali ti permettono di controllare la direzione in cui i treni possono muoversi. Questo ti permette di create percorsi circolari per le tue ferrovie.
+
+Per piazzare un Segnale unidirezionale, per prima cosa seleziona una sezione di tracciato e poi seleziona il tracciato evidenziato per indicare in quale direzione vuoi permettere il passaggio.
+
+Per rimuovere un Segnale unidirezionale <hotkey>[SHIFT]</hotkey> e cliccaci.",
+MiscCat_13_Name,Text,,Vegetable Plots,Orti(Verdure),
+EntityInfoBuildingStorageForSaleHeader,Text,"(Resources that are) for sale
+{0}: amount of resources",For Sale ({0}),In vendita ({0}),
+EntityInfoBuildingStoragePurchasedHeader,Text,"(Resources that have been) purchased
+{0}: amount of resources",Purchased ({0}),Comprate ({0}),
+EntityInfoBuildingStorageForSaleEmpty,Text,,There are no resources waiting to be sold,Non ci sono risorse in attesa di essere vendute,
+CancelResearchWarning,Text,"{0}: name of research
+{1}: hotkey","Are you sure you want to cancel {0}? All research progress will be lost.
+
+Hold [{1}] to skip this message.","Sei sicuro di voler annullare {0}? Tutti i progressi della ricerca andranno persi.
+
+Tieni premuto [{1}] per saltare questo messaggio.",
+BuildingUpgradePause,Text,,Pause Upgrade,Pausa miglioramento,
+BuildingUpgradeResume,Text,,Resume Upgrade,Riprendi miglioramento,
+CancelUpgradeWarning,Text,"{0}: name of building
+{1}: hotkey","Are you sure you want to cancel upgrading {0}? All upgrade progress will be lost.
+
+Hold [{1}] to skip this message.","Sei sicuro di voler annullare il miglioramento {0}? Tutti i progressi del miglioramento andranno persi.
+
+Tieni premuto [{1}] per saltare questo messaggio.",

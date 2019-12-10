@@ -16288,7 +16288,7 @@
     "Verify": ""
   },
   {
-    "Key": "Building_66_Description_Veg",
+    "Key": "Building_66_Description",
     "Type": "Text",
     "Desc": "",
     "English": "Create <it>Vegetables</it> from vegetable plots.",
@@ -16296,7 +16296,7 @@
     "Verify": ""
   },
   {
-    "Key": "Building_66_Name_Veg",
+    "Key": "Building_66_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Vegetable Farm",
@@ -16304,7 +16304,7 @@
     "Verify": ""
   },
   {
-    "Key": "Building_66_Plural_Veg",
+    "Key": "Building_66_Plural",
     "Type": "Text",
     "Desc": "",
     "English": "Vegetable Farms",
@@ -16320,7 +16320,7 @@
     "Verify": ""
   },
   {
-    "Key": "Item_47_Veg_Desc",
+    "Key": "Item_47_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Vegetables are harvested at the <bd>Vegetable Farm</bd>.",
@@ -16328,7 +16328,7 @@
     "Verify": ""
   },
   {
-    "Key": "Item_47_Veg_FullDesc",
+    "Key": "Item_47_FullDesc",
     "Type": "Text",
     "Desc": "",
     "English": "Vegetables are harvested at the <bd>Vegetable Farm</bd> and are consumed by <bd>Level 1 Residences</bd>.",
@@ -16336,7 +16336,7 @@
     "Verify": ""
   },
   {
-    "Key": "Item_47_Veg_Name",
+    "Key": "Item_47_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Vegetables",
@@ -16424,7 +16424,7 @@
     "Verify": ""
   },
   {
-    "Key": "Building_66_Description",
+    "Key": "Pumpkins_Building_66_Description",
     "Type": "Text",
     "Desc": "",
     "English": "Create <it>Pumpkins</it> from pumpkin patches.",
@@ -16432,7 +16432,7 @@
     "Verify": ""
   },
   {
-    "Key": "Building_66_Name",
+    "Key": "Pumpkins_Building_66_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Pumpkin Farm",
@@ -16440,7 +16440,7 @@
     "Verify": ""
   },
   {
-    "Key": "Building_66_Plural",
+    "Key": "Pumpkins_Building_66_Plural",
     "Type": "Text",
     "Desc": "",
     "English": "Pumpkin Farms",
@@ -16448,7 +16448,7 @@
     "Verify": ""
   },
   {
-    "Key": "Item_47_Desc",
+    "Key": "Pumpkins_Item_47_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Pumpkins are harvested at the <bd>Pumpkin Patch</bd>.",
@@ -16456,7 +16456,7 @@
     "Verify": ""
   },
   {
-    "Key": "Item_47_FullDesc",
+    "Key": "Pumpkins_Item_47_FullDesc",
     "Type": "Text",
     "Desc": "",
     "English": "Pumpkins are harvested at the <bd>Pumpkin Patch</bd> and are consumed by <bd>Level 1 Residences</bd>.",
@@ -16464,7 +16464,7 @@
     "Verify": ""
   },
   {
-    "Key": "Item_47_Name",
+    "Key": "Pumpkins_Item_47_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Pumpkins",
@@ -16488,7 +16488,7 @@
     "Verify": ""
   },
   {
-    "Key": "ItemCat_2_FullDesc_Veg",
+    "Key": "ItemCat_2_FullDesc",
     "Type": "Text",
     "Desc": "",
     "English": "<cat>Food</cat> is needed by all <bd>Residences</bd> and can be <it>Fish</it>, <it>Meat</it> or <it>Vegetables</it>.",
@@ -16496,7 +16496,7 @@
     "Verify": ""
   },
   {
-    "Key": "ItemCat_2_FullDesc",
+    "Key": "Pumpkins_ItemCat_2_FullDesc",
     "Type": "Text",
     "Desc": "",
     "English": "<cat>Food</cat> is needed by all <bd>Residences</bd> and can be <it>Fish</it>, <it>Meat</it> or <it>Pumpkins</it>.",
@@ -16504,7 +16504,7 @@
     "Verify": ""
   },
   {
-    "Key": "Structure_2_Name",
+    "Key": "Pumpkins_Structure_2_Name",
     "Type": "Text",
     "Desc": "These are the \"fields\" the player manually places",
     "English": "Pumpkin Patch",
@@ -16512,7 +16512,7 @@
     "Verify": ""
   },
   {
-    "Key": "Structure_2_Plural",
+    "Key": "Pumpkins_Structure_2_Plural",
     "Type": "Text",
     "Desc": "These are the \"fields\" the player manually places",
     "English": "Pumpkin Patches",
@@ -16520,7 +16520,7 @@
     "Verify": ""
   },
   {
-    "Key": "Structure_2_Name_Veg",
+    "Key": "Structure_2_Name",
     "Type": "Text",
     "Desc": "These are the \"fields\" the player manually places",
     "English": "Vegetable Plot",
@@ -16528,7 +16528,7 @@
     "Verify": ""
   },
   {
-    "Key": "Structure_2_Plural_Veg",
+    "Key": "Structure_2_Plural",
     "Type": "Text",
     "Desc": "These are the \"fields\" the player manually places",
     "English": "Vegetable Plots",
@@ -16544,7 +16544,7 @@
     "Verify": ""
   },
   {
-    "Key": "AlertVegetableFarmFields_Veg",
+    "Key": "AlertVegetableFarmFields",
     "Type": "Text",
     "Desc": "",
     "English": "You have not planted any vegetable plots",
@@ -16552,7 +16552,7 @@
     "Verify": ""
   },
   {
-    "Key": "AlertVegetableFarmFields",
+    "Key": "Pumpkins_AlertVegetableFarmFields",
     "Type": "Text",
     "Desc": "",
     "English": "You have not planted any pumpkin patches",
@@ -16560,7 +16560,7 @@
     "Verify": ""
   },
   {
-    "Key": "ItemCat_2_Desc",
+    "Key": "Pumpkins_ItemCat_2_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "<it>Fish</it> / <it>Meat</it> / <it>Pumpkins</it>",
@@ -16568,7 +16568,7 @@
     "Verify": ""
   },
   {
-    "Key": "ItemCat_2_Desc_Veg",
+    "Key": "ItemCat_2_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "<it>Fish</it> / <it>Meat</it> / <it>Vegetables</it>",
@@ -16576,7 +16576,7 @@
     "Verify": ""
   },
   {
-    "Key": "MiscCat_13_Name",
+    "Key": "Pumpkin_MiscCat_13_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Pumpkin Patches",
@@ -16637,6 +16637,94 @@
     "Desc": "",
     "English": "Brews <it>Beer</it> from <it>Wheat</it> and <it>Water</it>.",
     "Italian": "Fermenta <it>Birra</it> da <it>Grano</it> e <it>Acqua</it>.",
+    "Verify": ""
+  },
+  {
+    "Key": "SandboxUnrestrictedElevatedRail",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Unrestricted Elevated Rail",
+    "Italian": "Ferrovia sopraelevata senza restrizioni",
+    "Verify": ""
+  },
+  {
+    "Key": "Structure_8_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "One Way Signal",
+    "Italian": "Segnale unidirezionale",
+    "Verify": ""
+  },
+  {
+    "Key": "Structure_8_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "One way signals allow you to control the direction trains can move. This lets you create circular routes for your railways.\n\nTo place a one way signal, first select a section of track and then select the highlighted track to indicate in which direction you'd like to allow travel.\n\nTo remove a one way signal <hotkey>[SHIFT]</hotkey> and click on it.",
+    "Italian": "I Segnali unidirezionali ti permettono di controllare la direzione in cui i treni possono muoversi. Questo ti permette di create percorsi circolari per le tue ferrovie.\n\nPer piazzare un Segnale unidirezionale, per prima cosa seleziona una sezione di tracciato e poi seleziona il tracciato evidenziato per indicare in quale direzione vuoi permettere il passaggio.\n\nPer rimuovere un Segnale unidirezionale <hotkey>[SHIFT]</hotkey> e cliccaci.",
+    "Verify": ""
+  },
+  {
+    "Key": "MiscCat_13_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Vegetable Plots",
+    "Italian": "Orti(Verdure)",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityInfoBuildingStorageForSaleHeader",
+    "Type": "Text",
+    "Desc": "(Resources that are) for sale\n{0}: amount of resources",
+    "English": "For Sale ({0})",
+    "Italian": "In vendita ({0})",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityInfoBuildingStoragePurchasedHeader",
+    "Type": "Text",
+    "Desc": "(Resources that have been) purchased\n{0}: amount of resources",
+    "English": "Purchased ({0})",
+    "Italian": "Comprate ({0})",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityInfoBuildingStorageForSaleEmpty",
+    "Type": "Text",
+    "Desc": "",
+    "English": "There are no resources waiting to be sold",
+    "Italian": "Non ci sono risorse in attesa di essere vendute",
+    "Verify": ""
+  },
+  {
+    "Key": "CancelResearchWarning",
+    "Type": "Text",
+    "Desc": "{0}: name of research\n{1}: hotkey",
+    "English": "Are you sure you want to cancel {0}? All research progress will be lost.\n\nHold [{1}] to skip this message.",
+    "Italian": "Sei sicuro di voler annullare {0}? Tutti i progressi della ricerca andranno persi.\n\nTieni premuto [{1}] per saltare questo messaggio.",
+    "Verify": ""
+  },
+  {
+    "Key": "BuildingUpgradePause",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Pause Upgrade",
+    "Italian": "Pausa miglioramento",
+    "Verify": ""
+  },
+  {
+    "Key": "BuildingUpgradeResume",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Resume Upgrade",
+    "Italian": "Riprendi miglioramento",
+    "Verify": ""
+  },
+  {
+    "Key": "CancelUpgradeWarning",
+    "Type": "Text",
+    "Desc": "{0}: name of building\n{1}: hotkey",
+    "English": "Are you sure you want to cancel upgrading {0}? All upgrade progress will be lost.\n\nHold [{1}] to skip this message.",
+    "Italian": "Sei sicuro di voler annullare il miglioramento {0}? Tutti i progressi del miglioramento andranno persi.\n\nTieni premuto [{1}] per saltare questo messaggio.",
     "Verify": ""
   }
 ]
