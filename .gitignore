@@ -2,3 +2,5 @@
 validator/.idea/
 
 validator/__pycache__/
+
+validator/result.txt

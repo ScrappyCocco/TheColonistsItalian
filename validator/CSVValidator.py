@@ -2,8 +2,10 @@
 # IMPORTS
 
 import csv
+import sys
 
 from bs4 import BeautifulSoup
+from ValidatorFileManager import ValidatorFileManager
 
 
 # ---------------------------------------------------------------------
@@ -110,29 +112,53 @@ class CSVValidator:
         with open(filename, encoding="utf8") as csv_file:
             csv_reader = csv.reader(csv_file, delimiter=',')
             line_counter = 1
+
+            # Init file
+            file_manager = ValidatorFileManager()
+            file_manager.init_result_file(self.lines_to_ignore)
+
             if len(self.lines_to_ignore) > 0:
                 print("-----")
                 print("WARNING")
                 print("THIS CHECK IS IGNORING FEW LINES, MAKE SURE THIS IS INTENDED")
                 print("-----")
+            errors_found = 0
             for row in csv_reader:
                 if line_counter == 1:
                     if not self.__csv_columns_validation(row):
                         raise Exception("Column name not valid (LINE 1)! Found: " + str(len(row)) + " expected 6 or 7!")
                 else:
                     if line_counter in self.lines_to_ignore:
-                        print("---Skipped line " + str(line_counter) + " because in ignore list!")
+                        file_manager.write_string_to_file("---Skipped line " + str(line_counter) +
+                                                          " because in ignore list!\n\n")
                     else:
                         if not self.__row_param_validation(row):
-                            raise Exception("Looks like there is an error on ENTRY " + str(line_counter) + "!" +
-                                            "The parameters (ex: {0}) looks invalid, check the line:\n'" + str(
-                                row[4]) + "'")
+                            errors_found += 1
+                            file_manager.write_line_separator(str(line_counter))
+                            file_manager.write_string_to_file(
+                                "Looks like there is an error on ENTRY " + str(line_counter) + "!" +
+                                "The parameters (ex: {0}) looks invalid, " +
+                                "check the line:\n'" + str(row[4]) + "'\n\n")
                         if not self.__row_grammar_validation(row):
-                            raise Exception("Looks like there is an error on ENTRY " + str(line_counter) + "!" +
-                                            "The grammar (ex: .(dot) or !(exclamation point)) looks invalid, "
-                                            "check the line:\n'" + str(row[4]) + "'")
+                            errors_found += 1
+                            file_manager.write_line_separator(str(line_counter))
+                            file_manager.write_string_to_file(
+                                "Looks like there is an error on ENTRY " + str(line_counter) + "!" +
+                                "The grammar (ex: .(dot) or !(exclamation point)) looks invalid, "
+                                "check the line:\n'" + str(row[4]) + "'\n\n")
                         if not self.__row_tags_validation(row):
-                            raise Exception("Looks like there is an error on ENTRY " + str(line_counter) + "!" +
-                                            "The tags looks invalid, check the line:\n'" + str(row[4]) + "'")
+                            errors_found += 1
+                            file_manager.write_line_separator(str(line_counter))
+                            file_manager.write_string_to_file(
+                                "Looks like there is an error on ENTRY " + str(line_counter) + "!" +
+                                "The tags looks invalid, check the line:\n'" + str(row[4]) + "'\n\n")
                 line_counter += 1
-            print("For-loop Ended - No errors found...")
+            # For end
+            print("Errors counter:" + str(errors_found))
+            if errors_found > 0:
+                print("For-loop Ended - ERRORS FOUND, see file:'" + file_manager.file_output_name + "' for more...")
+                sys.exit("QUIT: The translation file contains errors!")
+            else:
+                file_manager.write_string_to_file("Check ended without errors, " +
+                                                  "no other check needed until you edit the translation file")
+                print("For-loop Ended - No errors found...")

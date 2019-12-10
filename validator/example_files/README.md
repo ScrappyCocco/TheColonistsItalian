@@ -1,0 +1,1 @@
+Small example files to test if the validator works correctly

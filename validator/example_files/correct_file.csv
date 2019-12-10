@@ -1,0 +1,3 @@
+Key,Type,Desc,English,Italian,Verify
+RandomKey,Text,A test entry for the validator,Collect {0}!,Raccogli {0}!,
+RandomKey,Text,A test entry for the validator,Collect {0} <cat>Food</cat>!,Raccogli {0} <cat>Cibo</cat>!,
