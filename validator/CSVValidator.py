@@ -16,6 +16,7 @@ class CSVValidator:
 
     # List of lines to ignore
     # For example [500, 1025] will make the check skip line 500 and line 1025
+    # Remember that line 1 is the file header
     lines_to_ignore = []
 
     # ---------------------------------------------------------------------
@@ -129,6 +130,7 @@ class CSVValidator:
                         raise Exception("Column name not valid (LINE 1)! Found: " + str(len(row)) + " expected 6 or 7!")
                 else:
                     if line_counter in self.lines_to_ignore:
+                        file_manager.write_line_separator(str(line_counter))
                         file_manager.write_string_to_file("---Skipped line " + str(line_counter) +
                                                           " because in ignore list!\n\n")
                     else:
@@ -136,22 +138,22 @@ class CSVValidator:
                             errors_found += 1
                             file_manager.write_line_separator(str(line_counter))
                             file_manager.write_string_to_file(
-                                "Looks like there is an error on ENTRY " + str(line_counter) + "!" +
+                                "Error [Parameters]: " +
                                 "The parameters (ex: {0}) looks invalid, " +
                                 "check the line:\n'" + str(row[4]) + "'\n\n")
                         if not self.__row_grammar_validation(row):
                             errors_found += 1
                             file_manager.write_line_separator(str(line_counter))
                             file_manager.write_string_to_file(
-                                "Looks like there is an error on ENTRY " + str(line_counter) + "!" +
+                                "Error [Grammar]: " +
                                 "The grammar (ex: .(dot) or !(exclamation point)) looks invalid, "
                                 "check the line:\n'" + str(row[4]) + "'\n\n")
                         if not self.__row_tags_validation(row):
                             errors_found += 1
                             file_manager.write_line_separator(str(line_counter))
                             file_manager.write_string_to_file(
-                                "Looks like there is an error on ENTRY " + str(line_counter) + "!" +
-                                "The tags looks invalid, check the line:\n'" + str(row[4]) + "'\n\n")
+                                "Error [Tags]: " +
+                                "The tags (ex. <cat>) looks invalid, check the line:\n'" + str(row[4]) + "'\n\n")
                 line_counter += 1
             # For end
             print("Errors counter:" + str(errors_found))
