@@ -9404,7 +9404,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Claim victory over your anthrobotic foe.",
-    "Italian": "Guadagnati la vittoria sui tuoi nemici umanoidi.",
+    "Italian": "Guadagnati la vittoria contro il tuo nemico umanoide.",
     "Verify": ""
   },
   {
@@ -9436,7 +9436,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Claim victory over your anthrobotic foe.",
-    "Italian": "Guadagnati la vittoria sui tuoi nemici umanoidi.",
+    "Italian": "Guadagnati la vittoria contro il tuo nemico umanoide.",
     "Verify": ""
   },
   {
@@ -9468,7 +9468,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Claim victory over your anthrobotic foe.",
-    "Italian": "Guadagnati la vittoria sui tuoi nemici umanoidi.",
+    "Italian": "Guadagnati la vittoria contro il tuo nemico umanoide.",
     "Verify": ""
   },
   {
@@ -16725,6 +16725,70 @@
     "Desc": "{0}: name of building\n{1}: hotkey",
     "English": "Are you sure you want to cancel upgrading {0}? All upgrade progress will be lost.\n\nHold [{1}] to skip this message.",
     "Italian": "Sei sicuro di voler annullare il miglioramento {0}? Tutti i progressi del miglioramento andranno persi.\n\nTieni premuto [{1}] per saltare questo messaggio.",
+    "Verify": ""
+  },
+  {
+    "Key": "BdPlVaResults_15_Name",
+    "Type": "Text",
+    "Desc": "Applies when trying to place a watchtower and it's too close to another watchtower",
+    "English": "Too near other military building",
+    "Italian": "Troppo vicino ad un'altra struttura militare",
+    "Verify": ""
+  },
+  {
+    "Key": "QualityVSyncCount",
+    "Type": "Text",
+    "Desc": "https://www.maketecheasier.com/what-is-vsync/",
+    "English": "VSync Count",
+    "Italian": "Tempo VSync",
+    "Verify": ""
+  },
+  {
+    "Key": "Flora_66_Name",
+    "Type": "Text",
+    "Desc": "A snowman, but it's robot shaped",
+    "English": "Snowbot",
+    "Italian": "BotNevoso",
+    "Verify": ""
+  },
+  {
+    "Key": "FloraValidTerrain_66",
+    "Type": "Text",
+    "Desc": "The terrain type that a snowbot can be built in",
+    "English": "Snow",
+    "Italian": "Neve",
+    "Verify": ""
+  },
+  {
+    "Key": "Scenario_12_Description",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Claim victory over your anthrobotic foes.",
+    "Italian": "Guadagnati la vittoria sui tuoi nemici umanoidi.",
+    "Verify": ""
+  },
+  {
+    "Key": "Scenario_12_Name",
+    "Type": "Text",
+    "Desc": "(This is a pun, feel free to skip that part :))",
+    "English": "Two Close For Comfort",
+    "Italian": "Vicini troppo vicini",
+    "Verify": ""
+  },
+  {
+    "Key": "MapHardAI",
+    "Type": "Text",
+    "Desc": "{0}: percentage",
+    "English": "Hard - AI is more aggressive and their bots work {0}% faster",
+    "Italian": "Difficile - La I.A. è più aggressiva e i suoi bot lavorano il {0}% più velocemente",
+    "Verify": ""
+  },
+  {
+    "Key": "DaysAgoAlt",
+    "Type": "Text",
+    "Desc": "{0}: number of days",
+    "English": "{0} days ago",
+    "Italian": "{0} giorni fa",
     "Verify": ""
   }
 ]
