@@ -10,8 +10,8 @@ Download the two .py files and launch the main with the command:
 ```
 python main.py filename.csv
 ```
-**Remember:** you need to use it on **your** csv file, **not the main one** with **all* the languages.
-Simply go to **your** sheet and export it using File -> Download as -> Comma-separated values.
+**Remember:** you need to use it on **your** csv file, **not the main one** with **all** the languages.
+Simply go to **your language sheet** and export it using File -> Download as -> Comma-separated values.
 
 ## Available variables to change:
 * CSVValidator.py:
