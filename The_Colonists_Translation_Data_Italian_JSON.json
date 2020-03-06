@@ -5035,16 +5035,16 @@
     "Key": "Hotkey_43",
     "Type": "Text",
     "Desc": "",
-    "English": "Tilt Camera Up",
-    "Italian": "Inclina visuale verso l'alto",
+    "English": "Tilt Camera Down",
+    "Italian": "Inclina visuale verso il basso",
     "Verify": ""
   },
   {
     "Key": "Hotkey_44",
     "Type": "Text",
     "Desc": "",
-    "English": "Tilt Camera Down",
-    "Italian": "Inclina visuale verso il basso",
+    "English": "Tilt Camera Up",
+    "Italian": "Inclina visuale verso l'alto",
     "Verify": ""
   },
   {
@@ -8259,8 +8259,8 @@
     "Key": "NatRes_6_Desc",
     "Type": "Text",
     "Desc": "",
-    "English": "This Salt deposit can be harvested by the <bd>Level 2 Surface Mine</bd>.",
-    "Italian": "Questo deposito di Sale può essere estratto con la <bd>Miniera di Superficie Livello 2</bd>.",
+    "English": "This Salt deposit can be harvested by the <bd>Level 3 Surface Mine</bd>.",
+    "Italian": "Questo deposito di Sale può essere estratto con la <bd>Miniera di Superficie Livello 3</bd>.",
     "Verify": ""
   },
   {
@@ -10611,7 +10611,7 @@
     "Key": "Tech_75_Desc",
     "Type": "Text",
     "Desc": "",
-    "English": "Unlocks <bd>Level 1 Road Layer</bd> who can upgrade roads and paths allowing bot to travel faster",
+    "English": "Unlocks <bd>Level 1 Road Layer</bd> who can upgrade roads and paths allowing bots to travel faster",
     "Italian": "Sblocca <bd>Manto Stradale Livello 1</bd> che può migliorare strade e percorsi per far viaggiare i bot più veloci",
     "Verify": ""
   },
@@ -10627,7 +10627,7 @@
     "Key": "Tech_76_Desc",
     "Type": "Text",
     "Desc": "",
-    "English": "Unlocks <bd>Level 2 Road Layer</bd> who can upgrade roads and paths allowing bot to travel faster",
+    "English": "Unlocks <bd>Level 2 Road Layer</bd> who can upgrade roads and paths allowing bots to travel faster",
     "Italian": "Sblocca <bd>Manto Stradale Livello 2</bd> che può migliorare strade e percorsi per far viaggiare i bot più veloci",
     "Verify": ""
   },
@@ -11459,8 +11459,8 @@
     "Key": "TutorialDialogues_T1_ExplainFood",
     "Type": "Text",
     "Desc": "",
-    "English": "The other <bd>Residence</bd> need was <cat>Food</cat>. This means <it>Fish</it> or <it>Meat</it>.",
-    "Italian": "L'altra necessità della <bd>Residenza</bd> era <cat>Cibo</cat>. Questo significa <it>Pesce</it> o <it>Carne</it>.",
+    "English": "The other <bd>Residence</bd> need was <cat>Food</cat>. This means <it>Fish</it>, <it>Meat</it> or <it>Vegetables</it>.",
+    "Italian": "L'altra necessità della <bd>Residenza</bd> era <cat>Cibo</cat>. Questo significa <it>Pesce</it>, <it>Carne</it> o <it>Verdure</it>.",
     "Verify": ""
   },
   {
@@ -11532,7 +11532,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Pan the camera using <hotkey>[W]</hotkey><hotkey>[A]</hotkey><hotkey>[S]</hotkey><hotkey>[D]</hotkey>.",
-    "Italian": "Muovi la visuale utilizzando\n<hotkey>[W]</hotkey><hotkey>[A]</hotkey><hotkey>[S]</hotkey><hotkey>[D]</hotkey>.",
+    "Italian": "Muovi la visuale utilizzando <hotkey>[W]</hotkey><hotkey>[A]</hotkey><hotkey>[S]</hotkey><hotkey>[D]</hotkey>.",
     "Verify": ""
   },
   {
@@ -15412,7 +15412,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Ban resource except for storage",
-    "Italian": "Vieta una risorsa eccetto per il deposito",
+    "Italian": "Vieta una risorsa tranne che per il deposito",
     "Verify": ""
   },
   {
@@ -16770,7 +16770,7 @@
   {
     "Key": "Scenario_12_Name",
     "Type": "Text",
-    "Desc": "(This is a pun, feel free to skip that part :))",
+    "Desc": "(This is a pun, feel free to not do a literal translation :))",
     "English": "Two Close For Comfort",
     "Italian": "Vicini troppo vicini",
     "Verify": ""
@@ -16789,6 +16789,566 @@
     "Desc": "{0}: number of days",
     "English": "{0} days ago",
     "Italian": "{0} giorni fa",
+    "Verify": ""
+  },
+  {
+    "Key": "GameSettingsTickDisplayed",
+    "Type": "Text",
+    "Desc": "option to display the current game tick in the UI. The game tick is a number which increases every time the game logic runs. So for example one in-game day equals 1800 game ticks.",
+    "English": "Show game tick",
+    "Italian": "Mostra frequenza di aggiornamento",
+    "Verify": ""
+  },
+  {
+    "Key": "WorkshopPublishDevBuildMsg",
+    "Type": "Text",
+    "Desc": "",
+    "English": "You cannot publish maps from the development branch. This is to ensure all players can play every map.",
+    "Italian": "Non puoi pubblicare mappe dal branch di develop. Questo per permettere a tutti i giocatori di poter giocare qualsiasi mappa.",
+    "Verify": ""
+  },
+  {
+    "Key": "ItemDemandSourceType_12_Name",
+    "Type": "Text",
+    "Desc": "(Resource) Storage",
+    "English": "Storage",
+    "Italian": "Deposito",
+    "Verify": ""
+  },
+  {
+    "Key": "Hotkey_23",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Copy Building/Road Post Settings [on click]",
+    "Italian": "Copia impostazioni Edificio/Incrocio [on click]",
+    "Verify": ""
+  },
+  {
+    "Key": "Hotkey_24",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Paste Building/Road Post Settings [on click]",
+    "Italian": "Incolla impostazioni Edificio/Incrocio [on click]",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityInfoItemSidePanelHeader2",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Storage Rules",
+    "Italian": "Regole deposito",
+    "Verify": ""
+  },
+  {
+    "Key": "EntitySidePanelSelectResourcePresets",
+    "Type": "Text",
+    "Desc": "Presets for groups of resources",
+    "English": "Presets",
+    "Italian": "Presets",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityInfoItemSidePanelAddRules",
+    "Type": "Text",
+    "Desc": "Add resource storage rules",
+    "English": "Add Rules",
+    "Italian": "Aggiungi Regole",
+    "Verify": ""
+  },
+  {
+    "Key": "EntitySidePanelRuleBlacklistConfirmPlural",
+    "Type": "Text",
+    "Desc": "Plural of line 1927",
+    "English": "Ban resources",
+    "Italian": "Vieta risorse",
+    "Verify": ""
+  },
+  {
+    "Key": "EntitySidePanelRuleBlacklistExcStorageConfirmPlural",
+    "Type": "Text",
+    "Desc": "Plural of line 1928",
+    "English": "Ban resources except for storage",
+    "Italian": "Vieta risorse tranne che per il deposito",
+    "Verify": ""
+  },
+  {
+    "Key": "EntitySidePanelRuleWhitelistConfirmPlural",
+    "Type": "Text",
+    "Desc": "Plural of line 1929",
+    "English": "Allow these resources",
+    "Italian": "Permetti queste risorse",
+    "Verify": ""
+  },
+  {
+    "Key": "EntitySidePanelRuleWhitelistStorageOnlyConfirmPlural",
+    "Type": "Text",
+    "Desc": "Plural of line 1930",
+    "English": "Allow these resources but only for storage",
+    "Italian": "Permetti queste risorse ma solo per il deposito",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityInfoSelectResources",
+    "Type": "Text",
+    "Desc": "Select resources (to add to your rule list)",
+    "English": "Select resources",
+    "Italian": "Seleziona risorse",
+    "Verify": ""
+  },
+  {
+    "Key": "EntPanelHead_102",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Resources",
+    "Italian": "Risorse",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityBoatyardDockBoatFillingDock",
+    "Type": "Text",
+    "Desc": "When boat construction is finished and the dock is filling with water",
+    "English": "Filling dock...",
+    "Italian": "Riempiendo la vasca...",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_0_NAME",
+    "Type": "Text",
+    "Desc": "",
+    "English": "First Energy L1",
+    "Italian": "Prima Energia L1",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_0_DESC",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Generate your first Energy L1!",
+    "Italian": "Genera la tua prima Energia L1!",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_1_NAME",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Hello!",
+    "Italian": "Ciao!",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_1_DESC",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Receive a wave from a carrybot!",
+    "Italian": "Ricevi un saluto da un BotTrasportatore!",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_3_NAME",
+    "Type": "Text",
+    "Desc": "",
+    "English": "The High Seas",
+    "Italian": "Alto mare",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_3_DESC",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Transport a resource between harbours with a boat.",
+    "Italian": "Trasporta una risorsa tra due porti con una barca.",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_4_NAME",
+    "Type": "Text",
+    "Desc": "",
+    "English": "First Energy L2",
+    "Italian": "Prima Energia L2",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_4_DESC",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Generate your first Energy L2!",
+    "Italian": "Genera la tua prima Energia L2!",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_5_NAME",
+    "Type": "Text",
+    "Desc": "",
+    "English": "First Energy L3",
+    "Italian": "Prima Energia L3",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_5_DESC",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Generate your first Energy L3!",
+    "Italian": "Genera la tua prima Energia L3!",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_6_NAME",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Locomotion",
+    "Italian": "Locomozione",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_6_DESC",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Transport a resource between train stations using a train.",
+    "Italian": "Trasporta una risorsa tra due stazioni ferroviarie con un treno.",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_7_NAME",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Mission 3 Gold",
+    "Italian": "Oro Missione 3",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_7_DESC",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Earn a gold medal on mission 3",
+    "Italian": "Guadagna una medaglia d'oro nella missione 3",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_8_NAME",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Mission 5 Gold",
+    "Italian": "Oro Missione 5",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_8_DESC",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Earn a gold medal on mission 5",
+    "Italian": "Guadagna una medaglia d'oro nella missione 5",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_9_NAME",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Mission 7 Gold",
+    "Italian": "Oro Missione 7",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_9_DESC",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Earn a gold medal on mission 7",
+    "Italian": "Guadagna una medaglia d'oro nella missione 7",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_10_NAME",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Mission 8 Gold",
+    "Italian": "Oro Missione 8",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_10_DESC",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Earn a gold medal on mission 8",
+    "Italian": "Guadagna una medaglia d'oro nella missione 8",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_11_NAME",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Mission 10 Gold",
+    "Italian": "Oro Missione 10",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_11_DESC",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Earn a gold medal on mission 10",
+    "Italian": "Guadagna una medaglia d'oro nella missione 10",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_12_NAME",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Mission 11 Gold",
+    "Italian": "Oro Missione 11",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_12_DESC",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Earn a gold medal on mission 11",
+    "Italian": "Guadagna una medaglia d'oro nella missione 11",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_13_NAME",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Economic Victory!",
+    "Italian": "Vittoria economica!",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_13_DESC",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Complete the economic campaign",
+    "Italian": "Completa la campagna economica",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_14_NAME",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Military Victory!",
+    "Italian": "Vittoria militare!",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_14_DESC",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Complete the military campaign",
+    "Italian": "Completa la campagna militare",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_15_NAME",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Workshop Explorer",
+    "Italian": "Esploratore del Workshop",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_15_DESC",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Play a Steam Workshop map",
+    "Italian": "Gioca una mappa dello Steam Workshop",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_16_NAME",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Boatbuilder Challenge - LEGENDARY",
+    "Italian": "Sfida CostruttoreDiBarche - LEGGENDARIO",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_16_DESC",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Build a boat in mission 3 within 2 months",
+    "Italian": "Costruisci una barca nella missione 3 entro 2 mesi",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_17_NAME",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Boatbuilder Challenge - CHAMPION",
+    "Italian": "Sfida CostruttoreDiBarche - CAMPIONE",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_17_DESC",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Build a boat in mission 3 within 2.5 months",
+    "Italian": "Costruisci una barca nella missione 3 entro 2.5 mesi",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_18_NAME",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Boatbuilder Challenge - EXPERT",
+    "Italian": "Sfida CostruttoreDiBarche - ESPERTO",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_18_DESC",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Build a boat in mission 3 within 3 months",
+    "Italian": "Costruisci una barca nella missione 3 entro 3 mesi",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_19_NAME",
+    "Type": "Text",
+    "Desc": "",
+    "English": "All The Science Challenge - LEGENDARY",
+    "Italian": "Sfida TuttaLaScienza - LEGGENDARIO",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_19_DESC",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Research all the technologies in mission 5 within 1 year 6 months",
+    "Italian": "Ricerca tutte le tecnologie nella missione 5 entro 1 anno e 6 mesi",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_20_NAME",
+    "Type": "Text",
+    "Desc": "",
+    "English": "All The Science Challenge - CHAMPION",
+    "Italian": "Sfida TuttaLaScienza - CAMPIONE",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_20_DESC",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Research all the technologies in mission 5 within 1 year 9 months",
+    "Italian": "Ricerca tutte le tecnologie nella missione 5 entro 1 anno e 9 mesi",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_21_NAME",
+    "Type": "Text",
+    "Desc": "",
+    "English": "All The Science Challenge - EXPERT",
+    "Italian": "Sfida TuttaLaScienza - ESPERTO",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_21_DESC",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Research all the technologies in mission 5 within 2 years",
+    "Italian": "Ricerca tutte le tecnologie nella missione 5 entro 2 anni",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_22_NAME",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Bootlegger Challenge - LEGENDARY",
+    "Italian": "Sfida Contrabbandiere - LEGGENDARIO",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_22_DESC",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Store 100 beer on each of the five islands in mission 7 within 9 months",
+    "Italian": "Deposita 100 birre in ciascuna delle cinque isole della missione 7 entro 9 mesi",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_23_NAME",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Bootlegger Challenge - CHAMPION",
+    "Italian": "Sfida Contrabbandiere - CAMPIONE",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_23_DESC",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Store 100 beer on each of the five islands in mission 7 within 10 months",
+    "Italian": "Deposita 100 birre in ciascuna delle cinque isole della missione 7 entro 10 mesi",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_24_NAME",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Bootlegger Challenge - EXPERT",
+    "Italian": "Sfida Contrabbandiere - ESPERTO",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_24_DESC",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Store 100 beer on each of the five islands in mission 7 within 11 months",
+    "Italian": "Deposita 100 birre in ciascuna delle cinque isole della missione 7 entro 11 mesi",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_25_NAME",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Supplier Challenge - LEGENDARY",
+    "Italian": "Sfida Fornitore - LEGGENDARIO",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_25_DESC",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Sell one of each resource without purchasing anything in mission 8 within 9 months",
+    "Italian": "Vendi un tipo di ciascuna risorsa senza comprare nulla nella missione 8 entro 9 mesi",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_26_NAME",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Supplier Challenge - CHAMPION",
+    "Italian": "Sfida Fornitore - CAMPIONE",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_26_DESC",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Sell one of each resource without purchasing anything in mission 8 within 10 months",
+    "Italian": "Vendi un tipo di ciascuna risorsa senza comprare nulla nella missione 8 entro 10 mesi",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_27_NAME",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Supplier Challenge - EXPERT",
+    "Italian": "Sfida Fornitore - ESPERTO",
+    "Verify": ""
+  },
+  {
+    "Key": "NEW_ACHIEVEMENT_19_27_DESC",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Sell one of each resource without purchasing anything in mission 8 within 11 months",
+    "Italian": "Vendi un tipo di ciascuna risorsa senza comprare nulla nella missione 8 entro 11 mesi",
+    "Verify": ""
+  },
+  {
+    "Key": "TutorialDialogues_T1_ExplainFood",
+    "Type": "Text",
+    "Desc": "",
+    "English": "The other <bd>Residence</bd> need was <cat>Food</cat>. This means <it>Fish</it>, <it>Meat</it> or <it>Vegetables</it>.",
+    "Italian": "L'altra necessità della <bd>Residenza</bd> era <cat>Cibo</cat>. Questo significa <it>Pesce</it>, <it>Carne</it> o <it>Verdure</it>.",
     "Verify": ""
   }
 ]
