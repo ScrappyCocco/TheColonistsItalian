@@ -1,5 +1,5 @@
 Key,Type,Desc,English,Italian,Verify
-AI Players,Text,Computer-controlled players you compete against in the game,AI Players,Giocatori I.A.,
+AI Players,Text,Computer-controlled players you compete against in the game,AI Players,Giocatori IA,
 Advice_0_Desc,Text,,"Build some <bd>Residences</bd> to generate more <it>Energy</it> for lumbering, mining and technology research.","Costruisci alcune <bd>Residenze</bd> per generare più <it>Energia</it> per tagliare la legna, estrarre minerali e ricercare nuova tecnologia.",
 Advice_0_Name,Text,,No <bd>Residences</bd>!,Nessuna <bd>Residenza</bd>!,
 Advice_10_Desc,Text,,Keep expanding until you find a <nr>Coal</nr> deposit and it's inside your territory.,Continua ad espanderti finché non trovi un deposito di <nr>Carbone</nr> incluso nel tuo territorio.,
@@ -91,7 +91,7 @@ Animal_2_Name,Text,,Cow,Mucca,
 Audio Settings,Text,,Audio Settings,Impostazioni Audio,
 Back,Text,Navigate to previous screen,Back,Indietro,
 BdPlVaResults_0_Name,Text,Short message when trying to place a building for example,Success!,Successo!,
-BdPlVaResults_10_Name,Text,,Tile is off map,La casella è fuori dalla mappa.,
+BdPlVaResults_10_Name,Text,,Tile is off map,La casella è fuori dalla mappa,
 BdPlVaResults_11_Name,Text,{0}: name of building or thing obstructing the placement of new building,Tile occupied by {0},La casella è occupata da {0},
 BdPlVaResults_12_Name,Text,,Too steep,Troppo ripido,
 BdPlVaResults_13_Name,Text,,Can't adjust tiles,Impossibile regolare la casella,
@@ -374,7 +374,7 @@ EntPanelHead_13,Text,,Sell Resources,Vendi risorse,
 EntPanelHead_14,Text,,<x>,<x>,
 EntPanelHead_15,Text,,Buy Resources,Compra risorse,
 EntPanelHead_16,Text,,Resource Statistics,Statistiche delle risorse,
-EntPanelHead_17,Text,,Military Activity Log,Registro delle attività militari.,
+EntPanelHead_17,Text,,Military Activity Log,Registro delle attività militari,
 EntPanelHead_19,Text,,Production Statistics,Statistiche di produzione,
 EntPanelHead_2,Text,,Resources,Risorse,
 EntPanelHead_20,Text,,Research Statistics,Statistiche di ricerca,
@@ -901,7 +901,7 @@ ItemCat_2_Desc,Text,,<it>Fish</it> / <it>Meat</it>,<it>Pesce</it> / <it>Carne</i
 ItemCat_2_FullDesc,Text,,<cat>Food</cat> is needed by all <bd>Residences</bd> and can be <it>Fish</it> or <it>Meat</it>.,Il <cat>Cibo</cat> è necessario per tutte le <bd>Residenze</bd> e può essere <it>Pesce</it> o <it>Carne</it>.,
 ItemCat_2_Name,Text,,Food,Cibo,
 ItemCat_3_Desc,Text,,<it>Bread</it>,<it>Pane</it>,
-ItemCat_3_FullDesc,Text,,<cat>Luxury Food</cat> is needed by Level 3 <bd>Residences</bd> and can be <it>Bread</it>,Il <cat>Cibo di lusso</cat> è necessario per le <bd>Residenze</bd> di Livello 3 e può essere <it>Pane</it>.,
+ItemCat_3_FullDesc,Text,,<cat>Luxury Food</cat> is needed by Level 3 <bd>Residences</bd> and can be <it>Bread</it>.,Il <cat>Cibo di lusso</cat> è necessario per le <bd>Residenze</bd> di Livello 3 e può essere <it>Pane</it>.,
 ItemCat_3_Name,Text,,Luxury Food,Cibo di lusso,
 ItemCat_4_Desc,Text,,<it>Cider</it> / <it>Beer</it>,<it>Sidro</it> / <it>Birra</it>,
 ItemCat_4_FullDesc,Text,,<cat>Alcohol</cat> is needed by Level 2 <bd>Residences</bd> and can be <it>Cider</it> or <it>Beer</it>.,<cat>Alcol</cat> è necessario per le <bd>Residenze</bd> di Livello 2 e può essere <it>Sidro</it> o <it>Birra</it>.,
@@ -1625,7 +1625,7 @@ Tech_57_Desc,Text,,Unlocks <bd>Glassworks</bd> and <res>Construction III</res>,S
 Tech_57_Name,Text,,Glassmaking,Produzione del vetro,
 Tech_58_Desc,Text,,Unlocks <res>Construction III</res>,Sblocca <res>Costruzione III</res>,
 Tech_58_Name,Text,,Scaffolding III,Impalcature III,
-Tech_59_Desc,Text,,Unlocks construction of more advanced buildings.,Sblocca la costruzione di edifici più avanzati.,
+Tech_59_Desc,Text,,Unlocks construction of more advanced buildings,Sblocca la costruzione di edifici più avanzati,
 Tech_59_Name,Text,,Construction III,Costruzione III,
 Tech_5_Desc,Text,,Increase construction speed by <amount>%,Migliora la velocità di costruzione dell'<amount>%,
 Tech_5_Name,Text,,Construction Speed I,Velocità di costruzione I,
@@ -1763,7 +1763,7 @@ Costruisci un <bd>Pozzo</bd> sulle caselle evidenziate.",
 TutorialDialogues_T1_ClickStoneDeposit,Text,,"You have some <nr>Stone Deposit</nr> just outside your territory on the other side of the island.
 Click on it now.","Hai alcuni <nr>Depositi di Pietra</nr> appena fuori dal tuo territorio sull'altro lato dell'isola.
 Cliccaci ora.",
-TutorialDialogues_T1_ConnectFishingHut,Text,,Again go ahead and use a path to connect your <bd>Fishing Hut</bd> to the <lr>Road</lr> network using <lr>Paths</lr>.,Continua e utilizza un sentiero per connettere la <bd>Capanna del Pescatore</bd> alla rete <lr>Stradale</lr> utilizzando un <lr>Sentiero</lr>.,
+TutorialDialogues_T1_ConnectFishingHut,Text,,Again go ahead and use a <lr>path</lr> to connect your <bd>Fishing Hut</bd> to the <lr>Road</lr> network.,Continua e utilizza un <lr>Sentiero</lr> per connettere la <bd>Capanna del Pescatore</bd> alla rete <lr>Stradale</lr>.,
 TutorialDialogues_T1_ConnectResidence,Text,,"Again you need to connect the building to the road network to allow resources to reach it.
 Buildings can be connected to any point along a road. Build a <lr>Road</lr> on the highlighted locations.","Ancora una volta hai bisogno di collegare l'edificio alla rete stradale per consentire alle risorse di raggiungerlo.
 Gli edifici possono essere connessi a qualsiasi punto lungo una strada. Costruisci una <lr>Strada</lr> sulle posizioni evidenziate.",
@@ -2072,19 +2072,19 @@ With two separate mission tracks, The Colonists lets either you create sprawling
 
 Explore, research, manage, tweak and refine to your heart's content.
 
-An extensive map editor and Steam Workshop support is included, so you can create, share and play custom maps.","The Colonists è un rilassante gioco gestionale ispirato a titoli classici come The Settlers e la serie Anno.
+An extensive map editor and Steam Workshop support is included, so you can create, share and play custom maps.","The Colonists è un rilassante gioco gestionale sulla costruzione di insediamenti ispirato a titoli classici come The Settlers e la serie Anno.
 
-Affronta una serie di singole missioni o costruisci la tua colonia libera da eventuali vincoli nella modalità [b]sandbox[/b].
+Affronta una serie di missioni o costruisci la tua colonia liberamente nella [b]modalità sandbox[/b].
 
-Prendi il controllo di un team di robot autoreplicanti creati per simulare la civiltà umana. Dopo essere fuggiti dalla Terra, i Coloni sono ora liberi di vagare per la galassia in cerca di una nuova casa e costruire il loro insediamento da sogno.
+Prendi il controllo di un team di robot autoreplicanti creati per simulare la civiltà umana. Dopo essere fuggiti dalla Terra, i Coloni sono ora liberi di vagare per la galassia in cerca di una nuova casa per costruire il loro insediamento da sogno.
 
-Avanzerai attraverso tre diverse epoche mentre costruisci infrastrutture per la tua colonia costruendo sistemi di trasporto su strada, in barca e in treno.
+Avanzerai attraverso tre diverse epoche fabbricando infrastrutture per la tua colonia, costruendo sistemi di trasporto su strada, in barca e in treno.
 
 Raccogli risorse naturali, avvia l'agricoltura e la produzione alimentare, crea spedizioni per scoprire nuove terre e ricercare nuove tecnologie.
 
-Con due percorsi di missione separati, The Colonists ti consente di creare enormi insediamenti in pace o gareggiare per competere contro le colonie di intelligenza artificiale in scenari militari vincitori.
+Con due percorsi di missione separati, The Colonists ti consente di creare enormi insediamenti in pace o gareggiare per competere contro le colonie di intelligenza artificiale in scenari militari all'ultimo sangue.
 
-Esplora, ricerca, gestisci, modifica e perfeziona il contenuto del tuo cuore.
+Esplora, ricerca, gestisci, modifica e perfeziona in piena libertà quanto preferisci.
 
 È incluso un vasto editor di mappe e il supporto per lo Steam Workshop, in modo da poter creare, condividere e giocare mappe personalizzate.",
 ResearchPanel_L1Workshop,Text,,Level 1 Workshop,Laboratorio Livello 1,
@@ -2229,7 +2229,7 @@ OverlayDemandUI_BuildingNotConnected,Text,,Building is not connected to a road p
 Under construction,Text,,Under construction,In costruzione,
 ExpeditionHarbour_NoExpedition,Text,,No expedition started,Nessuna spedizione iniziata,
 ExpeditionHarbour_ExpeditionReady,Text,,Expedition ready!,Spedizione pronta!,
-ExpeditionHarbour_ExpeditionAlreadyAssigned,Text,,Expedition already assigned,Spedizione già assegnata!,
+ExpeditionHarbour_ExpeditionAlreadyAssigned,Text,,Expedition already assigned,Spedizione già assegnata,
 ExpeditionHarbour_ExpeditionCollectionProgress,Text,,Gathering expedition resources: {0}%,Accumulando risorse per la spedizione: {0}%,
 Tooltip_ResourceDemand,Text,{0}:resource name,{0} urgently needed,{0} urgentemente necessario,
 Tooltip_ResourceEnRoute,Text,"{0}:amount, {1}:resource",{0} {1} en route,{0} {1} in viaggio,
@@ -2695,7 +2695,7 @@ Flora_66_Name,Text,"A snowman, but it's robot shaped",Snowbot,BotNevoso,
 FloraValidTerrain_66,Text,The terrain type that a snowbot can be built in,Snow,Neve,
 Scenario_12_Description,Text,,Claim victory over your anthrobotic foes.,Guadagnati la vittoria sui tuoi nemici umanoidi.,
 Scenario_12_Name,Text,"(This is a pun, feel free to not do a literal translation :))",Two Close For Comfort,Vicini troppo vicini,
-MapHardAI,Text,{0}: percentage,Hard - AI is more aggressive and their bots work {0}% faster,Difficile - La I.A. è più aggressiva e i suoi bot lavorano il {0}% più velocemente,
+MapHardAI,Text,{0}: percentage,Hard - AI is more aggressive and their bots work {0}% faster,Difficile - La IA è più aggressiva e i suoi bot lavorano il {0}% più velocemente,
 DaysAgoAlt,Text,{0}: number of days,{0} days ago,{0} giorni fa,
 GameSettingsTickDisplayed,Text,option to display the current game tick in the UI. The game tick is a number which increases every time the game logic runs. So for example one in-game day equals 1800 game ticks.,Show game tick,Mostra frequenza di aggiornamento,
 WorkshopPublishDevBuildMsg,Text,,You cannot publish maps from the development branch. This is to ensure all players can play every map.,Non puoi pubblicare mappe dal branch di develop. Questo per permettere a tutti i giocatori di poter giocare qualsiasi mappa.,
@@ -2742,17 +2742,17 @@ NEW_ACHIEVEMENT_19_14_NAME,Text,,Military Victory!,Vittoria militare!,
 NEW_ACHIEVEMENT_19_14_DESC,Text,,Complete the military campaign,Completa la campagna militare,
 NEW_ACHIEVEMENT_19_15_NAME,Text,,Workshop Explorer,Esploratore del Workshop,
 NEW_ACHIEVEMENT_19_15_DESC,Text,,Play a Steam Workshop map,Gioca una mappa dello Steam Workshop,
-NEW_ACHIEVEMENT_19_16_NAME,Text,,Boatbuilder Challenge - LEGENDARY,Sfida CostruttoreDiBarche - LEGGENDARIO,
+NEW_ACHIEVEMENT_19_16_NAME,Text,,Boatbuilder Challenge - LEGENDARY,Sfida Barcaiolo - LEGGENDARIO,
 NEW_ACHIEVEMENT_19_16_DESC,Text,,Build a boat in mission 3 within 2 months,Costruisci una barca nella missione 3 entro 2 mesi,
-NEW_ACHIEVEMENT_19_17_NAME,Text,,Boatbuilder Challenge - CHAMPION,Sfida CostruttoreDiBarche - CAMPIONE,
+NEW_ACHIEVEMENT_19_17_NAME,Text,,Boatbuilder Challenge - CHAMPION,Sfida Barcaiolo - CAMPIONE,
 NEW_ACHIEVEMENT_19_17_DESC,Text,,Build a boat in mission 3 within 2.5 months,Costruisci una barca nella missione 3 entro 2.5 mesi,
-NEW_ACHIEVEMENT_19_18_NAME,Text,,Boatbuilder Challenge - EXPERT,Sfida CostruttoreDiBarche - ESPERTO,
+NEW_ACHIEVEMENT_19_18_NAME,Text,,Boatbuilder Challenge - EXPERT,Sfida Barcaiolo - ESPERTO,
 NEW_ACHIEVEMENT_19_18_DESC,Text,,Build a boat in mission 3 within 3 months,Costruisci una barca nella missione 3 entro 3 mesi,
-NEW_ACHIEVEMENT_19_19_NAME,Text,,All The Science Challenge - LEGENDARY,Sfida TuttaLaScienza - LEGGENDARIO,
+NEW_ACHIEVEMENT_19_19_NAME,Text,,All The Science Challenge - LEGENDARY,Sfida Fantascienza - LEGGENDARIO,
 NEW_ACHIEVEMENT_19_19_DESC,Text,,Research all the technologies in mission 5 within 1 year 6 months,Ricerca tutte le tecnologie nella missione 5 entro 1 anno e 6 mesi,
-NEW_ACHIEVEMENT_19_20_NAME,Text,,All The Science Challenge - CHAMPION,Sfida TuttaLaScienza - CAMPIONE,
+NEW_ACHIEVEMENT_19_20_NAME,Text,,All The Science Challenge - CHAMPION,Sfida Fantascienza - CAMPIONE,
 NEW_ACHIEVEMENT_19_20_DESC,Text,,Research all the technologies in mission 5 within 1 year 9 months,Ricerca tutte le tecnologie nella missione 5 entro 1 anno e 9 mesi,
-NEW_ACHIEVEMENT_19_21_NAME,Text,,All The Science Challenge - EXPERT,Sfida TuttaLaScienza - ESPERTO,
+NEW_ACHIEVEMENT_19_21_NAME,Text,,All The Science Challenge - EXPERT,Sfida Fantascienza - ESPERTO,
 NEW_ACHIEVEMENT_19_21_DESC,Text,,Research all the technologies in mission 5 within 2 years,Ricerca tutte le tecnologie nella missione 5 entro 2 anni,
 NEW_ACHIEVEMENT_19_22_NAME,Text,,Bootlegger Challenge - LEGENDARY,Sfida Contrabbandiere - LEGGENDARIO,
 NEW_ACHIEVEMENT_19_22_DESC,Text,,Store 100 beer on each of the five islands in mission 7 within 9 months,Deposita 100 birre in ciascuna delle cinque isole della missione 7 entro 9 mesi,
@@ -2767,3 +2767,27 @@ NEW_ACHIEVEMENT_19_26_DESC,Text,,Sell one of each resource without purchasing an
 NEW_ACHIEVEMENT_19_27_NAME,Text,,Supplier Challenge - EXPERT,Sfida Fornitore - ESPERTO,
 NEW_ACHIEVEMENT_19_27_DESC,Text,,Sell one of each resource without purchasing anything in mission 8 within 11 months,Vendi un tipo di ciascuna risorsa senza comprare nulla nella missione 8 entro 11 mesi,
 TutorialDialogues_T1_ExplainFood,Text,,"The other <bd>Residence</bd> need was <cat>Food</cat>. This means <it>Fish</it>, <it>Meat</it> or <it>Vegetables</it>.","L'altra necessità della <bd>Residenza</bd> era <cat>Cibo</cat>. Questo significa <it>Pesce</it>, <it>Carne</it> o <it>Verdure</it>.",
+SpeedRun_Challenges,Text,Title of the speed run challenges panel,Challenges,Sfide,
+Challenge_0_Name,,,Boatbuilder,Barcaiolo,
+Challenge_1_Name,,,All The Science,Fantascienza,
+Challenge_2_Name,,,Bootlegger,Contrabbandiere,
+Challenge_3_Name,,,Supplier,Fornitore,
+Challenge_0_Task,,,Build a boat in mission 3,Costruisci una barca nella missione 3,
+Challenge_1_Task,,,Research all the technologies in mission 5,Ricerca tutte le tecnologie nella missione 5,
+Challenge_2_Task,,,Store 100 beer on each of the five islands in mission 7,Deposita 100 birre in ciascuna delle cinque isole della missione 7,
+Challenge_3_Task,,,Sell one of each resource without purchasing anything in mission 8,Vendi un tipo di ciascuna risorsa senza comprare nulla nella missione 8,
+Challenge_0_Time_0,,,2 months,2 mesi,
+Challenge_0_Time_1,,,2.5 months,2.5 mesi,
+Challenge_0_Time_2,,,3 months,3 mesi,
+Challenge_1_Time_0,,,1 year 6 months,1 anno 6 mesi,
+Challenge_1_Time_1,,,1 year 9 months,1 anno 9 mesi,
+Challenge_1_Time_2,,,2 years,2 anni,
+Challenge_2_Time_0,,,9 months,9 mesi,
+Challenge_2_Time_1,,,10 months,10 mesi,
+Challenge_2_Time_2,,,11 months,11 mesi,
+Challenge_3_Time_0,,,9 months,9 mesi,
+Challenge_3_Time_1,,,10 months,10 mesi,
+Challenge_3_Time_2,,,11 months,11 mesi,
+Challenge_Grade_0,,,LEGENDARY,LEGGENDARIO,
+Challenge_Grade_1,,,CHAMPION,CAMPIONE,
+Challenge_Grade_2,,,EXPERT,ESPERTO,

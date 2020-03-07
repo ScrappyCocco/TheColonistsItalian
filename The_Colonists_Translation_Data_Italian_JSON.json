@@ -4,7 +4,7 @@
     "Type": "Text",
     "Desc": "Computer-controlled players you compete against in the game",
     "English": "AI Players",
-    "Italian": "Giocatori I.A.",
+    "Italian": "Giocatori IA",
     "Verify": ""
   },
   {
@@ -580,7 +580,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Tile is off map",
-    "Italian": "La casella è fuori dalla mappa.",
+    "Italian": "La casella è fuori dalla mappa",
     "Verify": ""
   },
   {
@@ -2844,7 +2844,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Military Activity Log",
-    "Italian": "Registro delle attività militari.",
+    "Italian": "Registro delle attività militari",
     "Verify": ""
   },
   {
@@ -5355,7 +5355,7 @@
     "Key": "ItemCat_3_FullDesc",
     "Type": "Text",
     "Desc": "",
-    "English": "<cat>Luxury Food</cat> is needed by Level 3 <bd>Residences</bd> and can be <it>Bread</it>",
+    "English": "<cat>Luxury Food</cat> is needed by Level 3 <bd>Residences</bd> and can be <it>Bread</it>.",
     "Italian": "Il <cat>Cibo di lusso</cat> è necessario per le <bd>Residenze</bd> di Livello 3 e può essere <it>Pane</it>.",
     "Verify": ""
   },
@@ -10483,8 +10483,8 @@
     "Key": "Tech_59_Desc",
     "Type": "Text",
     "Desc": "",
-    "English": "Unlocks construction of more advanced buildings.",
-    "Italian": "Sblocca la costruzione di edifici più avanzati.",
+    "English": "Unlocks construction of more advanced buildings",
+    "Italian": "Sblocca la costruzione di edifici più avanzati",
     "Verify": ""
   },
   {
@@ -11387,8 +11387,8 @@
     "Key": "TutorialDialogues_T1_ConnectFishingHut",
     "Type": "Text",
     "Desc": "",
-    "English": "Again go ahead and use a path to connect your <bd>Fishing Hut</bd> to the <lr>Road</lr> network using <lr>Paths</lr>.",
-    "Italian": "Continua e utilizza un sentiero per connettere la <bd>Capanna del Pescatore</bd> alla rete <lr>Stradale</lr> utilizzando un <lr>Sentiero</lr>.",
+    "English": "Again go ahead and use a <lr>path</lr> to connect your <bd>Fishing Hut</bd> to the <lr>Road</lr> network.",
+    "Italian": "Continua e utilizza un <lr>Sentiero</lr> per connettere la <bd>Capanna del Pescatore</bd> alla rete <lr>Stradale</lr>.",
     "Verify": ""
   },
   {
@@ -12508,7 +12508,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "The Colonists is a relaxing settlement building game inspired by classic titles like The Settlers and the Anno series.\n\nTake on a series of individual missions or build your colony unfettered by any constraints in the [b]sandbox mode[/b].\n\nYou take control of a team of self-replicating robots built to simulate human civilisation.  After escaping Earth, The Colonists are now free to roam the galaxy in search of a new home and construct their dream settlement.\n\nYou'll advance through three different Ages as you build infrastructure for your colony by constructing road, boat and train transport systems.\n\nHarvest natural resources, set up farming and food production, create expeditions to discover new lands and research new technologies.\n\nWith two separate mission tracks, The Colonists lets either you create sprawling settlements in peace or race to compete against AI colonies in military winner-takes-all scenarios.\n\nExplore, research, manage, tweak and refine to your heart's content.\n\nAn extensive map editor and Steam Workshop support is included, so you can create, share and play custom maps.",
-    "Italian": "The Colonists è un rilassante gioco gestionale ispirato a titoli classici come The Settlers e la serie Anno.\n\nAffronta una serie di singole missioni o costruisci la tua colonia libera da eventuali vincoli nella modalità [b]sandbox[/b].\n\nPrendi il controllo di un team di robot autoreplicanti creati per simulare la civiltà umana. Dopo essere fuggiti dalla Terra, i Coloni sono ora liberi di vagare per la galassia in cerca di una nuova casa e costruire il loro insediamento da sogno.\n\nAvanzerai attraverso tre diverse epoche mentre costruisci infrastrutture per la tua colonia costruendo sistemi di trasporto su strada, in barca e in treno.\n\nRaccogli risorse naturali, avvia l'agricoltura e la produzione alimentare, crea spedizioni per scoprire nuove terre e ricercare nuove tecnologie.\n\nCon due percorsi di missione separati, The Colonists ti consente di creare enormi insediamenti in pace o gareggiare per competere contro le colonie di intelligenza artificiale in scenari militari vincitori.\n\nEsplora, ricerca, gestisci, modifica e perfeziona il contenuto del tuo cuore.\n\nÈ incluso un vasto editor di mappe e il supporto per lo Steam Workshop, in modo da poter creare, condividere e giocare mappe personalizzate.",
+    "Italian": "The Colonists è un rilassante gioco gestionale sulla costruzione di insediamenti ispirato a titoli classici come The Settlers e la serie Anno.\n\nAffronta una serie di missioni o costruisci la tua colonia liberamente nella [b]modalità sandbox[/b].\n\nPrendi il controllo di un team di robot autoreplicanti creati per simulare la civiltà umana. Dopo essere fuggiti dalla Terra, i Coloni sono ora liberi di vagare per la galassia in cerca di una nuova casa per costruire il loro insediamento da sogno.\n\nAvanzerai attraverso tre diverse epoche fabbricando infrastrutture per la tua colonia, costruendo sistemi di trasporto su strada, in barca e in treno.\n\nRaccogli risorse naturali, avvia l'agricoltura e la produzione alimentare, crea spedizioni per scoprire nuove terre e ricercare nuove tecnologie.\n\nCon due percorsi di missione separati, The Colonists ti consente di creare enormi insediamenti in pace o gareggiare per competere contro le colonie di intelligenza artificiale in scenari militari all'ultimo sangue.\n\nEsplora, ricerca, gestisci, modifica e perfeziona in piena libertà quanto preferisci.\n\nÈ incluso un vasto editor di mappe e il supporto per lo Steam Workshop, in modo da poter creare, condividere e giocare mappe personalizzate.",
     "Verify": ""
   },
   {
@@ -13652,7 +13652,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Expedition already assigned",
-    "Italian": "Spedizione già assegnata!",
+    "Italian": "Spedizione già assegnata",
     "Verify": ""
   },
   {
@@ -16780,7 +16780,7 @@
     "Type": "Text",
     "Desc": "{0}: percentage",
     "English": "Hard - AI is more aggressive and their bots work {0}% faster",
-    "Italian": "Difficile - La I.A. è più aggressiva e i suoi bot lavorano il {0}% più velocemente",
+    "Italian": "Difficile - La IA è più aggressiva e i suoi bot lavorano il {0}% più velocemente",
     "Verify": ""
   },
   {
@@ -17156,7 +17156,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Boatbuilder Challenge - LEGENDARY",
-    "Italian": "Sfida CostruttoreDiBarche - LEGGENDARIO",
+    "Italian": "Sfida Barcaiolo - LEGGENDARIO",
     "Verify": ""
   },
   {
@@ -17172,7 +17172,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Boatbuilder Challenge - CHAMPION",
-    "Italian": "Sfida CostruttoreDiBarche - CAMPIONE",
+    "Italian": "Sfida Barcaiolo - CAMPIONE",
     "Verify": ""
   },
   {
@@ -17188,7 +17188,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Boatbuilder Challenge - EXPERT",
-    "Italian": "Sfida CostruttoreDiBarche - ESPERTO",
+    "Italian": "Sfida Barcaiolo - ESPERTO",
     "Verify": ""
   },
   {
@@ -17204,7 +17204,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "All The Science Challenge - LEGENDARY",
-    "Italian": "Sfida TuttaLaScienza - LEGGENDARIO",
+    "Italian": "Sfida Fantascienza - LEGGENDARIO",
     "Verify": ""
   },
   {
@@ -17220,7 +17220,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "All The Science Challenge - CHAMPION",
-    "Italian": "Sfida TuttaLaScienza - CAMPIONE",
+    "Italian": "Sfida Fantascienza - CAMPIONE",
     "Verify": ""
   },
   {
@@ -17236,7 +17236,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "All The Science Challenge - EXPERT",
-    "Italian": "Sfida TuttaLaScienza - ESPERTO",
+    "Italian": "Sfida Fantascienza - ESPERTO",
     "Verify": ""
   },
   {
@@ -17349,6 +17349,198 @@
     "Desc": "",
     "English": "The other <bd>Residence</bd> need was <cat>Food</cat>. This means <it>Fish</it>, <it>Meat</it> or <it>Vegetables</it>.",
     "Italian": "L'altra necessità della <bd>Residenza</bd> era <cat>Cibo</cat>. Questo significa <it>Pesce</it>, <it>Carne</it> o <it>Verdure</it>.",
+    "Verify": ""
+  },
+  {
+    "Key": "SpeedRun_Challenges",
+    "Type": "Text",
+    "Desc": "Title of the speed run challenges panel",
+    "English": "Challenges",
+    "Italian": "Sfide",
+    "Verify": ""
+  },
+  {
+    "Key": "Challenge_0_Name",
+    "Type": "",
+    "Desc": "",
+    "English": "Boatbuilder",
+    "Italian": "Barcaiolo",
+    "Verify": ""
+  },
+  {
+    "Key": "Challenge_1_Name",
+    "Type": "",
+    "Desc": "",
+    "English": "All The Science",
+    "Italian": "Fantascienza",
+    "Verify": ""
+  },
+  {
+    "Key": "Challenge_2_Name",
+    "Type": "",
+    "Desc": "",
+    "English": "Bootlegger",
+    "Italian": "Contrabbandiere",
+    "Verify": ""
+  },
+  {
+    "Key": "Challenge_3_Name",
+    "Type": "",
+    "Desc": "",
+    "English": "Supplier",
+    "Italian": "Fornitore",
+    "Verify": ""
+  },
+  {
+    "Key": "Challenge_0_Task",
+    "Type": "",
+    "Desc": "",
+    "English": "Build a boat in mission 3",
+    "Italian": "Costruisci una barca nella missione 3",
+    "Verify": ""
+  },
+  {
+    "Key": "Challenge_1_Task",
+    "Type": "",
+    "Desc": "",
+    "English": "Research all the technologies in mission 5",
+    "Italian": "Ricerca tutte le tecnologie nella missione 5",
+    "Verify": ""
+  },
+  {
+    "Key": "Challenge_2_Task",
+    "Type": "",
+    "Desc": "",
+    "English": "Store 100 beer on each of the five islands in mission 7",
+    "Italian": "Deposita 100 birre in ciascuna delle cinque isole della missione 7",
+    "Verify": ""
+  },
+  {
+    "Key": "Challenge_3_Task",
+    "Type": "",
+    "Desc": "",
+    "English": "Sell one of each resource without purchasing anything in mission 8",
+    "Italian": "Vendi un tipo di ciascuna risorsa senza comprare nulla nella missione 8",
+    "Verify": ""
+  },
+  {
+    "Key": "Challenge_0_Time_0",
+    "Type": "",
+    "Desc": "",
+    "English": "2 months",
+    "Italian": "2 mesi",
+    "Verify": ""
+  },
+  {
+    "Key": "Challenge_0_Time_1",
+    "Type": "",
+    "Desc": "",
+    "English": "2.5 months",
+    "Italian": "2.5 mesi",
+    "Verify": ""
+  },
+  {
+    "Key": "Challenge_0_Time_2",
+    "Type": "",
+    "Desc": "",
+    "English": "3 months",
+    "Italian": "3 mesi",
+    "Verify": ""
+  },
+  {
+    "Key": "Challenge_1_Time_0",
+    "Type": "",
+    "Desc": "",
+    "English": "1 year 6 months",
+    "Italian": "1 anno 6 mesi",
+    "Verify": ""
+  },
+  {
+    "Key": "Challenge_1_Time_1",
+    "Type": "",
+    "Desc": "",
+    "English": "1 year 9 months",
+    "Italian": "1 anno 9 mesi",
+    "Verify": ""
+  },
+  {
+    "Key": "Challenge_1_Time_2",
+    "Type": "",
+    "Desc": "",
+    "English": "2 years",
+    "Italian": "2 anni",
+    "Verify": ""
+  },
+  {
+    "Key": "Challenge_2_Time_0",
+    "Type": "",
+    "Desc": "",
+    "English": "9 months",
+    "Italian": "9 mesi",
+    "Verify": ""
+  },
+  {
+    "Key": "Challenge_2_Time_1",
+    "Type": "",
+    "Desc": "",
+    "English": "10 months",
+    "Italian": "10 mesi",
+    "Verify": ""
+  },
+  {
+    "Key": "Challenge_2_Time_2",
+    "Type": "",
+    "Desc": "",
+    "English": "11 months",
+    "Italian": "11 mesi",
+    "Verify": ""
+  },
+  {
+    "Key": "Challenge_3_Time_0",
+    "Type": "",
+    "Desc": "",
+    "English": "9 months",
+    "Italian": "9 mesi",
+    "Verify": ""
+  },
+  {
+    "Key": "Challenge_3_Time_1",
+    "Type": "",
+    "Desc": "",
+    "English": "10 months",
+    "Italian": "10 mesi",
+    "Verify": ""
+  },
+  {
+    "Key": "Challenge_3_Time_2",
+    "Type": "",
+    "Desc": "",
+    "English": "11 months",
+    "Italian": "11 mesi",
+    "Verify": ""
+  },
+  {
+    "Key": "Challenge_Grade_0",
+    "Type": "",
+    "Desc": "",
+    "English": "LEGENDARY",
+    "Italian": "LEGGENDARIO",
+    "Verify": ""
+  },
+  {
+    "Key": "Challenge_Grade_1",
+    "Type": "",
+    "Desc": "",
+    "English": "CHAMPION",
+    "Italian": "CAMPIONE",
+    "Verify": ""
+  },
+  {
+    "Key": "Challenge_Grade_2",
+    "Type": "",
+    "Desc": "",
+    "English": "EXPERT",
+    "Italian": "ESPERTO",
     "Verify": ""
   }
 ]
