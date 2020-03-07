@@ -19,6 +19,13 @@ class CSVValidator:
     # Remember that line 1 is the file header
     lines_to_ignore = []
 
+    # Grammar elements to check in the row
+    elements_to_check = [",", ".", ":", "!", " - ", "%"]
+    # Elements which number can differ between the english version and the translated version
+    # This is to allow translated phrases to have more grammar that might be necessary
+    # Remember that this only apply when the english version has 0, otherwise the number must be the same
+    allowed_elements_difference = [",", ":"]
+
     # ---------------------------------------------------------------------
 
     @staticmethod
@@ -89,24 +96,27 @@ class CSVValidator:
         # Everything is fine
         return True
 
-    @staticmethod
-    def __row_grammar_validation(row: list) -> bool:
-        elements_to_check = [",", ".", ":", "!", " - ", "%"]
+    def __row_grammar_validation(self, row: list) -> bool:
         # Get the original content and the translated content
         english_content = row[3]
         translated_content = row[4]
-        for grammar_element in elements_to_check:
+        for grammar_element in self.elements_to_check:
             # Get the number of occurrences in english phrase
             en_count = english_content.count(grammar_element)
-            # If the counter is not 0, check the translated content
-            for i in range(0, en_count):
-                # For every element check that's in the translated content
-                if grammar_element in translated_content:
-                    # If is present remove the occurrence
-                    translated_content = translated_content.replace(grammar_element, "", 1)
-                else:
-                    # If is not present return false
+            if en_count == 0 and grammar_element not in self.allowed_elements_difference:
+                tr_count = translated_content.count(grammar_element)
+                if en_count != tr_count:
                     return False
+            else:
+                # If the counter is not 0, check the translated content
+                for i in range(0, en_count):
+                    # For every element check that's in the translated content
+                    if grammar_element in translated_content:
+                        # If is present remove the occurrence
+                        translated_content = translated_content.replace(grammar_element, "", 1)
+                    else:
+                        # If is not present return false
+                        return False
         return True
 
     def process_file(self, filename: str):

@@ -16,7 +16,12 @@ Simply go to **your language sheet** and export it using File -> Download as -> 
 ## Available variables to change:
 * CSVValidator.py:
     * `lines_to_ignore` list of lines number to skip.
-    For example writing `[500, 1025]` will make the check skip line 500 and line 1025 of the translation file.
+    For example writing `[500, 1025]` will make the check skip line 500 and line 1025 of the translation file;
+    * `elements_to_check` list of grammar elements to check in the row, 
+    to be sure the number is the same between the english version and the translated version (for example the number of `!`);
+    * `allowed_elements_difference` grammar elements which number can differ between the english version and the translated version.
+    This is to allow translated phrases to have more grammar that might be necessary.
+    Remember that this only apply when the grammar element is in `elements_to_check` and the english version has 0, otherwise the number must be the same.
     
 * ValidatorFileManager.py:
     * `file_output_name` the string name of the output file to create. Remember this **must** have the extension (default is .txt);
