@@ -2115,8 +2115,8 @@
     "Key": "Building_58_Description",
     "Type": "Text",
     "Desc": "",
-    "English": "Brews <it>Beer</it> from <it>Flour</it> and <it>Water</it>.",
-    "Italian": "Produce <it>Birra</it> da <it>Farina</it> e <it>Acqua</it>.",
+    "English": "Brews <it>Beer</it> from <it>Wheat</it> and <it>Water</it>.",
+    "Italian": "Produce <it>Birra</it> da <it>Grano</it> e <it>Acqua</it>.",
     "Verify": ""
   },
   {
@@ -3754,7 +3754,7 @@
   {
     "Key": "EntityPortColonyShipBoatEnRoute",
     "Type": "Text",
-    "Desc": "",
+    "Desc": "{0}: name of boat",
     "English": "{0} is on its way to collect expedition provisions",
     "Italian": "{0} sta arrivando per raccogliere le risorse per la spedizione",
     "Verify": ""
@@ -3762,7 +3762,7 @@
   {
     "Key": "EntityPortColonyShipBoatLoading",
     "Type": "Text",
-    "Desc": "",
+    "Desc": "{0}: name of boat, {1}: number of resources",
     "English": "{0} is loading {1} more provisions...",
     "Italian": "{0} sta caricando {1} altre provviste...",
     "Verify": ""
@@ -3770,7 +3770,7 @@
   {
     "Key": "EntityPortColonyShipBoatWaiting",
     "Type": "Text",
-    "Desc": "",
+    "Desc": "{0}: name of boat",
     "English": "{0} is waiting for docking space to become available",
     "Italian": "{0} è in attesa della disponibilità dello spazio di attracco",
     "Verify": ""
@@ -3890,7 +3890,7 @@
   {
     "Key": "EntityTransportBoatStorageLoadingHeader",
     "Type": "Text",
-    "Desc": "",
+    "Desc": "{0}: number of resources",
     "English": "Loading ({0})",
     "Italian": "Caricamento ({0})",
     "Verify": ""
@@ -3906,7 +3906,7 @@
   {
     "Key": "EntityTransportBoatStorageOnBoardHeader",
     "Type": "Text",
-    "Desc": "",
+    "Desc": "{0}: number of resources",
     "English": "On Board ({0})",
     "Italian": "A bordo ({0})",
     "Verify": ""
@@ -3922,7 +3922,7 @@
   {
     "Key": "EntityTransportVehicleStopsBoatIntro",
     "Type": "Text",
-    "Desc": "",
+    "Desc": "{0}: name of boat",
     "English": "{0} will automatically transport resources between these harbours",
     "Italian": "{0} trasporterà automaticamente le risorse tra questi porti",
     "Verify": ""
@@ -3970,7 +3970,7 @@
   {
     "Key": "EntityTransportVehicleStopsInvalidSequence",
     "Type": "Text",
-    "Desc": "",
+    "Desc": "{0}: name of harbour",
     "English": "Invalid Route! Route stops at {0} twice in a row!",
     "Italian": "Percorso non valido! Il percorso si ferma a {0} due volte di seguito!",
     "Verify": ""
@@ -4018,7 +4018,7 @@
   {
     "Key": "EntityTransportVehicleStopsTrainIntro",
     "Type": "Text",
-    "Desc": "",
+    "Desc": "{0}: name of train",
     "English": "{0} will automatically transport resources between these stations",
     "Italian": "{0} trasporterà automaticamente le risorse tra queste stazioni",
     "Verify": ""
@@ -6539,16 +6539,16 @@
     "Key": "Item_35_Desc",
     "Type": "Text",
     "Desc": "",
-    "English": "Salt is harvested by the <bd>Level 2 Surface Mine</bd> and the <bd>Level 1 Shaft Mine</bd>.",
-    "Italian": "Il sale viene raccolto dalla <bd>Miniera di Superficie di Livello 2</bd> e dalla <bd>Miniera di Livello 1</bd>.",
+    "English": "Salt is harvested by the <bd>Level 3 Surface Mine</bd> and the <bd>Level 2 Shaft Mine</bd>.",
+    "Italian": "Il sale viene raccolto dalla <bd>Miniera di Superficie di Livello 3</bd> e dalla <bd>Miniera di Livello 2</bd>.",
     "Verify": ""
   },
   {
     "Key": "Item_35_FullDesc",
     "Type": "Text",
     "Desc": "",
-    "English": "Salt is harvested by the <bd>Level 2 Surface Mine</bd> and the <bd>Level 1 Shaft Mine</bd> and is used by the <bd>Tannery</bd> to create <it>Leather</it>",
-    "Italian": "Il sale viene raccolto dalla <bd>Miniera di Superficie di Livello 2</bd> e dalla <bd>Miniera di Livello 1</bd> e viene utilizzato dalla <bd>Conceria</bd> per creare <it>Pelle</it>",
+    "English": "Salt is harvested by the <bd>Level 3 Surface Mine</bd> and the <bd>Level 2 Shaft Mine</bd> and is used by the <bd>Tannery</bd> to create <it>Leather</it>",
+    "Italian": "Il sale viene raccolto dalla <bd>Miniera di Superficie di Livello 3</bd> e dalla <bd>Miniera di Livello 2</bd> e viene utilizzato dalla <bd>Conceria</bd> per creare <it>Pelle</it>",
     "Verify": ""
   },
   {
@@ -8339,7 +8339,7 @@
     "Key": "NotificationCollapsingWatchtowerOne",
     "Type": "Text",
     "Desc": "",
-    "English": "You have an collapsing watchtower!",
+    "English": "You have a collapsing watchtower!",
     "Italian": "Una torre di guardia sta crollando!",
     "Verify": ""
   },
@@ -17541,6 +17541,118 @@
     "Desc": "",
     "English": "EXPERT",
     "Italian": "ESPERTO",
+    "Verify": ""
+  },
+  {
+    "Key": "GameSettingsInvertZoom",
+    "Type": "",
+    "Desc": "",
+    "English": "Invert zoom",
+    "Italian": "Inverti zoom",
+    "Verify": ""
+  },
+  {
+    "Key": "GameSettingsEightSpeed",
+    "Type": "",
+    "Desc": "",
+    "English": "Enable 8x speed",
+    "Italian": "Attiva velocità 8x",
+    "Verify": ""
+  },
+  {
+    "Key": "ChallengeComplete",
+    "Type": "",
+    "Desc": "",
+    "English": "Challenge Complete!",
+    "Italian": "Sfida completata!",
+    "Verify": ""
+  },
+  {
+    "Key": "ChallengeComplete_Message3",
+    "Type": "",
+    "Desc": "(Modest praise)",
+    "English": "Congratulations! You achieved the EXPERT rank!",
+    "Italian": "Congraturazioni! Hai ottenuto il rank ESPERTO!",
+    "Verify": ""
+  },
+  {
+    "Key": "ChallengeComplete_Message2",
+    "Type": "",
+    "Desc": "(High praise)",
+    "English": "Amazing! You achieved the CHAMPION rank!",
+    "Italian": "Fantastico! Hai ottenuto il rank CAMPIONE!",
+    "Verify": ""
+  },
+  {
+    "Key": "ChallengeComplete_Message1",
+    "Type": "",
+    "Desc": "(Highest praise)",
+    "English": "Incredible! You achieved the LEGENDARY rank!",
+    "Italian": "Incredibile! Hai ottenuto il rank LEGGENDARIO!",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityTransportBoatStorageUnloadingEmpty",
+    "Type": "",
+    "Desc": "",
+    "English": "There are no resources to be unloaded",
+    "Italian": "Non ci sono risorse da scaricare",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityTransportBoatStorageUnloadingHeader",
+    "Type": "",
+    "Desc": "{0}: number of resources to be unloaded",
+    "English": "Unloading ({0})",
+    "Italian": "Scaricando ({0})",
+    "Verify": ""
+  },
+  {
+    "Key": "VehicleStatusDocked",
+    "Type": "",
+    "Desc": "{0}: number of resources being unloaded\n{1}: number of resources being loaded",
+    "English": "Unloading ({0}) & loading ({1})",
+    "Italian": "Scaricando ({0}) & caricando ({1})",
+    "Verify": ""
+  },
+  {
+    "Key": "VehicleStatusQueueing",
+    "Type": "",
+    "Desc": "{0}: name of harbour",
+    "English": "Queueing at {0}",
+    "Italian": "In coda presso {0}",
+    "Verify": ""
+  },
+  {
+    "Key": "VehicleStatusHeading",
+    "Type": "",
+    "Desc": "{0}: name of harbour/train station",
+    "English": "Heading to {0}",
+    "Italian": "Diretto verso {0}",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityBuildingTransportConnectionsNoTrainRoutes",
+    "Type": "",
+    "Desc": "(This train station has no train routes that stop here)",
+    "English": "No train routes",
+    "Italian": "Non ci sono tratte ferroviarie",
+    "Verify": ""
+  },
+  {
+    "Key": "SandboxFreeResourceCreation",
+    "Type": "",
+    "Desc": "ability to generate resources for fre at a storage yard",
+    "English": "Free Storage Yard Resources",
+    "Italian": "Risorse gratis al Deposito",
+    "Verify": ""
+  },
+  {
+    "Key": "FreeResourceCreationCreateResources",
+    "Type": "",
+    "Desc": "button to create free resources",
+    "English": "Create Resources",
+    "Italian": "Crea Risorse",
     "Verify": ""
   }
 ]
