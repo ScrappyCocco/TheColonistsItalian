@@ -187,8 +187,8 @@
     "Key": "Advice_1_Desc",
     "Type": "Text",
     "Desc": "",
-    "English": "If you run out of trees your Log supply may fail. Build a <bd>Forester</bd> to plant more trees.",
-    "Italian": "Se finisci gli alberi la tua produzione di Tronchi potrebbe interrompersi. Costruisci una <bd>Guardia Forestale</bd> per piantare altri alberi.",
+    "English": "If you run out of trees your <it>Logs</it> supply may fail. Build a <bd>Forester</bd> to plant more trees.",
+    "Italian": "Se finisci gli alberi la tua produzione di <it>Tronchi</it> potrebbe interrompersi. Costruisci una <bd>Guardia Forestale</bd> per piantare altri alberi.",
     "Verify": ""
   },
   {
@@ -347,7 +347,7 @@
     "Key": "Advice_29_Desc",
     "Type": "Text",
     "Desc": "",
-    "English": "Consider placing related supply and demands building closer as well as using transport rules at road posts or harbours to control how resources move around your colony. Click on any roads to find out more.",
+    "English": "Consider placing related supply and demands building closer as well as using transport rules at road posts or harbours to control how resources move around your colony. Click on any road posts to find out more.",
     "Italian": "Considera di piazzare gli edifici per la produzione di risorse vicini a quelli che le richiedono, oltre ad usare le regole di trasporto agli incroci e i porti per controllare come le risorse vengono trasportate nella tua colonia. Clicca su una strada per scoprire di più.",
     "Verify": ""
   },
@@ -402,7 +402,7 @@
   {
     "Key": "Advice_3_Name",
     "Type": "Text",
-    "Desc": "",
+    "Desc": "!!!! This line is deprecated. New lines at 2254",
     "English": "<amount> of your buildings <isare> not connected to your road network!",
     "Italian": "<amount> dei tuoi edifici <isare> non sono connessi alla tua rete stradale!",
     "Verify": ""
@@ -9227,7 +9227,7 @@
     "Key": "ScenVict_5_Desc",
     "Type": "Text",
     "Desc": "",
-    "English": "Have $<amount> in bank.",
+    "English": "Have $<amount> in the bank.",
     "Italian": "Hai $<amount> in banca.",
     "Verify": ""
   },
@@ -10883,7 +10883,7 @@
     "Key": "Tip_14",
     "Type": "Text",
     "Desc": "",
-    "English": "Right-click at any point to cancel the mode you're in.",
+    "English": "Right-click at any time to cancel the mode you're in.",
     "Italian": "Fai clic con il pulsante destro del mouse in qualsiasi momento per annullare la modalità in cui ti trovi.",
     "Verify": ""
   },
@@ -12506,7 +12506,7 @@
   {
     "Key": "Store_Description",
     "Type": "Text",
-    "Desc": "",
+    "Desc": "!!!!! DEPRECATED\nNEW ENTRY: line 2266",
     "English": "The Colonists is a relaxing settlement building game inspired by classic titles like The Settlers and the Anno series.\n\nTake on a series of individual missions or build your colony unfettered by any constraints in the [b]sandbox mode[/b].\n\nYou take control of a team of self-replicating robots built to simulate human civilisation.  After escaping Earth, The Colonists are now free to roam the galaxy in search of a new home and construct their dream settlement.\n\nYou'll advance through three different Ages as you build infrastructure for your colony by constructing road, boat and train transport systems.\n\nHarvest natural resources, set up farming and food production, create expeditions to discover new lands and research new technologies.\n\nWith two separate mission tracks, The Colonists lets either you create sprawling settlements in peace or race to compete against AI colonies in military winner-takes-all scenarios.\n\nExplore, research, manage, tweak and refine to your heart's content.\n\nAn extensive map editor and Steam Workshop support is included, so you can create, share and play custom maps.",
     "Italian": "The Colonists è un rilassante gioco gestionale sulla costruzione di insediamenti ispirato a titoli classici come The Settlers e la serie Anno.\n\nAffronta una serie di missioni o costruisci la tua colonia liberamente nella [b]modalità sandbox[/b].\n\nPrendi il controllo di un team di robot autoreplicanti creati per simulare la civiltà umana. Dopo essere fuggiti dalla Terra, i Coloni sono ora liberi di vagare per la galassia in cerca di una nuova casa per costruire il loro insediamento da sogno.\n\nAvanzerai attraverso tre diverse epoche fabbricando infrastrutture per la tua colonia, costruendo sistemi di trasporto su strada, in barca e in treno.\n\nRaccogli risorse naturali, avvia l'agricoltura e la produzione alimentare, crea spedizioni per scoprire nuove terre e ricercare nuove tecnologie.\n\nCon due percorsi di missione separati, The Colonists ti consente di creare enormi insediamenti in pace o gareggiare per competere contro le colonie di intelligenza artificiale in scenari militari all'ultimo sangue.\n\nEsplora, ricerca, gestisci, modifica e perfeziona in piena libertà quanto preferisci.\n\nÈ incluso un vasto editor di mappe e il supporto per lo Steam Workshop, in modo da poter creare, condividere e giocare mappe personalizzate.",
     "Verify": ""
@@ -12698,7 +12698,7 @@
   {
     "Key": "CursorConstrained",
     "Type": "Text",
-    "Desc": "",
+    "Desc": "(if the cursor is constrained to the game window)",
     "English": "Cursor Constrained",
     "Italian": "Mouse bloccato (nella finestra)",
     "Verify": ""
@@ -14475,8 +14475,8 @@
     "Key": "FloorInvalidBelowWater",
     "Type": "Text",
     "Desc": "",
-    "English": "TileBelowWater",
-    "Italian": "CellaSottoAcqua",
+    "English": "Tile is below water",
+    "Italian": "La cella è sotto acqua",
     "Verify": ""
   },
   {
@@ -17653,6 +17653,470 @@
     "Desc": "button to create free resources",
     "English": "Create Resources",
     "Italian": "Crea Risorse",
+    "Verify": ""
+  },
+  {
+    "Key": "ImportRuleConstructionWarning",
+    "Type": "",
+    "Desc": "",
+    "English": "Please note that import rules also apply to sourcing construction resources. Are you sure you want to add this import rule before {0} is finished?\n\nHold [{1}] to skip this message.",
+    "Italian": "Ricorda che le regole di importazione si applicano anche alle risorse per la costruzione. Sei sicuro di voler aggiungere questa regola prima che {0} sia finito?\n\nTieni premuto [{1}] per saltare questo messaggio.",
+    "Verify": ""
+  },
+  {
+    "Key": "Scenario_13_Description",
+    "Type": "",
+    "Desc": "",
+    "English": "Claim victory over your anthrobotic foes.",
+    "Italian": "Guadagnati la vittoria sui tuoi nemici umanoidi.",
+    "Verify": ""
+  },
+  {
+    "Key": "Scenario_13_Name",
+    "Type": "",
+    "Desc": "",
+    "English": "The Three Hills",
+    "Italian": "Le Tre Colline",
+    "Verify": ""
+  },
+  {
+    "Key": "BugReport_CopyClipboard",
+    "Type": "",
+    "Desc": "(path means path of the bug report file on your computer)",
+    "English": "Copy path to clipboard",
+    "Italian": "Copia percorso file negli appunti",
+    "Verify": ""
+  },
+  {
+    "Key": "NowAvailableInLanguage",
+    "Type": "",
+    "Desc": "!!! Replace English with the name of your language in your language!\n(The Colonists is) now available in English!",
+    "English": "Now available in English!",
+    "Italian": "Ora disponibile in Italiano!",
+    "Verify": ""
+  },
+  {
+    "Key": "Tip_21",
+    "Type": "",
+    "Desc": "",
+    "English": "Hold [Alt] when placing a building to have its construction instantly paused",
+    "Italian": "Tieni premuto [Alt] quando piazzi un edificio per mettere subito in pausa la sua costruzione",
+    "Verify": ""
+  },
+  {
+    "Key": "DevBuildIntro",
+    "Type": "",
+    "Desc": "",
+    "English": "Welcome to the development build of The Colonists!\n\nPlease be aware that you may find extra bugs in this version of the game.\n\nYou may also get potential bug alerts pop up, please still report these if it's the first one in your game session.\n\nThanks!",
+    "Italian": "Benvenuto nella build in sviluppo di The Colonist!\n\nTieni a mente che potresti trovare ulteriori bug in questa versione del gioco.\n\nPotresti anche vedere degli avvisi di errore apparire, per favore riportali la prima volta che ti appaiono.\n\nGrazie!",
+    "Verify": ""
+  },
+  {
+    "Key": "UnlockAllMissions",
+    "Type": "",
+    "Desc": "",
+    "English": "Unlock all missions",
+    "Italian": "Sblocca tutte le missioni",
+    "Verify": ""
+  },
+  {
+    "Key": "MilitaryTargetsTooltip",
+    "Type": "",
+    "Desc": "{0}: number of targets",
+    "English": "Targets in range: {0}",
+    "Italian": "Bersagli nel raggio: {0}",
+    "Verify": ""
+  },
+  {
+    "Key": "UnitState_HeadingToJob",
+    "Type": "",
+    "Desc": "Generic message for a bot heading to a job, e.g. lumberjack, road layer",
+    "English": "Heading to job",
+    "Italian": "Diretto al lavoro",
+    "Verify": ""
+  },
+  {
+    "Key": "ItemInfoConsumption_PriorityBuildings",
+    "Type": "",
+    "Desc": "(On resource demand panel) Header for list of buildings that have been prioritised",
+    "English": "Prioritised Buildings",
+    "Italian": "Edifici con Priorità",
+    "Verify": ""
+  },
+  {
+    "Key": "GameFailed_Header",
+    "Type": "",
+    "Desc": "",
+    "English": "Oh no!",
+    "Italian": "Oh no!",
+    "Verify": ""
+  },
+  {
+    "Key": "GameFailed_Message",
+    "Type": "",
+    "Desc": "",
+    "English": "You lost your colony ship and have been defeated...",
+    "Italian": "Hai perso la tua Nave della Colonia e sei stato sconfitto...",
+    "Verify": ""
+  },
+  {
+    "Key": "GameFailed_Retry",
+    "Type": "",
+    "Desc": "",
+    "English": "Retry Mission",
+    "Italian": "Riprova Missione",
+    "Verify": ""
+  },
+  {
+    "Key": "GameFailed_ContinueWatch",
+    "Type": "",
+    "Desc": "(continue to watch the game)",
+    "English": "Watch",
+    "Italian": "Osserva",
+    "Verify": ""
+  },
+  {
+    "Key": "AI_Player_Name",
+    "Type": "",
+    "Desc": "{0}: number e.g. \"AI Player 1",
+    "English": "AI Player {0}",
+    "Italian": "Giocatore AI {0}",
+    "Verify": ""
+  },
+  {
+    "Key": "InfoPanel_MissionInfo",
+    "Type": "",
+    "Desc": "Header for panel containing general information, name, creator etc",
+    "English": "Mission Info",
+    "Italian": "Informazioni Missione",
+    "Verify": ""
+  },
+  {
+    "Key": "InfoPanel_MedalTimes",
+    "Type": "",
+    "Desc": "Header for panel which tells you which times you need to achieve to earn what medals",
+    "English": "Medal Times",
+    "Italian": "Tempi Medaglie",
+    "Verify": ""
+  },
+  {
+    "Key": "MedalColour_Gold",
+    "Type": "",
+    "Desc": "Medal colour",
+    "English": "Gold",
+    "Italian": "Oro",
+    "Verify": ""
+  },
+  {
+    "Key": "MedalColour_Silver",
+    "Type": "",
+    "Desc": "Medal colour",
+    "English": "Silver",
+    "Italian": "Argento",
+    "Verify": ""
+  },
+  {
+    "Key": "MedalColour_Bronze",
+    "Type": "",
+    "Desc": "Medal colour",
+    "English": "Bronze",
+    "Italian": "Bronzo",
+    "Verify": ""
+  },
+  {
+    "Key": "MissionInfo_SandboxEdit",
+    "Type": "",
+    "Desc": "Button to change the sandbox settings",
+    "English": "Change Settings",
+    "Italian": "Cambia Impostazioni",
+    "Verify": ""
+  },
+  {
+    "Key": "MissionInfo_WorkshopOpen",
+    "Type": "",
+    "Desc": "Button to open the Steam Workshop page for the map being played",
+    "English": "Open in Steam Workshop",
+    "Italian": "Apri nello Steam Workshop",
+    "Verify": ""
+  },
+  {
+    "Key": "MissionInfo_MapEditorTest",
+    "Type": "",
+    "Desc": "Mission name when testing a custom map",
+    "English": "Map Editor Test",
+    "Italian": "Test Editor Mappe",
+    "Verify": ""
+  },
+  {
+    "Key": "CampaignMissionTitleNumber",
+    "Type": "",
+    "Desc": "{0}: number, e.g. Campaign Mission 7",
+    "English": "Campaign Mission {0}",
+    "Italian": "Missione Campagna {0}",
+    "Verify": ""
+  },
+  {
+    "Key": "EditSandbox_Title",
+    "Type": "",
+    "Desc": "Title of window for changing sandbox settings in-game",
+    "English": "Sandbox Settings",
+    "Italian": "Impostazioni Sandbox",
+    "Verify": ""
+  },
+  {
+    "Key": "EditSandbox_Save",
+    "Type": "",
+    "Desc": "Button to save the settings",
+    "English": "Save Settings",
+    "Italian": "Salva Impostazioni",
+    "Verify": ""
+  },
+  {
+    "Key": "EditSandbox_RevertWarning",
+    "Type": "",
+    "Desc": "When a settings is selected that cannot be reverted later on (e.g. researching all tech)",
+    "English": "Warning! Cannot be reverted",
+    "Italian": "Attenzione! Non può essere annullata",
+    "Verify": ""
+  },
+  {
+    "Key": "AlertPanel_Title",
+    "Type": "",
+    "Desc": "Title of generic warning window - e.g. when you click to destroy a building",
+    "English": "Alert",
+    "Italian": "Attenzione",
+    "Verify": ""
+  },
+  {
+    "Key": "MapEditor_MaxVictoryConditions",
+    "Type": "",
+    "Desc": "When the user has created the maximum allowable number of victory conditions",
+    "English": "Maximum conditions reached!",
+    "Italian": "Numero massimo di condizioni raggiunto!",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityBoatyardDockCancelConstruction",
+    "Type": "",
+    "Desc": "Button to cancel construction of the current boat",
+    "English": "Cancel Construction",
+    "Italian": "Annulla Costruzione",
+    "Verify": ""
+  },
+  {
+    "Key": "RandomMap",
+    "Type": "",
+    "Desc": "Procedurally generated maps",
+    "English": "Random Map",
+    "Italian": "Mappa Random",
+    "Verify": ""
+  },
+  {
+    "Key": "RandomMap_Water0",
+    "Type": "",
+    "Desc": "Little water on the map",
+    "English": "Little",
+    "Italian": "Poca",
+    "Verify": ""
+  },
+  {
+    "Key": "RandomMap_Water1",
+    "Type": "",
+    "Desc": "Some amount of water on the map",
+    "English": "Some",
+    "Italian": "Standard",
+    "Verify": ""
+  },
+  {
+    "Key": "RandomMap_Water2",
+    "Type": "",
+    "Desc": "Lots of water on the map",
+    "English": "Lots",
+    "Italian": "Tanta",
+    "Verify": ""
+  },
+  {
+    "Key": "RandomMap_Water",
+    "Type": "",
+    "Desc": "Water (for the random map)",
+    "English": "Water",
+    "Italian": "Acqua",
+    "Verify": ""
+  },
+  {
+    "Key": "ModManager",
+    "Type": "",
+    "Desc": "Panel for managing player created mods",
+    "English": "Mod Manager",
+    "Italian": "Mod Manager",
+    "Verify": ""
+  },
+  {
+    "Key": "ModManager_NoMods",
+    "Type": "",
+    "Desc": "",
+    "English": "No mods found",
+    "Italian": "Nessuna mod rilevata",
+    "Verify": ""
+  },
+  {
+    "Key": "RandomMap_NaturalResources0",
+    "Type": "",
+    "Desc": "Few resources available",
+    "English": "Few",
+    "Italian": "Poche",
+    "Verify": ""
+  },
+  {
+    "Key": "RandomMap_NaturalResources1",
+    "Type": "",
+    "Desc": "Moderate amount of resources available",
+    "English": "Normal",
+    "Italian": "Normali",
+    "Verify": ""
+  },
+  {
+    "Key": "RandomMap_NaturalResources2",
+    "Type": "",
+    "Desc": "Plenty of resources available",
+    "English": "Lots",
+    "Italian": "Tante",
+    "Verify": ""
+  },
+  {
+    "Key": "RandomMap_Size0",
+    "Type": "",
+    "Desc": "{0}: size of map e.g. Small (200)",
+    "English": "Small ({0})",
+    "Italian": "Piccola ({0})",
+    "Verify": ""
+  },
+  {
+    "Key": "RandomMap_Size1",
+    "Type": "",
+    "Desc": "{0}: size of map e.g. Small (200)",
+    "English": "Medium ({0})",
+    "Italian": "Media ({0})",
+    "Verify": ""
+  },
+  {
+    "Key": "RandomMap_Size2",
+    "Type": "",
+    "Desc": "{0}: size of map e.g. Small (200)",
+    "English": "Large ({0})",
+    "Italian": "Grande ({0})",
+    "Verify": ""
+  },
+  {
+    "Key": "RandomMap_Size3",
+    "Type": "",
+    "Desc": "{0}: size of map e.g. Small (200)",
+    "English": "Huge ({0})",
+    "Italian": "Enorme ({0})",
+    "Verify": ""
+  },
+  {
+    "Key": "Advice_3_Name_Single",
+    "Type": "",
+    "Desc": "",
+    "English": "One of your buildings is not connected to your road network!",
+    "Italian": "Uno dei tuoi edifici non è connesso alla tua rete stradale!",
+    "Verify": ""
+  },
+  {
+    "Key": "Advice_3_Name_Plural",
+    "Type": "",
+    "Desc": "<amount>: any number more than one",
+    "English": "<amount> of your buildings are not connected to your road network!",
+    "Italian": "<amount> dei tuoi edifici non sono connessi alla tua rete stradale!",
+    "Verify": ""
+  },
+  {
+    "Key": "RandomMap_Seed",
+    "Type": "",
+    "Desc": "https://en.wikipedia.org/wiki/Random_seed",
+    "English": "Seed",
+    "Italian": "Seed Random",
+    "Verify": ""
+  },
+  {
+    "Key": "RandomMap_GenSeed",
+    "Type": "",
+    "Desc": "(Generate) new (seed)",
+    "English": "New",
+    "Italian": "Nuovo",
+    "Verify": ""
+  },
+  {
+    "Key": "RandomMap_Biome",
+    "Type": "",
+    "Desc": "",
+    "English": "Biome",
+    "Italian": "Bioma",
+    "Verify": ""
+  },
+  {
+    "Key": "RandomMap_Biome0",
+    "Type": "",
+    "Desc": "",
+    "English": "Default",
+    "Italian": "Default",
+    "Verify": ""
+  },
+  {
+    "Key": "RandomMap_Biome1",
+    "Type": "",
+    "Desc": "",
+    "English": "Snow",
+    "Italian": "Neve",
+    "Verify": ""
+  },
+  {
+    "Key": "RandomMap_Biome2",
+    "Type": "",
+    "Desc": "",
+    "English": "Desert",
+    "Italian": "Deserto",
+    "Verify": ""
+  },
+  {
+    "Key": "TutorialDialogues_T2_SoloInstructionsB1",
+    "Type": "",
+    "Desc": "",
+    "English": "It's time to build this colony on your own!\nFirst, remind yourself of the mission goals by opening the mission info panel in the top left of the screen.",
+    "Italian": "È tempo di costruire questa colonia da solo!\nInnanzitutto, riguardati gli obiettivi della missione aprendo il pannello delle informazioni sulla missione nella parte superiore sinistra dello schermo.",
+    "Verify": ""
+  },
+  {
+    "Key": "TutorialDialogues_T2_SoloInstructionsB2",
+    "Type": "",
+    "Desc": "",
+    "English": "As you can see, the goal for this mission is to build a small monument.\nYou can also see the times required to earn each of the medals.",
+    "Italian": "Come puoi vedere, l'obiettivo di questa missione è costruire un piccolo monumento.\nPuoi anche vedere i tempi necessari per guadagnare ciascuna medaglia.",
+    "Verify": ""
+  },
+  {
+    "Key": "TutorialDialogues_T2_SoloInstructionsB3",
+    "Type": "",
+    "Desc": "",
+    "English": "Now open the advisor panel, again in the top left, where you can see advice about what to do or build next.",
+    "Italian": "Ora apri il pannello dei suggerimenti, sempre in alto a sinistra, dove puoi vedere i consigli su cosa fare o costruire successivamente.",
+    "Verify": ""
+  },
+  {
+    "Key": "TutorialDialogues_T2_SoloInstructionsB4",
+    "Type": "",
+    "Desc": "",
+    "English": "Great! This is where I'll give you advice, warnings and tips if you need them.\nYou can also click on each advice item for more information.\nYou're on your own now - good luck!",
+    "Italian": "Fantastico! È qui che ti darò consigli, avvisi e suggerimenti se ne avrai bisogno.\nPuoi anche fare clic su ciascun elemento di avviso per ulteriori informazioni.\nOra sei da solo - buona fortuna!",
+    "Verify": ""
+  },
+  {
+    "Key": "StoreDesc_New",
+    "Type": "",
+    "Desc": "Enhanced entry from line 1565",
+    "English": "[img]{STEAM_APP_IMAGE}/extras/store_description_header.png[/img]\nThe Colonists is a relaxing settlement building game inspired by classic titles like The Settlers and the Anno series.\n\nTake on a series of individual campaign missions, play randomly generated maps, compete on player-designed creations or build your colony unfettered by any constraints in the [b]sandbox mode[/b].\n\n[img]{STEAM_APP_IMAGE}/extras/steam_stackbot1.gif[/img]\n\nYou take control of a team of self-replicating robots built to simulate human civilisation.  After escaping Earth, The Colonists are now free to roam the galaxy in search of a new home and construct their dream settlement.\n\n[img]{STEAM_APP_IMAGE}/extras/steam_loadboat1.gif[/img]\nYou'll advance through three different Ages as you build infrastructure for your colony by constructing road, boat and train transport systems.\n\nHarvest natural resources, set up farming and food production, create expeditions to discover new lands and research new technologies.\n\n[img]{STEAM_APP_IMAGE}/extras/steam_fish1.gif[/img]\nWith two separate mission tracks, The Colonists lets either you create sprawling settlements in peace or race to compete against AI colonies in military winner-takes-all scenarios.\n\nExplore, research, manage, tweak and refine to your heart's content.\n\n[img]{STEAM_APP_IMAGE}/extras/sculpt_mini_2.gif[/img]\n\nAn extensive map editor and Steam Workshop support is included, so you can create, share and play custom maps.\n\n[h2]Features[/h2]\n[list]\n[*][b]Campaign[/b]: 14 missions split into separate peaceful and military tracks\n[*][b]Random Maps[/b]: Play on a near-infinite amount of procedurally generated maps\n[*][b]Sandbox Mode[/b]: Customise various game settings to play the game how you like\n[*][b]Steam Workshop[/b]: Play hundreds of player-generated custom maps\n[*][b]Challenge Trophies[/b]: Special challenges which test the most expert colony builders\n[*][b]Map Editor[/b]: create, play and share your own maps\n[/list]",
+    "Italian": "[img]{STEAM_APP_IMAGE}/extras/store_description_header.png[/img]\nThe Colonists è un rilassante gioco gestionale sulla costruzione di insediamenti ispirato a titoli classici come The Settlers e la serie Anno.\n\nAffronta una serie di missioni, gioca mappe generate randomicamente, completa sfide create dai giocatori o costruisci la tua colonia liberamente nella [b]modalità sandbox[/b].\n\n[img]{STEAM_APP_IMAGE}/extras/steam_stackbot1.gif[/img]\n\nPrendi il controllo di un team di robot autoreplicanti creati per simulare la civiltà umana. Dopo essere fuggiti dalla Terra, i Coloni sono ora liberi di vagare per la galassia in cerca di una nuova casa per costruire il loro insediamento da sogno.\n\n[img]{STEAM_APP_IMAGE}/extras/steam_loadboat1.gif[/img]\nAvanzerai attraverso tre diverse epoche fabbricando infrastrutture per la tua colonia, costruendo sistemi di trasporto su strada, in barca e in treno.\n\nRaccogli risorse naturali, avvia l'agricoltura e la produzione alimentare, crea spedizioni per scoprire nuove terre e ricercare nuove tecnologie.\n\n[img]{STEAM_APP_IMAGE}/extras/steam_fish1.gif[/img]\nCon due percorsi di missione separati, The Colonists ti consente di creare enormi insediamenti in pace o gareggiare per competere contro le colonie di intelligenza artificiale in scenari militari all'ultimo sangue.\n\nEsplora, ricerca, gestisci, modifica e perfeziona in piena libertà quanto preferisci.\n\n[img]{STEAM_APP_IMAGE}/extras/sculpt_mini_2.gif[/img]\n\nÈ incluso un vasto editor di mappe e il supporto per lo Steam Workshop, in modo da poter creare, condividere e giocare mappe personalizzate.\n\n[h2]Caratteristiche[/h2]\n[list]\n[*][b]Campagna[/b]: 14 missioni divise in percorsi pacifici e militari\n[*][b]Mappe Random[/b]: Gioca una quantità pressoché infinita di mappe generate proceduralmente\n[*][b]Modalità Sandbox[/b]: Personalizza le varie impostazioni di gioco per giocare come preferisci\n[*][b]Steam Workshop[/b]: Gioca a centinaia di mappe personalizzate create dai giocatori\n[*][b]Trofei delle Sfide[/b]: Sfide speciali che mettono alla prova i costruttori di colonia più esperti\n[*][b]Editor di Mappe[/b]: Crea, gioca e condividi le tue mappe\n[/list]",
     "Verify": ""
   }
 ]

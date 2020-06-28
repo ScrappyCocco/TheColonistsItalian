@@ -38,7 +38,7 @@ Advice_18_Desc,Text,,Build a <bd>Well</bd> to supply <it>Water</it> to your <bd>
 Advice_18_Name,Text,,No <bd>Well</bd>!,Nessun <bd>Pozzo</bd>!,
 Advice_19_Desc,Text,,Build a <bd>Harbour</bd> on the shore to discover new islands and more resources.,Costruisci un <bd>Porto</bd> sulla costa per scoprire nuove isole e altre risorse.,
 Advice_19_Name,Text,,Build a <bd>Harbour</bd>!,Costruisci un <bd>Porto</bd>!,
-Advice_1_Desc,Text,,If you run out of trees your Log supply may fail. Build a <bd>Forester</bd> to plant more trees.,Se finisci gli alberi la tua produzione di Tronchi potrebbe interrompersi. Costruisci una <bd>Guardia Forestale</bd> per piantare altri alberi.,
+Advice_1_Desc,Text,,If you run out of trees your <it>Logs</it> supply may fail. Build a <bd>Forester</bd> to plant more trees.,Se finisci gli alberi la tua produzione di <it>Tronchi</it> potrebbe interrompersi. Costruisci una <bd>Guardia Forestale</bd> per piantare altri alberi.,
 Advice_1_Name,Text,,You only have <amount> trees remaining!,Hai soltanto <amount> alberi rimanenti!,
 Advice_20_Desc,Text,,Build a <bd>Boatyard</bd> on the shore line and construct your first boat so you can explore the high seas.,Costruisci un <bd>Cantiere Navale</bd> sulla costa e costruisci la tua prima barca per esplorare il mare.,
 Advice_20_Name,Text,,Build a boat!,Costruisci una barca!,
@@ -62,14 +62,14 @@ Costruisci un <bd>Altoforno</bd>.",
 Advice_27_Name,Text,,Generate <it>Iron</it>!,Genera <it>Ferro</it>!,
 Advice_28_Desc,Text,,"Use the Map, accessible via the icon in the top-left, to see how much of a natural resource you have available and in which direction there are more resources to reveal.","Utilizza la Mappa, accessibile tramite l'icona in alto a sinistra, per visualizzare quante risorse naturali hai a disposizione e in che direzione ci sono altre risorse da trovare.",
 Advice_28_Name,Text,,Check out the Map!,Controlla la Mappa!,
-Advice_29_Desc,Text,,Consider placing related supply and demands building closer as well as using transport rules at road posts or harbours to control how resources move around your colony. Click on any roads to find out more.,"Considera di piazzare gli edifici per la produzione di risorse vicini a quelli che le richiedono, oltre ad usare le regole di trasporto agli incroci e i porti per controllare come le risorse vengono trasportate nella tua colonia. Clicca su una strada per scoprire di più.",
+Advice_29_Desc,Text,,Consider placing related supply and demands building closer as well as using transport rules at road posts or harbours to control how resources move around your colony. Click on any road posts to find out more.,"Considera di piazzare gli edifici per la produzione di risorse vicini a quelli che le richiedono, oltre ad usare le regole di trasporto agli incroci e i porti per controllare come le risorse vengono trasportate nella tua colonia. Clicca su una strada per scoprire di più.",
 Advice_29_Name,Text,,You have some blocked roads!,Hai delle strade bloccate!,
 Advice_2_Desc,Text,,Always start a colony by building a <bd>Lumberjack Hut</bd> to make sure you have a steady supply of <it>Logs</it>.,Inizia sempre una colonia costruendo una <bd>Capanna del Taglialegna</bd> per avere una fornitura costante di <it>Tronchi</it>.,
 Advice_2_Name,Text,,No <bd>Lumberjack Huts</bd>!,Nessuna <bd>Capanna del Taglialegna</bd>!,
 Advice_30_Desc,Text,,To create <it>Iron</it> a <bd>Blast Furnace</bd> needs either <it>Charcoal</it> from a <bd>Charcoal Burner</bd> or <it>Coal</it> from a <bd>Surface Mine</bd> or <bd>Shaft Mine</bd>.,Per creare <it>Ferro</it> un <bd>Altoforno</bd> ha bisogno di <it>Carbonella</it> da un <bd>Bruciatore di Carbonella</bd> o di <it>Carbone</it> da una <bd>Miniera di Superficie</bd> o da una <bd>Miniera</bd>.,
 Advice_30_Name,Text,,Create <cat>Fuel</cat>!,Crea del <cat>Carburante</cat>!,
 Advice_3_Desc,Text,,Use paths to connect buildings to a road.,Usa i sentieri per collegare gli edifici ad una strada.,
-Advice_3_Name,Text,,<amount> of your buildings <isare> not connected to your road network!,<amount> dei tuoi edifici <isare> non sono connessi alla tua rete stradale!,
+Advice_3_Name,Text,!!!! This line is deprecated. New lines at 2254,<amount> of your buildings <isare> not connected to your road network!,<amount> dei tuoi edifici <isare> non sono connessi alla tua rete stradale!,
 Advice_6_Desc,Text,,A <bd>Forestry</bd> won't plant trees until you assign it tiles.,Una <bd>Guardia Forestale</bd> non pianterà alberi finché non le assegnerai le caselle.,
 Advice_6_Name,Text,,You have <amount> <bd>Forestries</bd> without any tiles set!,Hai <amount> <bd>Guardia(e) Forestale</bd> senza nessuna casella impostata!,
 Advice_7_Desc,Text,,Use your idle <bd>Workshop</bd> to research technologies.,Usa i tuoi <bd>Laboratori</bd> inattivi per ricercare tecnologie.,
@@ -1467,7 +1467,7 @@ ScenVict_0_Desc,Text,,Capture enemy colony ships.,Cattura le navi nemiche della 
 ScenVict_0_Name,Text,,Domination,Dominazione,
 ScenVict_1_Desc,Text,,Build <amount> <building>.,Costruisci <amount> <building>.,
 ScenVict_1_Name,Text,,Construct Building,Costruisci edificio,
-ScenVict_5_Desc,Text,,Have $<amount> in bank.,Hai $<amount> in banca.,
+ScenVict_5_Desc,Text,,Have $<amount> in the bank.,Hai $<amount> in banca.,
 ScenVict_5_Name,Text,,Cash Balance,Bilancio,
 ScenVict_7_Desc,Text,,Research <tech>.,Ricerca <tech>.,
 ScenVict_7_Name,Text,,Research Tech,Ricerca tecnologia,
@@ -1675,7 +1675,7 @@ Tip_10,Text,,Use the Map to check the location and amount of natural resources y
 Tip_11,Text,,Use the priority panel on a Lumberjack Hut to prioritise trees you want to chop down first.,Usa il pannello di priorità su una Capanna del Taglialegna per dare la priorità agli alberi che vuoi abbattere per primi.,
 Tip_12,Text,,If you have a wall in the landscape you need to remove use the Sculpt tool in the bottom right of the screen.,"Se c'è un muro nel paesaggio che devi rimuovere, usa lo strumento Scolpisci nella parte in basso a destra dello schermo.",
 Tip_13,Text,,You can create paths and then build roads on top of them later.,Puoi creare percorsi e poi costruirci delle strade in seguito.,
-Tip_14,Text,,Right-click at any point to cancel the mode you're in.,Fai clic con il pulsante destro del mouse in qualsiasi momento per annullare la modalità in cui ti trovi.,
+Tip_14,Text,,Right-click at any time to cancel the mode you're in.,Fai clic con il pulsante destro del mouse in qualsiasi momento per annullare la modalità in cui ti trovi.,
 Tip_15,Text,,Expand more quickly by constructing higher level <bd>Watchtowers</bd>.,Espanditi più rapidamente costruendo <bd>Torri di Guardia</bd> di livello superiore.,
 Tip_16,Text,,Use <hotkey>[H]</hotkey> to jump back to your <bd>Colony Ship</bd>.,Utilizza <hotkey>[H]</hotkey> per tornare alla <bd>Nave della Colonia</bd>.,
 Tip_17,Text,,Prioritise a building to make it request resources before all other buildings. You can also do this by holding <hotkey>[P]</hotkey> and clicking the building.,Prioritizza un edificio per fargli richiedere risorse prima di tutti gli altri edifici. Puoi farlo anche tenendo premuto <hotkey>[P]</hotkey> e cliccando l'edificio.,
@@ -2058,7 +2058,8 @@ GameSpeed_Speed,Text,,Speed,Velocità,
 GameMenu_UnsavedProgress,Text,,You have unsaved progress. Quit anyway?,Hai progressi non salvati. Uscire comunque?,
 ChooseLanguage,Text,,Choose Language,Scegli la Lingua,
 Store_Promo,Text,Change English to your language,The Colonists is now available in English!,The Colonist è ora disponibile in italiano!,
-Store_Description,Text,,"The Colonists is a relaxing settlement building game inspired by classic titles like The Settlers and the Anno series.
+Store_Description,Text,"!!!!! DEPRECATED
+NEW ENTRY: line 2266","The Colonists is a relaxing settlement building game inspired by classic titles like The Settlers and the Anno series.
 
 Take on a series of individual missions or build your colony unfettered by any constraints in the [b]sandbox mode[/b].
 
@@ -2110,7 +2111,7 @@ MapPlayCASUAL,Text,,Play Casual,Gioca a Facile,
 ConstructionPanel_Info,Text,,Info,Informazioni,
 ConstructionPanel_LevelLocked,Text,,Locked,Bloccato,
 Mission,Text,,Mission,Missione,
-CursorConstrained,Text,,Cursor Constrained,Mouse bloccato (nella finestra),
+CursorConstrained,Text,(if the cursor is constrained to the game window),Cursor Constrained,Mouse bloccato (nella finestra),
 Yes,Text,Alert window - confirm,Yes,Sì,
 No,Text,Alert window - cancel,No,No,
 Begin,Text,,Begin,Inizia,
@@ -2350,7 +2351,7 @@ MilitaryUI_DisableAttack,Text,,Disable,Disattiva,
 MilitaryUI_EnableAttack,Text,,Enable,Attiva,
 MilitaryUI_NoTarget,Text,,No Target,Nessun obiettivo,
 MilitaryLogsUI_Header,Text,,Military Logs,Registri di guerra,
-FloorInvalidBelowWater,Text,,TileBelowWater,CellaSottoAcqua,
+FloorInvalidBelowWater,Text,,Tile is below water,La cella è sotto acqua,
 FloorInvalidType,Text,,Invalid tile type: {0},Tipo di cella non valido: {0},
 FloorInvalidOccupiedBy,Text,"{0}:building, road etc",Tile occupied by {0},Cella occupata da {0},
 AutoSaving,Text,,Auto-saving game,Auto-salvataggio,
@@ -2806,3 +2807,148 @@ VehicleStatusHeading,,{0}: name of harbour/train station,Heading to {0},Diretto 
 EntityBuildingTransportConnectionsNoTrainRoutes,,(This train station has no train routes that stop here),No train routes,Non ci sono tratte ferroviarie,
 SandboxFreeResourceCreation,,ability to generate resources for fre at a storage yard,Free Storage Yard Resources,Risorse gratis al Deposito,
 FreeResourceCreationCreateResources,,button to create free resources,Create Resources,Crea Risorse,
+ImportRuleConstructionWarning,,,"Please note that import rules also apply to sourcing construction resources. Are you sure you want to add this import rule before {0} is finished?
+
+Hold [{1}] to skip this message.","Ricorda che le regole di importazione si applicano anche alle risorse per la costruzione. Sei sicuro di voler aggiungere questa regola prima che {0} sia finito?
+
+Tieni premuto [{1}] per saltare questo messaggio.",
+Scenario_13_Description,,,Claim victory over your anthrobotic foes.,Guadagnati la vittoria sui tuoi nemici umanoidi.,
+Scenario_13_Name,,,The Three Hills,Le Tre Colline,
+BugReport_CopyClipboard,,(path means path of the bug report file on your computer),Copy path to clipboard,Copia percorso file negli appunti,
+NowAvailableInLanguage,,"!!! Replace English with the name of your language in your language!
+(The Colonists is) now available in English!",Now available in English!,Ora disponibile in Italiano!,
+Tip_21,,,Hold [Alt] when placing a building to have its construction instantly paused,Tieni premuto [Alt] quando piazzi un edificio per mettere subito in pausa la sua costruzione,
+DevBuildIntro,,,"Welcome to the development build of The Colonists!
+
+Please be aware that you may find extra bugs in this version of the game.
+
+You may also get potential bug alerts pop up, please still report these if it's the first one in your game session.
+
+Thanks!","Benvenuto nella build in sviluppo di The Colonist!
+
+Tieni a mente che potresti trovare ulteriori bug in questa versione del gioco.
+
+Potresti anche vedere degli avvisi di errore apparire, per favore riportali la prima volta che ti appaiono.
+
+Grazie!",
+UnlockAllMissions,,,Unlock all missions,Sblocca tutte le missioni,
+MilitaryTargetsTooltip,,{0}: number of targets,Targets in range: {0},Bersagli nel raggio: {0},
+UnitState_HeadingToJob,,"Generic message for a bot heading to a job, e.g. lumberjack, road layer",Heading to job,Diretto al lavoro,
+ItemInfoConsumption_PriorityBuildings,,(On resource demand panel) Header for list of buildings that have been prioritised,Prioritised Buildings,Edifici con Priorità,
+GameFailed_Header,,,Oh no!,Oh no!,
+GameFailed_Message,,,You lost your colony ship and have been defeated...,Hai perso la tua Nave della Colonia e sei stato sconfitto...,
+GameFailed_Retry,,,Retry Mission,Riprova Missione,
+GameFailed_ContinueWatch,,(continue to watch the game),Watch,Osserva,
+AI_Player_Name,,"{0}: number e.g. ""AI Player 1""",AI Player {0},Giocatore AI {0},
+InfoPanel_MissionInfo,,"Header for panel containing general information, name, creator etc",Mission Info,Informazioni Missione,
+InfoPanel_MedalTimes,,Header for panel which tells you which times you need to achieve to earn what medals,Medal Times,Tempi Medaglie,
+MedalColour_Gold,,Medal colour,Gold,Oro,
+MedalColour_Silver,,Medal colour,Silver,Argento,
+MedalColour_Bronze,,Medal colour,Bronze,Bronzo,
+MissionInfo_SandboxEdit,,Button to change the sandbox settings,Change Settings,Cambia Impostazioni,
+MissionInfo_WorkshopOpen,,Button to open the Steam Workshop page for the map being played,Open in Steam Workshop,Apri nello Steam Workshop,
+MissionInfo_MapEditorTest,,Mission name when testing a custom map,Map Editor Test,Test Editor Mappe,
+CampaignMissionTitleNumber,,"{0}: number, e.g. Campaign Mission 7",Campaign Mission {0},Missione Campagna {0},
+EditSandbox_Title,,Title of window for changing sandbox settings in-game,Sandbox Settings,Impostazioni Sandbox,
+EditSandbox_Save,,Button to save the settings,Save Settings,Salva Impostazioni,
+EditSandbox_RevertWarning,,When a settings is selected that cannot be reverted later on (e.g. researching all tech),Warning! Cannot be reverted,Attenzione! Non può essere annullata,
+AlertPanel_Title,,Title of generic warning window - e.g. when you click to destroy a building,Alert,Attenzione,
+MapEditor_MaxVictoryConditions,,When the user has created the maximum allowable number of victory conditions,Maximum conditions reached!,Numero massimo di condizioni raggiunto!,
+EntityBoatyardDockCancelConstruction,,Button to cancel construction of the current boat,Cancel Construction,Annulla Costruzione,
+RandomMap,,Procedurally generated maps,Random Map,Mappa Random,
+RandomMap_Water0,,Little water on the map,Little,Poca,
+RandomMap_Water1,,Some amount of water on the map,Some,Standard,
+RandomMap_Water2,,Lots of water on the map,Lots,Tanta,
+RandomMap_Water,,Water (for the random map),Water,Acqua,
+ModManager,,Panel for managing player created mods,Mod Manager,Mod Manager,
+ModManager_NoMods,,,No mods found,Nessuna mod rilevata,
+RandomMap_NaturalResources0,,Few resources available,Few,Poche,
+RandomMap_NaturalResources1,,Moderate amount of resources available,Normal,Normali,
+RandomMap_NaturalResources2,,Plenty of resources available,Lots,Tante,
+RandomMap_Size0,,{0}: size of map e.g. Small (200),Small ({0}),Piccola ({0}),
+RandomMap_Size1,,{0}: size of map e.g. Small (200),Medium ({0}),Media ({0}),
+RandomMap_Size2,,{0}: size of map e.g. Small (200),Large ({0}),Grande ({0}),
+RandomMap_Size3,,{0}: size of map e.g. Small (200),Huge ({0}),Enorme ({0}),
+Advice_3_Name_Single,,,One of your buildings is not connected to your road network!,Uno dei tuoi edifici non è connesso alla tua rete stradale!,
+Advice_3_Name_Plural,,<amount>: any number more than one,<amount> of your buildings are not connected to your road network!,<amount> dei tuoi edifici non sono connessi alla tua rete stradale!,
+RandomMap_Seed,,https://en.wikipedia.org/wiki/Random_seed,Seed,Seed Random,
+RandomMap_GenSeed,,(Generate) new (seed),New,Nuovo,
+RandomMap_Biome,,,Biome,Bioma,
+RandomMap_Biome0,,,Default,Default,
+RandomMap_Biome1,,,Snow,Neve,
+RandomMap_Biome2,,,Desert,Deserto,
+TutorialDialogues_T2_SoloInstructionsB1,,,"It's time to build this colony on your own!
+First, remind yourself of the mission goals by opening the mission info panel in the top left of the screen.","È tempo di costruire questa colonia da solo!
+Innanzitutto, riguardati gli obiettivi della missione aprendo il pannello delle informazioni sulla missione nella parte superiore sinistra dello schermo.",
+TutorialDialogues_T2_SoloInstructionsB2,,,"As you can see, the goal for this mission is to build a small monument.
+You can also see the times required to earn each of the medals.","Come puoi vedere, l'obiettivo di questa missione è costruire un piccolo monumento.
+Puoi anche vedere i tempi necessari per guadagnare ciascuna medaglia.",
+TutorialDialogues_T2_SoloInstructionsB3,,,"Now open the advisor panel, again in the top left, where you can see advice about what to do or build next.","Ora apri il pannello dei suggerimenti, sempre in alto a sinistra, dove puoi vedere i consigli su cosa fare o costruire successivamente.",
+TutorialDialogues_T2_SoloInstructionsB4,,,"Great! This is where I'll give you advice, warnings and tips if you need them.
+You can also click on each advice item for more information.
+You're on your own now - good luck!","Fantastico! È qui che ti darò consigli, avvisi e suggerimenti se ne avrai bisogno.
+Puoi anche fare clic su ciascun elemento di avviso per ulteriori informazioni.
+Ora sei da solo - buona fortuna!",
+StoreDesc_New,,Enhanced entry from line 1565,"[img]{STEAM_APP_IMAGE}/extras/store_description_header.png[/img]
+The Colonists is a relaxing settlement building game inspired by classic titles like The Settlers and the Anno series.
+
+Take on a series of individual campaign missions, play randomly generated maps, compete on player-designed creations or build your colony unfettered by any constraints in the [b]sandbox mode[/b].
+
+[img]{STEAM_APP_IMAGE}/extras/steam_stackbot1.gif[/img]
+
+You take control of a team of self-replicating robots built to simulate human civilisation.  After escaping Earth, The Colonists are now free to roam the galaxy in search of a new home and construct their dream settlement.
+
+[img]{STEAM_APP_IMAGE}/extras/steam_loadboat1.gif[/img]
+You'll advance through three different Ages as you build infrastructure for your colony by constructing road, boat and train transport systems.
+
+Harvest natural resources, set up farming and food production, create expeditions to discover new lands and research new technologies.
+
+[img]{STEAM_APP_IMAGE}/extras/steam_fish1.gif[/img]
+With two separate mission tracks, The Colonists lets either you create sprawling settlements in peace or race to compete against AI colonies in military winner-takes-all scenarios.
+
+Explore, research, manage, tweak and refine to your heart's content.
+
+[img]{STEAM_APP_IMAGE}/extras/sculpt_mini_2.gif[/img]
+
+An extensive map editor and Steam Workshop support is included, so you can create, share and play custom maps.
+
+[h2]Features[/h2]
+[list]
+[*][b]Campaign[/b]: 14 missions split into separate peaceful and military tracks
+[*][b]Random Maps[/b]: Play on a near-infinite amount of procedurally generated maps
+[*][b]Sandbox Mode[/b]: Customise various game settings to play the game how you like
+[*][b]Steam Workshop[/b]: Play hundreds of player-generated custom maps
+[*][b]Challenge Trophies[/b]: Special challenges which test the most expert colony builders
+[*][b]Map Editor[/b]: create, play and share your own maps
+[/list]","[img]{STEAM_APP_IMAGE}/extras/store_description_header.png[/img]
+The Colonists è un rilassante gioco gestionale sulla costruzione di insediamenti ispirato a titoli classici come The Settlers e la serie Anno.
+
+Affronta una serie di missioni, gioca mappe generate randomicamente, completa sfide create dai giocatori o costruisci la tua colonia liberamente nella [b]modalità sandbox[/b].
+
+[img]{STEAM_APP_IMAGE}/extras/steam_stackbot1.gif[/img]
+
+Prendi il controllo di un team di robot autoreplicanti creati per simulare la civiltà umana. Dopo essere fuggiti dalla Terra, i Coloni sono ora liberi di vagare per la galassia in cerca di una nuova casa per costruire il loro insediamento da sogno.
+
+[img]{STEAM_APP_IMAGE}/extras/steam_loadboat1.gif[/img]
+Avanzerai attraverso tre diverse epoche fabbricando infrastrutture per la tua colonia, costruendo sistemi di trasporto su strada, in barca e in treno.
+
+Raccogli risorse naturali, avvia l'agricoltura e la produzione alimentare, crea spedizioni per scoprire nuove terre e ricercare nuove tecnologie.
+
+[img]{STEAM_APP_IMAGE}/extras/steam_fish1.gif[/img]
+Con due percorsi di missione separati, The Colonists ti consente di creare enormi insediamenti in pace o gareggiare per competere contro le colonie di intelligenza artificiale in scenari militari all'ultimo sangue.
+
+Esplora, ricerca, gestisci, modifica e perfeziona in piena libertà quanto preferisci.
+
+[img]{STEAM_APP_IMAGE}/extras/sculpt_mini_2.gif[/img]
+
+È incluso un vasto editor di mappe e il supporto per lo Steam Workshop, in modo da poter creare, condividere e giocare mappe personalizzate.
+
+[h2]Caratteristiche[/h2]
+[list]
+[*][b]Campagna[/b]: 14 missioni divise in percorsi pacifici e militari
+[*][b]Mappe Random[/b]: Gioca una quantità pressoché infinita di mappe generate proceduralmente
+[*][b]Modalità Sandbox[/b]: Personalizza le varie impostazioni di gioco per giocare come preferisci
+[*][b]Steam Workshop[/b]: Gioca a centinaia di mappe personalizzate create dai giocatori
+[*][b]Trofei delle Sfide[/b]: Sfide speciali che mettono alla prova i costruttori di colonia più esperti
+[*][b]Editor di Mappe[/b]: Crea, gioca e condividi le tue mappe
+[/list]",
