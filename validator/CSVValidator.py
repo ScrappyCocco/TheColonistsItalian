@@ -20,7 +20,7 @@ class CSVValidator:
     lines_to_ignore = []
 
     # Grammar elements to check in the row
-    elements_to_check = [",", ".", ":", "!", " - ", "%"]
+    elements_to_check = [",", ".", ":", "!", " - ", "%", "[", "]"]
     # Elements which number can differ between the english version and the translated version
     # This is to allow translated phrases to have more grammar that might be necessary
     # Remember that this only apply when the english version has 0, otherwise the number must be the same
@@ -54,11 +54,17 @@ class CSVValidator:
             return False
         if translated_content.count("{") != open_brace_en:
             return False
-        # Check that the parameter number is correct
-        for i in range(0, open_brace_en):
-            parameter = "{" + str(i) + "}"
-            if parameter not in translated_content:
+        if "STEAM_APP_IMAGE" in translated_content:
+            # Check that STEAM_APP_IMAGE is equal
+            steam_app_image_en = english_content.count("STEAM_APP_IMAGE")
+            if translated_content.count("STEAM_APP_IMAGE") != steam_app_image_en:
                 return False
+        else:
+            # Check that the parameter number is correct
+            for i in range(0, open_brace_en):
+                parameter = "{" + str(i) + "}"
+                if parameter not in translated_content:
+                    return False
         # Everything is fine
         return True
 
