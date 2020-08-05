@@ -75,8 +75,8 @@
     "Key": "Advice_13_Desc",
     "Type": "Text",
     "Desc": "",
-    "English": "You can upgrade <bd>Residences</bd> to produce Level 2 <it>Energy</it>.\n\n<it>Energy L2</it> is used by the upgraded <bd>Workshop</bd> to research more advanced technologies.\n\n<it>Energy L2</it> is also used by the <bd>Shaft Mine</bd> and Level 2 <bd>Surface Mine</bd> to excavate <nr>Coal</nr>, <nr>Iron Ore</nr>, <nr>Salt</nr> and <nr>Clay</nr>.",
-    "Italian": "Puoi migliorare le <bd>Residenze</bd> per produrre <it>Energia</it> di Livello 2.\n\nL'<it>Energia L2</it> è usata dal <bd>Laboratorio</bd> avanzato per ricercare tecnologie più avanzate.\n\nL'<it>Energia L2</it> è inoltre usata dalla <bd>Miniera</bd> e dalla <bd>Miniera di Superficie</bd> Livello 2 per estrarre <nr>Carbone</nr>, <nr>Ferro grezzo</nr>, <nr>Sale</nr> e <nr>Argilla</nr>.",
+    "English": "You can upgrade <bd>Residences</bd> to produce Level 2 <it>Energy</it>.\n\n<it>Energy L2</it> is used by the upgraded <bd>Workshop</bd> to research more advanced technologies.\n\n<it>Energy L2</it> is also used by the <bd>Shaft Mine</bd> and Level 2 <bd>Surface Mine</bd> to excavate <nr>Coal</nr>, <nr>Iron Ore</nr> and <nr>Clay</nr>.",
+    "Italian": "Puoi migliorare le <bd>Residenze</bd> per produrre <it>Energia</it> di Livello 2.\n\nL'<it>Energia L2</it> è usata dal <bd>Laboratorio</bd> avanzato per ricercare tecnologie più avanzate.\n\nL'<it>Energia L2</it> è inoltre usata dalla <bd>Miniera</bd> e dalla <bd>Miniera di Superficie</bd> Livello 2 per estrarre <nr>Carbone</nr>, <nr>Ferro grezzo</nr> e <nr>Argilla</nr>.",
     "Verify": ""
   },
   {
@@ -9195,8 +9195,8 @@
     "Key": "ScenVict_0_Desc",
     "Type": "Text",
     "Desc": "",
-    "English": "Capture enemy colony ships.",
-    "Italian": "Cattura le navi nemiche della colonia.",
+    "English": "Capture enemy colony ships",
+    "Italian": "Cattura le navi nemiche della colonia",
     "Verify": ""
   },
   {
@@ -9211,8 +9211,8 @@
     "Key": "ScenVict_1_Desc",
     "Type": "Text",
     "Desc": "",
-    "English": "Build <amount> <building>.",
-    "Italian": "Costruisci <amount> <building>.",
+    "English": "Build <amount> <building>",
+    "Italian": "Costruisci <amount> <building>",
     "Verify": ""
   },
   {
@@ -9227,8 +9227,8 @@
     "Key": "ScenVict_5_Desc",
     "Type": "Text",
     "Desc": "",
-    "English": "Have $<amount> in the bank.",
-    "Italian": "Hai $<amount> in banca.",
+    "English": "Have $<amount> in the bank",
+    "Italian": "Hai $<amount> in banca",
     "Verify": ""
   },
   {
@@ -9243,8 +9243,8 @@
     "Key": "ScenVict_7_Desc",
     "Type": "Text",
     "Desc": "",
-    "English": "Research <tech>.",
-    "Italian": "Ricerca <tech>.",
+    "English": "Research <tech>",
+    "Italian": "Ricerca <tech>",
     "Verify": ""
   },
   {
@@ -9259,8 +9259,8 @@
     "Key": "ScenVict_8_Desc",
     "Type": "Text",
     "Desc": "",
-    "English": "Gain Reputation: <reputation>.",
-    "Italian": "Ottieni reputazione: <reputation>.",
+    "English": "Gain Reputation: <reputation>",
+    "Italian": "Ottieni reputazione: <reputation>",
     "Verify": ""
   },
   {
@@ -18117,6 +18117,358 @@
     "Desc": "Enhanced entry from line 1565",
     "English": "[img]{STEAM_APP_IMAGE}/extras/store_description_header.png[/img]\nThe Colonists is a relaxing settlement building game inspired by classic titles like The Settlers and the Anno series.\n\nTake on a series of individual campaign missions, play randomly generated maps, compete on player-designed creations or build your colony unfettered by any constraints in the [b]sandbox mode[/b].\n\n[img]{STEAM_APP_IMAGE}/extras/steam_stackbot1.gif[/img]\n\nYou take control of a team of self-replicating robots built to simulate human civilisation.  After escaping Earth, The Colonists are now free to roam the galaxy in search of a new home and construct their dream settlement.\n\n[img]{STEAM_APP_IMAGE}/extras/steam_loadboat1.gif[/img]\nYou'll advance through three different Ages as you build infrastructure for your colony by constructing road, boat and train transport systems.\n\nHarvest natural resources, set up farming and food production, create expeditions to discover new lands and research new technologies.\n\n[img]{STEAM_APP_IMAGE}/extras/steam_fish1.gif[/img]\nWith two separate mission tracks, The Colonists lets either you create sprawling settlements in peace or race to compete against AI colonies in military winner-takes-all scenarios.\n\nExplore, research, manage, tweak and refine to your heart's content.\n\n[img]{STEAM_APP_IMAGE}/extras/sculpt_mini_2.gif[/img]\n\nAn extensive map editor and Steam Workshop support is included, so you can create, share and play custom maps.\n\n[h2]Features[/h2]\n[list]\n[*][b]Campaign[/b]: 14 missions split into separate peaceful and military tracks\n[*][b]Random Maps[/b]: Play on a near-infinite amount of procedurally generated maps\n[*][b]Sandbox Mode[/b]: Customise various game settings to play the game how you like\n[*][b]Steam Workshop[/b]: Play hundreds of player-generated custom maps\n[*][b]Challenge Trophies[/b]: Special challenges which test the most expert colony builders\n[*][b]Map Editor[/b]: create, play and share your own maps\n[/list]",
     "Italian": "[img]{STEAM_APP_IMAGE}/extras/store_description_header.png[/img]\nThe Colonists è un rilassante gioco gestionale sulla costruzione di insediamenti ispirato a titoli classici come The Settlers e la serie Anno.\n\nAffronta una serie di missioni, gioca mappe generate randomicamente, completa sfide create dai giocatori o costruisci la tua colonia liberamente nella [b]modalità sandbox[/b].\n\n[img]{STEAM_APP_IMAGE}/extras/steam_stackbot1.gif[/img]\n\nPrendi il controllo di un team di robot autoreplicanti creati per simulare la civiltà umana. Dopo essere fuggiti dalla Terra, i Coloni sono ora liberi di vagare per la galassia in cerca di una nuova casa per costruire il loro insediamento da sogno.\n\n[img]{STEAM_APP_IMAGE}/extras/steam_loadboat1.gif[/img]\nAvanzerai attraverso tre diverse epoche fabbricando infrastrutture per la tua colonia, costruendo sistemi di trasporto su strada, in barca e in treno.\n\nRaccogli risorse naturali, avvia l'agricoltura e la produzione alimentare, crea spedizioni per scoprire nuove terre e ricercare nuove tecnologie.\n\n[img]{STEAM_APP_IMAGE}/extras/steam_fish1.gif[/img]\nCon due percorsi di missione separati, The Colonists ti consente di creare enormi insediamenti in pace o gareggiare per competere contro le colonie di intelligenza artificiale in scenari militari all'ultimo sangue.\n\nEsplora, ricerca, gestisci, modifica e perfeziona in piena libertà quanto preferisci.\n\n[img]{STEAM_APP_IMAGE}/extras/sculpt_mini_2.gif[/img]\n\nÈ incluso un vasto editor di mappe e il supporto per lo Steam Workshop, in modo da poter creare, condividere e giocare mappe personalizzate.\n\n[h2]Caratteristiche[/h2]\n[list]\n[*][b]Campagna[/b]: 14 missioni divise in percorsi pacifici e militari\n[*][b]Mappe Random[/b]: Gioca una quantità pressoché infinita di mappe generate proceduralmente\n[*][b]Modalità Sandbox[/b]: Personalizza le varie impostazioni di gioco per giocare come preferisci\n[*][b]Steam Workshop[/b]: Gioca a centinaia di mappe personalizzate create dai giocatori\n[*][b]Trofei delle Sfide[/b]: Sfide speciali che mettono alla prova i costruttori di colonia più esperti\n[*][b]Editor di Mappe[/b]: Crea, gioca e condividi le tue mappe\n[/list]",
+    "Verify": ""
+  },
+  {
+    "Key": "KeyBindings_CancelWarning",
+    "Type": "",
+    "Desc": "",
+    "English": "You have unsaved changes. Go back anyway?",
+    "Italian": "Hai modifiche non salvate. Vuoi tornare indietro comunque?",
+    "Verify": ""
+  },
+  {
+    "Key": "KeyBindings_NoChanges",
+    "Type": "",
+    "Desc": "",
+    "English": "No changes made",
+    "Italian": "Nessuna modifica effettuata",
+    "Verify": ""
+  },
+  {
+    "Key": "KeyBindings_ValidChanges",
+    "Type": "",
+    "Desc": "",
+    "English": "Changes are valid!",
+    "Italian": "Le modifiche sono valide!",
+    "Verify": ""
+  },
+  {
+    "Key": "KeyBindings_Duplicates",
+    "Type": "",
+    "Desc": "(the user has created conflicting hotkey assignments)",
+    "English": "There are conflicting assignments",
+    "Italian": "Ci sono assegnazioni in conflitto",
+    "Verify": ""
+  },
+  {
+    "Key": "EntPanelHead_26",
+    "Type": "",
+    "Desc": "",
+    "English": "Dismantling",
+    "Italian": "Smantellamento",
+    "Verify": ""
+  },
+  {
+    "Key": "Dismantle",
+    "Type": "",
+    "Desc": "Dismantle (a building)",
+    "English": "Dismantle",
+    "Italian": "Smantella",
+    "Verify": ""
+  },
+  {
+    "Key": "Dismantle_RecoverableResources",
+    "Type": "",
+    "Desc": "",
+    "English": "Resources to recover",
+    "Italian": "Risorse da recuperare",
+    "Verify": ""
+  },
+  {
+    "Key": "Dismantle_RecoverableResources_Empty",
+    "Type": "",
+    "Desc": "",
+    "English": "There are no more resources to recover",
+    "Italian": "Non ci sono più risorse da recuperare",
+    "Verify": ""
+  },
+  {
+    "Key": "Dismantle_AvailableResources",
+    "Type": "",
+    "Desc": "",
+    "English": "Resources available",
+    "Italian": "Risorse disponibili",
+    "Verify": ""
+  },
+  {
+    "Key": "Dismantle_AvailableResources_Empty",
+    "Type": "",
+    "Desc": "",
+    "English": "There are no recovered resources available",
+    "Italian": "Non ci sono risorse recuperate disponibili",
+    "Verify": ""
+  },
+  {
+    "Key": "Dismantle_Warning",
+    "Type": "",
+    "Desc": "",
+    "English": "Are you sure you want to dismantle {0}?\n\nIt will recover all construction resources but it is an irreversible process.\n\nHold [{1}] to skip this message.",
+    "Italian": "Sei sicuro di voler smantellare {0}?\n\nRecupererai tutte le risorse utilizzate per la costruzione ma è un'azione irreversibile.\n\nTieni premuto [{1}] per saltare questo messaggio.",
+    "Verify": ""
+  },
+  {
+    "Key": "HelpPanel_39",
+    "Type": "",
+    "Desc": "",
+    "English": "Dismantling this building will shut down all processes and a builderbot will arrive to recover resources that were used in construction.\n\nRecovered resources will remain on site until they are sourced by another building.\n\nOnce dismantling has begun it cannot be reversed although you can still destroy the building.",
+    "Italian": "Smantellare questo edificio fermerà tutti i processi e un BotCostruttore arriverà a recuperare le risorse che sono state utilizzate per la costruzione.\n\nLe risorse recuperate rimarranno sul posto finchè non vengono inviate ad un altro edificio.\n\nUna volta che lo smantellamento è stato avviato non può essere fermato, anche se puoi ancora demolire l'edificio.",
+    "Verify": ""
+  },
+  {
+    "Key": "Notification_29_Desc",
+    "Type": "",
+    "Desc": "",
+    "English": "<building> has been fully dismantled",
+    "Italian": "<building> è stata completamente smantellata",
+    "Verify": ""
+  },
+  {
+    "Key": "Notification_29_Name",
+    "Type": "",
+    "Desc": "",
+    "English": "Dismantling complete!",
+    "Italian": "Smantellamento completato!",
+    "Verify": ""
+  },
+  {
+    "Key": "Frontiers",
+    "Type": "",
+    "Desc": "Game mode where players compete on the same random map each month",
+    "English": "Frontiers",
+    "Italian": "Frontiera",
+    "Verify": ""
+  },
+  {
+    "Key": "MainMenu_ContinueGame",
+    "Type": "",
+    "Desc": "Main menu option to continue last save game played",
+    "English": "Continue Game",
+    "Italian": "Continua partita",
+    "Verify": ""
+  },
+  {
+    "Key": "MonthYear",
+    "Type": "",
+    "Desc": "{0}: month {1} year e.g. January 2020",
+    "English": "{0} {1}",
+    "Italian": "{0} {1}",
+    "Verify": ""
+  },
+  {
+    "Key": "Month1",
+    "Type": "",
+    "Desc": "",
+    "English": "January",
+    "Italian": "Gennaio",
+    "Verify": ""
+  },
+  {
+    "Key": "Month2",
+    "Type": "",
+    "Desc": "",
+    "English": "February",
+    "Italian": "Febbraio",
+    "Verify": ""
+  },
+  {
+    "Key": "Month3",
+    "Type": "",
+    "Desc": "",
+    "English": "March",
+    "Italian": "Marzo",
+    "Verify": ""
+  },
+  {
+    "Key": "Month4",
+    "Type": "",
+    "Desc": "",
+    "English": "April",
+    "Italian": "Aprile",
+    "Verify": ""
+  },
+  {
+    "Key": "Month5",
+    "Type": "",
+    "Desc": "",
+    "English": "May",
+    "Italian": "Maggio",
+    "Verify": ""
+  },
+  {
+    "Key": "Month6",
+    "Type": "",
+    "Desc": "",
+    "English": "June",
+    "Italian": "Giugno",
+    "Verify": ""
+  },
+  {
+    "Key": "Month7",
+    "Type": "",
+    "Desc": "",
+    "English": "July",
+    "Italian": "Luglio",
+    "Verify": ""
+  },
+  {
+    "Key": "Month8",
+    "Type": "",
+    "Desc": "",
+    "English": "August",
+    "Italian": "Agosto",
+    "Verify": ""
+  },
+  {
+    "Key": "Month9",
+    "Type": "",
+    "Desc": "",
+    "English": "September",
+    "Italian": "Settembre",
+    "Verify": ""
+  },
+  {
+    "Key": "Month10",
+    "Type": "",
+    "Desc": "",
+    "English": "October",
+    "Italian": "Ottobre",
+    "Verify": ""
+  },
+  {
+    "Key": "Month11",
+    "Type": "",
+    "Desc": "",
+    "English": "November",
+    "Italian": "Novembre",
+    "Verify": ""
+  },
+  {
+    "Key": "Month12",
+    "Type": "",
+    "Desc": "",
+    "English": "December",
+    "Italian": "Dicembre",
+    "Verify": ""
+  },
+  {
+    "Key": "GameComplete_Frontier",
+    "Type": "",
+    "Desc": "{0} e.g. \"July 2020",
+    "English": "Well done! You've completed the {0} frontier map!",
+    "Italian": "Ben fatto! Hai completato la mappa Frontiera di {0}!",
+    "Verify": ""
+  },
+  {
+    "Key": "Frontier_Ended",
+    "Type": "",
+    "Desc": "(This frontier has) ended [replaces the Play button for frontiers that has finished)",
+    "English": "Ended",
+    "Italian": "Conclusa",
+    "Verify": ""
+  },
+  {
+    "Key": "Frontiers_Desc",
+    "Type": "",
+    "Desc": "",
+    "English": "Frontiers are missions that all players compete for the best times on the same randomly generated map. Each frontier lasts for a month (using GMT) and are played with fog of war turned off. Good luck!",
+    "Italian": "Le missioni Frontiera sono missioni in cui tutti i giocatori competono per il miglior tempo nella stessa mappa generata randomicamente. Ogni Frontiera dura un mese (nel fuso orario GMT) e si gioca senza Nebbia di guerra. Buona fortuna!",
+    "Verify": ""
+  },
+  {
+    "Key": "MyRank",
+    "Type": "",
+    "Desc": "E.g. My rank: #482",
+    "English": "My rank:",
+    "Italian": "Rank:",
+    "Verify": ""
+  },
+  {
+    "Key": "MyBestTime",
+    "Type": "",
+    "Desc": "Eg. My best time: 4 months 17 days",
+    "English": "My best time:",
+    "Italian": "Tempo migliore:",
+    "Verify": ""
+  },
+  {
+    "Key": "UpgradeImportRulesWarning",
+    "Type": "",
+    "Desc": "",
+    "English": "You have import rules on this building which might affect upgrade resources arriving.",
+    "Italian": "Hai regole di importazione in questa struttura che potrebbero influenzare l'arrivo delle risorse per il miglioramento.",
+    "Verify": ""
+  },
+  {
+    "Key": "FrontierInvalidVersion",
+    "Type": "",
+    "Desc": "",
+    "English": "You need to upgrade to the latest version of the game to play this frontier!",
+    "Italian": "Devi aggiornare il gioco all'ultima versione per giocare questa Frontiera!",
+    "Verify": ""
+  },
+  {
+    "Key": "DaysRemaining",
+    "Type": "",
+    "Desc": "{0}: number of days",
+    "English": "{0} days left!",
+    "Italian": "{0} giorni rimasti!",
+    "Verify": ""
+  },
+  {
+    "Key": "DayRemaining",
+    "Type": "",
+    "Desc": "",
+    "English": "1 day left!",
+    "Italian": "1 giorno rimasto!",
+    "Verify": ""
+  },
+  {
+    "Key": "HoursRemaining",
+    "Type": "",
+    "Desc": "{0}: number of hours left",
+    "English": "{0} hours left!",
+    "Italian": "{0} ore rimaste!",
+    "Verify": ""
+  },
+  {
+    "Key": "HourRemaining",
+    "Type": "",
+    "Desc": "",
+    "English": "1 hour left!",
+    "Italian": "1 ora rimasta!",
+    "Verify": ""
+  },
+  {
+    "Key": "MinutesRemaining",
+    "Type": "",
+    "Desc": "{0}: number of minutes left",
+    "English": "{0} minutes left!",
+    "Italian": "{0} minuti rimasti!",
+    "Verify": ""
+  },
+  {
+    "Key": "MinuteRemaining",
+    "Type": "",
+    "Desc": "",
+    "English": "1 minute left!",
+    "Italian": "1 minuto rimasto!",
+    "Verify": ""
+  },
+  {
+    "Key": "DismantlingDisabledTutorial",
+    "Type": "",
+    "Desc": "",
+    "English": "Dismantling is disabled for the tutorial!",
+    "Italian": "Lo smantellamento è disabilitato nel tutorial!",
+    "Verify": ""
+  },
+  {
+    "Key": "DestructionDisabledTutorial",
+    "Type": "",
+    "Desc": "",
+    "English": "Destroying a building is disabled for the tutorial!",
+    "Italian": "La distruzione degli edifici è disabilitata nel tutorial!",
     "Verify": ""
   }
 ]

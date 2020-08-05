@@ -16,11 +16,11 @@ Advice_13_Desc,Text,,"You can upgrade <bd>Residences</bd> to produce Level 2 <it
 
 <it>Energy L2</it> is used by the upgraded <bd>Workshop</bd> to research more advanced technologies.
 
-<it>Energy L2</it> is also used by the <bd>Shaft Mine</bd> and Level 2 <bd>Surface Mine</bd> to excavate <nr>Coal</nr>, <nr>Iron Ore</nr>, <nr>Salt</nr> and <nr>Clay</nr>.","Puoi migliorare le <bd>Residenze</bd> per produrre <it>Energia</it> di Livello 2.
+<it>Energy L2</it> is also used by the <bd>Shaft Mine</bd> and Level 2 <bd>Surface Mine</bd> to excavate <nr>Coal</nr>, <nr>Iron Ore</nr> and <nr>Clay</nr>.","Puoi migliorare le <bd>Residenze</bd> per produrre <it>Energia</it> di Livello 2.
 
 L'<it>Energia L2</it> è usata dal <bd>Laboratorio</bd> avanzato per ricercare tecnologie più avanzate.
 
-L'<it>Energia L2</it> è inoltre usata dalla <bd>Miniera</bd> e dalla <bd>Miniera di Superficie</bd> Livello 2 per estrarre <nr>Carbone</nr>, <nr>Ferro grezzo</nr>, <nr>Sale</nr> e <nr>Argilla</nr>.",
+L'<it>Energia L2</it> è inoltre usata dalla <bd>Miniera</bd> e dalla <bd>Miniera di Superficie</bd> Livello 2 per estrarre <nr>Carbone</nr>, <nr>Ferro grezzo</nr> e <nr>Argilla</nr>.",
 Advice_13_Name,Text,,Upgrade a <bd>Residence</bd>!,Migliora una <bd>Residenza</bd>!,
 Advice_14_Desc,Text,,"Level 2 <bd>Residences</bd> need <cat>Alcohol</cat> to be able to generate the more powerful <it>Energy L2</it> needed at the Level 2 <bd>Workshop</bd> and to mine <it>Iron Ore</it> and <it>Coal</it>.
 
@@ -1463,15 +1463,15 @@ ScenGameVerErr_3,Text,,A title needs to be set!,Una casella deve essere impostat
 ScenGameVerErr_4,Text,,A preview image needs to be set!,Un'immagine di anteprima deve essere impostata!,
 ScenGameVerErr_5,Text,,Domination victory requires other colonies!,La vittoria in Dominazione richiede altre colonie!,
 ScenGameVerErr_6,Text,,Market needs to be abled for $ victories!,Il mercato deve essere abilitato per $ vittorie!,
-ScenVict_0_Desc,Text,,Capture enemy colony ships.,Cattura le navi nemiche della colonia.,
+ScenVict_0_Desc,Text,,Capture enemy colony ships,Cattura le navi nemiche della colonia,
 ScenVict_0_Name,Text,,Domination,Dominazione,
-ScenVict_1_Desc,Text,,Build <amount> <building>.,Costruisci <amount> <building>.,
+ScenVict_1_Desc,Text,,Build <amount> <building>,Costruisci <amount> <building>,
 ScenVict_1_Name,Text,,Construct Building,Costruisci edificio,
-ScenVict_5_Desc,Text,,Have $<amount> in the bank.,Hai $<amount> in banca.,
+ScenVict_5_Desc,Text,,Have $<amount> in the bank,Hai $<amount> in banca,
 ScenVict_5_Name,Text,,Cash Balance,Bilancio,
-ScenVict_7_Desc,Text,,Research <tech>.,Ricerca <tech>.,
+ScenVict_7_Desc,Text,,Research <tech>,Ricerca <tech>,
 ScenVict_7_Name,Text,,Research Tech,Ricerca tecnologia,
-ScenVict_8_Desc,Text,,Gain Reputation: <reputation>.,Ottieni reputazione: <reputation>.,
+ScenVict_8_Desc,Text,,Gain Reputation: <reputation>,Ottieni reputazione: <reputation>,
 ScenVict_8_Name,Text,,Trader Reputation,Reputazione del commerciante,
 Scenario_0_Description,Text,,"After countless years travelling through space, you find a habitable planet...","Dopo innumerevoli anni di viaggio attraverso lo spazio, hai trovato un pianeta abitabile...",
 Scenario_0_Name,Text,,A New Dawn,Una nuova alba,
@@ -2952,3 +2952,63 @@ Esplora, ricerca, gestisci, modifica e perfeziona in piena libertà quanto prefe
 [*][b]Trofei delle Sfide[/b]: Sfide speciali che mettono alla prova i costruttori di colonia più esperti
 [*][b]Editor di Mappe[/b]: Crea, gioca e condividi le tue mappe
 [/list]",
+KeyBindings_CancelWarning,,,You have unsaved changes. Go back anyway?,Hai modifiche non salvate. Vuoi tornare indietro comunque?,
+KeyBindings_NoChanges,,,No changes made,Nessuna modifica effettuata,
+KeyBindings_ValidChanges,,,Changes are valid!,Le modifiche sono valide!,
+KeyBindings_Duplicates,,(the user has created conflicting hotkey assignments),There are conflicting assignments,Ci sono assegnazioni in conflitto,
+EntPanelHead_26,,,Dismantling,Smantellamento,
+Dismantle,,Dismantle (a building),Dismantle,Smantella,
+Dismantle_RecoverableResources,,,Resources to recover,Risorse da recuperare,
+Dismantle_RecoverableResources_Empty,,,There are no more resources to recover,Non ci sono più risorse da recuperare,
+Dismantle_AvailableResources,,,Resources available,Risorse disponibili,
+Dismantle_AvailableResources_Empty,,,There are no recovered resources available,Non ci sono risorse recuperate disponibili,
+Dismantle_Warning,,,"Are you sure you want to dismantle {0}?
+
+It will recover all construction resources but it is an irreversible process.
+
+Hold [{1}] to skip this message.","Sei sicuro di voler smantellare {0}?
+
+Recupererai tutte le risorse utilizzate per la costruzione ma è un'azione irreversibile.
+
+Tieni premuto [{1}] per saltare questo messaggio.",
+HelpPanel_39,,,"Dismantling this building will shut down all processes and a builderbot will arrive to recover resources that were used in construction.
+
+Recovered resources will remain on site until they are sourced by another building.
+
+Once dismantling has begun it cannot be reversed although you can still destroy the building.","Smantellare questo edificio fermerà tutti i processi e un BotCostruttore arriverà a recuperare le risorse che sono state utilizzate per la costruzione.
+
+Le risorse recuperate rimarranno sul posto finchè non vengono inviate ad un altro edificio.
+
+Una volta che lo smantellamento è stato avviato non può essere fermato, anche se puoi ancora demolire l'edificio.",
+Notification_29_Desc,,,<building> has been fully dismantled,<building> è stata completamente smantellata,
+Notification_29_Name,,,Dismantling complete!,Smantellamento completato!,
+Frontiers,,Game mode where players compete on the same random map each month,Frontiers,Frontiera,
+MainMenu_ContinueGame,,Main menu option to continue last save game played,Continue Game,Continua partita,
+MonthYear,,{0}: month {1} year e.g. January 2020,{0} {1},{0} {1},
+Month1,,,January,Gennaio,
+Month2,,,February,Febbraio,
+Month3,,,March,Marzo,
+Month4,,,April,Aprile,
+Month5,,,May,Maggio,
+Month6,,,June,Giugno,
+Month7,,,July,Luglio,
+Month8,,,August,Agosto,
+Month9,,,September,Settembre,
+Month10,,,October,Ottobre,
+Month11,,,November,Novembre,
+Month12,,,December,Dicembre,
+GameComplete_Frontier,,"{0} e.g. ""July 2020""",Well done! You've completed the {0} frontier map!,Ben fatto! Hai completato la mappa Frontiera di {0}!,
+Frontier_Ended,,(This frontier has) ended [replaces the Play button for frontiers that has finished),Ended,Conclusa,
+Frontiers_Desc,,,Frontiers are missions that all players compete for the best times on the same randomly generated map. Each frontier lasts for a month (using GMT) and are played with fog of war turned off. Good luck!,Le missioni Frontiera sono missioni in cui tutti i giocatori competono per il miglior tempo nella stessa mappa generata randomicamente. Ogni Frontiera dura un mese (nel fuso orario GMT) e si gioca senza Nebbia di guerra. Buona fortuna!,
+MyRank,,E.g. My rank: #482,My rank:,Rank:,
+MyBestTime,,Eg. My best time: 4 months 17 days,My best time:,Tempo migliore:,
+UpgradeImportRulesWarning,,,You have import rules on this building which might affect upgrade resources arriving.,Hai regole di importazione in questa struttura che potrebbero influenzare l'arrivo delle risorse per il miglioramento.,
+FrontierInvalidVersion,,,You need to upgrade to the latest version of the game to play this frontier!,Devi aggiornare il gioco all'ultima versione per giocare questa Frontiera!,
+DaysRemaining,,{0}: number of days,{0} days left!,{0} giorni rimasti!,
+DayRemaining,,,1 day left!,1 giorno rimasto!,
+HoursRemaining,,{0}: number of hours left,{0} hours left!,{0} ore rimaste!,
+HourRemaining,,,1 hour left!,1 ora rimasta!,
+MinutesRemaining,,{0}: number of minutes left,{0} minutes left!,{0} minuti rimasti!,
+MinuteRemaining,,,1 minute left!,1 minuto rimasto!,
+DismantlingDisabledTutorial,,,Dismantling is disabled for the tutorial!,Lo smantellamento è disabilitato nel tutorial!,
+DestructionDisabledTutorial,,,Destroying a building is disabled for the tutorial!,La distruzione degli edifici è disabilitata nel tutorial!,
