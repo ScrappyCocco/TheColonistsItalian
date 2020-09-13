@@ -9696,7 +9696,7 @@
     "Verify": ""
   },
   {
-    "Key": "TechTreeAgriculture",
+    "Key": "TechCategory_4_Name",
     "Type": "Text",
     "Desc": "Tech research category",
     "English": "Agriculture",
@@ -9728,7 +9728,7 @@
     "Verify": ""
   },
   {
-    "Key": "TechTreeConstruction",
+    "Key": "TechCategory_0_Name",
     "Type": "Text",
     "Desc": "Tech research category",
     "English": "Construction",
@@ -9752,7 +9752,7 @@
     "Verify": ""
   },
   {
-    "Key": "TechTreeMilitary",
+    "Key": "TechCategory_1_Name",
     "Type": "Text",
     "Desc": "Tech research category",
     "English": "Military",
@@ -9760,7 +9760,7 @@
     "Verify": ""
   },
   {
-    "Key": "TechTreeMining",
+    "Key": "TechCategory_6_Name",
     "Type": "Text",
     "Desc": "Tech research category",
     "English": "Mining",
@@ -9768,7 +9768,7 @@
     "Verify": ""
   },
   {
-    "Key": "TechTreeScienceIndustry",
+    "Key": "TechCategory_8_Name",
     "Type": "Text",
     "Desc": "Tech research category",
     "English": "Science & Industry",
@@ -9800,7 +9800,7 @@
     "Verify": ""
   },
   {
-    "Key": "TechTreeTransportation",
+    "Key": "TechCategory_3_Name",
     "Type": "Text",
     "Desc": "Tech research category",
     "English": "Transportation",
@@ -18469,6 +18469,14 @@
     "Desc": "",
     "English": "Destroying a building is disabled for the tutorial!",
     "Italian": "La distruzione degli edifici è disabilitata nel tutorial!",
+    "Verify": ""
+  },
+  {
+    "Key": "RandomMap_Size4",
+    "Type": "",
+    "Desc": "",
+    "English": "Tiny ({0})",
+    "Italian": "Minuscola ({0})",
     "Verify": ""
   }
 ]
