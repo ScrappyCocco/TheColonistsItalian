@@ -435,8 +435,8 @@
     "Key": "Advice_7_Name",
     "Type": "Text",
     "Desc": "",
-    "English": "<amount> Workshop available!",
-    "Italian": "<amount> Laboratorio(i) disponibili!",
+    "English": "<bd>Workshop</bd> available!",
+    "Italian": "<bd>Laboratorio(i)</bd> disponibili!",
     "Verify": ""
   },
   {
@@ -11402,9 +11402,9 @@
   {
     "Key": "TutorialDialogues_T1_ConnectResidence1",
     "Type": "Text",
-    "Desc": "",
-    "English": "Great! Buildings can be connected to any point along a road.\nEach building has a Stackbot to collect and drop off resources. The one at your <bd>Residence</bd> will use both road posts.",
-    "Italian": "Bene! Gli edifici possono essere connessi a qualsiasi palo stradale lungo la strada. Ogni edificio ha un BotImpilatore per raccogliere e lasciare risorse. Il Bot alla tua <bd>Residenza</bd> utilizzerà entrambi i pali stradali.",
+    "Desc": "Deprecated",
+    "English": "[-]",
+    "Italian": "[-]",
     "Verify": ""
   },
   {
@@ -11458,9 +11458,9 @@
   {
     "Key": "TutorialDialogues_T1_ExplainFood",
     "Type": "Text",
-    "Desc": "",
-    "English": "The other <bd>Residence</bd> need was <cat>Food</cat>. This means <it>Fish</it>, <it>Meat</it> or <it>Vegetables</it>.",
-    "Italian": "L'altra necessità della <bd>Residenza</bd> era <cat>Cibo</cat>. Questo significa <it>Pesce</it>, <it>Carne</it> o <it>Verdure</it>.",
+    "Desc": "Deprecated",
+    "English": "[-]",
+    "Italian": "[-]",
     "Verify": ""
   },
   {
@@ -11818,9 +11818,9 @@
   {
     "Key": "TutorialDialogues_T2_BuildSheepFarm_TaskBuildSheepFarm",
     "Type": "Text",
-    "Desc": "",
-    "English": "Build 1 <bd>Sheep Farm</bd>",
-    "Italian": "Costruisci 1 <bd>Allevamento di pecore</bd>",
+    "Desc": "Deprecated",
+    "English": "[-]",
+    "Italian": "[-]",
     "Verify": ""
   },
   {
@@ -11842,9 +11842,9 @@
   {
     "Key": "TutorialDialogues_T2_CreateSheepFarmFields2",
     "Type": "Text",
-    "Desc": "",
-    "English": "Click 'Auto Place' to automatically place the sheep pastures.\nYou can also manually modify the fields by clicking 'Change'.",
-    "Italian": "Clicca 'Auto Piazza' per piazzare automaticamente i Pascoli.\nPuoi anche modificarli manualmente cliccando 'Cambia'.",
+    "Desc": "Deprecated",
+    "English": "[-]",
+    "Italian": "[-]",
     "Verify": ""
   },
   {
@@ -11858,9 +11858,9 @@
   {
     "Key": "TutorialDialogues_T2_CreateSheepFarmFields_TaskFields",
     "Type": "Text",
-    "Desc": "",
-    "English": "Expand at least 20 extra pastures",
-    "Italian": "Espandi di almeno 20 pascoli extra",
+    "Desc": "Deprecated",
+    "English": "[-]",
+    "Italian": "[-]",
     "Verify": ""
   },
   {
@@ -13395,16 +13395,16 @@
     "Key": "Tooltip_Sculpt",
     "Type": "Text",
     "Desc": "{0}: sculpt mode",
-    "English": "Sculpt {0}",
-    "Italian": "Scolpisci {0}",
+    "English": "Sculpt: {0}",
+    "Italian": "Scolpisci: {0}",
     "Verify": ""
   },
   {
     "Key": "Tooltip_CantSculpt",
     "Type": "Text",
     "Desc": "{0}: sculpt mode",
-    "English": "Can't sculpt {0}",
-    "Italian": "Impossibile scolpire {0}",
+    "English": "Can't sculpt: {0}",
+    "Italian": "Impossibile scolpire: {0}",
     "Verify": ""
   },
   {
@@ -16424,7 +16424,7 @@
     "Verify": ""
   },
   {
-    "Key": "Pumpkins_Building_66_Description",
+    "Key": "Building_66_Description",
     "Type": "Text",
     "Desc": "",
     "English": "Create <it>Pumpkins</it> from pumpkin patches.",
@@ -16432,7 +16432,7 @@
     "Verify": ""
   },
   {
-    "Key": "Pumpkins_Building_66_Name",
+    "Key": "Building_66_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Pumpkin Farm",
@@ -16440,7 +16440,7 @@
     "Verify": ""
   },
   {
-    "Key": "Pumpkins_Building_66_Plural",
+    "Key": "Building_66_Plural",
     "Type": "Text",
     "Desc": "",
     "English": "Pumpkin Farms",
@@ -16448,7 +16448,7 @@
     "Verify": ""
   },
   {
-    "Key": "Pumpkins_Item_47_Desc",
+    "Key": "Item_47_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Pumpkins are harvested at the <bd>Pumpkin Patch</bd>.",
@@ -16456,7 +16456,7 @@
     "Verify": ""
   },
   {
-    "Key": "Pumpkins_Item_47_FullDesc",
+    "Key": "Item_47_FullDesc",
     "Type": "Text",
     "Desc": "",
     "English": "Pumpkins are harvested at the <bd>Pumpkin Patch</bd> and are consumed by <bd>Level 1 Residences</bd>.",
@@ -16464,7 +16464,7 @@
     "Verify": ""
   },
   {
-    "Key": "Pumpkins_Item_47_Name",
+    "Key": "Item_47_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Pumpkins",
@@ -16496,7 +16496,7 @@
     "Verify": ""
   },
   {
-    "Key": "Pumpkins_ItemCat_2_FullDesc",
+    "Key": "ItemCat_2_FullDesc",
     "Type": "Text",
     "Desc": "",
     "English": "<cat>Food</cat> is needed by all <bd>Residences</bd> and can be <it>Fish</it>, <it>Meat</it> or <it>Pumpkins</it>.",
@@ -16504,7 +16504,7 @@
     "Verify": ""
   },
   {
-    "Key": "Pumpkins_Structure_2_Name",
+    "Key": "Structure_2_Name",
     "Type": "Text",
     "Desc": "These are the \"fields\" the player manually places",
     "English": "Pumpkin Patch",
@@ -16512,7 +16512,7 @@
     "Verify": ""
   },
   {
-    "Key": "Pumpkins_Structure_2_Plural",
+    "Key": "Structure_2_Plural",
     "Type": "Text",
     "Desc": "These are the \"fields\" the player manually places",
     "English": "Pumpkin Patches",
@@ -16520,7 +16520,7 @@
     "Verify": ""
   },
   {
-    "Key": "Structure_2_Name",
+    "Key": "Veg_Structure_2_Name",
     "Type": "Text",
     "Desc": "These are the \"fields\" the player manually places",
     "English": "Vegetable Plot",
@@ -16528,7 +16528,7 @@
     "Verify": ""
   },
   {
-    "Key": "Structure_2_Plural",
+    "Key": "Veg_Structure_2_Plural",
     "Type": "Text",
     "Desc": "These are the \"fields\" the player manually places",
     "English": "Vegetable Plots",
@@ -16544,7 +16544,7 @@
     "Verify": ""
   },
   {
-    "Key": "AlertVegetableFarmFields",
+    "Key": "Veg_AlertVegetableFarmFields",
     "Type": "Text",
     "Desc": "",
     "English": "You have not planted any vegetable plots",
@@ -16552,7 +16552,7 @@
     "Verify": ""
   },
   {
-    "Key": "Pumpkins_AlertVegetableFarmFields",
+    "Key": "AlertVegetableFarmFields",
     "Type": "Text",
     "Desc": "",
     "English": "You have not planted any pumpkin patches",
@@ -16560,7 +16560,7 @@
     "Verify": ""
   },
   {
-    "Key": "Pumpkins_ItemCat_2_Desc",
+    "Key": "ItemCat_2_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "<it>Fish</it> / <it>Meat</it> / <it>Pumpkins</it>",
@@ -16568,7 +16568,7 @@
     "Verify": ""
   },
   {
-    "Key": "ItemCat_2_Desc",
+    "Key": "Veg_ItemCat_2_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "<it>Fish</it> / <it>Meat</it> / <it>Vegetables</it>",
@@ -16576,7 +16576,7 @@
     "Verify": ""
   },
   {
-    "Key": "Pumpkin_MiscCat_13_Name",
+    "Key": "MiscCat_13_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Pumpkin Patches",
@@ -16627,7 +16627,7 @@
     "Key": "TutorialDialogues_T2_CreateSheepFarmFields3_Updated",
     "Type": "Text",
     "Desc": "",
-    "English": "Great! Your <bd>Sheep Farm</bd> is going to give you a good start on <cat>Food</cat> production.\n\nYou can also add sheep pastures manually by clicking on an empty tile adjacent to an existing pasture, or remove them by <hotkey>[Shift]</hotkey> and clicking on an existing pasture.",
+    "English": "Great! Your <bd>Sheep Farm</bd> is going to give you a good start on <cat>Food</cat> production.\nYou can also add sheep pastures manually by clicking on an empty tile adjacent to an existing pasture, or remove them by <hotkey>[Shift]</hotkey> and clicking on an existing pasture.",
     "Italian": "Bene! Il tuo <bd>Allevamento di Pecore</bd> ti avvierà alla produzione di <cat>Cibo</cat>.\nPuoi anche aggiungere pascoli manualmente cliccando su una calsella adiacente al pascolo esistente, o rimuoverli con <hotkey>[Shift]</hotkey> e cliccando su un pascolo esistente.",
     "Verify": ""
   },
@@ -17361,7 +17361,7 @@
   },
   {
     "Key": "Challenge_0_Name",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Boatbuilder",
     "Italian": "Barcaiolo",
@@ -17369,7 +17369,7 @@
   },
   {
     "Key": "Challenge_1_Name",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "All The Science",
     "Italian": "Fantascienza",
@@ -17377,7 +17377,7 @@
   },
   {
     "Key": "Challenge_2_Name",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Bootlegger",
     "Italian": "Contrabbandiere",
@@ -17385,7 +17385,7 @@
   },
   {
     "Key": "Challenge_3_Name",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Supplier",
     "Italian": "Fornitore",
@@ -17393,39 +17393,39 @@
   },
   {
     "Key": "Challenge_0_Task",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
-    "English": "Build a boat in mission 3",
+    "English": "Build a boat",
     "Italian": "Costruisci una barca nella missione 3",
     "Verify": ""
   },
   {
     "Key": "Challenge_1_Task",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
-    "English": "Research all the technologies in mission 5",
+    "English": "Research all the technologies",
     "Italian": "Ricerca tutte le tecnologie nella missione 5",
     "Verify": ""
   },
   {
     "Key": "Challenge_2_Task",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
-    "English": "Store 100 beer on each of the five islands in mission 7",
+    "English": "Store 100 beer on each of the five islands",
     "Italian": "Deposita 100 birre in ciascuna delle cinque isole della missione 7",
     "Verify": ""
   },
   {
     "Key": "Challenge_3_Task",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
-    "English": "Sell one of each resource without purchasing anything in mission 8",
+    "English": "Sell one of each resource without purchasing anything",
     "Italian": "Vendi un tipo di ciascuna risorsa senza comprare nulla nella missione 8",
     "Verify": ""
   },
   {
     "Key": "Challenge_0_Time_0",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "2 months",
     "Italian": "2 mesi",
@@ -17433,7 +17433,7 @@
   },
   {
     "Key": "Challenge_0_Time_1",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "2.5 months",
     "Italian": "2.5 mesi",
@@ -17441,7 +17441,7 @@
   },
   {
     "Key": "Challenge_0_Time_2",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "3 months",
     "Italian": "3 mesi",
@@ -17449,7 +17449,7 @@
   },
   {
     "Key": "Challenge_1_Time_0",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "1 year 6 months",
     "Italian": "1 anno 6 mesi",
@@ -17457,7 +17457,7 @@
   },
   {
     "Key": "Challenge_1_Time_1",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "1 year 9 months",
     "Italian": "1 anno 9 mesi",
@@ -17465,7 +17465,7 @@
   },
   {
     "Key": "Challenge_1_Time_2",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "2 years",
     "Italian": "2 anni",
@@ -17473,7 +17473,7 @@
   },
   {
     "Key": "Challenge_2_Time_0",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "9 months",
     "Italian": "9 mesi",
@@ -17481,7 +17481,7 @@
   },
   {
     "Key": "Challenge_2_Time_1",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "10 months",
     "Italian": "10 mesi",
@@ -17489,7 +17489,7 @@
   },
   {
     "Key": "Challenge_2_Time_2",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "11 months",
     "Italian": "11 mesi",
@@ -17497,7 +17497,7 @@
   },
   {
     "Key": "Challenge_3_Time_0",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "9 months",
     "Italian": "9 mesi",
@@ -17505,7 +17505,7 @@
   },
   {
     "Key": "Challenge_3_Time_1",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "10 months",
     "Italian": "10 mesi",
@@ -17513,7 +17513,7 @@
   },
   {
     "Key": "Challenge_3_Time_2",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "11 months",
     "Italian": "11 mesi",
@@ -17521,7 +17521,7 @@
   },
   {
     "Key": "Challenge_Grade_0",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "LEGENDARY",
     "Italian": "LEGGENDARIO",
@@ -17529,7 +17529,7 @@
   },
   {
     "Key": "Challenge_Grade_1",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "CHAMPION",
     "Italian": "CAMPIONE",
@@ -17537,7 +17537,7 @@
   },
   {
     "Key": "Challenge_Grade_2",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "EXPERT",
     "Italian": "ESPERTO",
@@ -17545,7 +17545,7 @@
   },
   {
     "Key": "GameSettingsInvertZoom",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Invert zoom",
     "Italian": "Inverti zoom",
@@ -17553,7 +17553,7 @@
   },
   {
     "Key": "GameSettingsEightSpeed",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Enable 8x speed",
     "Italian": "Attiva velocità 8x",
@@ -17561,7 +17561,7 @@
   },
   {
     "Key": "ChallengeComplete",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Challenge Complete!",
     "Italian": "Sfida completata!",
@@ -17569,7 +17569,7 @@
   },
   {
     "Key": "ChallengeComplete_Message3",
-    "Type": "",
+    "Type": "Text",
     "Desc": "(Modest praise)",
     "English": "Congratulations! You achieved the EXPERT rank!",
     "Italian": "Congraturazioni! Hai ottenuto il rank ESPERTO!",
@@ -17577,7 +17577,7 @@
   },
   {
     "Key": "ChallengeComplete_Message2",
-    "Type": "",
+    "Type": "Text",
     "Desc": "(High praise)",
     "English": "Amazing! You achieved the CHAMPION rank!",
     "Italian": "Fantastico! Hai ottenuto il rank CAMPIONE!",
@@ -17585,7 +17585,7 @@
   },
   {
     "Key": "ChallengeComplete_Message1",
-    "Type": "",
+    "Type": "Text",
     "Desc": "(Highest praise)",
     "English": "Incredible! You achieved the LEGENDARY rank!",
     "Italian": "Incredibile! Hai ottenuto il rank LEGGENDARIO!",
@@ -17593,7 +17593,7 @@
   },
   {
     "Key": "EntityTransportBoatStorageUnloadingEmpty",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "There are no resources to be unloaded",
     "Italian": "Non ci sono risorse da scaricare",
@@ -17601,7 +17601,7 @@
   },
   {
     "Key": "EntityTransportBoatStorageUnloadingHeader",
-    "Type": "",
+    "Type": "Text",
     "Desc": "{0}: number of resources to be unloaded",
     "English": "Unloading ({0})",
     "Italian": "Scaricando ({0})",
@@ -17609,7 +17609,7 @@
   },
   {
     "Key": "VehicleStatusDocked",
-    "Type": "",
+    "Type": "Text",
     "Desc": "{0}: number of resources being unloaded\n{1}: number of resources being loaded",
     "English": "Unloading ({0}) & loading ({1})",
     "Italian": "Scaricando ({0}) & caricando ({1})",
@@ -17617,7 +17617,7 @@
   },
   {
     "Key": "VehicleStatusQueueing",
-    "Type": "",
+    "Type": "Text",
     "Desc": "{0}: name of harbour",
     "English": "Queueing at {0}",
     "Italian": "In coda presso {0}",
@@ -17625,7 +17625,7 @@
   },
   {
     "Key": "VehicleStatusHeading",
-    "Type": "",
+    "Type": "Text",
     "Desc": "{0}: name of harbour/train station",
     "English": "Heading to {0}",
     "Italian": "Diretto verso {0}",
@@ -17633,7 +17633,7 @@
   },
   {
     "Key": "EntityBuildingTransportConnectionsNoTrainRoutes",
-    "Type": "",
+    "Type": "Text",
     "Desc": "(This train station has no train routes that stop here)",
     "English": "No train routes",
     "Italian": "Non ci sono tratte ferroviarie",
@@ -17641,7 +17641,7 @@
   },
   {
     "Key": "SandboxFreeResourceCreation",
-    "Type": "",
+    "Type": "Text",
     "Desc": "ability to generate resources for fre at a storage yard",
     "English": "Free Storage Yard Resources",
     "Italian": "Risorse gratis al Deposito",
@@ -17649,7 +17649,7 @@
   },
   {
     "Key": "FreeResourceCreationCreateResources",
-    "Type": "",
+    "Type": "Text",
     "Desc": "button to create free resources",
     "English": "Create Resources",
     "Italian": "Crea Risorse",
@@ -17657,7 +17657,7 @@
   },
   {
     "Key": "ImportRuleConstructionWarning",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Please note that import rules also apply to sourcing construction resources. Are you sure you want to add this import rule before {0} is finished?\n\nHold [{1}] to skip this message.",
     "Italian": "Ricorda che le regole di importazione si applicano anche alle risorse per la costruzione. Sei sicuro di voler aggiungere questa regola prima che {0} sia finito?\n\nTieni premuto [{1}] per saltare questo messaggio.",
@@ -17665,7 +17665,7 @@
   },
   {
     "Key": "Scenario_13_Description",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Claim victory over your anthrobotic foes.",
     "Italian": "Guadagnati la vittoria sui tuoi nemici umanoidi.",
@@ -17673,7 +17673,7 @@
   },
   {
     "Key": "Scenario_13_Name",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "The Three Hills",
     "Italian": "Le Tre Colline",
@@ -17681,7 +17681,7 @@
   },
   {
     "Key": "BugReport_CopyClipboard",
-    "Type": "",
+    "Type": "Text",
     "Desc": "(path means path of the bug report file on your computer)",
     "English": "Copy path to clipboard",
     "Italian": "Copia percorso file negli appunti",
@@ -17689,7 +17689,7 @@
   },
   {
     "Key": "NowAvailableInLanguage",
-    "Type": "",
+    "Type": "Text",
     "Desc": "!!! Replace English with the name of your language in your language!\n(The Colonists is) now available in English!",
     "English": "Now available in English!",
     "Italian": "Ora disponibile in Italiano!",
@@ -17697,7 +17697,7 @@
   },
   {
     "Key": "Tip_21",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Hold [Alt] when placing a building to have its construction instantly paused",
     "Italian": "Tieni premuto [Alt] quando piazzi un edificio per mettere subito in pausa la sua costruzione",
@@ -17705,7 +17705,7 @@
   },
   {
     "Key": "DevBuildIntro",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Welcome to the development build of The Colonists!\n\nPlease be aware that you may find extra bugs in this version of the game.\n\nYou may also get potential bug alerts pop up, please still report these if it's the first one in your game session.\n\nThanks!",
     "Italian": "Benvenuto nella build in sviluppo di The Colonist!\n\nTieni a mente che potresti trovare ulteriori bug in questa versione del gioco.\n\nPotresti anche vedere degli avvisi di errore apparire, per favore riportali la prima volta che ti appaiono.\n\nGrazie!",
@@ -17713,7 +17713,7 @@
   },
   {
     "Key": "UnlockAllMissions",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Unlock all missions",
     "Italian": "Sblocca tutte le missioni",
@@ -17721,7 +17721,7 @@
   },
   {
     "Key": "MilitaryTargetsTooltip",
-    "Type": "",
+    "Type": "Text",
     "Desc": "{0}: number of targets",
     "English": "Targets in range: {0}",
     "Italian": "Bersagli nel raggio: {0}",
@@ -17729,7 +17729,7 @@
   },
   {
     "Key": "UnitState_HeadingToJob",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Generic message for a bot heading to a job, e.g. lumberjack, road layer",
     "English": "Heading to job",
     "Italian": "Diretto al lavoro",
@@ -17737,7 +17737,7 @@
   },
   {
     "Key": "ItemInfoConsumption_PriorityBuildings",
-    "Type": "",
+    "Type": "Text",
     "Desc": "(On resource demand panel) Header for list of buildings that have been prioritised",
     "English": "Prioritised Buildings",
     "Italian": "Edifici con Priorità",
@@ -17745,7 +17745,7 @@
   },
   {
     "Key": "GameFailed_Header",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Oh no!",
     "Italian": "Oh no!",
@@ -17753,7 +17753,7 @@
   },
   {
     "Key": "GameFailed_Message",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "You lost your colony ship and have been defeated...",
     "Italian": "Hai perso la tua Nave della Colonia e sei stato sconfitto...",
@@ -17761,7 +17761,7 @@
   },
   {
     "Key": "GameFailed_Retry",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Retry Mission",
     "Italian": "Riprova Missione",
@@ -17769,7 +17769,7 @@
   },
   {
     "Key": "GameFailed_ContinueWatch",
-    "Type": "",
+    "Type": "Text",
     "Desc": "(continue to watch the game)",
     "English": "Watch",
     "Italian": "Osserva",
@@ -17777,7 +17777,7 @@
   },
   {
     "Key": "AI_Player_Name",
-    "Type": "",
+    "Type": "Text",
     "Desc": "{0}: number e.g. \"AI Player 1",
     "English": "AI Player {0}",
     "Italian": "Giocatore AI {0}",
@@ -17785,7 +17785,7 @@
   },
   {
     "Key": "InfoPanel_MissionInfo",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Header for panel containing general information, name, creator etc",
     "English": "Mission Info",
     "Italian": "Informazioni Missione",
@@ -17793,7 +17793,7 @@
   },
   {
     "Key": "InfoPanel_MedalTimes",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Header for panel which tells you which times you need to achieve to earn what medals",
     "English": "Medal Times",
     "Italian": "Tempi Medaglie",
@@ -17801,7 +17801,7 @@
   },
   {
     "Key": "MedalColour_Gold",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Medal colour",
     "English": "Gold",
     "Italian": "Oro",
@@ -17809,7 +17809,7 @@
   },
   {
     "Key": "MedalColour_Silver",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Medal colour",
     "English": "Silver",
     "Italian": "Argento",
@@ -17817,7 +17817,7 @@
   },
   {
     "Key": "MedalColour_Bronze",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Medal colour",
     "English": "Bronze",
     "Italian": "Bronzo",
@@ -17825,7 +17825,7 @@
   },
   {
     "Key": "MissionInfo_SandboxEdit",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Button to change the sandbox settings",
     "English": "Change Settings",
     "Italian": "Cambia Impostazioni",
@@ -17833,7 +17833,7 @@
   },
   {
     "Key": "MissionInfo_WorkshopOpen",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Button to open the Steam Workshop page for the map being played",
     "English": "Open in Steam Workshop",
     "Italian": "Apri nello Steam Workshop",
@@ -17841,7 +17841,7 @@
   },
   {
     "Key": "MissionInfo_MapEditorTest",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Mission name when testing a custom map",
     "English": "Map Editor Test",
     "Italian": "Test Editor Mappe",
@@ -17849,7 +17849,7 @@
   },
   {
     "Key": "CampaignMissionTitleNumber",
-    "Type": "",
+    "Type": "Text",
     "Desc": "{0}: number, e.g. Campaign Mission 7",
     "English": "Campaign Mission {0}",
     "Italian": "Missione Campagna {0}",
@@ -17857,7 +17857,7 @@
   },
   {
     "Key": "EditSandbox_Title",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Title of window for changing sandbox settings in-game",
     "English": "Sandbox Settings",
     "Italian": "Impostazioni Sandbox",
@@ -17865,7 +17865,7 @@
   },
   {
     "Key": "EditSandbox_Save",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Button to save the settings",
     "English": "Save Settings",
     "Italian": "Salva Impostazioni",
@@ -17873,7 +17873,7 @@
   },
   {
     "Key": "EditSandbox_RevertWarning",
-    "Type": "",
+    "Type": "Text",
     "Desc": "When a settings is selected that cannot be reverted later on (e.g. researching all tech)",
     "English": "Warning! Cannot be reverted",
     "Italian": "Attenzione! Non può essere annullata",
@@ -17881,7 +17881,7 @@
   },
   {
     "Key": "AlertPanel_Title",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Title of generic warning window - e.g. when you click to destroy a building",
     "English": "Alert",
     "Italian": "Attenzione",
@@ -17889,7 +17889,7 @@
   },
   {
     "Key": "MapEditor_MaxVictoryConditions",
-    "Type": "",
+    "Type": "Text",
     "Desc": "When the user has created the maximum allowable number of victory conditions",
     "English": "Maximum conditions reached!",
     "Italian": "Numero massimo di condizioni raggiunto!",
@@ -17897,7 +17897,7 @@
   },
   {
     "Key": "EntityBoatyardDockCancelConstruction",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Button to cancel construction of the current boat",
     "English": "Cancel Construction",
     "Italian": "Annulla Costruzione",
@@ -17905,7 +17905,7 @@
   },
   {
     "Key": "RandomMap",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Procedurally generated maps",
     "English": "Random Map",
     "Italian": "Mappa Random",
@@ -17913,7 +17913,7 @@
   },
   {
     "Key": "RandomMap_Water0",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Little water on the map",
     "English": "Little",
     "Italian": "Poca",
@@ -17921,7 +17921,7 @@
   },
   {
     "Key": "RandomMap_Water1",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Some amount of water on the map",
     "English": "Some",
     "Italian": "Standard",
@@ -17929,7 +17929,7 @@
   },
   {
     "Key": "RandomMap_Water2",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Lots of water on the map",
     "English": "Lots",
     "Italian": "Tanta",
@@ -17937,7 +17937,7 @@
   },
   {
     "Key": "RandomMap_Water",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Water (for the random map)",
     "English": "Water",
     "Italian": "Acqua",
@@ -17945,7 +17945,7 @@
   },
   {
     "Key": "ModManager",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Panel for managing player created mods",
     "English": "Mod Manager",
     "Italian": "Mod Manager",
@@ -17953,7 +17953,7 @@
   },
   {
     "Key": "ModManager_NoMods",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "No mods found",
     "Italian": "Nessuna mod rilevata",
@@ -17961,7 +17961,7 @@
   },
   {
     "Key": "RandomMap_NaturalResources0",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Few resources available",
     "English": "Few",
     "Italian": "Poche",
@@ -17969,7 +17969,7 @@
   },
   {
     "Key": "RandomMap_NaturalResources1",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Moderate amount of resources available",
     "English": "Normal",
     "Italian": "Normali",
@@ -17977,7 +17977,7 @@
   },
   {
     "Key": "RandomMap_NaturalResources2",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Plenty of resources available",
     "English": "Lots",
     "Italian": "Tante",
@@ -17985,7 +17985,7 @@
   },
   {
     "Key": "RandomMap_Size0",
-    "Type": "",
+    "Type": "Text",
     "Desc": "{0}: size of map e.g. Small (200)",
     "English": "Small ({0})",
     "Italian": "Piccola ({0})",
@@ -17993,7 +17993,7 @@
   },
   {
     "Key": "RandomMap_Size1",
-    "Type": "",
+    "Type": "Text",
     "Desc": "{0}: size of map e.g. Small (200)",
     "English": "Medium ({0})",
     "Italian": "Media ({0})",
@@ -18001,7 +18001,7 @@
   },
   {
     "Key": "RandomMap_Size2",
-    "Type": "",
+    "Type": "Text",
     "Desc": "{0}: size of map e.g. Small (200)",
     "English": "Large ({0})",
     "Italian": "Grande ({0})",
@@ -18009,7 +18009,7 @@
   },
   {
     "Key": "RandomMap_Size3",
-    "Type": "",
+    "Type": "Text",
     "Desc": "{0}: size of map e.g. Small (200)",
     "English": "Huge ({0})",
     "Italian": "Enorme ({0})",
@@ -18017,7 +18017,7 @@
   },
   {
     "Key": "Advice_3_Name_Single",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "One of your buildings is not connected to your road network!",
     "Italian": "Uno dei tuoi edifici non è connesso alla tua rete stradale!",
@@ -18025,7 +18025,7 @@
   },
   {
     "Key": "Advice_3_Name_Plural",
-    "Type": "",
+    "Type": "Text",
     "Desc": "<amount>: any number more than one",
     "English": "<amount> of your buildings are not connected to your road network!",
     "Italian": "<amount> dei tuoi edifici non sono connessi alla tua rete stradale!",
@@ -18033,7 +18033,7 @@
   },
   {
     "Key": "RandomMap_Seed",
-    "Type": "",
+    "Type": "Text",
     "Desc": "https://en.wikipedia.org/wiki/Random_seed",
     "English": "Seed",
     "Italian": "Seed Random",
@@ -18041,7 +18041,7 @@
   },
   {
     "Key": "RandomMap_GenSeed",
-    "Type": "",
+    "Type": "Text",
     "Desc": "(Generate) new (seed)",
     "English": "New",
     "Italian": "Nuovo",
@@ -18049,7 +18049,7 @@
   },
   {
     "Key": "RandomMap_Biome",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Biome",
     "Italian": "Bioma",
@@ -18057,7 +18057,7 @@
   },
   {
     "Key": "RandomMap_Biome0",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Default",
     "Italian": "Default",
@@ -18065,7 +18065,7 @@
   },
   {
     "Key": "RandomMap_Biome1",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Snow",
     "Italian": "Neve",
@@ -18073,7 +18073,7 @@
   },
   {
     "Key": "RandomMap_Biome2",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Desert",
     "Italian": "Deserto",
@@ -18081,7 +18081,7 @@
   },
   {
     "Key": "TutorialDialogues_T2_SoloInstructionsB1",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "It's time to build this colony on your own!\nFirst, remind yourself of the mission goals by opening the mission info panel in the top left of the screen.",
     "Italian": "È tempo di costruire questa colonia da solo!\nInnanzitutto, riguardati gli obiettivi della missione aprendo il pannello delle informazioni sulla missione nella parte superiore sinistra dello schermo.",
@@ -18089,7 +18089,7 @@
   },
   {
     "Key": "TutorialDialogues_T2_SoloInstructionsB2",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "As you can see, the goal for this mission is to build a small monument.\nYou can also see the times required to earn each of the medals.",
     "Italian": "Come puoi vedere, l'obiettivo di questa missione è costruire un piccolo monumento.\nPuoi anche vedere i tempi necessari per guadagnare ciascuna medaglia.",
@@ -18097,7 +18097,7 @@
   },
   {
     "Key": "TutorialDialogues_T2_SoloInstructionsB3",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Now open the advisor panel, again in the top left, where you can see advice about what to do or build next.",
     "Italian": "Ora apri il pannello dei suggerimenti, sempre in alto a sinistra, dove puoi vedere i consigli su cosa fare o costruire successivamente.",
@@ -18105,7 +18105,7 @@
   },
   {
     "Key": "TutorialDialogues_T2_SoloInstructionsB4",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Great! This is where I'll give you advice, warnings and tips if you need them.\nYou can also click on each advice item for more information.\nYou're on your own now - good luck!",
     "Italian": "Fantastico! È qui che ti darò consigli, avvisi e suggerimenti se ne avrai bisogno.\nPuoi anche fare clic su ciascun elemento di avviso per ulteriori informazioni.\nOra sei da solo - buona fortuna!",
@@ -18113,7 +18113,7 @@
   },
   {
     "Key": "StoreDesc_New",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Enhanced entry from line 1565",
     "English": "[img]{STEAM_APP_IMAGE}/extras/store_description_header.png[/img]\nThe Colonists is a relaxing settlement building game inspired by classic titles like The Settlers and the Anno series.\n\nTake on a series of individual campaign missions, play randomly generated maps, compete on player-designed creations or build your colony unfettered by any constraints in the [b]sandbox mode[/b].\n\n[img]{STEAM_APP_IMAGE}/extras/steam_stackbot1.gif[/img]\n\nYou take control of a team of self-replicating robots built to simulate human civilisation.  After escaping Earth, The Colonists are now free to roam the galaxy in search of a new home and construct their dream settlement.\n\n[img]{STEAM_APP_IMAGE}/extras/steam_loadboat1.gif[/img]\nYou'll advance through three different Ages as you build infrastructure for your colony by constructing road, boat and train transport systems.\n\nHarvest natural resources, set up farming and food production, create expeditions to discover new lands and research new technologies.\n\n[img]{STEAM_APP_IMAGE}/extras/steam_fish1.gif[/img]\nWith two separate mission tracks, The Colonists lets either you create sprawling settlements in peace or race to compete against AI colonies in military winner-takes-all scenarios.\n\nExplore, research, manage, tweak and refine to your heart's content.\n\n[img]{STEAM_APP_IMAGE}/extras/sculpt_mini_2.gif[/img]\n\nAn extensive map editor and Steam Workshop support is included, so you can create, share and play custom maps.\n\n[h2]Features[/h2]\n[list]\n[*][b]Campaign[/b]: 14 missions split into separate peaceful and military tracks\n[*][b]Random Maps[/b]: Play on a near-infinite amount of procedurally generated maps\n[*][b]Sandbox Mode[/b]: Customise various game settings to play the game how you like\n[*][b]Steam Workshop[/b]: Play hundreds of player-generated custom maps\n[*][b]Challenge Trophies[/b]: Special challenges which test the most expert colony builders\n[*][b]Map Editor[/b]: create, play and share your own maps\n[/list]",
     "Italian": "[img]{STEAM_APP_IMAGE}/extras/store_description_header.png[/img]\nThe Colonists è un rilassante gioco gestionale sulla costruzione di insediamenti ispirato a titoli classici come The Settlers e la serie Anno.\n\nAffronta una serie di missioni, gioca mappe generate randomicamente, completa sfide create dai giocatori o costruisci la tua colonia liberamente nella [b]modalità sandbox[/b].\n\n[img]{STEAM_APP_IMAGE}/extras/steam_stackbot1.gif[/img]\n\nPrendi il controllo di un team di robot autoreplicanti creati per simulare la civiltà umana. Dopo essere fuggiti dalla Terra, i Coloni sono ora liberi di vagare per la galassia in cerca di una nuova casa per costruire il loro insediamento da sogno.\n\n[img]{STEAM_APP_IMAGE}/extras/steam_loadboat1.gif[/img]\nAvanzerai attraverso tre diverse epoche fabbricando infrastrutture per la tua colonia, costruendo sistemi di trasporto su strada, in barca e in treno.\n\nRaccogli risorse naturali, avvia l'agricoltura e la produzione alimentare, crea spedizioni per scoprire nuove terre e ricercare nuove tecnologie.\n\n[img]{STEAM_APP_IMAGE}/extras/steam_fish1.gif[/img]\nCon due percorsi di missione separati, The Colonists ti consente di creare enormi insediamenti in pace o gareggiare per competere contro le colonie di intelligenza artificiale in scenari militari all'ultimo sangue.\n\nEsplora, ricerca, gestisci, modifica e perfeziona in piena libertà quanto preferisci.\n\n[img]{STEAM_APP_IMAGE}/extras/sculpt_mini_2.gif[/img]\n\nÈ incluso un vasto editor di mappe e il supporto per lo Steam Workshop, in modo da poter creare, condividere e giocare mappe personalizzate.\n\n[h2]Caratteristiche[/h2]\n[list]\n[*][b]Campagna[/b]: 14 missioni divise in percorsi pacifici e militari\n[*][b]Mappe Random[/b]: Gioca una quantità pressoché infinita di mappe generate proceduralmente\n[*][b]Modalità Sandbox[/b]: Personalizza le varie impostazioni di gioco per giocare come preferisci\n[*][b]Steam Workshop[/b]: Gioca a centinaia di mappe personalizzate create dai giocatori\n[*][b]Trofei delle Sfide[/b]: Sfide speciali che mettono alla prova i costruttori di colonia più esperti\n[*][b]Editor di Mappe[/b]: Crea, gioca e condividi le tue mappe\n[/list]",
@@ -18121,7 +18121,7 @@
   },
   {
     "Key": "KeyBindings_CancelWarning",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "You have unsaved changes. Go back anyway?",
     "Italian": "Hai modifiche non salvate. Vuoi tornare indietro comunque?",
@@ -18129,7 +18129,7 @@
   },
   {
     "Key": "KeyBindings_NoChanges",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "No changes made",
     "Italian": "Nessuna modifica effettuata",
@@ -18137,7 +18137,7 @@
   },
   {
     "Key": "KeyBindings_ValidChanges",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Changes are valid!",
     "Italian": "Le modifiche sono valide!",
@@ -18145,7 +18145,7 @@
   },
   {
     "Key": "KeyBindings_Duplicates",
-    "Type": "",
+    "Type": "Text",
     "Desc": "(the user has created conflicting hotkey assignments)",
     "English": "There are conflicting assignments",
     "Italian": "Ci sono assegnazioni in conflitto",
@@ -18153,7 +18153,7 @@
   },
   {
     "Key": "EntPanelHead_26",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Dismantling",
     "Italian": "Smantellamento",
@@ -18161,7 +18161,7 @@
   },
   {
     "Key": "Dismantle",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Dismantle (a building)",
     "English": "Dismantle",
     "Italian": "Smantella",
@@ -18169,7 +18169,7 @@
   },
   {
     "Key": "Dismantle_RecoverableResources",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Resources to recover",
     "Italian": "Risorse da recuperare",
@@ -18177,7 +18177,7 @@
   },
   {
     "Key": "Dismantle_RecoverableResources_Empty",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "There are no more resources to recover",
     "Italian": "Non ci sono più risorse da recuperare",
@@ -18185,7 +18185,7 @@
   },
   {
     "Key": "Dismantle_AvailableResources",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Resources available",
     "Italian": "Risorse disponibili",
@@ -18193,7 +18193,7 @@
   },
   {
     "Key": "Dismantle_AvailableResources_Empty",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "There are no recovered resources available",
     "Italian": "Non ci sono risorse recuperate disponibili",
@@ -18201,7 +18201,7 @@
   },
   {
     "Key": "Dismantle_Warning",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Are you sure you want to dismantle {0}?\n\nIt will recover all construction resources but it is an irreversible process.\n\nHold [{1}] to skip this message.",
     "Italian": "Sei sicuro di voler smantellare {0}?\n\nRecupererai tutte le risorse utilizzate per la costruzione ma è un'azione irreversibile.\n\nTieni premuto [{1}] per saltare questo messaggio.",
@@ -18209,7 +18209,7 @@
   },
   {
     "Key": "HelpPanel_39",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Dismantling this building will shut down all processes and a builderbot will arrive to recover resources that were used in construction.\n\nRecovered resources will remain on site until they are sourced by another building.\n\nOnce dismantling has begun it cannot be reversed although you can still destroy the building.",
     "Italian": "Smantellare questo edificio fermerà tutti i processi e un BotCostruttore arriverà a recuperare le risorse che sono state utilizzate per la costruzione.\n\nLe risorse recuperate rimarranno sul posto finchè non vengono inviate ad un altro edificio.\n\nUna volta che lo smantellamento è stato avviato non può essere fermato, anche se puoi ancora demolire l'edificio.",
@@ -18217,7 +18217,7 @@
   },
   {
     "Key": "Notification_29_Desc",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "<building> has been fully dismantled",
     "Italian": "<building> è stata completamente smantellata",
@@ -18225,7 +18225,7 @@
   },
   {
     "Key": "Notification_29_Name",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Dismantling complete!",
     "Italian": "Smantellamento completato!",
@@ -18233,7 +18233,7 @@
   },
   {
     "Key": "Frontiers",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Game mode where players compete on the same random map each month",
     "English": "Frontiers",
     "Italian": "Frontiera",
@@ -18241,7 +18241,7 @@
   },
   {
     "Key": "MainMenu_ContinueGame",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Main menu option to continue last save game played",
     "English": "Continue Game",
     "Italian": "Continua partita",
@@ -18249,7 +18249,7 @@
   },
   {
     "Key": "MonthYear",
-    "Type": "",
+    "Type": "Text",
     "Desc": "{0}: month {1} year e.g. January 2020",
     "English": "{0} {1}",
     "Italian": "{0} {1}",
@@ -18257,7 +18257,7 @@
   },
   {
     "Key": "Month1",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "January",
     "Italian": "Gennaio",
@@ -18265,7 +18265,7 @@
   },
   {
     "Key": "Month2",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "February",
     "Italian": "Febbraio",
@@ -18273,7 +18273,7 @@
   },
   {
     "Key": "Month3",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "March",
     "Italian": "Marzo",
@@ -18281,7 +18281,7 @@
   },
   {
     "Key": "Month4",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "April",
     "Italian": "Aprile",
@@ -18289,7 +18289,7 @@
   },
   {
     "Key": "Month5",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "May",
     "Italian": "Maggio",
@@ -18297,7 +18297,7 @@
   },
   {
     "Key": "Month6",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "June",
     "Italian": "Giugno",
@@ -18305,7 +18305,7 @@
   },
   {
     "Key": "Month7",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "July",
     "Italian": "Luglio",
@@ -18313,7 +18313,7 @@
   },
   {
     "Key": "Month8",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "August",
     "Italian": "Agosto",
@@ -18321,7 +18321,7 @@
   },
   {
     "Key": "Month9",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "September",
     "Italian": "Settembre",
@@ -18329,7 +18329,7 @@
   },
   {
     "Key": "Month10",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "October",
     "Italian": "Ottobre",
@@ -18337,7 +18337,7 @@
   },
   {
     "Key": "Month11",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "November",
     "Italian": "Novembre",
@@ -18345,7 +18345,7 @@
   },
   {
     "Key": "Month12",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "December",
     "Italian": "Dicembre",
@@ -18353,7 +18353,7 @@
   },
   {
     "Key": "GameComplete_Frontier",
-    "Type": "",
+    "Type": "Text",
     "Desc": "{0} e.g. \"July 2020",
     "English": "Well done! You've completed the {0} frontier map!",
     "Italian": "Ben fatto! Hai completato la mappa Frontiera di {0}!",
@@ -18361,7 +18361,7 @@
   },
   {
     "Key": "Frontier_Ended",
-    "Type": "",
+    "Type": "Text",
     "Desc": "(This frontier has) ended [replaces the Play button for frontiers that has finished)",
     "English": "Ended",
     "Italian": "Conclusa",
@@ -18369,7 +18369,7 @@
   },
   {
     "Key": "Frontiers_Desc",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Frontiers are missions that all players compete for the best times on the same randomly generated map. Each frontier lasts for a month (using GMT) and are played with fog of war turned off. Good luck!",
     "Italian": "Le missioni Frontiera sono missioni in cui tutti i giocatori competono per il miglior tempo nella stessa mappa generata randomicamente. Ogni Frontiera dura un mese (nel fuso orario GMT) e si gioca senza Nebbia di guerra. Buona fortuna!",
@@ -18377,7 +18377,7 @@
   },
   {
     "Key": "MyRank",
-    "Type": "",
+    "Type": "Text",
     "Desc": "E.g. My rank: #482",
     "English": "My rank:",
     "Italian": "Rank:",
@@ -18385,7 +18385,7 @@
   },
   {
     "Key": "MyBestTime",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Eg. My best time: 4 months 17 days",
     "English": "My best time:",
     "Italian": "Tempo migliore:",
@@ -18393,7 +18393,7 @@
   },
   {
     "Key": "UpgradeImportRulesWarning",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "You have import rules on this building which might affect upgrade resources arriving.",
     "Italian": "Hai regole di importazione in questa struttura che potrebbero influenzare l'arrivo delle risorse per il miglioramento.",
@@ -18401,7 +18401,7 @@
   },
   {
     "Key": "FrontierInvalidVersion",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "You need to upgrade to the latest version of the game to play this frontier!",
     "Italian": "Devi aggiornare il gioco all'ultima versione per giocare questa Frontiera!",
@@ -18409,7 +18409,7 @@
   },
   {
     "Key": "DaysRemaining",
-    "Type": "",
+    "Type": "Text",
     "Desc": "{0}: number of days",
     "English": "{0} days left!",
     "Italian": "{0} giorni rimasti!",
@@ -18417,7 +18417,7 @@
   },
   {
     "Key": "DayRemaining",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "1 day left!",
     "Italian": "1 giorno rimasto!",
@@ -18425,7 +18425,7 @@
   },
   {
     "Key": "HoursRemaining",
-    "Type": "",
+    "Type": "Text",
     "Desc": "{0}: number of hours left",
     "English": "{0} hours left!",
     "Italian": "{0} ore rimaste!",
@@ -18433,7 +18433,7 @@
   },
   {
     "Key": "HourRemaining",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "1 hour left!",
     "Italian": "1 ora rimasta!",
@@ -18441,7 +18441,7 @@
   },
   {
     "Key": "MinutesRemaining",
-    "Type": "",
+    "Type": "Text",
     "Desc": "{0}: number of minutes left",
     "English": "{0} minutes left!",
     "Italian": "{0} minuti rimasti!",
@@ -18449,7 +18449,7 @@
   },
   {
     "Key": "MinuteRemaining",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "1 minute left!",
     "Italian": "1 minuto rimasto!",
@@ -18457,7 +18457,7 @@
   },
   {
     "Key": "DismantlingDisabledTutorial",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Dismantling is disabled for the tutorial!",
     "Italian": "Lo smantellamento è disabilitato nel tutorial!",
@@ -18465,7 +18465,7 @@
   },
   {
     "Key": "DestructionDisabledTutorial",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Destroying a building is disabled for the tutorial!",
     "Italian": "La distruzione degli edifici è disabilitata nel tutorial!",
@@ -18473,10 +18473,442 @@
   },
   {
     "Key": "RandomMap_Size4",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Tiny ({0})",
     "Italian": "Minuscola ({0})",
+    "Verify": ""
+  },
+  {
+    "Key": "Item_9_Sowing",
+    "Type": "Text",
+    "Desc": "(Workerbot is) Sowing (wheat)",
+    "English": "Sowing",
+    "Italian": "Seminando",
+    "Verify": ""
+  },
+  {
+    "Key": "Item_47_Sowing",
+    "Type": "Text",
+    "Desc": "(Workerbot is) Sowing (vegetables)",
+    "English": "Sowing",
+    "Italian": "Seminando",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityInfoSelectVehicleStopTrainHeader",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Add Station Stop",
+    "Italian": "Aggiungi fermata stazione",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityInfoSelectVehicleStopBoatHeader",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Add Harbour Stop",
+    "Italian": "Aggiungi fermata porto",
+    "Verify": ""
+  },
+  {
+    "Key": "HarbourStopBoatTooBig",
+    "Type": "Text",
+    "Desc": "{0}: boat",
+    "English": "{0} is too big to stop here!",
+    "Italian": "{0} è troppo grande per fermarsi qui!",
+    "Verify": ""
+  },
+  {
+    "Key": "VehicleStopMaximumStops",
+    "Type": "Text",
+    "Desc": "{0} harbour or train station",
+    "English": "{0} has reached maximum number of stops!",
+    "Italian": "{0} ha raggiunto il massimo numero di fermate!",
+    "Verify": ""
+  },
+  {
+    "Key": "FrontierReplayMessage",
+    "Type": "Text",
+    "Desc": "",
+    "English": "This frontier has ended and your time won't be recorded.\nPlay anyway?",
+    "Italian": "Questa frontiera si è conclusa e il tuo tempo non verrà registrato. Giocare comunque?",
+    "Verify": ""
+  },
+  {
+    "Key": "DeleteSavegameWarning",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Are you sure you want to delete this savegame?\n\nHold [Alt] to skip this message.",
+    "Italian": "Sei sicuro di voler cancellare questo salvataggio?\n\nTieni premuto [Alt] per saltare questo messaggio.",
+    "Verify": ""
+  },
+  {
+    "Key": "VictoryCondition_BoatConstruction",
+    "Type": "Text",
+    "Desc": "{0}:amount, {1}:boat type",
+    "English": "Build {0} {1}",
+    "Italian": "Costruisci {0} {1}",
+    "Verify": ""
+  },
+  {
+    "Key": "Boat_1_Plural",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Clippers",
+    "Italian": "Clippers",
+    "Verify": ""
+  },
+  {
+    "Key": "Boat_2_Plural",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Luggers",
+    "Italian": "Luggers",
+    "Verify": ""
+  },
+  {
+    "Key": "IslandId",
+    "Type": "Text",
+    "Desc": "{0}: number. e.g. Island 3",
+    "English": "Island {0}",
+    "Italian": "Isola {0}",
+    "Verify": ""
+  },
+  {
+    "Key": "VictoryCondition_ResourceStorage",
+    "Type": "Text",
+    "Desc": "{0}: number, {1}: resource e.g. Have 75 Planks in storage",
+    "English": "Hold {0} {1} in storage",
+    "Italian": "Tieni {0} {1} nel deposito",
+    "Verify": ""
+  },
+  {
+    "Key": "ScenVict_10_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Build <amount> <boat>",
+    "Italian": "Costruisci <amount> <boat>",
+    "Verify": ""
+  },
+  {
+    "Key": "ScenVict_10_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Construct Boat",
+    "Italian": "Costruisci barca",
+    "Verify": ""
+  },
+  {
+    "Key": "ScenVict_11_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Hold <amount> <resource> in storage",
+    "Italian": "Tieni <amount> <resource> nel deposito",
+    "Verify": ""
+  },
+  {
+    "Key": "ScenVict_11_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Resource Storage",
+    "Italian": "Deposito risorse",
+    "Verify": ""
+  },
+  {
+    "Key": "FrontierAlertNew",
+    "Type": "Text",
+    "Desc": "(tag on Frontiers button notifying the player of a new frontier)",
+    "English": "New!",
+    "Italian": "Nuova!",
+    "Verify": ""
+  },
+  {
+    "Key": "NotificationLowTreesSingleTreeDesc",
+    "Type": "Text",
+    "Desc": "{0} adds either \"NotificationLowTreesExtraHasForestries\" or \"NotificationLowTreesExtraNoForestries\" based on whether the player has any forestries",
+    "English": "You only have 1 tree left! {0}",
+    "Italian": "Hai solo 1 albero rimanente! {0}",
+    "Verify": ""
+  },
+  {
+    "Key": "Item_48_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Milk is created at the <bd>Cow Farm</bd>.",
+    "Italian": "Il latte è creato all'<bd>Allevamento di Mucche</bd>.",
+    "Verify": ""
+  },
+  {
+    "Key": "Item_48_FullDesc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Milk is created at the <bd>Cow Farm</bd> and is used to make <it>Chocolate</it> at the <bd>Chocolate Factory</bd>.",
+    "Italian": "Il latte è creato alla <bd>Conceria</bd> ed è utilizzato per fare il <it>Cioccolato</it> alla <bd>Fabbrica di Cioccolato</bd>.",
+    "Verify": ""
+  },
+  {
+    "Key": "Item_48_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Milk",
+    "Italian": "Latte",
+    "Verify": ""
+  },
+  {
+    "Key": "Item_48_Past",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Milked",
+    "Italian": "Munta",
+    "Verify": ""
+  },
+  {
+    "Key": "Item_48_Present",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Milking",
+    "Italian": "Mungitura",
+    "Verify": ""
+  },
+  {
+    "Key": "Item_49_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Cocoa Beans are farmed at the <bd>Cocoa Farm</bd>.",
+    "Italian": "I Semi di Cacao solo coltivati alla <bd>Coltivazione di Cacao</bd>.",
+    "Verify": ""
+  },
+  {
+    "Key": "Item_49_FullDesc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Cocoa Beans are farmed at the <bd>Cocoa Farm</bd> and is used to create <it>Chocolate</it> at the <bd>Chocolate Factory</bd>.",
+    "Italian": "I Semi di Cacao solo coltivati alla <bd>Coltivazione di Cacao</bd> e sono utilizzati per fare il <it>Cioccolato</it> alla <bd>Fabbrica di Cioccolato</bd>.",
+    "Verify": ""
+  },
+  {
+    "Key": "Item_49_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Cocoa Beans",
+    "Italian": "Semi di Cacao",
+    "Verify": ""
+  },
+  {
+    "Key": "Item_49_Past",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Harvested",
+    "Italian": "Raccolta",
+    "Verify": ""
+  },
+  {
+    "Key": "Item_49_Present",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Harvesting",
+    "Italian": "In raccolta",
+    "Verify": ""
+  },
+  {
+    "Key": "Item_50_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Chocolate is made at the <bd>Chocolate Factory</bd>.",
+    "Italian": "Il cioccolato è fatto alla <bd>Fabbrica di Cioccolato</bd>.",
+    "Verify": ""
+  },
+  {
+    "Key": "Item_50_FullDesc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Chocolate is made at the <bd>Chocolate Factory</bd> from <it>Cocoa Beans</it> and <it>Milk</it> and is consumed by <bd>Level 3 Residences</bd>.",
+    "Italian": "Il cioccolato è fatto alla <bd>Fabbrica di Cioccolato</bd> da <it>Semi di Cacao</it> e <it>Latte</it> ed è utilizzato dalle <bd>Residenze di Livello 3</bd>.",
+    "Verify": ""
+  },
+  {
+    "Key": "Item_50_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Chocolate",
+    "Italian": "Cioccolato",
+    "Verify": ""
+  },
+  {
+    "Key": "Item_50_Past",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Made",
+    "Italian": "Fatto",
+    "Verify": ""
+  },
+  {
+    "Key": "Item_50_Present",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Making",
+    "Italian": "In creazione",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_67_Description",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Harvests <it>Cocoa Beans</it> from cocoa trees.",
+    "Italian": "Raccogli <it>Semi di Cacao</it> dagli alberi di cacao.",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_67_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Cocoa Farm",
+    "Italian": "Coltivazione di Cacao",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_67_Plural",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Cocoa Farms",
+    "Italian": "Coltivazioni di Cacao",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_67_Worker",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Farmbot",
+    "Italian": "BotContadino",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_68_Description",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Makes <it>Chocolate</it> using <it>Cocoa Beans</it> and <it>Milk</it>.",
+    "Italian": "Crea <it>Cioccolato</it> utilizzando <it>Semi di Cacao</it> e <it>Latte</it>.",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_68_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Chocolate Factory",
+    "Italian": "Fabbrica di Cioccolato",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_68_Plural",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Chocolate Factories",
+    "Italian": "Fabbriche di Cioccolato",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_68_Worker",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Chocolatebot",
+    "Italian": "BotCioccolatiere",
+    "Verify": ""
+  },
+  {
+    "Key": "Structure_9_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Cocoa Tree Plot",
+    "Italian": "Albero di Cacao",
+    "Verify": ""
+  },
+  {
+    "Key": "Structure_9_Plural",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Cocoa Tree Plots",
+    "Italian": "Alberi di Cacao",
+    "Verify": ""
+  },
+  {
+    "Key": "MiscCat_14_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Cocoa Tree Plots",
+    "Italian": "Alberi di Cacao",
+    "Verify": ""
+  },
+  {
+    "Key": "MiscCat_14_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "can be planted on green tiles",
+    "Italian": "possono essere piantati sulle caselle verdi",
+    "Verify": ""
+  },
+  {
+    "Key": "ItemCat_3_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "<it>Bread</it> / <it>Chocolate</it>",
+    "Italian": "<it>Pane</it> / <it>Cioccolato</it>",
+    "Verify": ""
+  },
+  {
+    "Key": "ItemCat_3_FullDesc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "<cat>Luxury Food</cat> is needed by Level 3 <bd>Residences</bd> and can be <it>Bread</it> or <it>Chocolate</it>.",
+    "Italian": "<cat>Cibo di lusso</cat> è necessario per le <bd>Residenze</bd> Livello 3 e può essere <it>Pane</it> o <it>Cioccolato</it>.",
+    "Verify": ""
+  },
+  {
+    "Key": "ColonyStatisticsMoneyIncomeHeader",
+    "Type": "Text",
+    "Desc": "Title of third colony stats panel showing colony money",
+    "English": "Colony Income",
+    "Italian": "Incasso della Colonia",
+    "Verify": ""
+  },
+  {
+    "Key": "HelpPanel_40",
+    "Type": "Text",
+    "Desc": "",
+    "English": "This sub-panel shows you how much money your colony has been earning over time.",
+    "Italian": "Questo sotto-pannello mostra quanti soldi la tua Colonia ha guadagnato nel tempo.",
+    "Verify": ""
+  },
+  {
+    "Key": "Tip_22",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Select any resource to show its destination and the route it is taking",
+    "Italian": "Seleziona una risorsa per mostrare la sua destinazione e la strada che sta percorrendo",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_18_Description",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Creates <it>Milk</it> and <it>Hide</it> from cows.",
+    "Italian": "Crea <it>Latte</it> e <it>Pelle animale</it> dalle mucche.",
+    "Verify": ""
+  },
+  {
+    "Key": "Item_16_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Meat is <cat>Food</cat> prepared at the <bd>Sheep Farm</bd>.",
+    "Italian": "La carne è <cat>Cibo</cat> preparato dall'<bd>Allevamento di Pecore</bd>.",
+    "Verify": ""
+  },
+  {
+    "Key": "Item_16_FullDesc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Meat is <cat>Food</cat> prepared at the <bd>Sheep Farm</bd> and is consumed by <bd>Level 1 Residences</bd>.",
+    "Italian": "La carne è <cat>Cibo</cat> preparato dall'<bd>Allevamento di Pecore</bd> ed è utilizzato dalle <bd>Residenze di Livello 1</bd>.",
     "Verify": ""
   }
 ]
