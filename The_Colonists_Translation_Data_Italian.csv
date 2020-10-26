@@ -444,7 +444,7 @@ EntityBuildingPriorityLayersRoadImproverHeader,Text,,Priority Roads/Paths,Strade
 EntityBuildingPriorityLayersSurfaceMineDesc,Text,,"By default minebots will mine the nearest surface deposit of the target resource type but you can override this behaviour by prioritising selected deposits.
 
 <hotkey>[Click]</hotkey> and drag to set tiles.
-<hotkey>[Shift]</hotkey> + <hotkey>[Click]</hotkey> a tile to unset it.","Di default i BotMinatori estrarranno minerali dal deposito di superficie più vicino con la risorsa selezionata. Puoi cambiare questo comportamento prioritizzando i depositi delezionati.
+<hotkey>[Shift]</hotkey> + <hotkey>[Click]</hotkey> a tile to unset it.","Di default i BotMinatori estrarranno minerali dal deposito di superficie più vicino con la risorsa selezionata. Puoi cambiare questo comportamento prioritizzando i depositi selezionati.
 
 <hotkey>[Click]</hotkey> e trascina per selezionare le caselle.
 <hotkey>[Shift]</hotkey> + <hotkey>[Click]</hotkey> una casella per de-selezionarla.",
@@ -1729,7 +1729,7 @@ Transport Priorities,Text,,Transport Priorities,Priorità di trasporto,
 TutorialDialogues_T1_BuildAnotherFishingHut,Text,,"Fantastic! You now have the capacity to produce more <it>Energy L1</it>.
 But more <bd>Residences</bd> mean more Housebot needs, so demand for <it>Water</it> and <cat>Food</cat> has also increased.
 Build another <bd>Fishing Hut</bd> on the coast to increase your <cat>Food</cat> production.","Fantastico! Ora hai la capacità di produrre più <it>Energia L1</it>.
-Ma più <bd>Residenze</bd> significano più BotCasaligni, che necessiteranno di <it>Acqua</it> e <cat>Cibo</cat>.
+Ma più <bd>Residenze</bd> significano più BotCasalinghi, che necessiteranno di <it>Acqua</it> e <cat>Cibo</cat>.
 Costruisci un'altra <bd>Capanna del Pescatore</bd> sulla costa per aumentare la tua produzione di <cat>Cibo</cat>.",
 TutorialDialogues_T1_BuildFishingHut,Text,,We're near the shore and have several jumping fish tiles available which can be farmed by a <bd>Fishing Hut</bd>.,Siamo vicini alla costa e ci sono molte caselle pesce disponibili che possono essere pescate con una <bd>Capanna del Pescatore</bd>.,
 TutorialDialogues_T1_BuildForestry,Text,,"Great! <bd>Watchtowers</bd> take a little longer to build though.
@@ -1889,7 +1889,7 @@ Clicca sull'avviso giallo sopra l'<bd>Allevamento di pecore</bd> e clicca 'Auto 
 TutorialDialogues_T2_CreateSheepFarmFields2,Text,Deprecated,[-],[-],
 TutorialDialogues_T2_CreateSheepFarmFields3,Text,,"Great! Your <bd>Sheep Farm</bd> is going to give you a good start on <cat>Food</cat> production.
 You can also add sheep pastures manually by clicking on an empty tile adjacent to an existing pasture, or remove them by <hotkey>[Shift]</hotkey> and clicking on an existing pasture.","Bene! Il tuo <bd>Allevamento di Pecore</bd> ti avvierà alla produzione di <cat>Cibo</cat>.
-Puoi anche aggiungere pascoli manualmente cliccando su una calsella adiacente al pascolo esistente, o rimuoverli con <hotkey>[Shift]</hotkey> e cliccando su un pascolo esistente.",
+Puoi anche aggiungere pascoli manualmente cliccando su una casella adiacente al pascolo esistente, o rimuoverli con <hotkey>[Shift]</hotkey> e cliccando su un pascolo esistente.",
 TutorialDialogues_T2_CreateSheepFarmFields_TaskFields,Text,Deprecated,[-],[-],
 TutorialDialogues_T2_OnResearchComplete2a,Text,,"Great, you've researched <res>Construction I</res>!
 This means you've unlocked a new range of buildings and the ability to upgrade some existing ones.","Bene, hai ricercato <res>Costruzione I</res>!
@@ -2646,14 +2646,14 @@ AlertVegetableFarmFields,Text,,You have not planted any pumpkin patches,Non hai 
 ItemCat_2_Desc,Text,,<it>Fish</it> / <it>Meat</it> / <it>Pumpkins</it>,<it>Pesce</it> / <it>Carne</it> / <it>Zucche</it>,
 Veg_ItemCat_2_Desc,Text,,<it>Fish</it> / <it>Meat</it> / <it>Vegetables</it>,<it>Pesce</it> / <it>Carne</it> / <it>Verdure</it>,
 MiscCat_13_Name,Text,,Pumpkin Patches,Orti(Zucche),
-MiscCat_13_Desc,Text,,can be planted on green tiles,può essere piantato sulla caselle verdi,
+MiscCat_13_Desc,Text,,can be planted on green tiles,può essere piantato sulle caselle verdi,
 RoadState_ValidEndRoadMsg,Text,{0}: click,[{0}] to place post and complete road,[{0}] per piazzare un palo stradale e completare la strada,
 RoadState_ValidWaypointMsg,Text,{0}: click,[{0}] to set road waypoint,[{0}] per impostare una tappa intermedia,
 RoadState_SetWaypointMsg,Text,{0}: ctrl {1}: click,[{0}] and [{1}] to set road waypoint,[{0}] e [{1}] per impostare una tappa intermedia,
 Tooltip_SetRoadWaypoint,Text,Shows as main tooltip header when setting a road waypoint,Set Waypoint,Imposta tappa intermedia,
 TutorialDialogues_T2_CreateSheepFarmFields3_Updated,Text,,"Great! Your <bd>Sheep Farm</bd> is going to give you a good start on <cat>Food</cat> production.
 You can also add sheep pastures manually by clicking on an empty tile adjacent to an existing pasture, or remove them by <hotkey>[Shift]</hotkey> and clicking on an existing pasture.","Bene! Il tuo <bd>Allevamento di Pecore</bd> ti avvierà alla produzione di <cat>Cibo</cat>.
-Puoi anche aggiungere pascoli manualmente cliccando su una calsella adiacente al pascolo esistente, o rimuoverli con <hotkey>[Shift]</hotkey> e cliccando su un pascolo esistente.",
+Puoi anche aggiungere pascoli manualmente cliccando su una casella adiacente al pascolo esistente, o rimuoverli con <hotkey>[Shift]</hotkey> e cliccando su un pascolo esistente.",
 Building_58_Description,Text,,Brews <it>Beer</it> from <it>Wheat</it> and <it>Water</it>.,Fermenta <it>Birra</it> da <it>Grano</it> e <it>Acqua</it>.,
 SandboxUnrestrictedElevatedRail,Text,,Unrestricted Elevated Rail,Ferrovia sopraelevata senza restrizioni,
 Structure_8_Name,Text,,One Way Signal,Segnale unidirezionale,
@@ -2791,7 +2791,7 @@ Challenge_Grade_2,Text,,EXPERT,ESPERTO,
 GameSettingsInvertZoom,Text,,Invert zoom,Inverti zoom,
 GameSettingsEightSpeed,Text,,Enable 8x speed,Attiva velocità 8x,
 ChallengeComplete,Text,,Challenge Complete!,Sfida completata!,
-ChallengeComplete_Message3,Text,(Modest praise),Congratulations! You achieved the EXPERT rank!,Congraturazioni! Hai ottenuto il rank ESPERTO!,
+ChallengeComplete_Message3,Text,(Modest praise),Congratulations! You achieved the EXPERT rank!,Congratulazioni! Hai ottenuto il rank ESPERTO!,
 ChallengeComplete_Message2,Text,(High praise),Amazing! You achieved the CHAMPION rank!,Fantastico! Hai ottenuto il rank CAMPIONE!,
 ChallengeComplete_Message1,Text,(Highest praise),Incredible! You achieved the LEGENDARY rank!,Incredibile! Hai ottenuto il rank LEGGENDARIO!,
 EntityTransportBoatStorageUnloadingEmpty,Text,,There are no resources to be unloaded,Non ci sono risorse da scaricare,
@@ -2812,7 +2812,7 @@ Scenario_13_Description,Text,,Claim victory over your anthrobotic foes.,Guadagna
 Scenario_13_Name,Text,,The Three Hills,Le Tre Colline,
 BugReport_CopyClipboard,Text,(path means path of the bug report file on your computer),Copy path to clipboard,Copia percorso file negli appunti,
 NowAvailableInLanguage,Text,"!!! Replace English with the name of your language in your language!
-(The Colonists is) now available in English!",Now available in English!,Ora disponibile in Italiano!,
+(The Colonists is) now available in English!",Now available in English!,Ora disponibile in italiano!,
 Tip_21,Text,,Hold [Alt] when placing a building to have its construction instantly paused,Tieni premuto [Alt] quando piazzi un edificio per mettere subito in pausa la sua costruzione,
 DevBuildIntro,Text,,"Welcome to the development build of The Colonists!
 
@@ -2973,7 +2973,7 @@ Recovered resources will remain on site until they are sourced by another buildi
 
 Once dismantling has begun it cannot be reversed although you can still destroy the building.","Smantellare questo edificio fermerà tutti i processi e un BotCostruttore arriverà a recuperare le risorse che sono state utilizzate per la costruzione.
 
-Le risorse recuperate rimarranno sul posto finchè non vengono inviate ad un altro edificio.
+Le risorse recuperate rimarranno sul posto finché non vengono inviate ad un altro edificio.
 
 Una volta che lo smantellamento è stato avviato non può essere fermato, anche se puoi ancora demolire l'edificio.",
 Notification_29_Desc,Text,,<building> has been fully dismantled,<building> è stata completamente smantellata,

@@ -3204,7 +3204,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "By default minebots will mine the nearest surface deposit of the target resource type but you can override this behaviour by prioritising selected deposits.\n\n<hotkey>[Click]</hotkey> and drag to set tiles.\n<hotkey>[Shift]</hotkey> + <hotkey>[Click]</hotkey> a tile to unset it.",
-    "Italian": "Di default i BotMinatori estrarranno minerali dal deposito di superficie più vicino con la risorsa selezionata. Puoi cambiare questo comportamento prioritizzando i depositi delezionati.\n\n<hotkey>[Click]</hotkey> e trascina per selezionare le caselle.\n<hotkey>[Shift]</hotkey> + <hotkey>[Click]</hotkey> una casella per de-selezionarla.",
+    "Italian": "Di default i BotMinatori estrarranno minerali dal deposito di superficie più vicino con la risorsa selezionata. Puoi cambiare questo comportamento prioritizzando i depositi selezionati.\n\n<hotkey>[Click]</hotkey> e trascina per selezionare le caselle.\n<hotkey>[Shift]</hotkey> + <hotkey>[Click]</hotkey> una casella per de-selezionarla.",
     "Verify": ""
   },
   {
@@ -11292,7 +11292,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Fantastic! You now have the capacity to produce more <it>Energy L1</it>.\nBut more <bd>Residences</bd> mean more Housebot needs, so demand for <it>Water</it> and <cat>Food</cat> has also increased.\nBuild another <bd>Fishing Hut</bd> on the coast to increase your <cat>Food</cat> production.",
-    "Italian": "Fantastico! Ora hai la capacità di produrre più <it>Energia L1</it>.\nMa più <bd>Residenze</bd> significano più BotCasaligni, che necessiteranno di <it>Acqua</it> e <cat>Cibo</cat>.\nCostruisci un'altra <bd>Capanna del Pescatore</bd> sulla costa per aumentare la tua produzione di <cat>Cibo</cat>.",
+    "Italian": "Fantastico! Ora hai la capacità di produrre più <it>Energia L1</it>.\nMa più <bd>Residenze</bd> significano più BotCasalinghi, che necessiteranno di <it>Acqua</it> e <cat>Cibo</cat>.\nCostruisci un'altra <bd>Capanna del Pescatore</bd> sulla costa per aumentare la tua produzione di <cat>Cibo</cat>.",
     "Verify": ""
   },
   {
@@ -11852,7 +11852,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Great! Your <bd>Sheep Farm</bd> is going to give you a good start on <cat>Food</cat> production.\nYou can also add sheep pastures manually by clicking on an empty tile adjacent to an existing pasture, or remove them by <hotkey>[Shift]</hotkey> and clicking on an existing pasture.",
-    "Italian": "Bene! Il tuo <bd>Allevamento di Pecore</bd> ti avvierà alla produzione di <cat>Cibo</cat>.\nPuoi anche aggiungere pascoli manualmente cliccando su una calsella adiacente al pascolo esistente, o rimuoverli con <hotkey>[Shift]</hotkey> e cliccando su un pascolo esistente.",
+    "Italian": "Bene! Il tuo <bd>Allevamento di Pecore</bd> ti avvierà alla produzione di <cat>Cibo</cat>.\nPuoi anche aggiungere pascoli manualmente cliccando su una casella adiacente al pascolo esistente, o rimuoverli con <hotkey>[Shift]</hotkey> e cliccando su un pascolo esistente.",
     "Verify": ""
   },
   {
@@ -16588,7 +16588,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "can be planted on green tiles",
-    "Italian": "può essere piantato sulla caselle verdi",
+    "Italian": "può essere piantato sulle caselle verdi",
     "Verify": ""
   },
   {
@@ -16628,7 +16628,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Great! Your <bd>Sheep Farm</bd> is going to give you a good start on <cat>Food</cat> production.\nYou can also add sheep pastures manually by clicking on an empty tile adjacent to an existing pasture, or remove them by <hotkey>[Shift]</hotkey> and clicking on an existing pasture.",
-    "Italian": "Bene! Il tuo <bd>Allevamento di Pecore</bd> ti avvierà alla produzione di <cat>Cibo</cat>.\nPuoi anche aggiungere pascoli manualmente cliccando su una calsella adiacente al pascolo esistente, o rimuoverli con <hotkey>[Shift]</hotkey> e cliccando su un pascolo esistente.",
+    "Italian": "Bene! Il tuo <bd>Allevamento di Pecore</bd> ti avvierà alla produzione di <cat>Cibo</cat>.\nPuoi anche aggiungere pascoli manualmente cliccando su una casella adiacente al pascolo esistente, o rimuoverli con <hotkey>[Shift]</hotkey> e cliccando su un pascolo esistente.",
     "Verify": ""
   },
   {
@@ -17572,7 +17572,7 @@
     "Type": "Text",
     "Desc": "(Modest praise)",
     "English": "Congratulations! You achieved the EXPERT rank!",
-    "Italian": "Congraturazioni! Hai ottenuto il rank ESPERTO!",
+    "Italian": "Congratulazioni! Hai ottenuto il rank ESPERTO!",
     "Verify": ""
   },
   {
@@ -17692,7 +17692,7 @@
     "Type": "Text",
     "Desc": "!!! Replace English with the name of your language in your language!\n(The Colonists is) now available in English!",
     "English": "Now available in English!",
-    "Italian": "Ora disponibile in Italiano!",
+    "Italian": "Ora disponibile in italiano!",
     "Verify": ""
   },
   {
@@ -18212,7 +18212,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Dismantling this building will shut down all processes and a builderbot will arrive to recover resources that were used in construction.\n\nRecovered resources will remain on site until they are sourced by another building.\n\nOnce dismantling has begun it cannot be reversed although you can still destroy the building.",
-    "Italian": "Smantellare questo edificio fermerà tutti i processi e un BotCostruttore arriverà a recuperare le risorse che sono state utilizzate per la costruzione.\n\nLe risorse recuperate rimarranno sul posto finchè non vengono inviate ad un altro edificio.\n\nUna volta che lo smantellamento è stato avviato non può essere fermato, anche se puoi ancora demolire l'edificio.",
+    "Italian": "Smantellare questo edificio fermerà tutti i processi e un BotCostruttore arriverà a recuperare le risorse che sono state utilizzate per la costruzione.\n\nLe risorse recuperate rimarranno sul posto finché non vengono inviate ad un altro edificio.\n\nUna volta che lo smantellamento è stato avviato non può essere fermato, anche se puoi ancora demolire l'edificio.",
     "Verify": ""
   },
   {
