@@ -1179,8 +1179,8 @@
     "Key": "Building_18_Description",
     "Type": "Text",
     "Desc": "",
-    "English": "Creates <it>Meat</it> and <it>Hide</it> from cows.",
-    "Italian": "Ottiene <it>Carne</it> e <it>Pelle Animale</it> dalle mucche.",
+    "English": "Creates <it>Milk</it> and <it>Hide</it> from cows.",
+    "Italian": "Crea <it>Latte</it> e <it>Pelle animale</it> dalle mucche.",
     "Verify": ""
   },
   {
@@ -5347,16 +5347,16 @@
     "Key": "ItemCat_3_Desc",
     "Type": "Text",
     "Desc": "",
-    "English": "<it>Bread</it>",
-    "Italian": "<it>Pane</it>",
+    "English": "<it>Bread</it> / <it>Chocolate</it>",
+    "Italian": "<it>Pane</it> / <it>Cioccolato</it>",
     "Verify": ""
   },
   {
     "Key": "ItemCat_3_FullDesc",
     "Type": "Text",
     "Desc": "",
-    "English": "<cat>Luxury Food</cat> is needed by Level 3 <bd>Residences</bd> and can be <it>Bread</it>.",
-    "Italian": "Il <cat>Cibo di lusso</cat> è necessario per le <bd>Residenze</bd> di Livello 3 e può essere <it>Pane</it>.",
+    "English": "<cat>Luxury Food</cat> is needed by Level 3 <bd>Residences</bd> and can be <it>Bread</it> or <it>Chocolate</it>.",
+    "Italian": "Il <cat>Cibo di Lusso</cat> è richiesto dalle <bd>Residenze</bd> Livello 3 e può essere <it>Pane</it> o <it>Cioccolato</it>.",
     "Verify": ""
   },
   {
@@ -5947,16 +5947,16 @@
     "Key": "Item_16_Desc",
     "Type": "Text",
     "Desc": "",
-    "English": "Meat is <cat>Food</cat> prepared at the <bd>Cow Farm</bd> and the <bd>Sheep Farm</bd>.",
-    "Italian": "La carne è <cat>Cibo</cat> ottenuto dall'<bd>Allevamento di Mucche</bd> e dall'<bd>Allevamento di Pecore</bd>.",
+    "English": "Meat is <cat>Food</cat> prepared at the <bd>Sheep Farm</bd>.",
+    "Italian": "La carne è <cat>Cibo</cat> preparato dall'<bd>Allevamento di Pecore</bd>.",
     "Verify": ""
   },
   {
     "Key": "Item_16_FullDesc",
     "Type": "Text",
     "Desc": "",
-    "English": "Meat is <cat>Food</cat> prepared at the <bd>Cow Farm</bd> and the <bd>Sheep Farm</bd> and is consumed by <bd>Level 1 Residences</bd>.",
-    "Italian": "La carne è <cat>Cibo</cat> ottenuto dall'<bd>Allevamento di Mucche</bd> e dall'<bd>Allevamento di Pecore</bd> ed è consumato dalle <bd>Residenze di Livello 1</bd>.",
+    "English": "Meat is <cat>Food</cat> prepared at the <bd>Sheep Farm</bd> and is consumed by <bd>Level 1 Residences</bd>.",
+    "Italian": "La carne è <cat>Cibo</cat> preparato dall'<bd>Allevamento di Pecore</bd> ed è utilizzato dalle <bd>Residenze di Livello 1</bd>.",
     "Verify": ""
   },
   {
@@ -16664,7 +16664,7 @@
     "Verify": ""
   },
   {
-    "Key": "MiscCat_13_Name",
+    "Key": "Veg_MiscCat_13_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Vegetable Plots",
@@ -18848,19 +18848,19 @@
     "Verify": ""
   },
   {
-    "Key": "ItemCat_3_Desc",
+    "Key": "IdleWorkerReason_15_Name",
     "Type": "Text",
-    "Desc": "",
-    "English": "<it>Bread</it> / <it>Chocolate</it>",
-    "Italian": "<it>Pane</it> / <it>Cioccolato</it>",
+    "Desc": "(Workerbot is idle because....)",
+    "English": "they're waiting for the wheat to grow",
+    "Italian": "sta aspettando che cresca il grano",
     "Verify": ""
   },
   {
-    "Key": "ItemCat_3_FullDesc",
+    "Key": "IdleWorkerReason_16_Name",
     "Type": "Text",
-    "Desc": "",
-    "English": "<cat>Luxury Food</cat> is needed by Level 3 <bd>Residences</bd> and can be <it>Bread</it> or <it>Chocolate</it>.",
-    "Italian": "<cat>Cibo di lusso</cat> è necessario per le <bd>Residenze</bd> Livello 3 e può essere <it>Pane</it> o <it>Cioccolato</it>.",
+    "Desc": "(Workerbot is idle because....)",
+    "English": "they're waiting for the apples to grow",
+    "Italian": "sta aspettando che crescano le mele",
     "Verify": ""
   },
   {
@@ -18888,27 +18888,195 @@
     "Verify": ""
   },
   {
-    "Key": "Building_18_Description",
+    "Key": "IdleWorkerReason_17_Name",
     "Type": "Text",
-    "Desc": "",
-    "English": "Creates <it>Milk</it> and <it>Hide</it> from cows.",
-    "Italian": "Crea <it>Latte</it> e <it>Pelle animale</it> dalle mucche.",
+    "Desc": "(Workerbot is idle because....)",
+    "English": "they're waiting for the vegetables to grow",
+    "Italian": "sta aspettando che crescano le verdure",
     "Verify": ""
   },
   {
-    "Key": "Item_16_Desc",
+    "Key": "IdleWorkerReason_18_Name",
     "Type": "Text",
-    "Desc": "",
-    "English": "Meat is <cat>Food</cat> prepared at the <bd>Sheep Farm</bd>.",
-    "Italian": "La carne è <cat>Cibo</cat> preparato dall'<bd>Allevamento di Pecore</bd>.",
+    "Desc": "(Workerbot is idle because....)",
+    "English": "they're waiting for the cocoa beans to grow",
+    "Italian": "sta aspettando che crescano i semi di cacao",
     "Verify": ""
   },
   {
-    "Key": "Item_16_FullDesc",
+    "Key": "IdleWorkerReason_19_Name",
+    "Type": "Text",
+    "Desc": "(Workerbot is idle because....)",
+    "English": "you haven't placed any vegetable plots",
+    "Italian": "non hai piantato nessuna verdura nell'orto",
+    "Verify": ""
+  },
+  {
+    "Key": "IdleWorkerReason_20_Name",
+    "Type": "Text",
+    "Desc": "(Workerbot is idle because....)",
+    "English": "you haven't placed any cocoa tree plots",
+    "Italian": "non hai piantato nessun albero di cacao",
+    "Verify": ""
+  },
+  {
+    "Key": "AlertCocoaFarmFields",
     "Type": "Text",
     "Desc": "",
-    "English": "Meat is <cat>Food</cat> prepared at the <bd>Sheep Farm</bd> and is consumed by <bd>Level 1 Residences</bd>.",
-    "Italian": "La carne è <cat>Cibo</cat> preparato dall'<bd>Allevamento di Pecore</bd> ed è utilizzato dalle <bd>Residenze di Livello 1</bd>.",
+    "English": "You have not planted any cocoa trees",
+    "Italian": "Non hai piantato nessun albero di cacao",
+    "Verify": ""
+  },
+  {
+    "Key": "Help_0_Title",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Getting Started",
+    "Italian": "Come iniziare",
+    "Verify": ""
+  },
+  {
+    "Key": "Help_0_Header0",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Aim of the Game",
+    "Italian": "Scopo del gioco",
+    "Verify": ""
+  },
+  {
+    "Key": "Help_0_Content0",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Whilst each mission will have different objectives, the general goal of the game is to guide your team of robots from a simple stone age settlement through to a bustling industrial colony. You will need to construct buildings, produce resources, explore the map and research technology.",
+    "Italian": "Sebbene ogni missione avrà obiettivi diversi, l'obiettivo generale del gioco è guidare la tua squadra di robot da un semplice insediamento dell'età della pietra fino a una vivace colonia industriale. Dovrai costruire edifici, produrre risorse, esplorare la mappa e ricercare nuova tecnologia.",
+    "Verify": ""
+  },
+  {
+    "Key": "Help_0_Header1",
+    "Type": "Text",
+    "Desc": "",
+    "English": "New Players",
+    "Italian": "Nuovi giocatori",
+    "Verify": ""
+  },
+  {
+    "Key": "Help_0_Content1",
+    "Type": "Text",
+    "Desc": "",
+    "English": "The first mission of the campaign will guide you through all the basics of starting a colony. It will show you how to place roads and paths, construct buildings and expand your territory. It is highly recommended for new players.",
+    "Italian": "La prima missione della campagna ti guiderà attraverso tutte le basi per avviare una colonia. Ti mostrerà come posizionare strade e sentieri, costruire edifici ed espandere il tuo territorio. È raccomandata per i nuovi giocatori.",
+    "Verify": ""
+  },
+  {
+    "Key": "Help_0_Header2",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Advisor",
+    "Italian": "Consulente",
+    "Verify": ""
+  },
+  {
+    "Key": "Help_0_Content2",
+    "Type": "Text",
+    "Desc": "",
+    "English": "From the start of the second campaign mission you have access to the advisor panel in the top left of the screen. Here you can find any important problems you currently have with your colony or suggestions for tasks to accomplish next.",
+    "Italian": "Dalla seconda missione della campagna avrai accesso al pannello del consulente in alto a sinistra dello schermo. Qui puoi trovare tutti i problemi importanti che hai attualmente con la tua colonia o suggerimenti per le attività da svolgere in seguito.",
+    "Verify": ""
+  },
+  {
+    "Key": "Help_1_Title",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Roads & Paths",
+    "Italian": "Strade & Sentieri",
+    "Verify": ""
+  },
+  {
+    "Key": "Help_1_Content0",
+    "Type": "Text",
+    "Desc": "",
+    "English": "The Colonists is all about moving resources around your colony. The main way your robot colonists do this is by using roads and paths.",
+    "Italian": "Lo scopo di The Colonists è spostare le risorse nella tua colonia. Il modo principale in cui i tuoi coloni robot lo faranno, è usando strade e sentieri.",
+    "Verify": ""
+  },
+  {
+    "Key": "Help_1_Header1",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Roads",
+    "Italian": "Strade",
+    "Verify": ""
+  },
+  {
+    "Key": "Help_1_Content1",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Roads are the main trunk routes of your colony. Each road has a carrybot who moves resources between the road posts at the ends of each road. Roads have a minimum length of 4 tiles and a maximum length of 6 tiles.",
+    "Italian": "Le strade sono le principali vie di comunicazione della tua colonia. Ogni strada ha un BotTrasportatore che sposta le risorse tra i pali alla fine di ogni strada. Le strade hanno una lunghezza minima di 4 caselle e una lunghezza massima di 6 caselle.",
+    "Verify": ""
+  },
+  {
+    "Key": "Help_1_Content2",
+    "Type": "Text",
+    "Desc": "",
+    "English": "To build a road, select 'Road' from the building menu <hotkey>[1]</hotkey>, click on an existing road post and then click on the tile you want to end on. When drawing a road you can hold [Control] when clicking a tile to fix a waypoint in your prospective road.",
+    "Italian": "Per costruire una strada, seleziona \"Strada\" dal menu di costruzione \n<hotkey>[1]</hotkey>, fai clic su un palo stradale esistente, quindi fai clic sulla casella su cui desideri terminare la strada. Quando si traccia una strada è possibile tenere premuto [Control] quando si fa clic su una casella per fissare un waypoint.",
+    "Verify": ""
+  },
+  {
+    "Key": "Help_1_Content3",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Road posts can hold a maximum of four resources at any one time. When a carrybot moves a resource from one road post to another it will only be able to drop off the resource if there is enough room and if not, the carrybot will wait until a space becomes available.",
+    "Italian": "I pali stradali possono contenere un massimo di quattro risorse alla volta. Quando un BotTrasportatore sposta una risorsa da un palo stradale a un altro, sarà in grado di rilasciare la risorsa solo se c'è abbastanza spazio e, in caso contrario, aspetterà fino a quando uno spazio non sarà disponibile.",
+    "Verify": ""
+  },
+  {
+    "Key": "Help_1_Content4",
+    "Type": "Text",
+    "Desc": "",
+    "English": "This means if too many resources are trying to move through the same roads then it will cause delays and and the productivity of your buildings might suffer.",
+    "Italian": "Ciò significa che se troppe risorse tentano di spostarsi attraverso le stesse strade, ciò causerà ritardi e la produttività dei tuoi edifici potrebbe risentirne.",
+    "Verify": ""
+  },
+  {
+    "Key": "Help_1_Content5",
+    "Type": "Text",
+    "Desc": "",
+    "English": "You can also add rules to road posts to determine which resources are allowed to move through the road post. There is more information on this in the Resource Rules section.",
+    "Italian": "Puoi anche aggiungere regole ai pali stradali per determinare quali risorse sono autorizzate a passare. Ulteriori informazioni su questo argomento sono disponibili nella sezione Regole risorse.",
+    "Verify": ""
+  },
+  {
+    "Key": "Help_1_Header6",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Paths",
+    "Italian": "Sentieri",
+    "Verify": ""
+  },
+  {
+    "Key": "Help_1_Content6",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Paths are used to connect buildings to roads or to connect buildings to each other.",
+    "Italian": "I sentieri sono utilizzati per collegare edifici alle strade o per collegare edifici tra di loro.",
+    "Verify": ""
+  },
+  {
+    "Key": "Help_1_Content7",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Every building has one or more stackbots who are in charge of delivering and collecting resources that are either coming into or being taken out of that building. Therefore the building needs to connected to at least one road for the building to receive resources from the network.",
+    "Italian": "Ogni edificio ha uno o più BotImpilatore incaricati di consegnare e raccogliere risorse che entrano o vengono portate fuori da quell'edificio. Pertanto l'edificio deve essere collegato ad almeno una strada affinché l'edificio riceva risorse dalla rete.",
+    "Verify": ""
+  },
+  {
+    "Key": "Help_1_Content8",
+    "Type": "Text",
+    "Desc": "",
+    "English": "You can select a building and the connections panel will tell you the roads and other buildings that the building is connected to. You can also select a connection to visualise it.",
+    "Italian": "Puoi selezionare un edificio, e il pannello dei collegamenti ti mostrerà le strade e gli altri edifici a cui l'edificio è collegato. Puoi anche selezionare un collegamento per visualizzarlo.",
     "Verify": ""
   }
 ]
