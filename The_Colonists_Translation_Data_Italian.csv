@@ -336,7 +336,7 @@ ColonyStatisticsIncomeHeader,Text,,Money Income,Reddito,
 ColonyStatisticsLateResourcesHeader,Text,,Recent Late Resources,Risorse consegnate in ritardo di recente,
 ColonyStatisticsNoMatch,Text,,No recently delivered resources match the filters.,Nessuna risorsa consegnata di recente corrisponde ai filtri.,
 ColonyStatisticsProductivityHeader,Text,,Colony Productivity,Produttività della Colonia,
-ColonyStatsTooltipBlockedRoadsDesc,Text,,The number of roads where a carrybot is blocked because a road post is full,Il numero di strade in cui un BotTrasportatore è bloccato perché un palo stradale è pieno,
+ColonyStatsTooltipBlockedRoadsDesc,Text,,The number of roads where a carrybot is blocked because a road post is full,Il numero di strade in cui un BotTrasportatore è bloccato perché un incrocio è pieno,
 ColonyStatsTooltipBlockedRoadsTitle,Text,,Blocked Roads,Strade bloccate,
 ColonyStatsTooltipIncomeRateDesc,Text,,The amount of money earned on average per day over the last month,la quantità di denaro guadagnata in media al giorno nell'ultimo mese,
 ColonyStatsTooltipIncomeRateTitle,Text,,Income Rate,Tasso di reddito,
@@ -456,8 +456,8 @@ EntityBuildingTechResearchStatsViewTypeResearch,Text,,Research,Ricerca,
 EntityBuildingTransportConnectionsBoatRoutesHeader,Text,,Boat Routes,Rotte barca,
 EntityBuildingTransportConnectionsNoBoatRoutes,Text,,No boat routes,Nessuna rotta per la barca,
 EntityBuildingTransportConnectionsNoBuildings,Text,,No direct building connections,Nessun collegamento diretto dell'edificio,
-EntityBuildingTransportConnectionsNoRoadPost,Text,,Not connected to a road post!,Non connesso ad un palo stradale!,
-EntityBuildingTransportConnectionsNoRoadPostsDesc,Text,,Connect entrance to a road post using roads or paths. Maximum distance is 20 tiles.,Collega l'ingresso ad un palo stradale utilizzando una strada o un sentiero. La distanza massima è 20 caselle.,
+EntityBuildingTransportConnectionsNoRoadPost,Text,,Not connected to a road post!,Non connesso ad un incrocio!,
+EntityBuildingTransportConnectionsNoRoadPostsDesc,Text,,Connect entrance to a road post using roads or paths. Maximum distance is 20 tiles.,Collega l'ingresso ad un incrocio utilizzando una strada o un sentiero. La distanza massima è 20 caselle.,
 EntityBuildingTransportConnectionsRoadPostsHeader,Text,,Road Posts,Incroci,
 EntityBuildingTransportRulesIncomingBlacklistDesc,Text,,Resources completely banned from being imported:,Risorse completamente vietate dall'importazione:,
 EntityBuildingTransportRulesIncomingBlacklistExcStorageDesc,Text,,Resources banned from being imported unless they're headed for a storage yard:,Risorse vietate dall'importazione a meno che non siano dirette in un deposito:,
@@ -560,7 +560,7 @@ Favourites,Text,Favourite Maps,Favourites,Preferiti,
 Featured,Text,Featured Maps,Featured,In primo piano,
 Filter,Text,Map Filter,Filter,Filtra,
 Fish_0_Name,Text,,Fish,Pesce,
-Flag_0_Name,Text,,Road Post,Palo stradale,
+Flag_0_Name,Text,,Road Post,Incrocio,
 FloraCat_1,Text,,Tree,Albero,
 FloraCat_2,Text,,Rock,Roccia,
 FloraCat_3,Text,,Bush,Cespuglio,
@@ -604,7 +604,7 @@ GameSettingsAutosaveInterval,Text,,Autosave interval,Intervallo di salvataggio a
 GameSettingsAutosaveIterations,Text,,Autosave iterations,Numero di salvataggi automatici,
 GameSettingsEdgePanning,Text,,Edge panning,Scorrimento al bordo,
 GameSettingsEdgePanningSensitivity,Text,,Edge panning sensitivity,Sensibilità scorrimento bordo,
-GameSettingsFreeRoadPostPlacement,Text,"Allows player to place a road post anywhere, not just from existing road post",Free Road Post Placement,Piazzamento libero pali stradali,
+GameSettingsFreeRoadPostPlacement,Text,"Allows player to place a road post anywhere, not just from existing road post",Free Road Post Placement,Piazzamento libero incroci,
 GameSettingsInterfaceAspectLock,Text,Whether the UI should scale based on the width of the resolution or on the height.,Interface aspect lock,Blocco aspetto interfaccia,
 GameSettingsInvertX,Text,,Invert rotation X axis,Invertire la rotazione dell'asse X,
 GameSettingsInvertY,Text,,Invert rotation Y axis,Invertire la rotazione dell'asse Y,
@@ -702,7 +702,7 @@ Di solito è ottimale posizionare un edificio che rifornisca un altro edificio v
 
 Ad esempio, se possiedi una <bd>Miniera</bd> remota, puoi costruire un <bd>Deposito</bd> nelle vicinanze per mantenere un rifornimento di <it>Energia</it> nelle vicinanze. Se lo fai, tieni presente che, per impostazione predefinita, l '<it>Energia</it> immagazzinata sarà comunque disponibile per altri edifici, potenzialmente lontani. Ci sono due opzioni per farlo in modo che <it>Energia</it> vada solo a quella <bd>Miniera</bd>:
 
-In primo luogo potresti limitare gli edifici di esportazione nelle impostazioni <bd>Deposito </bd> solo alla tua <bd>Miniera</bd>. In secondo luogo, è possibile creare una regola di trasporto su un Palo Stradale per consentire il passaggio di <it>Energia</it> solo se si va in un <bd>Deposito</bd>.",
+In primo luogo potresti limitare gli edifici di esportazione nelle impostazioni <bd>Deposito </bd> solo alla tua <bd>Miniera</bd>. In secondo luogo, è possibile creare una regola di trasporto su un incrocio per consentire il passaggio di <it>Energia</it> solo se si va in un <bd>Deposito</bd>.",
 HelpPanel_29,Text,,"By default, resource priorities are determined by the order set in the demands panel for each resource.
 
 However, you can also prioritise a single building over all others by using this button (or holding <hotkey>[P]</hotkey> and clicking the building).
@@ -756,7 +756,7 @@ Blacklist Except Storage: This option means accept the resource if it's going to
 
 Whitelist: means only the selected resources will be able to pass through.
 
-Whitelist Storage Only: This option means only whitelisted resources will be able to pass through and only if they're going to a storage yard.","Puoi aggiungere regole a un Palo Stradale o a un edificio di trasporto per aiutare a dirigere le risorse intorno alla tua colonia in modi particolari.
+Whitelist Storage Only: This option means only whitelisted resources will be able to pass through and only if they're going to a storage yard.","Puoi aggiungere regole a un incrocio o a un edificio di trasporto per aiutare a dirigere le risorse intorno alla tua colonia in modi particolari.
 
 Lista nera: se si inserisce nella lista nera una risorsa, questa non sarà in grado di passare in nessuna circostanza.
 
@@ -786,7 +786,7 @@ You can click on a connection in the list to see the route the Stackbot takes.",
 
 Gli edifici possono essere posizionati direttamente sulle strade o l'ingresso dell'edificio può essere collegato a una strada tramite un sentiero.
 
-Inoltre, un edificio può essere collegato direttamente tramite percorsi a uno o più altri edifici. Ciò consente ai BotImpilatori di spostare le risorse tra gli edifici senza coinvolgere un palo stradale e può aiutare a mantenere il traffico lontano dalle strade.
+Inoltre, un edificio può essere collegato direttamente tramite percorsi a uno o più altri edifici. Ciò consente ai BotImpilatori di spostare le risorse tra gli edifici senza coinvolgere un incrocio e può aiutare a mantenere il traffico lontano dalle strade.
 
 Una strada o un collegamento di un edificio ha una lunghezza massima di 20 tessere.
 
@@ -1139,9 +1139,9 @@ A building's stackbot uses paths to collect and drop off resources at road posts
 
 Paths do not have a maximum length but the longer the path, the more time it takes a stackbot to drop off and collect resources which may lead to delays.                                                    
 
-Paths can useful as they allow direct delivery between buildings which can reduce the traffic on your roads.","Un percorso collega un edificio a una strada o ad un palo stradale.
+Paths can useful as they allow direct delivery between buildings which can reduce the traffic on your roads.","Un percorso collega un edificio a una strada o ad un incrocio.
 
-Il BotImpilatore di un edificio utilizza percorsi per raccogliere e scaricare risorse sui pali stradali.
+Il BotImpilatore di un edificio utilizza i percorsi per raccogliere e scaricare risorse dagli incroci.
 
 I percorsi non hanno una lunghezza massima ma più lungo è il percorso, più tempo impiega un BotImpilatore a scendere e raccogliere risorse che possono causare ritardi.
 
@@ -1153,11 +1153,11 @@ Roads have a minimum length of 4 tiles and a maximum length of 6 tiles.
 
 To build a road, click on an existing road post and then click on the tile you want to end on.
 
-Hold <hotkey>[Ctrl]</hotkey> and click a tile to fix a waypoint in your prospective road.","Una strada è un collegamento tra due incroci. I pali stradali possono contenere quattro risorse e ogni strada ha un BotTrasportatore che sposta le risorse tra i pali.
+Hold <hotkey>[Ctrl]</hotkey> and click a tile to fix a waypoint in your prospective road.","Una strada è un collegamento tra due incroci. Gli incroci possono contenere quattro risorse, e ogni strada ha un BotTrasportatore che sposta le risorse tra gli incroci.
 
 Le strade hanno una lunghezza minima di 4 caselle e una lunghezza massima di 6 caselle.
 
-Per costruire una strada, fai clic su un palo stradale esistente, quindi fai clic sulla casella su cui vuoi terminarla.
+Per costruire una strada, fai clic su un incrocio esistente, quindi fai clic sulla casella su cui vuoi terminarla.
 
 Tieni premuto <hotkey>[Ctrl]</hotkey> e fai clic su una casella per fissare una tappa intermedia nella tua strada.",
 LandRoute_1_Name,Text,,Road,Strada,
@@ -1789,7 +1789,7 @@ Questo pannello ti dice che il BotTaglialegna ha bisogno di una unità di <it>En
 TutorialDialogues_T1_ExplainFood,Text,Deprecated,[-],[-],
 TutorialDialogues_T1_ExplainPaths,Text,,"Buildings also don't need to be placed directly on <lr>Roads</lr>. They can be connected to a <lr>Road</lr> by a <lr>Path</lr>.
 <lr>Paths</lr> are secondary routes that allow a building's Stackbot to reach a road post. This allows you to be more flexible with your building and road placement.","Gli edifici non hanno bisogno di essere piazzati direttamente sulle <lr>Strade</lr>. Possono essere connessi ad una <lr>Strada</lr> utilizzando un <lr>Sentiero</lr>.
-I <lr>Sentieri</lr> sono strade secondarie che permettono al BotImpilatore di un edificio di raggiungere un PaloStradale. Questo ti permette più flessibilità su dove piazzare gli edifici e le strade.",
+I <lr>Sentieri</lr> sono strade secondarie che permettono al BotImpilatore di un edificio di raggiungere un incrocio. Questo ti permette più flessibilità su dove piazzare gli edifici e le strade.",
 TutorialDialogues_T1_ExplainResidenceConstructionPanel,Text,,"This panel now tells you how much <it>Energy L1</it> this <bd>Residence</bd> can generate and which resources are needed to do so.
 The Level 1 <bd>Residence</bd> turns one <it>Water</it> and one <cat>Food</cat> resource into one <it>Energy L1</it>.","Questo pannello ora ti dice quante <it>Energia L1</it> questa <bd>Residenza</bd> può generare e che risorse sono necessarie.
 Questa <bd>Residenza</bd> Livello 1 trasforma una unità di <it>Acqua</it> e una di <cat>Cibo</cat> in una unità di <it>Energia L1</it>.",
@@ -1841,8 +1841,8 @@ Select the <lr>Roads</lr> build mode in the bottom right of the screen.","Hai al
 Le risorse si muovono attraverso la tua colonia utilizzando le <lr>Strade</lr>. Costruiamone una!
 Seleziona la modalità di costruzione <lr>Percorsi</lr> in basso a destra dello schermo.",
 TutorialDialogues_T1_RoadToLumberjackHut2,Text,,"Roads can only be started from existing road posts.
-<hotkey>Click</hotkey> on the blue road post outside the <bd>Colony Ship</bd> and then <hotkey>click</hotkey> on the next highlighted tile.","Le strade possono iniziare soltanto dai pali stradali esistenti.
-<hotkey>Clicca</hotkey> sul palo stradale blu fuori dalla <bd>Nave della Colonia</bd> e poi <hotkey>clicca</hotkey> sulla casella evidenziata.",
+<hotkey>Click</hotkey> on the blue road post outside the <bd>Colony Ship</bd> and then <hotkey>click</hotkey> on the next highlighted tile.","Le strade possono iniziare soltanto dagli incroci esistenti.
+<hotkey>Clicca</hotkey> sull'incrocio blu fuori dalla <bd>Nave della Colonia</bd> e poi <hotkey>clicca</hotkey> sulla casella evidenziata.",
 TutorialDialogues_T1_RoadToLumberjackHut3,Text,,Got it! Roads can be between 4 and 6 tiles long. Build another <lr>Road</lr> to connect your <bd>Lumberjack</bd>.,Fatto! Le strade possono essere lunghe da 4 a 6 caselle. Costruisci un'altra <lr>Strada</lr> per collegare la tua <bd>Capanna del Taglialegna</bd>.,
 TutorialDialogues_T1_RoadToLumberjackHut4,Text,,Great! Each <lr>Road</lr> has a Carrybot who moves resources between the posts at either end of the <lr>Road</lr> depending on where the resource needs to go.,Bene! Ogni <lr>Strada</lr> ha un BotTrasportatore che muove le risorse tra le due estremità della <lr>Strada</lr> a seconda di dove deve andare la risorsa.,
 TutorialDialogues_T1_SpeedControls,Text,,You can increase and decrease the game speed in the top right of the screen or by using hotkeys:,Puoi aumentare e diminuire la velocità di gioco in alto a destra o utilizzando i tasti:,
@@ -1864,7 +1864,7 @@ Let's wait for construction for finish.","Questa risorsa di costruzione è diret
 Attendiamo che la costruzione sia terminata.",
 TutorialDialogues_T1_WaitForLumberjackHutComplete,Text,,"Your Carrybots can now transport the <it>Logs</it> along the roads to the road post outside the <bd>Lumberjack Hut</bd>.
 The Stackbot for the <bd>Lumberjack Hut</bd> will then pick up the resources and the Buildbot will then be able to construct the building.
-Let's watch!","Il tuo BotTrasportatore può ora trasportare i <it>Tronchi</it> lungo la strada fino al palo stradale fuori dalla <bd>Capanna del Taglialegna</bd>.
+Let's watch!","Il tuo BotTrasportatore può ora trasportare i <it>Tronchi</it> lungo la strada fino all'incrocio fuori dalla <bd>Capanna del Taglialegna</bd>.
 Il BotImpilatore della <bd>Capanna del Taglialegna</bd> quindi prenderà le risorse e il BotCostruttore sarà pronto a costruire l'edificio.
 Stiamo a vedere!",
 TutorialDialogues_T1_WaitForResidenceConstruction,Text,,Good! Now let's watch the construction resources reach the <bd>Residence</bd> and the buildbot finish their work.,Bene! Ora guardiamo come le risorse di costruzione raggiungono la <bd>Residenza</bd> e come il BotCostruttore finisce il suo lavoro.,
@@ -1881,7 +1881,7 @@ Costruisci un <bd>Allevamento di Pecore</bd> nel punto evidenziato.",
 TutorialDialogues_T2_BuildSheepFarm2,Text,,Nice! Let's wait for the buildbot to finish construction of your <bd>Sheep Farm</bd>.,Bene! Ora aspettiamo che il BotCostruttore finisca la costruzione del tuo <bd>Allevamento di Pecore</bd>.,
 TutorialDialogues_T2_BuildSheepFarm_TaskBuildSheepFarm,Text,Deprecated,[-],[-],
 TutorialDialogues_T2_ConnectSheepFarm,Text,,"Now, starting at the post outside the <bd>Colony Ship</bd>, connect to the <bd>Sheep Farm</bd> using <lr>Roads</lr> and <lr>Paths</lr>.
-You can also use hotkeys <hotkey>[1]</hotkey> through <hotkey>[9]</hotkey> to select different construction modes.","Adesso, iniziando dal palo stradale fuori dalla <bd>Nave della Colonia</bd>, connetti l' <bd>Allevamento di pecore</bd> utilizzando <lr>Strade</lr> e <lr>Sentieri</lr>.
+You can also use hotkeys <hotkey>[1]</hotkey> through <hotkey>[9]</hotkey> to select different construction modes.","Adesso, iniziando dall'incrocio fuori dalla <bd>Nave della Colonia</bd>, connetti l' <bd>Allevamento di pecore</bd> utilizzando <lr>Strade</lr> e <lr>Sentieri</lr>.
 Puoi anche utilizzare i tasti <hotkey>[1]</hotkey> fino a <hotkey>[9]</hotkey> per selezionare le diverse modalità di costruzione.",
 TutorialDialogues_T2_CreateSheepFarmFields,Text,,"Your <bd>Sheep Farm</bd> won't produce at its most optimal rate until you place the full 50 pastures.
 Click on the yellow alert symbol above the <bd>Sheep Farm</bd> building and click 'Auto Place'.","Il tuo <bd>Allevamento di pecore</bd> non produrrà in maniera ottimale finché non piazzerai tutti e 50 i pascoli.
@@ -1934,7 +1934,7 @@ Check out the transport rule system by clicking on any road post or harbour.","I
 La tua barca ha creato automaticamente una rotta di trasporto tra il tuo nuovo <bd>Porto</bd> e il <bd>Porto</bd> originale.
 Le risorse verranno consegnate automaticamente tra <bd>Porti</bd> quando richieste da edifici in un'isola o nell'altra.
 Man mano che la tua colonia si espande vorrai avere più controllo su che risorse possono passare, in modo da impedire che le risorse vengano inviate troppo lontano in isole differenti.
-Controlla le regole di trasporto cliccando su un qualsiasi palo stradale o su un porto.",
+Controlla le regole di trasporto cliccando su un qualsiasi incrocio o su un porto.",
 TutorialDialogues__Overlay_FirstExpeditionLoaded,Text,,"Your expedition boat is ready!
 Select it to enter navigation mode. You can now click on a water tile to explore the ocean and discover new islands.
 You can check the Map (<hotkey>[M]</hotkey>) screen to see where the hidden resources are located.
@@ -2168,7 +2168,7 @@ UnitState_HeadingTo,Text,{0}:tile or building that bot is heading to,Heading to 
 UnitState_Researching,Text,{0}: technology that bot is currently researching,Researching {0},Ricercando {0},
 UnitState_BeingPrinting,Text,Bot is being printed,Printing... {0}%,Stampando... {0}%,
 UnitState_Printed,Text,Bot has been printed,Printed,Stampato,
-BuildingTransportConnectionsUI_RoadPosts,Text,Road posts that a building is connected to. {0}:amount,Road Posts ({0}),Pali stradali ({0}),
+BuildingTransportConnectionsUI_RoadPosts,Text,Road posts that a building is connected to. {0}:amount,Road Posts ({0}),Incroci ({0}),
 BuildingTransportConnectionsUI_Buildings,Text,Other buildings that a building is connected to. {0}:amount,Buildings ({0}),Edifici ({0}),
 BuildingTransportConnectionsUI_Harbours,Text,Harbours that a building is connected to. {0}:amount,Boat Routes ({0}),Rotte barca ({0}),
 BuildingTransportConnectionsUI_TrainStations,Text,Train Stations a building is connected to. {0}:amount,Train Routes ({0}),Rotte treno ({0}),
@@ -2223,7 +2223,7 @@ BuildMode_TechnologyUnresearched,Text,,Technology not researched yet!,Tecnologia
 OverlayDemandUI_UrgentSource,Text,"{0}: building, {1}: resource, {2}:purpose {3}:OverlayDemandUI_RulesAffected if applicable. E.g. ""Jane's Steel Mill is urgently trying to source Iron for production""",{0} is urgently trying to source {1} for {2}{3},{0} sta urgentemente cercando di reperire {1} per {2}{3},
 OverlayDemandUI_RulesAffected,Text,"If, for example, a road post has a blacklist rule for Bread, then a building may have trouble sourcing Bread because of the transport rules a player has set up. This is shown directly underneath OverlayDemandUI_UrgentSource",Sourcing may be affected by transport rules,Il reperimento può essere influenzato dalle regole di trasporto,
 Alert,Text,General alert,Alert!,Attenzione!,
-OverlayDemandUI_BuildingNotConnected,Text,,Building is not connected to a road post or path is too long,L'edificio non è connesso ad un palo stradale o il sentiero è troppo lungo,
+OverlayDemandUI_BuildingNotConnected,Text,,Building is not connected to a road post or path is too long,L'edificio non è connesso ad un incrocio o il sentiero è troppo lungo,
 Under construction,Text,,Under construction,In costruzione,
 ExpeditionHarbour_NoExpedition,Text,,No expedition started,Nessuna spedizione iniziata,
 ExpeditionHarbour_ExpeditionReady,Text,,Expedition ready!,Spedizione pronta!,
@@ -2244,8 +2244,8 @@ BuildingUpgradeUI_LockWhileRepairing,Text,,Cannot upgrade whilst repairing,Impos
 BuildingLifetimeStats_ResourcesDelivered,Text,,Resources Delivered,Risorse consegnate,
 RoadState_StartHighlightTile,Text,,Start road on highlighted tile,Inizia strada nella casella evidenziata,
 InputClick,Text,,Click,Click,
-RoadState_ClickStartEmpty,Text,{0}:Click,[{0}] to place post and start road,[{0}] per piazzare un palo stradale e iniziare una strada,
-RoadState_ClickStartRoadPost,Text,{0}:Click,[{0}] to start road from this post,[{0}] per iniziare una strada da questo palo stradale,
+RoadState_ClickStartEmpty,Text,{0}:Click,[{0}] to place post and start road,[{0}] per piazzare un incrocio e iniziare una strada,
+RoadState_ClickStartRoadPost,Text,{0}:Click,[{0}] to start road from this post,[{0}] per iniziare una strada da questo incrocio,
 RoadState_InvalidFilter,Text,,Place on the highlighted tile,Piazza sulla tessera evidenziata,
 RoadState_InvalidEndRoadMsg,Text,"{0}:min road length, {1}:Click","Minimum road length is {0} tiles
 
@@ -2257,7 +2257,7 @@ RoadState_InvalidRoadMsg,Text,,Cannot create road to this tile,Impossibile crear
 RoadState_ValidEndRoadFlagMsg,Text,{0}:Click,[{0}] to complete road,[{0}] per completare la strada,
 RoadState_ValidEndRoadNoFlagMsg,Text,"{0}:Click, {1}:Ctrl","[{0}] to place post and complete road
 
-[{1}] to set waypoint","[{0}] per piazzare un palo stradale e completare la strada
+[{1}] to set waypoint","[{0}] per piazzare un incrocio e completare la strada
 
 [{1}] per impostare una tappa intermedia",
 PathState_InvalidFilterMsg,Text,,Click on the highlighted tile,Clicca sulla casella evidenziata,
@@ -2283,7 +2283,7 @@ MapEditorPlayerPlayable,Text,,Playable,Giocabile,
 MapEditorPlayerSetStartLocation,Text,,Set Landing Location,Imposta posizione di atterraggio,
 PlayerName,Text,,Player {0},Giocatore {0},
 BaseColonyName,Text,{0}:Player/Steam name,{0}'s Colony,Colonia di {0},
-RoadPostRulesDisabledTutorial,Text,,Setting road post rules is disabled for the first mission.,Le impostazioni dei pali stradali sono disabilitate per questa missione.,
+RoadPostRulesDisabledTutorial,Text,,Setting road post rules is disabled for the first mission.,Le impostazioni degli incroci sono disabilitate per questa missione.,
 DayShort,Text,,d,d,
 UnitTooltip_BuildingUnderConstruction,Text,,Building under construction,Edificio in costruzione,
 UnitTooltip_NotArrived,Text,,Worker bot hasn't arrived yet,Il BotCostruttore non è ancora arrivato,
@@ -2307,8 +2307,8 @@ EntityProductionUI_HaltProduction,Text,,Halt Production,Ferma la produzione,
 EntityProductionUI_ResumeProduction,Text,,Resume Production,Riprendi la produzione,
 FloorInvalidAlreadyPath,Text,,Path already on tile,Percorso già sulla casella,
 FloorInvalidTileOutsideTerritory,Text,,Tile outside territory,Casella fuori dal territorio,
-FloorInvalidRoadPostExisting,Text,,New road must start at existing post,Una nuova strada deve iniziare da un palo stradale esistente,
-FloorInvalidRoadPostRoad,Text,,Can't place road post on existing road,Non puoi piazzare un palo stradale su una strada esistente,
+FloorInvalidRoadPostExisting,Text,,New road must start at existing post,Una nuova strada deve iniziare da un incrocio esistente,
+FloorInvalidRoadPostRoad,Text,,Can't place road post on existing road,Non puoi piazzare un incrocio su una strada esistente,
 FloorInvalidRoadComplete,Text,,Can't complete road on existing road,Non puoi completare una strada su una strada esistente,
 FloorInvalidHeightGap,Text,When there is not enough space under a railways bridge for example,Not enough height gap,Dislivello insufficiente,
 ItemDetails_CreatedAt,Text,Building that the resource was created at,Created at,Creato presso,
@@ -2464,12 +2464,12 @@ BuildingTradeTerminalSellingRuleType_0,Text,(An order which happens) once,Once,U
 BuildingTradeTerminalSellingRuleType_1,Text,recurring (sales order),Recurring,Periodico,
 SidePanelPurchaseRuleSelectResource,Text,,Select a resource to purchase,Seleziona una risorsa da comprare,
 AnyAmount,Text,,any,tutti,
-RoadPostOverlayTooltip,Text,{0}: building,Road post for {0},Palo stradale per {0},
-RoadPostRulesDesc,Text,,Manage the movement of resources through your colony by setting up rules for this road post.,Gestisci lo spostamento delle risorse attraverso la tua colonia impostando le regole per questo palo stradale.,
-EntityFlagRulesBlacklistDesc,Text,,Resources banned from passing through this road post:,Risorse vietate dal passaggio tramite questo palo stradale:,
-EntityFlagRulesBlacklistExcStorageDesc,Text,,Resources banned from passing through this road post unless they're headed for a storage yard:,Risorse vietate dal passaggio tramite questo palo stradale tranne quelle dirette verso un deposito:,
-EntityFlagRulesWhitelistDesc,Text,,Resources allowed through this road post:,Risorse permesse attraverso questo palo stradale:,
-EntityFlagRulesWhitelistOnlyStorageDesc,Text,,Resources allowed through this road post only if headed to a storage yard:,Risorse permesse attraverso questo palo stradale ma solo se dirette verso un deposito:,
+RoadPostOverlayTooltip,Text,{0}: building,Road post for {0},Incrocio per {0},
+RoadPostRulesDesc,Text,,Manage the movement of resources through your colony by setting up rules for this road post.,Gestisci lo spostamento delle risorse attraverso la tua colonia impostando le regole per questo incrocio.,
+EntityFlagRulesBlacklistDesc,Text,,Resources banned from passing through this road post:,Risorse vietate dal passaggio tramite questo incrocio:,
+EntityFlagRulesBlacklistExcStorageDesc,Text,,Resources banned from passing through this road post unless they're headed for a storage yard:,"Risorse vietate dal passaggio tramite questo incrocio, tranne quelle dirette verso un deposito:",
+EntityFlagRulesWhitelistDesc,Text,,Resources allowed through this road post:,Risorse permesse attraverso questo incrocio:,
+EntityFlagRulesWhitelistOnlyStorageDesc,Text,,Resources allowed through this road post only if headed to a storage yard:,Risorse permesse attraverso questo incrocio ma solo se dirette verso un deposito:,
 EntitySidePanelSelectResourceStore,Text,,Select a resource to store,Seleziona una risorsa da depositare,
 EntitySidePanelSelectResource,Text,,Select a resource,Seleziona una risorsa,
 EntitySidePanelRuleBlacklistConfirm,Text,,Ban resource,Vieta una risorsa,
@@ -2608,7 +2608,7 @@ Puoi fare clic su una risorsa nell'elenco e ti mostrerà il percorso che la riso
 
 Un edificio fornirà sempre la risorsa disponibile più vicina. Una volta che una risorsa è stata inviata, la sua destinazione è fissa.
 
-Usa le regole ai pali stradali, nei porti e nelle stazioni ferroviarie per controllare da dove provengono le risorse, nonché importare ed esportare liste delle richieste sugli edifici.",
+Usa le regole agli incroci, nei porti e nelle stazioni ferroviarie per controllare da dove provengono le risorse, nonché importare ed esportare liste delle richieste sugli edifici.",
 Building_66_Description,Text,,Create <it>Vegetables</it> from vegetable plots.,Crea <it>Verdure</it> dagli orti.,
 Building_66_Name,Text,,Vegetable Farm,Campo di Verdure,
 Building_66_Plural,Text,,Vegetable Farms,Campi di Verdure,
@@ -2647,7 +2647,7 @@ ItemCat_2_Desc,Text,,<it>Fish</it> / <it>Meat</it> / <it>Pumpkins</it>,<it>Pesce
 Veg_ItemCat_2_Desc,Text,,<it>Fish</it> / <it>Meat</it> / <it>Vegetables</it>,<it>Pesce</it> / <it>Carne</it> / <it>Verdure</it>,
 MiscCat_13_Name,Text,,Pumpkin Patches,Orti(Zucche),
 MiscCat_13_Desc,Text,,can be planted on green tiles,può essere piantato sulle caselle verdi,
-RoadState_ValidEndRoadMsg,Text,{0}: click,[{0}] to place post and complete road,[{0}] per piazzare un palo stradale e completare la strada,
+RoadState_ValidEndRoadMsg,Text,{0}: click,[{0}] to place post and complete road,[{0}] per piazzare un incrocio e completare la strada,
 RoadState_ValidWaypointMsg,Text,{0}: click,[{0}] to set road waypoint,[{0}] per impostare una tappa intermedia,
 RoadState_SetWaypointMsg,Text,{0}: ctrl {1}: click,[{0}] and [{1}] to set road waypoint,[{0}] e [{1}] per impostare una tappa intermedia,
 Tooltip_SetRoadWaypoint,Text,Shows as main tooltip header when setting a road waypoint,Set Waypoint,Imposta tappa intermedia,
@@ -3080,12 +3080,12 @@ Help_0_Content2,Text,,From the start of the second campaign mission you have acc
 Help_1_Title,Text,,Roads & Paths,Strade & Sentieri,
 Help_1_Content0,Text,,The Colonists is all about moving resources around your colony. The main way your robot colonists do this is by using roads and paths.,"Lo scopo di The Colonists è spostare le risorse nella tua colonia. Il modo principale in cui i tuoi coloni robot lo faranno, è usando strade e sentieri.",
 Help_1_Header1,Text,,Roads,Strade,
-Help_1_Content1,Text,,Roads are the main trunk routes of your colony. Each road has a carrybot who moves resources between the road posts at the ends of each road. Roads have a minimum length of 4 tiles and a maximum length of 6 tiles.,Le strade sono le principali vie di comunicazione della tua colonia. Ogni strada ha un BotTrasportatore che sposta le risorse tra i pali alla fine di ogni strada. Le strade hanno una lunghezza minima di 4 caselle e una lunghezza massima di 6 caselle.,
+Help_1_Content1,Text,,Roads are the main trunk routes of your colony. Each road has a carrybot who moves resources between the road posts at the ends of each road. Roads have a minimum length of 4 tiles and a maximum length of 6 tiles.,Le strade sono le principali vie di comunicazione della tua colonia. Ogni strada ha un BotTrasportatore che sposta le risorse tra gli incroci alla fine di ogni strada. Le strade hanno una lunghezza minima di 4 caselle e una lunghezza massima di 6 caselle.,
 Help_1_Content2,Text,,"To build a road, select 'Road' from the building menu <hotkey>[1]</hotkey>, click on an existing road post and then click on the tile you want to end on. When drawing a road you can hold [Control] when clicking a tile to fix a waypoint in your prospective road.","Per costruire una strada, seleziona ""Strada"" dal menu di costruzione 
-<hotkey>[1]</hotkey>, fai clic su un palo stradale esistente, quindi fai clic sulla casella su cui desideri terminare la strada. Quando si traccia una strada è possibile tenere premuto [Control] quando si fa clic su una casella per fissare un waypoint.",
-Help_1_Content3,Text,,"Road posts can hold a maximum of four resources at any one time. When a carrybot moves a resource from one road post to another it will only be able to drop off the resource if there is enough room and if not, the carrybot will wait until a space becomes available.","I pali stradali possono contenere un massimo di quattro risorse alla volta. Quando un BotTrasportatore sposta una risorsa da un palo stradale a un altro, sarà in grado di rilasciare la risorsa solo se c'è abbastanza spazio e, in caso contrario, aspetterà fino a quando uno spazio non sarà disponibile.",
+<hotkey>[1]</hotkey>, fai clic su un incrocio esistente, quindi fai clic sulla casella su cui desideri terminare la strada. Quando si traccia una strada è possibile tenere premuto [Control] quando si fa clic su una casella per fissare un waypoint.",
+Help_1_Content3,Text,,"Road posts can hold a maximum of four resources at any one time. When a carrybot moves a resource from one road post to another it will only be able to drop off the resource if there is enough room and if not, the carrybot will wait until a space becomes available.","Gli incroci possono contenere un massimo di quattro risorse alla volta. Quando un BotTrasportatore sposta una risorsa da un incrocio ad un altro, sarà in grado di rilasciare la risorsa solo se c'è abbastanza spazio e, in caso contrario, aspetterà fino a quando uno spazio non sarà disponibile.",
 Help_1_Content4,Text,,This means if too many resources are trying to move through the same roads then it will cause delays and and the productivity of your buildings might suffer.,"Ciò significa che se troppe risorse tentano di spostarsi attraverso le stesse strade, ciò causerà ritardi e la produttività dei tuoi edifici potrebbe risentirne.",
-Help_1_Content5,Text,,You can also add rules to road posts to determine which resources are allowed to move through the road post. There is more information on this in the Resource Rules section.,Puoi anche aggiungere regole ai pali stradali per determinare quali risorse sono autorizzate a passare. Ulteriori informazioni su questo argomento sono disponibili nella sezione Regole risorse.,
+Help_1_Content5,Text,,You can also add rules to road posts to determine which resources are allowed to move through the road post. There is more information on this in the Resource Rules section.,Puoi anche aggiungere regole agli incroci per determinare quali risorse sono autorizzate a passare. Ulteriori informazioni su questo argomento sono disponibili nella sezione Regole risorse.,
 Help_1_Header6,Text,,Paths,Sentieri,
 Help_1_Content6,Text,,Paths are used to connect buildings to roads or to connect buildings to each other.,I sentieri sono utilizzati per collegare edifici alle strade o per collegare edifici tra di loro.,
 Help_1_Content7,Text,,Every building has one or more stackbots who are in charge of delivering and collecting resources that are either coming into or being taken out of that building. Therefore the building needs to connected to at least one road for the building to receive resources from the network.,Ogni edificio ha uno o più BotImpilatore incaricati di consegnare e raccogliere risorse che entrano o vengono portate fuori da quell'edificio. Pertanto l'edificio deve essere collegato ad almeno una strada affinché l'edificio riceva risorse dalla rete.,

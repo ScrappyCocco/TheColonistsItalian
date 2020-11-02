@@ -2540,7 +2540,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "The number of roads where a carrybot is blocked because a road post is full",
-    "Italian": "Il numero di strade in cui un BotTrasportatore è bloccato perché un palo stradale è pieno",
+    "Italian": "Il numero di strade in cui un BotTrasportatore è bloccato perché un incrocio è pieno",
     "Verify": ""
   },
   {
@@ -3276,7 +3276,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Not connected to a road post!",
-    "Italian": "Non connesso ad un palo stradale!",
+    "Italian": "Non connesso ad un incrocio!",
     "Verify": ""
   },
   {
@@ -3284,7 +3284,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Connect entrance to a road post using roads or paths. Maximum distance is 20 tiles.",
-    "Italian": "Collega l'ingresso ad un palo stradale utilizzando una strada o un sentiero. La distanza massima è 20 caselle.",
+    "Italian": "Collega l'ingresso ad un incrocio utilizzando una strada o un sentiero. La distanza massima è 20 caselle.",
     "Verify": ""
   },
   {
@@ -4076,7 +4076,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Road Post",
-    "Italian": "Palo stradale",
+    "Italian": "Incrocio",
     "Verify": ""
   },
   {
@@ -4388,7 +4388,7 @@
     "Type": "Text",
     "Desc": "Allows player to place a road post anywhere, not just from existing road post",
     "English": "Free Road Post Placement",
-    "Italian": "Piazzamento libero pali stradali",
+    "Italian": "Piazzamento libero incroci",
     "Verify": ""
   },
   {
@@ -4556,7 +4556,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "This sub-panel lists resources recently delivered to a production building. You can filter the results by 'On Time', 'Warning' and 'Alert' and you can select any entry to see the route it took. The percentage number indicates the time the journey took compared to the time needed to maintain 100% productivity at the destination building.\n\nFor example, a <bd>Lumberjack Hut</bd> requires <it>Energy</it> at a rate of one per day and can store up to four <it>Energy</it> resources as a buffer. If an <it>Energy</it> resource takes 4.5 days to arrive, it will be listed here as 112% as if that journey time was consistent then resources wouldn't arrive quickly enough to maintain 100% productivity.\n\nThis is just one factor When taking into account whether a building can work at 100% as you also need to take into account whether there is enough of that resource being produced in the first place.\n\nIt is usually optimal to place a building that supply another building close together so that supply routes are short. Sometimes this is not possible but to work around this you can build <bd>Storage Yards</bd> near your destination to create an extra supply 'buffer'.\n\nFor example, if you have a remote <bd>Mine</bd>, you can build a nearby <bd>Storage Yard</bd> to keep a supply of <it>Energy</it> nearby. If you do this bear in mind that, by default, the <it>Energy</it> stored there will still be available to other buildings, potentially far away. There are two options to make it so that <it>Energy</it> only goes to that <bd>Mine</bd>:\n\nFirstly you could limit the export buildings in the <bd>Storage Yard</bd> settings to just your <bd>Mine</bd>. Secondly you could create a transport rule on a road post to only allow <it>Energy</it> to pass through if going to a <bd>Storage Yard</bd>.",
-    "Italian": "Questo pannello secondario elenca le risorse consegnate di recente a un edificio di produzione. Puoi filtrare i risultati in base a\" In orario\",\" Allerta\" e \"Allarme\" e puoi selezionare qualsiasi voce per vedere il percorso seguito. Il numero percentuale indica che il tempo impiegato per il viaggio rispetto al tempo necessario per mantenere la produttività del 100% nell'edificio di destinazione.\n\nAd esempio, una <bd>Capanna del Taglialegna</bd> richiede <it>Energia</it> al prezzo di una unità al giorno e può archiviare fino a quattro risorse <it>Energia</it> come buffer. Se una risorsa <it>Energia</it> impiega 4,5 giorni per arrivare, verrà elencata qui come 112% come se quel tempo di viaggio fosse coerente, quindi le risorse non arriverebbero abbastanza rapidamente per mantenere una produttività del 100%.\n\nQuesto è solo uno dei fattori. Quando si tiene conto del fatto che un edificio possa funzionare al 100%, si deve anche tenere conto del fatto che in primo luogo viene prodotta abbastanza quella risorsa.\n\nDi solito è ottimale posizionare un edificio che rifornisca un altro edificio vicino in modo che i percorsi di approvvigionamento siano brevi. A volte ciò non è possibile, ma per ovviare a questo problema è possibile creare <bd>Depositi</bd> vicino alla destinazione per creare un \"buffer\" di approvvigionamento aggiuntivo.\n\nAd esempio, se possiedi una <bd>Miniera</bd> remota, puoi costruire un <bd>Deposito</bd> nelle vicinanze per mantenere un rifornimento di <it>Energia</it> nelle vicinanze. Se lo fai, tieni presente che, per impostazione predefinita, l '<it>Energia</it> immagazzinata sarà comunque disponibile per altri edifici, potenzialmente lontani. Ci sono due opzioni per farlo in modo che <it>Energia</it> vada solo a quella <bd>Miniera</bd>:\n\nIn primo luogo potresti limitare gli edifici di esportazione nelle impostazioni <bd>Deposito </bd> solo alla tua <bd>Miniera</bd>. In secondo luogo, è possibile creare una regola di trasporto su un Palo Stradale per consentire il passaggio di <it>Energia</it> solo se si va in un <bd>Deposito</bd>.",
+    "Italian": "Questo pannello secondario elenca le risorse consegnate di recente a un edificio di produzione. Puoi filtrare i risultati in base a\" In orario\",\" Allerta\" e \"Allarme\" e puoi selezionare qualsiasi voce per vedere il percorso seguito. Il numero percentuale indica che il tempo impiegato per il viaggio rispetto al tempo necessario per mantenere la produttività del 100% nell'edificio di destinazione.\n\nAd esempio, una <bd>Capanna del Taglialegna</bd> richiede <it>Energia</it> al prezzo di una unità al giorno e può archiviare fino a quattro risorse <it>Energia</it> come buffer. Se una risorsa <it>Energia</it> impiega 4,5 giorni per arrivare, verrà elencata qui come 112% come se quel tempo di viaggio fosse coerente, quindi le risorse non arriverebbero abbastanza rapidamente per mantenere una produttività del 100%.\n\nQuesto è solo uno dei fattori. Quando si tiene conto del fatto che un edificio possa funzionare al 100%, si deve anche tenere conto del fatto che in primo luogo viene prodotta abbastanza quella risorsa.\n\nDi solito è ottimale posizionare un edificio che rifornisca un altro edificio vicino in modo che i percorsi di approvvigionamento siano brevi. A volte ciò non è possibile, ma per ovviare a questo problema è possibile creare <bd>Depositi</bd> vicino alla destinazione per creare un \"buffer\" di approvvigionamento aggiuntivo.\n\nAd esempio, se possiedi una <bd>Miniera</bd> remota, puoi costruire un <bd>Deposito</bd> nelle vicinanze per mantenere un rifornimento di <it>Energia</it> nelle vicinanze. Se lo fai, tieni presente che, per impostazione predefinita, l '<it>Energia</it> immagazzinata sarà comunque disponibile per altri edifici, potenzialmente lontani. Ci sono due opzioni per farlo in modo che <it>Energia</it> vada solo a quella <bd>Miniera</bd>:\n\nIn primo luogo potresti limitare gli edifici di esportazione nelle impostazioni <bd>Deposito </bd> solo alla tua <bd>Miniera</bd>. In secondo luogo, è possibile creare una regola di trasporto su un incrocio per consentire il passaggio di <it>Energia</it> solo se si va in un <bd>Deposito</bd>.",
     "Verify": ""
   },
   {
@@ -4580,7 +4580,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "You can add rules to a road post or transport building to help direct resources around your colony in particular ways.\n\nBlacklist: If you blacklist a resource it will not be able to pass through under any circumstance.\n\nBlacklist Except Storage: This option means accept the resource if it's going to a storage yard.\n\nWhitelist: means only the selected resources will be able to pass through.\n\nWhitelist Storage Only: This option means only whitelisted resources will be able to pass through and only if they're going to a storage yard.",
-    "Italian": "Puoi aggiungere regole a un Palo Stradale o a un edificio di trasporto per aiutare a dirigere le risorse intorno alla tua colonia in modi particolari.\n\nLista nera: se si inserisce nella lista nera una risorsa, questa non sarà in grado di passare in nessuna circostanza.\n\nLista nera (tranne archiviazione): questa opzione significa accettare la risorsa se va in un deposito.\n\nLista delle richieste: significa che solo le risorse selezionate saranno in grado di passare.\n\nLista delle richieste (solo deposito): questa opzione significa che solo le risorse nella lista delle richieste saranno in grado di passare e solo se stanno andando in un deposito.",
+    "Italian": "Puoi aggiungere regole a un incrocio o a un edificio di trasporto per aiutare a dirigere le risorse intorno alla tua colonia in modi particolari.\n\nLista nera: se si inserisce nella lista nera una risorsa, questa non sarà in grado di passare in nessuna circostanza.\n\nLista nera (tranne archiviazione): questa opzione significa accettare la risorsa se va in un deposito.\n\nLista delle richieste: significa che solo le risorse selezionate saranno in grado di passare.\n\nLista delle richieste (solo deposito): questa opzione significa che solo le risorse nella lista delle richieste saranno in grado di passare e solo se stanno andando in un deposito.",
     "Verify": ""
   },
   {
@@ -4596,7 +4596,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Buildings need to be connected to the road network for resources to be able to reach the building.\n\nBuildings can be directly placed on roads or the building's entrance can be connected to a road by a path.\n\nAdditionally, a building can be directly connected by paths to one or more other buildings. This allows stackbots to move resources between buildings without involving a road post and can help keep traffic off your roads.\n\nA road post or building connection has a maximum length of 20 tiles.\n\nYou can click on a connection in the list to see the route the Stackbot takes.",
-    "Italian": "Gli edifici devono essere collegati alla rete stradale affinché le risorse possano raggiungere l'edificio.\n\nGli edifici possono essere posizionati direttamente sulle strade o l'ingresso dell'edificio può essere collegato a una strada tramite un sentiero.\n\nInoltre, un edificio può essere collegato direttamente tramite percorsi a uno o più altri edifici. Ciò consente ai BotImpilatori di spostare le risorse tra gli edifici senza coinvolgere un palo stradale e può aiutare a mantenere il traffico lontano dalle strade.\n\nUna strada o un collegamento di un edificio ha una lunghezza massima di 20 tessere.\n\nÈ possibile fare clic su una connessione nell'elenco per vedere il percorso del BotImpilatore.",
+    "Italian": "Gli edifici devono essere collegati alla rete stradale affinché le risorse possano raggiungere l'edificio.\n\nGli edifici possono essere posizionati direttamente sulle strade o l'ingresso dell'edificio può essere collegato a una strada tramite un sentiero.\n\nInoltre, un edificio può essere collegato direttamente tramite percorsi a uno o più altri edifici. Ciò consente ai BotImpilatori di spostare le risorse tra gli edifici senza coinvolgere un incrocio e può aiutare a mantenere il traffico lontano dalle strade.\n\nUna strada o un collegamento di un edificio ha una lunghezza massima di 20 tessere.\n\nÈ possibile fare clic su una connessione nell'elenco per vedere il percorso del BotImpilatore.",
     "Verify": ""
   },
   {
@@ -7116,7 +7116,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "A path connects a building to a road or road post.\n\nA building's stackbot uses paths to collect and drop off resources at road posts.\n\nPaths do not have a maximum length but the longer the path, the more time it takes a stackbot to drop off and collect resources which may lead to delays.                                                    \n\nPaths can useful as they allow direct delivery between buildings which can reduce the traffic on your roads.",
-    "Italian": "Un percorso collega un edificio a una strada o ad un palo stradale.\n\nIl BotImpilatore di un edificio utilizza percorsi per raccogliere e scaricare risorse sui pali stradali.\n\nI percorsi non hanno una lunghezza massima ma più lungo è il percorso, più tempo impiega un BotImpilatore a scendere e raccogliere risorse che possono causare ritardi.\n\nI percorsi possono essere utili in quanto consentono la consegna diretta tra edifici che può ridurre il traffico sulle strade.",
+    "Italian": "Un percorso collega un edificio a una strada o ad un incrocio.\n\nIl BotImpilatore di un edificio utilizza i percorsi per raccogliere e scaricare risorse dagli incroci.\n\nI percorsi non hanno una lunghezza massima ma più lungo è il percorso, più tempo impiega un BotImpilatore a scendere e raccogliere risorse che possono causare ritardi.\n\nI percorsi possono essere utili in quanto consentono la consegna diretta tra edifici che può ridurre il traffico sulle strade.",
     "Verify": ""
   },
   {
@@ -7132,7 +7132,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "A road is a connection between two road posts. Road posts can hold four resources and each road has a Carrybot who moves resources between the posts.\n\nRoads have a minimum length of 4 tiles and a maximum length of 6 tiles.\n\nTo build a road, click on an existing road post and then click on the tile you want to end on.\n\nHold <hotkey>[Ctrl]</hotkey> and click a tile to fix a waypoint in your prospective road.",
-    "Italian": "Una strada è un collegamento tra due incroci. I pali stradali possono contenere quattro risorse e ogni strada ha un BotTrasportatore che sposta le risorse tra i pali.\n\nLe strade hanno una lunghezza minima di 4 caselle e una lunghezza massima di 6 caselle.\n\nPer costruire una strada, fai clic su un palo stradale esistente, quindi fai clic sulla casella su cui vuoi terminarla.\n\nTieni premuto <hotkey>[Ctrl]</hotkey> e fai clic su una casella per fissare una tappa intermedia nella tua strada.",
+    "Italian": "Una strada è un collegamento tra due incroci. Gli incroci possono contenere quattro risorse, e ogni strada ha un BotTrasportatore che sposta le risorse tra gli incroci.\n\nLe strade hanno una lunghezza minima di 4 caselle e una lunghezza massima di 6 caselle.\n\nPer costruire una strada, fai clic su un incrocio esistente, quindi fai clic sulla casella su cui vuoi terminarla.\n\nTieni premuto <hotkey>[Ctrl]</hotkey> e fai clic su una casella per fissare una tappa intermedia nella tua strada.",
     "Verify": ""
   },
   {
@@ -11468,7 +11468,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Buildings also don't need to be placed directly on <lr>Roads</lr>. They can be connected to a <lr>Road</lr> by a <lr>Path</lr>.\n<lr>Paths</lr> are secondary routes that allow a building's Stackbot to reach a road post. This allows you to be more flexible with your building and road placement.",
-    "Italian": "Gli edifici non hanno bisogno di essere piazzati direttamente sulle <lr>Strade</lr>. Possono essere connessi ad una <lr>Strada</lr> utilizzando un <lr>Sentiero</lr>.\nI <lr>Sentieri</lr> sono strade secondarie che permettono al BotImpilatore di un edificio di raggiungere un PaloStradale. Questo ti permette più flessibilità su dove piazzare gli edifici e le strade.",
+    "Italian": "Gli edifici non hanno bisogno di essere piazzati direttamente sulle <lr>Strade</lr>. Possono essere connessi ad una <lr>Strada</lr> utilizzando un <lr>Sentiero</lr>.\nI <lr>Sentieri</lr> sono strade secondarie che permettono al BotImpilatore di un edificio di raggiungere un incrocio. Questo ti permette più flessibilità su dove piazzare gli edifici e le strade.",
     "Verify": ""
   },
   {
@@ -11668,7 +11668,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Roads can only be started from existing road posts.\n<hotkey>Click</hotkey> on the blue road post outside the <bd>Colony Ship</bd> and then <hotkey>click</hotkey> on the next highlighted tile.",
-    "Italian": "Le strade possono iniziare soltanto dai pali stradali esistenti.\n<hotkey>Clicca</hotkey> sul palo stradale blu fuori dalla <bd>Nave della Colonia</bd> e poi <hotkey>clicca</hotkey> sulla casella evidenziata.",
+    "Italian": "Le strade possono iniziare soltanto dagli incroci esistenti.\n<hotkey>Clicca</hotkey> sull'incrocio blu fuori dalla <bd>Nave della Colonia</bd> e poi <hotkey>clicca</hotkey> sulla casella evidenziata.",
     "Verify": ""
   },
   {
@@ -11764,7 +11764,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Your Carrybots can now transport the <it>Logs</it> along the roads to the road post outside the <bd>Lumberjack Hut</bd>.\nThe Stackbot for the <bd>Lumberjack Hut</bd> will then pick up the resources and the Buildbot will then be able to construct the building.\nLet's watch!",
-    "Italian": "Il tuo BotTrasportatore può ora trasportare i <it>Tronchi</it> lungo la strada fino al palo stradale fuori dalla <bd>Capanna del Taglialegna</bd>.\nIl BotImpilatore della <bd>Capanna del Taglialegna</bd> quindi prenderà le risorse e il BotCostruttore sarà pronto a costruire l'edificio.\nStiamo a vedere!",
+    "Italian": "Il tuo BotTrasportatore può ora trasportare i <it>Tronchi</it> lungo la strada fino all'incrocio fuori dalla <bd>Capanna del Taglialegna</bd>.\nIl BotImpilatore della <bd>Capanna del Taglialegna</bd> quindi prenderà le risorse e il BotCostruttore sarà pronto a costruire l'edificio.\nStiamo a vedere!",
     "Verify": ""
   },
   {
@@ -11828,7 +11828,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Now, starting at the post outside the <bd>Colony Ship</bd>, connect to the <bd>Sheep Farm</bd> using <lr>Roads</lr> and <lr>Paths</lr>.\nYou can also use hotkeys <hotkey>[1]</hotkey> through <hotkey>[9]</hotkey> to select different construction modes.",
-    "Italian": "Adesso, iniziando dal palo stradale fuori dalla <bd>Nave della Colonia</bd>, connetti l' <bd>Allevamento di pecore</bd> utilizzando <lr>Strade</lr> e <lr>Sentieri</lr>.\nPuoi anche utilizzare i tasti <hotkey>[1]</hotkey> fino a <hotkey>[9]</hotkey> per selezionare le diverse modalità di costruzione.",
+    "Italian": "Adesso, iniziando dall'incrocio fuori dalla <bd>Nave della Colonia</bd>, connetti l' <bd>Allevamento di pecore</bd> utilizzando <lr>Strade</lr> e <lr>Sentieri</lr>.\nPuoi anche utilizzare i tasti <hotkey>[1]</hotkey> fino a <hotkey>[9]</hotkey> per selezionare le diverse modalità di costruzione.",
     "Verify": ""
   },
   {
@@ -11956,7 +11956,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Your new <bd>Harbour</bd> is under construction!\nYour boat has also automatically created a transport route between your new <bd>Harbour</bd> and its original <bd>Harbour</bd>.\nResources will automatically be delivered through your <bd>Harbours</bd> when they are requested by buildings on either island.\nAs your colony expands you will want to control which resources can pass through your network in order to prevent resources being sourced from too far away or from different islands.\nCheck out the transport rule system by clicking on any road post or harbour.",
-    "Italian": "Il tuo nuovo <bd>Porto</bd> è in costruzione!\nLa tua barca ha creato automaticamente una rotta di trasporto tra il tuo nuovo <bd>Porto</bd> e il <bd>Porto</bd> originale.\nLe risorse verranno consegnate automaticamente tra <bd>Porti</bd> quando richieste da edifici in un'isola o nell'altra.\nMan mano che la tua colonia si espande vorrai avere più controllo su che risorse possono passare, in modo da impedire che le risorse vengano inviate troppo lontano in isole differenti.\nControlla le regole di trasporto cliccando su un qualsiasi palo stradale o su un porto.",
+    "Italian": "Il tuo nuovo <bd>Porto</bd> è in costruzione!\nLa tua barca ha creato automaticamente una rotta di trasporto tra il tuo nuovo <bd>Porto</bd> e il <bd>Porto</bd> originale.\nLe risorse verranno consegnate automaticamente tra <bd>Porti</bd> quando richieste da edifici in un'isola o nell'altra.\nMan mano che la tua colonia si espande vorrai avere più controllo su che risorse possono passare, in modo da impedire che le risorse vengano inviate troppo lontano in isole differenti.\nControlla le regole di trasporto cliccando su un qualsiasi incrocio o su un porto.",
     "Verify": ""
   },
   {
@@ -13180,7 +13180,7 @@
     "Type": "Text",
     "Desc": "Road posts that a building is connected to. {0}:amount",
     "English": "Road Posts ({0})",
-    "Italian": "Pali stradali ({0})",
+    "Italian": "Incroci ({0})",
     "Verify": ""
   },
   {
@@ -13620,7 +13620,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Building is not connected to a road post or path is too long",
-    "Italian": "L'edificio non è connesso ad un palo stradale o il sentiero è troppo lungo",
+    "Italian": "L'edificio non è connesso ad un incrocio o il sentiero è troppo lungo",
     "Verify": ""
   },
   {
@@ -13756,7 +13756,7 @@
     "Type": "Text",
     "Desc": "{0}:Click",
     "English": "[{0}] to place post and start road",
-    "Italian": "[{0}] per piazzare un palo stradale e iniziare una strada",
+    "Italian": "[{0}] per piazzare un incrocio e iniziare una strada",
     "Verify": ""
   },
   {
@@ -13764,7 +13764,7 @@
     "Type": "Text",
     "Desc": "{0}:Click",
     "English": "[{0}] to start road from this post",
-    "Italian": "[{0}] per iniziare una strada da questo palo stradale",
+    "Italian": "[{0}] per iniziare una strada da questo incrocio",
     "Verify": ""
   },
   {
@@ -13812,7 +13812,7 @@
     "Type": "Text",
     "Desc": "{0}:Click, {1}:Ctrl",
     "English": "[{0}] to place post and complete road\n\n[{1}] to set waypoint",
-    "Italian": "[{0}] per piazzare un palo stradale e completare la strada\n\n[{1}] per impostare una tappa intermedia",
+    "Italian": "[{0}] per piazzare un incrocio e completare la strada\n\n[{1}] per impostare una tappa intermedia",
     "Verify": ""
   },
   {
@@ -14004,7 +14004,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Setting road post rules is disabled for the first mission.",
-    "Italian": "Le impostazioni dei pali stradali sono disabilitate per questa missione.",
+    "Italian": "Le impostazioni degli incroci sono disabilitate per questa missione.",
     "Verify": ""
   },
   {
@@ -14196,7 +14196,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "New road must start at existing post",
-    "Italian": "Una nuova strada deve iniziare da un palo stradale esistente",
+    "Italian": "Una nuova strada deve iniziare da un incrocio esistente",
     "Verify": ""
   },
   {
@@ -14204,7 +14204,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Can't place road post on existing road",
-    "Italian": "Non puoi piazzare un palo stradale su una strada esistente",
+    "Italian": "Non puoi piazzare un incrocio su una strada esistente",
     "Verify": ""
   },
   {
@@ -15340,7 +15340,7 @@
     "Type": "Text",
     "Desc": "{0}: building",
     "English": "Road post for {0}",
-    "Italian": "Palo stradale per {0}",
+    "Italian": "Incrocio per {0}",
     "Verify": ""
   },
   {
@@ -15348,7 +15348,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Manage the movement of resources through your colony by setting up rules for this road post.",
-    "Italian": "Gestisci lo spostamento delle risorse attraverso la tua colonia impostando le regole per questo palo stradale.",
+    "Italian": "Gestisci lo spostamento delle risorse attraverso la tua colonia impostando le regole per questo incrocio.",
     "Verify": ""
   },
   {
@@ -15356,7 +15356,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Resources banned from passing through this road post:",
-    "Italian": "Risorse vietate dal passaggio tramite questo palo stradale:",
+    "Italian": "Risorse vietate dal passaggio tramite questo incrocio:",
     "Verify": ""
   },
   {
@@ -15364,7 +15364,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Resources banned from passing through this road post unless they're headed for a storage yard:",
-    "Italian": "Risorse vietate dal passaggio tramite questo palo stradale tranne quelle dirette verso un deposito:",
+    "Italian": "Risorse vietate dal passaggio tramite questo incrocio, tranne quelle dirette verso un deposito:",
     "Verify": ""
   },
   {
@@ -15372,7 +15372,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Resources allowed through this road post:",
-    "Italian": "Risorse permesse attraverso questo palo stradale:",
+    "Italian": "Risorse permesse attraverso questo incrocio:",
     "Verify": ""
   },
   {
@@ -15380,7 +15380,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Resources allowed through this road post only if headed to a storage yard:",
-    "Italian": "Risorse permesse attraverso questo palo stradale ma solo se dirette verso un deposito:",
+    "Italian": "Risorse permesse attraverso questo incrocio ma solo se dirette verso un deposito:",
     "Verify": ""
   },
   {
@@ -16284,7 +16284,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "This panel shows all the resources currently on their way to this building as well as resources that have recently arrived.\n\nYou can click on a resource in the list and it will show you the route the resource took from the building where it was created.\n\nA building will always source the nearest available resource at the time. Once a resource has been sourced its destination is fixed.\n\nUse rules at road posts, harbours and train stations to control where resources are sourced from, as well as import and export whitelists on buildings.",
-    "Italian": "Questo pannello mostra tutte le risorse attualmente in viaggio per questo edificio, nonché le risorse che sono arrivate di recente.\n\nPuoi fare clic su una risorsa nell'elenco e ti mostrerà il percorso che la risorsa ha preso dall'edificio in cui è stata creata.\n\nUn edificio fornirà sempre la risorsa disponibile più vicina. Una volta che una risorsa è stata inviata, la sua destinazione è fissa.\n\nUsa le regole ai pali stradali, nei porti e nelle stazioni ferroviarie per controllare da dove provengono le risorse, nonché importare ed esportare liste delle richieste sugli edifici.",
+    "Italian": "Questo pannello mostra tutte le risorse attualmente in viaggio per questo edificio, nonché le risorse che sono arrivate di recente.\n\nPuoi fare clic su una risorsa nell'elenco e ti mostrerà il percorso che la risorsa ha preso dall'edificio in cui è stata creata.\n\nUn edificio fornirà sempre la risorsa disponibile più vicina. Una volta che una risorsa è stata inviata, la sua destinazione è fissa.\n\nUsa le regole agli incroci, nei porti e nelle stazioni ferroviarie per controllare da dove provengono le risorse, nonché importare ed esportare liste delle richieste sugli edifici.",
     "Verify": ""
   },
   {
@@ -16596,7 +16596,7 @@
     "Type": "Text",
     "Desc": "{0}: click",
     "English": "[{0}] to place post and complete road",
-    "Italian": "[{0}] per piazzare un palo stradale e completare la strada",
+    "Italian": "[{0}] per piazzare un incrocio e completare la strada",
     "Verify": ""
   },
   {
@@ -19012,7 +19012,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Roads are the main trunk routes of your colony. Each road has a carrybot who moves resources between the road posts at the ends of each road. Roads have a minimum length of 4 tiles and a maximum length of 6 tiles.",
-    "Italian": "Le strade sono le principali vie di comunicazione della tua colonia. Ogni strada ha un BotTrasportatore che sposta le risorse tra i pali alla fine di ogni strada. Le strade hanno una lunghezza minima di 4 caselle e una lunghezza massima di 6 caselle.",
+    "Italian": "Le strade sono le principali vie di comunicazione della tua colonia. Ogni strada ha un BotTrasportatore che sposta le risorse tra gli incroci alla fine di ogni strada. Le strade hanno una lunghezza minima di 4 caselle e una lunghezza massima di 6 caselle.",
     "Verify": ""
   },
   {
@@ -19020,7 +19020,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "To build a road, select 'Road' from the building menu <hotkey>[1]</hotkey>, click on an existing road post and then click on the tile you want to end on. When drawing a road you can hold [Control] when clicking a tile to fix a waypoint in your prospective road.",
-    "Italian": "Per costruire una strada, seleziona \"Strada\" dal menu di costruzione \n<hotkey>[1]</hotkey>, fai clic su un palo stradale esistente, quindi fai clic sulla casella su cui desideri terminare la strada. Quando si traccia una strada è possibile tenere premuto [Control] quando si fa clic su una casella per fissare un waypoint.",
+    "Italian": "Per costruire una strada, seleziona \"Strada\" dal menu di costruzione \n<hotkey>[1]</hotkey>, fai clic su un incrocio esistente, quindi fai clic sulla casella su cui desideri terminare la strada. Quando si traccia una strada è possibile tenere premuto [Control] quando si fa clic su una casella per fissare un waypoint.",
     "Verify": ""
   },
   {
@@ -19028,7 +19028,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Road posts can hold a maximum of four resources at any one time. When a carrybot moves a resource from one road post to another it will only be able to drop off the resource if there is enough room and if not, the carrybot will wait until a space becomes available.",
-    "Italian": "I pali stradali possono contenere un massimo di quattro risorse alla volta. Quando un BotTrasportatore sposta una risorsa da un palo stradale a un altro, sarà in grado di rilasciare la risorsa solo se c'è abbastanza spazio e, in caso contrario, aspetterà fino a quando uno spazio non sarà disponibile.",
+    "Italian": "Gli incroci possono contenere un massimo di quattro risorse alla volta. Quando un BotTrasportatore sposta una risorsa da un incrocio ad un altro, sarà in grado di rilasciare la risorsa solo se c'è abbastanza spazio e, in caso contrario, aspetterà fino a quando uno spazio non sarà disponibile.",
     "Verify": ""
   },
   {
@@ -19044,7 +19044,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "You can also add rules to road posts to determine which resources are allowed to move through the road post. There is more information on this in the Resource Rules section.",
-    "Italian": "Puoi anche aggiungere regole ai pali stradali per determinare quali risorse sono autorizzate a passare. Ulteriori informazioni su questo argomento sono disponibili nella sezione Regole risorse.",
+    "Italian": "Puoi anche aggiungere regole agli incroci per determinare quali risorse sono autorizzate a passare. Ulteriori informazioni su questo argomento sono disponibili nella sezione Regole risorse.",
     "Verify": ""
   },
   {
