@@ -283,8 +283,8 @@
     "Key": "Advice_25_Desc",
     "Type": "Text",
     "Desc": "",
-    "English": "You can upgrade <bd>Workshops</bd> in order to research more advanced technologies including ore mining.",
-    "Italian": "Puoi migliorare i <bd>Laboratori</bd> in modo da poter ricercare tecnologie più avanzate, inclusa l'estrazione del Ferro.",
+    "English": "You can upgrade <bd>Workshops</bd> in order to research more advanced technologies.",
+    "Italian": "Puoi migliorare i <bd>Laboratori</bd> in modo da poter ricercare tecnologie più avanzate.",
     "Verify": ""
   },
   {
@@ -19077,6 +19077,62 @@
     "Desc": "",
     "English": "You can select a building and the connections panel will tell you the roads and other buildings that the building is connected to. You can also select a connection to visualise it.",
     "Italian": "Puoi selezionare un edificio, e il pannello dei collegamenti ti mostrerà le strade e gli altri edifici a cui l'edificio è collegato. Puoi anche selezionare un collegamento per visualizzarlo.",
+    "Verify": ""
+  },
+  {
+    "Key": "Flora_Generic_Rock",
+    "Type": "Text",
+    "Desc": "Used in \"Tile occupied by {0}",
+    "English": "rock",
+    "Italian": "roccia",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityStructuresNonContiguousFarmFieldDesc",
+    "Type": "Text",
+    "Desc": "Used for standalone fields like orchard plots",
+    "English": "Click to place a new {0}.\nRemove a {1} by <hotkey>[Shift]</hotkey> + clicking.",
+    "Italian": "Clicca per piazzare un nuovo {0}.\nRimuovi un {1} utilizzando <hotkey>[Shift]</hotkey> + click.",
+    "Verify": ""
+  },
+  {
+    "Key": "Dismantle_ExportRulesWarning",
+    "Type": "Text",
+    "Desc": "",
+    "English": "This building has export rules which will affect the distribution of resources reclaimed by dismantling.\n\nDo you want to clear the export rules?",
+    "Italian": "Questo edificio ha regole di esportazione che influenzeranno la distribuzione delle risorse recuperate dallo smantellamento.\n\nVuoi rimuovere le regole di esportazione?",
+    "Verify": ""
+  },
+  {
+    "Key": "NewScenario_TerrainTypeLabel",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Terrain",
+    "Italian": "Terreno",
+    "Verify": ""
+  },
+  {
+    "Key": "NewScenario_TerrainTypeFlat",
+    "Type": "Text",
+    "Desc": "Terrain is just flat",
+    "English": "Flat",
+    "Italian": "Piatto",
+    "Verify": ""
+  },
+  {
+    "Key": "NewScenario_TerrainTypeRandom",
+    "Type": "Text",
+    "Desc": "Terrain is procedurally generated",
+    "English": "Random",
+    "Italian": "Random",
+    "Verify": ""
+  },
+  {
+    "Key": "MapEditorMarketSettingsHeader",
+    "Type": "Text",
+    "Desc": "Header of panel to set market resource prices",
+    "English": "Market Settings",
+    "Italian": "Impostazioni mercato",
     "Verify": ""
   }
 ]

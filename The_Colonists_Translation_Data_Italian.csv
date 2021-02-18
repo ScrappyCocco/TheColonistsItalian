@@ -50,7 +50,7 @@ Advice_23_Desc,Text,,By using the navigation tab on your boat you can freely sai
 Advice_23_Name,Text,,Build a <bd>Harbour</bd> on a new island!,Costruisci un <bd>Porto</bd> su una nuova isola!,
 Advice_24_Desc,Text,,Research <res>Mining I</res> at the Level 2 <bd>Workshop</bd> to unlock Level 2 <bd>Surface Mine</bd> and Level 1 <bd>Shaft Mine</bd> and be able to mine <nr>Coal</nr> and <nr>Iron ore</nr>.,Ricerca <res>Estrazione I</res> al <bd>Laboratorio</bd> Livello 2 per sbloccare la <bd>Miniera di Superficie</bd> Livello 2 e la <bd>Miniera</bd> Livello 1 in modo da poter estrarre <nr>Carbone</nr> e <nr>Ferro grezzo</nr>.,
 Advice_24_Name,Text,,Research <res>Mining I</res>!,Ricerca <res>Estrazione I</res>!,
-Advice_25_Desc,Text,,You can upgrade <bd>Workshops</bd> in order to research more advanced technologies including ore mining.,"Puoi migliorare i <bd>Laboratori</bd> in modo da poter ricercare tecnologie più avanzate, inclusa l'estrazione del Ferro.",
+Advice_25_Desc,Text,,You can upgrade <bd>Workshops</bd> in order to research more advanced technologies.,Puoi migliorare i <bd>Laboratori</bd> in modo da poter ricercare tecnologie più avanzate.,
 Advice_25_Name,Text,,Upgrade a <bd>Workshop</bd>!,Migliora un <bd>Laboratorio</bd>!,
 Advice_26_Desc,Text,,You can instruct your Lumberbots to chop down specific trees via the priority panel on a <bd>Lumberjack Hut</bd>.,Puoi istruire i tuoi BotTaglialegna per tagliare specifici alberi nel pannello priorità in una <bd>Capanna del Taglialegna</bd>.,
 Advice_26_Name,Text,,Try <bd>Lumberjack Hut</bd> Prioritisation!,Prova a prioritizzare la <bd>Capanna del Taglialegna</bd>!,
@@ -3090,3 +3090,16 @@ Help_1_Header6,Text,,Paths,Sentieri,
 Help_1_Content6,Text,,Paths are used to connect buildings to roads or to connect buildings to each other.,I sentieri sono utilizzati per collegare edifici alle strade o per collegare edifici tra di loro.,
 Help_1_Content7,Text,,Every building has one or more stackbots who are in charge of delivering and collecting resources that are either coming into or being taken out of that building. Therefore the building needs to connected to at least one road for the building to receive resources from the network.,Ogni edificio ha uno o più BotImpilatore incaricati di consegnare e raccogliere risorse che entrano o vengono portate fuori da quell'edificio. Pertanto l'edificio deve essere collegato ad almeno una strada affinché l'edificio riceva risorse dalla rete.,
 Help_1_Content8,Text,,You can select a building and the connections panel will tell you the roads and other buildings that the building is connected to. You can also select a connection to visualise it.,"Puoi selezionare un edificio, e il pannello dei collegamenti ti mostrerà le strade e gli altri edifici a cui l'edificio è collegato. Puoi anche selezionare un collegamento per visualizzarlo.",
+Flora_Generic_Rock,Text,"Used in ""Tile occupied by {0}""",rock,roccia,
+EntityStructuresNonContiguousFarmFieldDesc,Text,Used for standalone fields like orchard plots,"Click to place a new {0}.
+Remove a {1} by <hotkey>[Shift]</hotkey> + clicking.","Clicca per piazzare un nuovo {0}.
+Rimuovi un {1} utilizzando <hotkey>[Shift]</hotkey> + click.",
+Dismantle_ExportRulesWarning,Text,,"This building has export rules which will affect the distribution of resources reclaimed by dismantling.
+
+Do you want to clear the export rules?","Questo edificio ha regole di esportazione che influenzeranno la distribuzione delle risorse recuperate dallo smantellamento.
+
+Vuoi rimuovere le regole di esportazione?",
+NewScenario_TerrainTypeLabel,Text,,Terrain,Terreno,
+NewScenario_TerrainTypeFlat,Text,Terrain is just flat,Flat,Piatto,
+NewScenario_TerrainTypeRandom,Text,Terrain is procedurally generated,Random,Random,
+MapEditorMarketSettingsHeader,Text,Header of panel to set market resource prices,Market Settings,Impostazioni mercato,
