@@ -19134,5 +19134,37 @@
     "English": "Market Settings",
     "Italian": "Impostazioni mercato",
     "Verify": ""
+  },
+  {
+    "Key": "RoadState_ClickPlaceRoadPost",
+    "Type": "Text",
+    "Desc": "{0}:Click",
+    "English": "[{0}] to place road post",
+    "Italian": "[{0}] per piazzare un incrocio",
+    "Verify": ""
+  },
+  {
+    "Key": "Tooltip_CantPlaceRoadPost",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Can't place road post",
+    "Italian": "Impossibile piazzare incrocio",
+    "Verify": ""
+  },
+  {
+    "Key": "GameSetting_StartingMoney",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Starting money: ${0}",
+    "Italian": "Denaro iniziale: ${0}",
+    "Verify": ""
+  },
+  {
+    "Key": "GameSetting_SomeTechPreresearched",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Some technologies preresearched",
+    "Italian": "Alcune tecnologie già studiate",
+    "Verify": ""
   }
 ]
