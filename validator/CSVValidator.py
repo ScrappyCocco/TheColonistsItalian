@@ -21,6 +21,8 @@ class CSVValidator:
 
     # Grammar elements to check in the row
     elements_to_check = [",", ".", ":", "!", " - ", "%", "[", "]"]
+    # Brackets to check balance
+    brackets_balance_open = ["[", "{", "(", "<"]
     # Elements which number can differ between the english version and the translated version
     # This is to allow translated phrases to have more grammar that might be necessary
     # Remember that this only apply when the english version has 0, otherwise the number must be the same
@@ -35,6 +37,43 @@ class CSVValidator:
         else:
             print("Column name confirmed valid:" + str(len(first_row)))
             return True
+
+    def __row_brackets_validation(self, row: str) -> bool:
+        stack = []
+        for element in row:
+            if element in self.brackets_balance_open:
+                stack.append(element)
+            else:
+                # Not enough elements to check balance
+                if len(stack) < 1:
+                    continue
+
+                top_element = stack[-1]
+                if element == "]":
+                    if top_element == "[":
+                        stack.pop()
+                    else:
+                        return False
+                elif element == "}":
+                    if top_element == "{":
+                        stack.pop()
+                    else:
+                        return False
+                elif element == ")":
+                    if top_element == "(":
+                        stack.pop()
+                    else:
+                        return False
+                elif element == ">":
+                    if top_element == "<":
+                        stack.pop()
+                    else:
+                        return False
+        if len(stack) == 0:
+            # Success
+            return True
+        # Something is wrong
+        return False
 
     @staticmethod
     def __row_param_validation(row: list) -> bool:
@@ -140,6 +179,7 @@ class CSVValidator:
                 print("THIS CHECK IS IGNORING FEW LINES, MAKE SURE THIS IS INTENDED")
                 print("-----")
             errors_found = 0
+            warnings_found = 0
             for row in csv_reader:
                 if line_counter == 1:
                     if not self.__csv_columns_validation(row):
@@ -150,6 +190,26 @@ class CSVValidator:
                         file_manager.write_string_to_file("---Skipped line " + str(line_counter) +
                                                           " because in ignore list!\n\n")
                     else:
+                        # Check balance of brackets in original line
+                        if not self.__row_brackets_validation(row[3]):
+                            warnings_found += 1
+                            file_manager.write_line_separator(str(line_counter))
+                            file_manager.write_string_to_file(
+                                "Warning [Brackets]: " +
+                                "The Brackets (ex: {0}) looks invalid, and appear unbalanced " +
+                                "(there are unclosed brackets or the order is wrong)" +
+                                " - Translated line will not be checked since the original is already unbalanced " +
+                                "check the line:\n'" + str(row[3]) + "'\n\n")
+                        # If the balance is correct in the original file, check the translated line
+                        elif not self.__row_brackets_validation(row[4]):
+                            errors_found += 1
+                            file_manager.write_line_separator(str(line_counter))
+                            file_manager.write_string_to_file(
+                                "Error [Brackets]: " +
+                                "The Brackets (ex: {0}) looks invalid, and appear unbalanced " +
+                                "but are balanced in the original line " +
+                                "(there are unclosed brackets or the order is wrong) " +
+                                "check the line:\n'" + str(row[4]) + "'\n\n")
                         if not self.__row_param_validation(row):
                             errors_found += 1
                             file_manager.write_line_separator(str(line_counter))
@@ -172,6 +232,7 @@ class CSVValidator:
                                 "The tags (ex. <cat>) looks invalid, check the line:\n'" + str(row[4]) + "'\n\n")
                 line_counter += 1
             # For end
+            print("Warnings counter:" + str(warnings_found))
             print("Errors counter:" + str(errors_found))
             if errors_found > 0:
                 print("For-loop Ended - ERRORS FOUND, see file:'" + file_manager.file_output_name + "' for more...")
