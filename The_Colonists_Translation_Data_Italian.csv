@@ -3118,3 +3118,16 @@ This can be useful if you want to clear areas of trees or natural resources but 
 
 Questo può essere utile se desideri ripulire aree da alberi o risorse naturali, ma non hai bisogno delle risorse generate.",
 EntityProductionUI_ChangeToClearanceMode,Text,Button action,Enable Clearance Mode,Abilita la modalità Concessione,
+EntityProductionUI_ChangeToProductionMode,Text,Button action,Disable Clearance Mode,Disabilita la modalità Concessione,
+HelpTitle_8_Name,Text,,Clearance Mode,Modalità Concessione,
+HelpTitle_8_Desc,Text,,No resources are created,Non vengono create risorse,
+BuildingStorage_ClearAllResources,Text,,Destroy All Resources,Distruggi tutte le risorse,
+ClearAllResourcesConfirm,Text,"{0}: building, {1}:hotkey","Are you sure you want to destroy all the resources at {0}?
+
+Hold [{1}] to skip this message.","Sei sicuro di voler distruggere tutte le risorse in {0}?
+
+Tieni premuto [{1}] per saltare questo messaggio.",
+RandomMap_Trees,Text,,Trees,Alberi,
+RandomMap_Trees0,Text,Few trees available,Few,Pochi,
+RandomMap_Trees1,Text,Moderate amount of trees available,Normal,Normale,
+RandomMap_Trees2,Text,Plenty of trees available,Lots,Tanti,

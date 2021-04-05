@@ -19190,5 +19190,77 @@
     "English": "Enable Clearance Mode",
     "Italian": "Abilita la modalità Concessione",
     "Verify": ""
+  },
+  {
+    "Key": "EntityProductionUI_ChangeToProductionMode",
+    "Type": "Text",
+    "Desc": "Button action",
+    "English": "Disable Clearance Mode",
+    "Italian": "Disabilita la modalità Concessione",
+    "Verify": ""
+  },
+  {
+    "Key": "HelpTitle_8_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Clearance Mode",
+    "Italian": "Modalità Concessione",
+    "Verify": ""
+  },
+  {
+    "Key": "HelpTitle_8_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "No resources are created",
+    "Italian": "Non vengono create risorse",
+    "Verify": ""
+  },
+  {
+    "Key": "BuildingStorage_ClearAllResources",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Destroy All Resources",
+    "Italian": "Distruggi tutte le risorse",
+    "Verify": ""
+  },
+  {
+    "Key": "ClearAllResourcesConfirm",
+    "Type": "Text",
+    "Desc": "{0}: building, {1}:hotkey",
+    "English": "Are you sure you want to destroy all the resources at {0}?\n\nHold [{1}] to skip this message.",
+    "Italian": "Sei sicuro di voler distruggere tutte le risorse in {0}?\n\nTieni premuto [{1}] per saltare questo messaggio.",
+    "Verify": ""
+  },
+  {
+    "Key": "RandomMap_Trees",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Trees",
+    "Italian": "Alberi",
+    "Verify": ""
+  },
+  {
+    "Key": "RandomMap_Trees0",
+    "Type": "Text",
+    "Desc": "Few trees available",
+    "English": "Few",
+    "Italian": "Pochi",
+    "Verify": ""
+  },
+  {
+    "Key": "RandomMap_Trees1",
+    "Type": "Text",
+    "Desc": "Moderate amount of trees available",
+    "English": "Normal",
+    "Italian": "Normale",
+    "Verify": ""
+  },
+  {
+    "Key": "RandomMap_Trees2",
+    "Type": "Text",
+    "Desc": "Plenty of trees available",
+    "English": "Lots",
+    "Italian": "Tanti",
+    "Verify": ""
   }
 ]
