@@ -1310,7 +1310,7 @@ MiscCat_5_Name,Text,,Cobbled Roads,Strade acciottolate,
 MiscCat_7_Name,Text,,Various Resources,Varie risorse,
 MiscCat_8_Name,Text,,Research,Ricerca,
 MiscCat_9_Name,Text,,Brick Roads,Strade di mattoni,
-MiscInfoPanelMode_0_Desc,Text,,Click on an empty to snap to neighbour heights.,Clicca una cella vuota per trasformarla all'altezza dei vicini.,
+MiscInfoPanelMode_0_Desc,Text,,Click on an empty tile to snap to its neighbour's heights.,Clicca una cella vuota per trasformarla all'altezza dei vicini.,
 MiscInfoPanelMode_0_Name,Text,,Snap Whole Tile,Trasforma intera cella,
 MiscInfoPanelMode_1_Desc,Text,,"Sometimes it can be useful to remove a wall to allow roads or paths in certain directions.
 
@@ -1462,7 +1462,7 @@ ScenGameVerErr_2,Text,,Invalid landing site for <p>,Zona di atterraggio non vali
 ScenGameVerErr_3,Text,,A title needs to be set!,Una casella deve essere impostata!,
 ScenGameVerErr_4,Text,,A preview image needs to be set!,Un'immagine di anteprima deve essere impostata!,
 ScenGameVerErr_5,Text,,Domination victory requires other colonies!,La vittoria in Dominazione richiede altre colonie!,
-ScenGameVerErr_6,Text,,Market needs to be abled for $ victories!,Il mercato deve essere abilitato per $ vittorie!,
+ScenGameVerErr_6,Text,,Market needs to be enabled for $ victories!,Il mercato deve essere abilitato per $ vittorie!,
 ScenVict_0_Desc,Text,,Capture enemy colony ships,Cattura le navi nemiche della colonia,
 ScenVict_0_Name,Text,,Domination,Dominazione,
 ScenVict_1_Desc,Text,,Build <amount> <building>,Costruisci <amount> <building>,
@@ -1843,10 +1843,10 @@ Seleziona la modalità di costruzione <lr>Percorsi</lr> in basso a destra dello 
 TutorialDialogues_T1_RoadToLumberjackHut2,Text,,"Roads can only be started from existing road posts.
 <hotkey>Click</hotkey> on the blue road post outside the <bd>Colony Ship</bd> and then <hotkey>click</hotkey> on the next highlighted tile.","Le strade possono iniziare soltanto dagli incroci esistenti.
 <hotkey>Clicca</hotkey> sull'incrocio blu fuori dalla <bd>Nave della Colonia</bd> e poi <hotkey>clicca</hotkey> sulla casella evidenziata.",
-TutorialDialogues_T1_RoadToLumberjackHut3,Text,,Got it! Roads can be between 4 and 6 tiles long. Build another <lr>Road</lr> to connect your <bd>Lumberjack</bd>.,Fatto! Le strade possono essere lunghe da 4 a 6 caselle. Costruisci un'altra <lr>Strada</lr> per collegare la tua <bd>Capanna del Taglialegna</bd>.,
+TutorialDialogues_T1_RoadToLumberjackHut3,Text,,Got it! Roads can be between 4 and 6 tiles long. Build another <lr>Road</lr> to connect your <bd>Lumberjack Hut</bd>.,Fatto! Le strade possono essere lunghe da 4 a 6 caselle. Costruisci un'altra <lr>Strada</lr> per collegare la tua <bd>Capanna del Taglialegna</bd>.,
 TutorialDialogues_T1_RoadToLumberjackHut4,Text,,Great! Each <lr>Road</lr> has a Carrybot who moves resources between the posts at either end of the <lr>Road</lr> depending on where the resource needs to go.,Bene! Ogni <lr>Strada</lr> ha un BotTrasportatore che muove le risorse tra le due estremità della <lr>Strada</lr> a seconda di dove deve andare la risorsa.,
 TutorialDialogues_T1_SpeedControls,Text,,You can increase and decrease the game speed in the top right of the screen or by using hotkeys:,Puoi aumentare e diminuire la velocità di gioco in alto a destra o utilizzando i tasti:,
-TutorialDialogues_T1_SpeedControls_TaskButtons,Text,,Change game speed using buttons in top right of the screen.,Cambia velocità di gioco utilizzando i bottoni in alto a destra.,
+TutorialDialogues_T1_SpeedControls_TaskButtons,Text,,Change game speed using buttons in the top right of the screen.,Cambia velocità di gioco utilizzando i bottoni in alto a destra.,
 TutorialDialogues_T1_SpeedControls_TaskPause,Text,,Pause and unpause the game using <hotkey>[Space]</hotkey>.,Pausa e riprendi il gioco utilizzando <hotkey>[Spazio]</hotkey>.,
 TutorialDialogues_T1_SpeedControls_TaskSpeedUpDown,Text,,Change game speed using <hotkey>[Z]</hotkey> and <hotkey>[X]</hotkey>.,Cambia la velocità di gioco utilizzando <hotkey>[Z]</hotkey> e <hotkey>[X]</hotkey>.,
 TutorialDialogues_T1_StoneDepositInfo,Text,,"<it>Stone</it> is used to build more advanced buildings.
@@ -1938,7 +1938,7 @@ Controlla le regole di trasporto cliccando su un qualsiasi incrocio o su un port
 TutorialDialogues__Overlay_FirstExpeditionLoaded,Text,,"Your expedition boat is ready!
 Select it to enter navigation mode. You can now click on a water tile to explore the ocean and discover new islands.
 You can check the Map (<hotkey>[M]</hotkey>) screen to see where the hidden resources are located.
-Once you've found a new island, use the 'Build Harbour' option on the boat panel to construct a new <bd>Harbour</bd> your new land.","La tua barca da spedizione è pronta!
+Once you've found a new island, use the 'Build Harbour' option on the boat panel to construct a new <bd>Harbour</bd> on your new land.","La tua barca da spedizione è pronta!
 Selezionala per entrare in modalità navigazione. Puoi ora cliccare su una casella d'acqua per esplorare l'oceano e scoprire nuove isole.
 Puoi controllare la mappa (<hotkey>[M]</hotkey>) per vedere dove sono le risorse nascoste.
 Una volta che hai trovato una nuova isola, utilizza l'opzione 'Costruisci Porto' nel pannello della barca per costruire un nuovo <bd>Porto</bd> sulla nuova terra.",
@@ -2629,8 +2629,8 @@ AffectedTransportRulesDesc,Text,{0}: resource type. e.g. Planks,The following tr
 Pumpkins_Building_66_Description,Text,,Create <it>Pumpkins</it> from pumpkin patches.,Crea <it>Zucche</it> dai campi di zucche.,
 Pumpkins_Building_66_Name,Text,,Pumpkin Farm,Campo di Zucche,
 Pumpkins_Building_66_Plural,Text,,Pumpkin Farms,Campi di Zucche,
-Pumpkins_Item_47_Desc,Text,,Pumpkins are harvested at the <bd>Pumpkin Patch</bd>.,Le Zucche sono raccolte al <bd>Campo di Zucche</bd>.,
-Pumpkins_Item_47_FullDesc,Text,,Pumpkins are harvested at the <bd>Pumpkin Patch</bd> and are consumed by <bd>Level 1 Residences</bd>.,Le Zucche sono raccolte al <bd>Campo di Zucche</bd> e sono consumate dalle <bd>Residenze di Livello 1</bd>.,
+Pumpkins_Item_47_Desc,Text,,Pumpkins are harvested at the <bd>Pumpkin Farm</bd>.,Le Zucche sono raccolte al <bd>Campo di Zucche</bd>.,
+Pumpkins_Item_47_FullDesc,Text,,Pumpkins are harvested at the <bd>Pumpkin Farm</bd> and are consumed by <bd>Level 1 Residences</bd>.,Le Zucche sono raccolte al <bd>Campo di Zucche</bd> e sono consumate dalle <bd>Residenze di Livello 1</bd>.,
 Pumpkins_Item_47_Name,Text,,Pumpkins,Zucche,
 MapEditorMapSettingTerritoryEnabled,Text,,Territory & fog of war enabled,Territori e Nebbia di guerra attivati,
 MapEditorTestVerificationFailed,Text,,Cannot test this scenario! Check the verification panel in the top right.,Impossibile testare questo scenario! Controlla il pannello di verifica in alto a destra.,
@@ -2666,7 +2666,7 @@ To remove a one way signal <hotkey>[SHIFT]</hotkey> and click on it.","I Segnali
 Per piazzare un Segnale unidirezionale, per prima cosa seleziona una sezione di tracciato e poi seleziona il tracciato evidenziato per indicare in quale direzione vuoi permettere il passaggio.
 
 Per rimuovere un Segnale unidirezionale <hotkey>[SHIFT]</hotkey> e cliccaci.",
-Veg_MiscCat_13_Name,Text,,Vegetable Plots,Orti(Verdure),
+MiscCat_13_Name,Text,,Vegetable Plots,Orti(Verdure),
 EntityInfoBuildingStorageForSaleHeader,Text,"(Resources that are) for sale
 {0}: amount of resources",For Sale ({0}),In vendita ({0}),
 EntityInfoBuildingStoragePurchasedHeader,Text,"(Resources that have been) purchased
@@ -2995,7 +2995,7 @@ Month11,Text,,November,Novembre,
 Month12,Text,,December,Dicembre,
 GameComplete_Frontier,Text,"{0} e.g. ""July 2020""",Well done! You've completed the {0} frontier map!,Ben fatto! Hai completato la mappa Frontiera di {0}!,
 Frontier_Ended,Text,(This frontier has) ended [replaces the Play button for frontiers that has finished),Ended,Conclusa,
-Frontiers_Desc,Text,,Frontiers are missions that all players compete for the best times on the same randomly generated map. Each frontier lasts for a month (using GMT) and are played with fog of war turned off. Good luck!,Le missioni Frontiera sono missioni in cui tutti i giocatori competono per il miglior tempo nella stessa mappa generata randomicamente. Ogni Frontiera dura un mese (nel fuso orario GMT) e si gioca senza Nebbia di guerra. Buona fortuna!,
+Frontiers_Desc,Text,,Frontiers are missions that all players compete for the best times on the same randomly generated map. Each frontier lasts for a month (using GMT) and is played with fog of war turned off. Good luck!,Le missioni Frontiera sono missioni in cui tutti i giocatori competono per il miglior tempo nella stessa mappa generata randomicamente. Ogni Frontiera dura un mese (nel fuso orario GMT) e si gioca senza Nebbia di guerra. Buona fortuna!,
 MyRank,Text,E.g. My rank: #482,My rank:,Rank:,
 MyBestTime,Text,Eg. My best time: 4 months 17 days,My best time:,Tempo migliore:,
 UpgradeImportRulesWarning,Text,,You have import rules on this building which might affect upgrade resources arriving.,Hai regole di importazione in questa struttura che potrebbero influenzare l'arrivo delle risorse per il miglioramento.,
@@ -3107,3 +3107,14 @@ RoadState_ClickPlaceRoadPost,Text,{0}:Click,[{0}] to place road post,[{0}] per p
 Tooltip_CantPlaceRoadPost,Text,,Can't place road post,Impossibile piazzare incrocio,
 GameSetting_StartingMoney,Text,,Starting money: ${0},Denaro iniziale: ${0},
 GameSetting_SomeTechPreresearched,Text,,Some technologies preresearched,Alcune tecnologie già studiate,
+HelpPanel_41,Text,Help for 'Halt production' button,"You can stop the production of this building. No further resources will be requested but any resources that are already on their way will still arrive.
+
+The building will also finish its current production cycle before stopping in order not to waste resources (with the exception of lumberbots and axebots who will return immediately).","Puoi interrompere la produzione di questo edificio. Non verranno richieste ulteriori risorse, ma le risorse già in arrivo arriveranno comunque.
+
+L'edificio terminerà anche l'attuale ciclo produttivo prima di fermarsi per non sprecare risorse (ad eccezione di BotTaglialegna e BotMinatore che torneranno immediatamente).",
+HelpPanel_42,Text,Help for 'Clearance Mode' button,"Clearance mode means the bots will not create any resources when they complete their jobs.
+
+This can be useful if you want to clear areas of trees or natural resources but don't need the resources generated.","La modalità Concessione significa che i bot non creeranno alcuna risorsa quando completeranno il loro lavoro.
+
+Questo può essere utile se desideri ripulire aree da alberi o risorse naturali, ma non hai bisogno delle risorse generate.",
+EntityProductionUI_ChangeToClearanceMode,Text,Button action,Enable Clearance Mode,Abilita la modalità Concessione,

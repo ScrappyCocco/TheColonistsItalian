@@ -8035,7 +8035,7 @@
     "Key": "MiscInfoPanelMode_0_Desc",
     "Type": "Text",
     "Desc": "",
-    "English": "Click on an empty to snap to neighbour heights.",
+    "English": "Click on an empty tile to snap to its neighbour's heights.",
     "Italian": "Clicca una cella vuota per trasformarla all'altezza dei vicini.",
     "Verify": ""
   },
@@ -9187,7 +9187,7 @@
     "Key": "ScenGameVerErr_6",
     "Type": "Text",
     "Desc": "",
-    "English": "Market needs to be abled for $ victories!",
+    "English": "Market needs to be enabled for $ victories!",
     "Italian": "Il mercato deve essere abilitato per $ vittorie!",
     "Verify": ""
   },
@@ -11675,7 +11675,7 @@
     "Key": "TutorialDialogues_T1_RoadToLumberjackHut3",
     "Type": "Text",
     "Desc": "",
-    "English": "Got it! Roads can be between 4 and 6 tiles long. Build another <lr>Road</lr> to connect your <bd>Lumberjack</bd>.",
+    "English": "Got it! Roads can be between 4 and 6 tiles long. Build another <lr>Road</lr> to connect your <bd>Lumberjack Hut</bd>.",
     "Italian": "Fatto! Le strade possono essere lunghe da 4 a 6 caselle. Costruisci un'altra <lr>Strada</lr> per collegare la tua <bd>Capanna del Taglialegna</bd>.",
     "Verify": ""
   },
@@ -11699,7 +11699,7 @@
     "Key": "TutorialDialogues_T1_SpeedControls_TaskButtons",
     "Type": "Text",
     "Desc": "",
-    "English": "Change game speed using buttons in top right of the screen.",
+    "English": "Change game speed using buttons in the top right of the screen.",
     "Italian": "Cambia velocità di gioco utilizzando i bottoni in alto a destra.",
     "Verify": ""
   },
@@ -11963,7 +11963,7 @@
     "Key": "TutorialDialogues__Overlay_FirstExpeditionLoaded",
     "Type": "Text",
     "Desc": "",
-    "English": "Your expedition boat is ready!\nSelect it to enter navigation mode. You can now click on a water tile to explore the ocean and discover new islands.\nYou can check the Map (<hotkey>[M]</hotkey>) screen to see where the hidden resources are located.\nOnce you've found a new island, use the 'Build Harbour' option on the boat panel to construct a new <bd>Harbour</bd> your new land.",
+    "English": "Your expedition boat is ready!\nSelect it to enter navigation mode. You can now click on a water tile to explore the ocean and discover new islands.\nYou can check the Map (<hotkey>[M]</hotkey>) screen to see where the hidden resources are located.\nOnce you've found a new island, use the 'Build Harbour' option on the boat panel to construct a new <bd>Harbour</bd> on your new land.",
     "Italian": "La tua barca da spedizione è pronta!\nSelezionala per entrare in modalità navigazione. Puoi ora cliccare su una casella d'acqua per esplorare l'oceano e scoprire nuove isole.\nPuoi controllare la mappa (<hotkey>[M]</hotkey>) per vedere dove sono le risorse nascoste.\nUna volta che hai trovato una nuova isola, utilizza l'opzione 'Costruisci Porto' nel pannello della barca per costruire un nuovo <bd>Porto</bd> sulla nuova terra.",
     "Verify": ""
   },
@@ -16451,7 +16451,7 @@
     "Key": "Pumpkins_Item_47_Desc",
     "Type": "Text",
     "Desc": "",
-    "English": "Pumpkins are harvested at the <bd>Pumpkin Patch</bd>.",
+    "English": "Pumpkins are harvested at the <bd>Pumpkin Farm</bd>.",
     "Italian": "Le Zucche sono raccolte al <bd>Campo di Zucche</bd>.",
     "Verify": ""
   },
@@ -16459,7 +16459,7 @@
     "Key": "Pumpkins_Item_47_FullDesc",
     "Type": "Text",
     "Desc": "",
-    "English": "Pumpkins are harvested at the <bd>Pumpkin Patch</bd> and are consumed by <bd>Level 1 Residences</bd>.",
+    "English": "Pumpkins are harvested at the <bd>Pumpkin Farm</bd> and are consumed by <bd>Level 1 Residences</bd>.",
     "Italian": "Le Zucche sono raccolte al <bd>Campo di Zucche</bd> e sono consumate dalle <bd>Residenze di Livello 1</bd>.",
     "Verify": ""
   },
@@ -16664,7 +16664,7 @@
     "Verify": ""
   },
   {
-    "Key": "Veg_MiscCat_13_Name",
+    "Key": "MiscCat_13_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Vegetable Plots",
@@ -18371,7 +18371,7 @@
     "Key": "Frontiers_Desc",
     "Type": "Text",
     "Desc": "",
-    "English": "Frontiers are missions that all players compete for the best times on the same randomly generated map. Each frontier lasts for a month (using GMT) and are played with fog of war turned off. Good luck!",
+    "English": "Frontiers are missions that all players compete for the best times on the same randomly generated map. Each frontier lasts for a month (using GMT) and is played with fog of war turned off. Good luck!",
     "Italian": "Le missioni Frontiera sono missioni in cui tutti i giocatori competono per il miglior tempo nella stessa mappa generata randomicamente. Ogni Frontiera dura un mese (nel fuso orario GMT) e si gioca senza Nebbia di guerra. Buona fortuna!",
     "Verify": ""
   },
@@ -19165,6 +19165,30 @@
     "Desc": "",
     "English": "Some technologies preresearched",
     "Italian": "Alcune tecnologie già studiate",
+    "Verify": ""
+  },
+  {
+    "Key": "HelpPanel_41",
+    "Type": "Text",
+    "Desc": "Help for 'Halt production' button",
+    "English": "You can stop the production of this building. No further resources will be requested but any resources that are already on their way will still arrive.\n\nThe building will also finish its current production cycle before stopping in order not to waste resources (with the exception of lumberbots and axebots who will return immediately).",
+    "Italian": "Puoi interrompere la produzione di questo edificio. Non verranno richieste ulteriori risorse, ma le risorse già in arrivo arriveranno comunque.\n\nL'edificio terminerà anche l'attuale ciclo produttivo prima di fermarsi per non sprecare risorse (ad eccezione di BotTaglialegna e BotMinatore che torneranno immediatamente).",
+    "Verify": ""
+  },
+  {
+    "Key": "HelpPanel_42",
+    "Type": "Text",
+    "Desc": "Help for 'Clearance Mode' button",
+    "English": "Clearance mode means the bots will not create any resources when they complete their jobs.\n\nThis can be useful if you want to clear areas of trees or natural resources but don't need the resources generated.",
+    "Italian": "La modalità Concessione significa che i bot non creeranno alcuna risorsa quando completeranno il loro lavoro.\n\nQuesto può essere utile se desideri ripulire aree da alberi o risorse naturali, ma non hai bisogno delle risorse generate.",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityProductionUI_ChangeToClearanceMode",
+    "Type": "Text",
+    "Desc": "Button action",
+    "English": "Enable Clearance Mode",
+    "Italian": "Abilita la modalità Concessione",
     "Verify": ""
   }
 ]
