@@ -19036,7 +19036,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "This means if too many resources are trying to move through the same roads then it will cause delays and and the productivity of your buildings might suffer.",
-    "Italian": "Ciò significa che se troppe risorse tentano di spostarsi attraverso le stesse strade, ciò causerà ritardi e la produttività dei tuoi edifici potrebbe risentirne.",
+    "Italian": "Questo significa che se troppe risorse tentano di spostarsi attraverso le stesse strade, ciò causerà ritardi e la produttività dei tuoi edifici potrebbe risentirne.",
     "Verify": ""
   },
   {
@@ -19261,6 +19261,118 @@
     "Desc": "Plenty of trees available",
     "English": "Lots",
     "Italian": "Tanti",
+    "Verify": ""
+  },
+  {
+    "Key": "ChallengeComplete_MessageFail",
+    "Type": "Text",
+    "Desc": "",
+    "English": "You completed the challenge but not fast enough for a rank.\nTry again!",
+    "Italian": "Hai completato la sfida ma non abbastanza velocemente per guadagnare un rank.\nRiprova!",
+    "Verify": ""
+  },
+  {
+    "Key": "Projectile_0_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Arrow",
+    "Italian": "Freccia",
+    "Verify": ""
+  },
+  {
+    "Key": "Projectile_1_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Cannonball",
+    "Italian": "Palla di cannone",
+    "Verify": ""
+  },
+  {
+    "Key": "GameControls_UnlockAll",
+    "Type": "Text",
+    "Desc": "Unlock all (missions in campaign mode)",
+    "English": "Unlock All",
+    "Italian": "Sblocca tutto",
+    "Verify": ""
+  },
+  {
+    "Key": "GameControls_Reset",
+    "Type": "Text",
+    "Desc": "Reset progress (in campaign mode)",
+    "English": "Reset Progress",
+    "Italian": "Ripristina progressi",
+    "Verify": ""
+  },
+  {
+    "Key": "GameControls_UnlockAllWarning",
+    "Type": "Text",
+    "Desc": "",
+    "English": "This will unlock all missions in campaign mode.\n\nAre you sure?",
+    "Italian": "Questo sbloccherà tutte le missioni in modalità campagna.\n\nSei sicuro?",
+    "Verify": ""
+  },
+  {
+    "Key": "GameControls_ResetWarning",
+    "Type": "Text",
+    "Desc": "",
+    "English": "This will clear all your progress and medals in campaign mode!\n\nAre you sure?",
+    "Italian": "Questo cancellerà tutti i tuoi progressi e medaglie in modalità campagna!\n\nSei sicuro?",
+    "Verify": ""
+  },
+  {
+    "Key": "Tech_102_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Unlocks <bd>Printing Press</bd>",
+    "Italian": "Sblocca la <bd>Macchina da Stampa</bd>",
+    "Verify": ""
+  },
+  {
+    "Key": "Tech_102_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Printing I",
+    "Italian": "Stampa I",
+    "Verify": ""
+  },
+  {
+    "Key": "Tech_103_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Improves production speed of <bd>Printing Press</bd> by <amount>%",
+    "Italian": "Migliora la velocità di produzione della <bd>Macchina da Stampa</bd> dell'<amount>%",
+    "Verify": ""
+  },
+  {
+    "Key": "Tech_103_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Printing II",
+    "Italian": "Stampa II",
+    "Verify": ""
+  },
+  {
+    "Key": "NoBoatsYet",
+    "Type": "Text",
+    "Desc": "",
+    "English": "You don't have any boats yet!",
+    "Italian": "Non hai ancora nessuna barca!",
+    "Verify": ""
+  },
+  {
+    "Key": "HelpPanel_43",
+    "Type": "Text",
+    "Desc": "",
+    "English": "This panel lists all the boats in your colony.\n\nClick on a boat to select it and go to its location.",
+    "Italian": "Questo pannello elenca tutte le barche della tua colonia.\n\nFai clic su una barca per selezionarla e andare alla sua posizione.",
+    "Verify": ""
+  },
+  {
+    "Key": "ItemInfoConsumption_ConstructionBuildingsMessage",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Open the Building Construction Priority panel in the top left of the screen to prioritise building types.",
+    "Italian": "Apri il pannello Priorità costruzione edifici in alto a sinistra dello schermo per dare la priorità ad alcuni tipi di edifici.",
     "Verify": ""
   }
 ]

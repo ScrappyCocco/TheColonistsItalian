@@ -3084,7 +3084,7 @@ Help_1_Content1,Text,,Roads are the main trunk routes of your colony. Each road 
 Help_1_Content2,Text,,"To build a road, select 'Road' from the building menu <hotkey>[1]</hotkey>, click on an existing road post and then click on the tile you want to end on. When drawing a road you can hold [Control] when clicking a tile to fix a waypoint in your prospective road.","Per costruire una strada, seleziona ""Strada"" dal menu di costruzione 
 <hotkey>[1]</hotkey>, fai clic su un incrocio esistente, quindi fai clic sulla casella su cui desideri terminare la strada. Quando si traccia una strada è possibile tenere premuto [Control] quando si fa clic su una casella per fissare un waypoint.",
 Help_1_Content3,Text,,"Road posts can hold a maximum of four resources at any one time. When a carrybot moves a resource from one road post to another it will only be able to drop off the resource if there is enough room and if not, the carrybot will wait until a space becomes available.","Gli incroci possono contenere un massimo di quattro risorse alla volta. Quando un BotTrasportatore sposta una risorsa da un incrocio ad un altro, sarà in grado di rilasciare la risorsa solo se c'è abbastanza spazio e, in caso contrario, aspetterà fino a quando uno spazio non sarà disponibile.",
-Help_1_Content4,Text,,This means if too many resources are trying to move through the same roads then it will cause delays and and the productivity of your buildings might suffer.,"Ciò significa che se troppe risorse tentano di spostarsi attraverso le stesse strade, ciò causerà ritardi e la produttività dei tuoi edifici potrebbe risentirne.",
+Help_1_Content4,Text,,This means if too many resources are trying to move through the same roads then it will cause delays and and the productivity of your buildings might suffer.,"Questo significa che se troppe risorse tentano di spostarsi attraverso le stesse strade, ciò causerà ritardi e la produttività dei tuoi edifici potrebbe risentirne.",
 Help_1_Content5,Text,,You can also add rules to road posts to determine which resources are allowed to move through the road post. There is more information on this in the Resource Rules section.,Puoi anche aggiungere regole agli incroci per determinare quali risorse sono autorizzate a passare. Ulteriori informazioni su questo argomento sono disponibili nella sezione Regole risorse.,
 Help_1_Header6,Text,,Paths,Sentieri,
 Help_1_Content6,Text,,Paths are used to connect buildings to roads or to connect buildings to each other.,I sentieri sono utilizzati per collegare edifici alle strade o per collegare edifici tra di loro.,
@@ -3131,3 +3131,31 @@ RandomMap_Trees,Text,,Trees,Alberi,
 RandomMap_Trees0,Text,Few trees available,Few,Pochi,
 RandomMap_Trees1,Text,Moderate amount of trees available,Normal,Normale,
 RandomMap_Trees2,Text,Plenty of trees available,Lots,Tanti,
+ChallengeComplete_MessageFail,Text,,"You completed the challenge but not fast enough for a rank.
+Try again!","Hai completato la sfida ma non abbastanza velocemente per guadagnare un rank.
+Riprova!",
+Projectile_0_Name,Text,,Arrow,Freccia,
+Projectile_1_Name,Text,,Cannonball,Palla di cannone,
+GameControls_UnlockAll,Text,Unlock all (missions in campaign mode),Unlock All,Sblocca tutto,
+GameControls_Reset,Text,Reset progress (in campaign mode),Reset Progress,Ripristina progressi,
+GameControls_UnlockAllWarning,Text,,"This will unlock all missions in campaign mode.
+
+Are you sure?","Questo sbloccherà tutte le missioni in modalità campagna.
+
+Sei sicuro?",
+GameControls_ResetWarning,Text,,"This will clear all your progress and medals in campaign mode!
+
+Are you sure?","Questo cancellerà tutti i tuoi progressi e medaglie in modalità campagna!
+
+Sei sicuro?",
+Tech_102_Desc,Text,,Unlocks <bd>Printing Press</bd>,Sblocca la <bd>Macchina da Stampa</bd>,
+Tech_102_Name,Text,,Printing I,Stampa I,
+Tech_103_Desc,Text,,Improves production speed of <bd>Printing Press</bd> by <amount>%,Migliora la velocità di produzione della <bd>Macchina da Stampa</bd> dell'<amount>%,
+Tech_103_Name,Text,,Printing II,Stampa II,
+NoBoatsYet,Text,,You don't have any boats yet!,Non hai ancora nessuna barca!,
+HelpPanel_43,Text,,"This panel lists all the boats in your colony.
+
+Click on a boat to select it and go to its location.","Questo pannello elenca tutte le barche della tua colonia.
+
+Fai clic su una barca per selezionarla e andare alla sua posizione.",
+ItemInfoConsumption_ConstructionBuildingsMessage,Text,,Open the Building Construction Priority panel in the top left of the screen to prioritise building types.,Apri il pannello Priorità costruzione edifici in alto a sinistra dello schermo per dare la priorità ad alcuni tipi di edifici.,
