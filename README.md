@@ -1,7 +1,7 @@
 ![readme cover](readme_images/cover.jpg)
 
 # The Colonists - Traduzione Italiana
-[![Build Status](https://travis-ci.org/ScrappyCocco/TheColonistsItalian.svg?branch=master)](https://travis-ci.org/ScrappyCocco/TheColonistsItalian)
+[![Translation Check](https://github.com/ScrappyCocco/TheColonistsItalian/actions/workflows/translation-check.yml/badge.svg)](https://github.com/ScrappyCocco/TheColonistsItalian/actions/workflows/translation-check.yml)
 
 
 Traduzione Italiana per The Colonists realizzata dalla comunità.
