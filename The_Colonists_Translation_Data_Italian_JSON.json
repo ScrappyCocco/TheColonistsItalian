@@ -19374,5 +19374,93 @@
     "English": "Open the Building Construction Priority panel in the top left of the screen to prioritise building types.",
     "Italian": "Apri il pannello Priorità costruzione edifici in alto a sinistra dello schermo per dare la priorità ad alcuni tipi di edifici.",
     "Verify": ""
+  },
+  {
+    "Key": "CustomViewToastSaved",
+    "Type": "Text",
+    "Desc": "Custom view is a user-set camera location that can be returned to with a hotkey. \n{0} is a number from 1 and 9.",
+    "English": "Custom view {0} saved!",
+    "Italian": "Visuale personalizzata {0} salvata!",
+    "Verify": ""
+  },
+  {
+    "Key": "CustomViewToastNotSet",
+    "Type": "Text",
+    "Desc": "Custom view is a user-set camera location that can be returned to with a hotkey. \n{0} is a number from 1 and 9.\n{1} is the hotkey",
+    "English": "Hold <hotkey>[{1}]</hotkey> to set custom view {0}!",
+    "Italian": "Tieni premuto <hotkey>[{1}]</hotkey> per impostare la visuale personalizzata {0}!",
+    "Verify": ""
+  },
+  {
+    "Key": "Hotkey_60",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Custom View 1",
+    "Italian": "Visuale personalizzata 1",
+    "Verify": ""
+  },
+  {
+    "Key": "Hotkey_61",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Custom View 2",
+    "Italian": "Visuale personalizzata 2",
+    "Verify": ""
+  },
+  {
+    "Key": "Hotkey_62",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Custom View 3",
+    "Italian": "Visuale personalizzata 3",
+    "Verify": ""
+  },
+  {
+    "Key": "Hotkey_63",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Custom View 4",
+    "Italian": "Visuale personalizzata 4",
+    "Verify": ""
+  },
+  {
+    "Key": "Hotkey_64",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Custom View 5",
+    "Italian": "Visuale personalizzata 5",
+    "Verify": ""
+  },
+  {
+    "Key": "Hotkey_65",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Custom View 6",
+    "Italian": "Visuale personalizzata 6",
+    "Verify": ""
+  },
+  {
+    "Key": "Hotkey_66",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Custom View 7",
+    "Italian": "Visuale personalizzata 7",
+    "Verify": ""
+  },
+  {
+    "Key": "Hotkey_67",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Custom View 8",
+    "Italian": "Visuale personalizzata 8",
+    "Verify": ""
+  },
+  {
+    "Key": "Hotkey_68",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Custom View 9",
+    "Italian": "Visuale personalizzata 9",
+    "Verify": ""
   }
 ]

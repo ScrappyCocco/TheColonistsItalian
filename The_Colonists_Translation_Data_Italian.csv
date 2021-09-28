@@ -3159,3 +3159,17 @@ Click on a boat to select it and go to its location.","Questo pannello elenca tu
 
 Fai clic su una barca per selezionarla e andare alla sua posizione.",
 ItemInfoConsumption_ConstructionBuildingsMessage,Text,,Open the Building Construction Priority panel in the top left of the screen to prioritise building types.,Apri il pannello Priorità costruzione edifici in alto a sinistra dello schermo per dare la priorità ad alcuni tipi di edifici.,
+CustomViewToastSaved,Text,"Custom view is a user-set camera location that can be returned to with a hotkey. 
+{0} is a number from 1 and 9.",Custom view {0} saved!,Visuale personalizzata {0} salvata!,
+CustomViewToastNotSet,Text,"Custom view is a user-set camera location that can be returned to with a hotkey. 
+{0} is a number from 1 and 9.
+{1} is the hotkey",Hold <hotkey>[{1}]</hotkey> to set custom view {0}!,Tieni premuto <hotkey>[{1}]</hotkey> per impostare la visuale personalizzata {0}!,
+Hotkey_60,Text,,Custom View 1,Visuale personalizzata 1,
+Hotkey_61,Text,,Custom View 2,Visuale personalizzata 2,
+Hotkey_62,Text,,Custom View 3,Visuale personalizzata 3,
+Hotkey_63,Text,,Custom View 4,Visuale personalizzata 4,
+Hotkey_64,Text,,Custom View 5,Visuale personalizzata 5,
+Hotkey_65,Text,,Custom View 6,Visuale personalizzata 6,
+Hotkey_66,Text,,Custom View 7,Visuale personalizzata 7,
+Hotkey_67,Text,,Custom View 8,Visuale personalizzata 8,
+Hotkey_68,Text,,Custom View 9,Visuale personalizzata 9,
