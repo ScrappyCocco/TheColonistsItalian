@@ -16424,7 +16424,7 @@
     "Verify": ""
   },
   {
-    "Key": "Pumpkins_Building_66_Description",
+    "Key": "Building_66_Description",
     "Type": "Text",
     "Desc": "",
     "English": "Create <it>Pumpkins</it> from pumpkin patches.",
@@ -16432,7 +16432,7 @@
     "Verify": ""
   },
   {
-    "Key": "Pumpkins_Building_66_Name",
+    "Key": "Building_66_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Pumpkin Farm",
@@ -16440,7 +16440,7 @@
     "Verify": ""
   },
   {
-    "Key": "Pumpkins_Building_66_Plural",
+    "Key": "Building_66_Plural",
     "Type": "Text",
     "Desc": "",
     "English": "Pumpkin Farms",
@@ -16448,7 +16448,7 @@
     "Verify": ""
   },
   {
-    "Key": "Pumpkins_Item_47_Desc",
+    "Key": "Item_47_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Pumpkins are harvested at the <bd>Pumpkin Farm</bd>.",
@@ -16456,7 +16456,7 @@
     "Verify": ""
   },
   {
-    "Key": "Pumpkins_Item_47_FullDesc",
+    "Key": "Item_47_FullDesc",
     "Type": "Text",
     "Desc": "",
     "English": "Pumpkins are harvested at the <bd>Pumpkin Farm</bd> and are consumed by <bd>Level 1 Residences</bd>.",
@@ -16464,7 +16464,7 @@
     "Verify": ""
   },
   {
-    "Key": "Pumpkins_Item_47_Name",
+    "Key": "Item_47_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Pumpkins",
@@ -16496,7 +16496,7 @@
     "Verify": ""
   },
   {
-    "Key": "Pumpkins_ItemCat_2_FullDesc",
+    "Key": "ItemCat_2_FullDesc",
     "Type": "Text",
     "Desc": "",
     "English": "<cat>Food</cat> is needed by all <bd>Residences</bd> and can be <it>Fish</it>, <it>Meat</it> or <it>Pumpkins</it>.",
@@ -16504,7 +16504,7 @@
     "Verify": ""
   },
   {
-    "Key": "Pumpkins_Structure_2_Name",
+    "Key": "Structure_2_Name",
     "Type": "Text",
     "Desc": "These are the \"fields\" the player manually places",
     "English": "Pumpkin Patch",
@@ -16512,7 +16512,7 @@
     "Verify": ""
   },
   {
-    "Key": "Pumpkins_Structure_2_Plural",
+    "Key": "Structure_2_Plural",
     "Type": "Text",
     "Desc": "These are the \"fields\" the player manually places",
     "English": "Pumpkin Patches",
@@ -16552,7 +16552,7 @@
     "Verify": ""
   },
   {
-    "Key": "Pumpkins_AlertVegetableFarmFields",
+    "Key": "AlertVegetableFarmFields",
     "Type": "Text",
     "Desc": "",
     "English": "You have not planted any pumpkin patches",
@@ -16560,7 +16560,7 @@
     "Verify": ""
   },
   {
-    "Key": "Pumpkins_ItemCat_2_Desc",
+    "Key": "ItemCat_2_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "<it>Fish</it> / <it>Meat</it> / <it>Pumpkins</it>",
@@ -16576,7 +16576,7 @@
     "Verify": ""
   },
   {
-    "Key": "Pumpkins_MiscCat_13_Name",
+    "Key": "MiscCat_13_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Pumpkin Patches",
@@ -19461,6 +19461,54 @@
     "Desc": "",
     "English": "Custom View 9",
     "Italian": "Visuale personalizzata 9",
+    "Verify": ""
+  },
+  {
+    "Key": "MapEditorPlayerSettingStartLocation",
+    "Type": "Text",
+    "Desc": "This text replaces the button when the user presses the button to set the starting location of a player in the map editor",
+    "English": "Click on land to set location",
+    "Italian": "Clicca sul terreno per impostare la posizione",
+    "Verify": ""
+  },
+  {
+    "Key": "Tooltip_Deconstruct",
+    "Type": "Text",
+    "Desc": "{0}: building to be dismantled",
+    "English": "Dismantle {0}",
+    "Italian": "Smantella {0}",
+    "Verify": ""
+  },
+  {
+    "Key": "Tooltip_CantDeconstruct",
+    "Type": "Text",
+    "Desc": "{0}: building that cannot be dismantled",
+    "English": "Can't dismantle {0}",
+    "Italian": "Impossibile smantellare {0}",
+    "Verify": ""
+  },
+  {
+    "Key": "ConstructionMode_3b",
+    "Type": "Text",
+    "Desc": "Text for dismantle mode button (bottom right UI section)",
+    "English": "Dismantle",
+    "Italian": "Smantella",
+    "Verify": ""
+  },
+  {
+    "Key": "MiscInfoPanelMode_6_Desc",
+    "Type": "Text",
+    "Desc": "Body of panel describing dismantling",
+    "English": "Click on a building to dismantle it and recover resources used during construction.",
+    "Italian": "Clicca su un edificio per smantellarlo e recuperare le risorse utilizzate per costruirlo.",
+    "Verify": ""
+  },
+  {
+    "Key": "MiscInfoPanelMode_6_Name",
+    "Type": "Text",
+    "Desc": "Title of panel describing dismantling",
+    "English": "Dismantle",
+    "Italian": "Smantella",
     "Verify": ""
   }
 ]
