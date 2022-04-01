@@ -16424,7 +16424,7 @@
     "Verify": ""
   },
   {
-    "Key": "Building_66_Description",
+    "Key": "Pumpkins_Building_66_Description",
     "Type": "Text",
     "Desc": "",
     "English": "Create <it>Pumpkins</it> from pumpkin patches.",
@@ -16432,7 +16432,7 @@
     "Verify": ""
   },
   {
-    "Key": "Building_66_Name",
+    "Key": "Pumpkins_Building_66_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Pumpkin Farm",
@@ -16440,7 +16440,7 @@
     "Verify": ""
   },
   {
-    "Key": "Building_66_Plural",
+    "Key": "Pumpkins_Building_66_Plural",
     "Type": "Text",
     "Desc": "",
     "English": "Pumpkin Farms",
@@ -16448,7 +16448,7 @@
     "Verify": ""
   },
   {
-    "Key": "Item_47_Desc",
+    "Key": "Pumpkins_Item_47_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Pumpkins are harvested at the <bd>Pumpkin Farm</bd>.",
@@ -16456,7 +16456,7 @@
     "Verify": ""
   },
   {
-    "Key": "Item_47_FullDesc",
+    "Key": "Pumpkins_Item_47_FullDesc",
     "Type": "Text",
     "Desc": "",
     "English": "Pumpkins are harvested at the <bd>Pumpkin Farm</bd> and are consumed by <bd>Level 1 Residences</bd>.",
@@ -16464,7 +16464,7 @@
     "Verify": ""
   },
   {
-    "Key": "Item_47_Name",
+    "Key": "Pumpkins_Item_47_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Pumpkins",
@@ -16496,7 +16496,7 @@
     "Verify": ""
   },
   {
-    "Key": "ItemCat_2_FullDesc",
+    "Key": "Pumpkins_ItemCat_2_FullDesc",
     "Type": "Text",
     "Desc": "",
     "English": "<cat>Food</cat> is needed by all <bd>Residences</bd> and can be <it>Fish</it>, <it>Meat</it> or <it>Pumpkins</it>.",
@@ -16504,7 +16504,7 @@
     "Verify": ""
   },
   {
-    "Key": "Structure_2_Name",
+    "Key": "Pumpkins_Structure_2_Name",
     "Type": "Text",
     "Desc": "These are the \"fields\" the player manually places",
     "English": "Pumpkin Patch",
@@ -16512,7 +16512,7 @@
     "Verify": ""
   },
   {
-    "Key": "Structure_2_Plural",
+    "Key": "Pumpkins_Structure_2_Plural",
     "Type": "Text",
     "Desc": "These are the \"fields\" the player manually places",
     "English": "Pumpkin Patches",
@@ -16552,7 +16552,7 @@
     "Verify": ""
   },
   {
-    "Key": "AlertVegetableFarmFields",
+    "Key": "Pumpkins_AlertVegetableFarmFields",
     "Type": "Text",
     "Desc": "",
     "English": "You have not planted any pumpkin patches",
@@ -16560,7 +16560,7 @@
     "Verify": ""
   },
   {
-    "Key": "ItemCat_2_Desc",
+    "Key": "Pumpkins_ItemCat_2_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "<it>Fish</it> / <it>Meat</it> / <it>Pumpkins</it>",
@@ -16576,7 +16576,7 @@
     "Verify": ""
   },
   {
-    "Key": "MiscCat_13_Name",
+    "Key": "Pumpkins_MiscCat_13_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Pumpkin Patches",
@@ -19509,6 +19509,158 @@
     "Desc": "Title of panel describing dismantling",
     "English": "Dismantle",
     "Italian": "Smantella",
+    "Verify": ""
+  },
+  {
+    "Key": "ModBrowser_Title",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Mod Manager",
+    "Italian": "Mod Manager",
+    "Verify": ""
+  },
+  {
+    "Key": "ModBrowser_NoAvailableMods",
+    "Type": "Text",
+    "Desc": "",
+    "English": "",
+    "Italian": "",
+    "Verify": ""
+  },
+  {
+    "Key": "ModBrowser_NoWorkshopMods",
+    "Type": "Text",
+    "Desc": "",
+    "English": "",
+    "Italian": "",
+    "Verify": ""
+  },
+  {
+    "Key": "GameSetting_SomeBuildingsDisabled",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Some buildings disabled",
+    "Italian": "Alcuni edifici disabilitati",
+    "Verify": ""
+  },
+  {
+    "Key": "GameSetting_TerritoryDisabled",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Territory disabled",
+    "Italian": "Territori disabilitati",
+    "Verify": ""
+  },
+  {
+    "Key": "ModBrowser_MyMods",
+    "Type": "Text",
+    "Desc": "",
+    "English": "My Mods",
+    "Italian": "Le mie Mod",
+    "Verify": ""
+  },
+  {
+    "Key": "ModBrowser_AvailableMods",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Available",
+    "Italian": "Disponibili",
+    "Verify": ""
+  },
+  {
+    "Key": "ModBrowser_WorkshopMods",
+    "Type": "Text",
+    "Desc": "Referring to Steam Workshop",
+    "English": "Workshop",
+    "Italian": "Workshop",
+    "Verify": ""
+  },
+  {
+    "Key": "ModState_Active",
+    "Type": "Text",
+    "Desc": "Label in front of a checkbox which use can toggle to make a mod active or inactive",
+    "English": "Active:",
+    "Italian": "Attiva:",
+    "Verify": ""
+  },
+  {
+    "Key": "PublishingMap",
+    "Type": "Text",
+    "Desc": "Message when waiting for map to upload",
+    "English": "Publishing map",
+    "Italian": "Mappa in pubblicazione",
+    "Verify": ""
+  },
+  {
+    "Key": "MapPublished",
+    "Type": "Text",
+    "Desc": "When a custom map has been published",
+    "English": "Map published!",
+    "Italian": "Mappa pubblicata!",
+    "Verify": ""
+  },
+  {
+    "Key": "MapPublishedNew",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Your map will appear soon!",
+    "Italian": "La tua mappa apparirà presto!",
+    "Verify": ""
+  },
+  {
+    "Key": "MapPublishedChanges",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Your changes will appear soon!",
+    "Italian": "Le tue modifiche appariranno presto!",
+    "Verify": ""
+  },
+  {
+    "Key": "PublishMapError",
+    "Type": "Text",
+    "Desc": "{0}: the reason",
+    "English": "Couldn't publish map - {0}",
+    "Italian": "Impossibile pubblicare la mappa - {0}",
+    "Verify": ""
+  },
+  {
+    "Key": "PublishingMod",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Publishing mod",
+    "Italian": "Mod in pubblicazione",
+    "Verify": ""
+  },
+  {
+    "Key": "ModPublished",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Mod published!",
+    "Italian": "Mod pubblicata!",
+    "Verify": ""
+  },
+  {
+    "Key": "ModPublishedNew",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Your mod will appear soon!",
+    "Italian": "La tua mod apparirà presto!",
+    "Verify": ""
+  },
+  {
+    "Key": "ModPublishedChanges",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Your changes will appear soon!",
+    "Italian": "Le tue modifiche appariranno presto!",
+    "Verify": ""
+  },
+  {
+    "Key": "PublishModError",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Couldn't publish mod - {0}",
+    "Italian": "Impossibile pubblicare la Mod - {0}",
     "Verify": ""
   }
 ]
