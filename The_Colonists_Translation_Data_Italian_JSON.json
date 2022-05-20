@@ -19662,5 +19662,13 @@
     "English": "Couldn't publish mod - {0}",
     "Italian": "Impossibile pubblicare la Mod - {0}",
     "Verify": ""
+  },
+  {
+    "Key": "Hotkey_19",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Dismantle Mode",
+    "Italian": "Modalità Smantella",
+    "Verify": ""
   }
 ]
