@@ -19670,5 +19670,101 @@
     "English": "Dismantle Mode",
     "Italian": "Modalità Smantella",
     "Verify": ""
+  },
+  {
+    "Key": "RandomMap_Fish",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Fish",
+    "Italian": "Pesci",
+    "Verify": ""
+  },
+  {
+    "Key": "RandomMap_Fish0",
+    "Type": "Text",
+    "Desc": "No fish available",
+    "English": "None",
+    "Italian": "Nessuno",
+    "Verify": ""
+  },
+  {
+    "Key": "RandomMap_Fish1",
+    "Type": "Text",
+    "Desc": "Few fish available",
+    "English": "Few",
+    "Italian": "Pochi",
+    "Verify": ""
+  },
+  {
+    "Key": "RandomMap_Fish2",
+    "Type": "Text",
+    "Desc": "Moderate amount of fish available",
+    "English": "Normal",
+    "Italian": "Normale",
+    "Verify": ""
+  },
+  {
+    "Key": "RandomMap_Fish3",
+    "Type": "Text",
+    "Desc": "Plenty of fish available",
+    "English": "Lots",
+    "Italian": "Tanti",
+    "Verify": ""
+  },
+  {
+    "Key": "Flora_100_Description",
+    "Type": "Text",
+    "Desc": "",
+    "English": "This mine contains an infinite supply of <nr><natres></nr>.\nYou can build a <bd>Shaft Mine</bd> here to extract the <nr><natres></nr>.",
+    "Italian": "Questa miniera contiene una scorta infinita di <nr><natres></nr>. Puoi costruire una <bd>Miniera</bd> qui per estrarre il <nr><natres></nr>.",
+    "Verify": ""
+  },
+  {
+    "Key": "Flora_100_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Underground Deposit",
+    "Italian": "Deposito sotterraneo",
+    "Verify": ""
+  },
+  {
+    "Key": "ModEntry_UnpublishedChanges",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Mod has unpublished changes!",
+    "Italian": "La Mod ha modifiche non pubblicate!",
+    "Verify": ""
+  },
+  {
+    "Key": "ModPublishChangesIntro",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Would you like to tell your subscribers about any changes to your mod?",
+    "Italian": "Vorresti informare i tuoi iscritti di eventuali modifiche alla tua mod?",
+    "Verify": ""
+  },
+  {
+    "Key": "ModPublishedDate",
+    "Type": "Text",
+    "Desc": "E.g. Published: 2022/05/05 12:43",
+    "English": "Published:",
+    "Italian": "Pubblicata:",
+    "Verify": ""
+  },
+  {
+    "Key": "SaveScenarioKeepWorkshopId",
+    "Type": "Text",
+    "Desc": "Option when saving a custom map that has been published to Steam Workshop",
+    "English": "Keep Workshop Id?",
+    "Italian": "Mantenere l'Id Workshop?",
+    "Verify": ""
+  },
+  {
+    "Key": "GameSetting_MonumentBoostMultiplier",
+    "Type": "Text",
+    "Desc": "A Frontier setting indicating that monument boosts have a multiplier applied\n{0} - the multiplier number e.g. 2.5x",
+    "English": "Monument Boost Multiplier: {0}x",
+    "Italian": "Boost Multiplicatore Monumento: {0}x",
+    "Verify": ""
   }
 ]

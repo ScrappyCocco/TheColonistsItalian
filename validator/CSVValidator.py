@@ -34,9 +34,8 @@ class CSVValidator:
     def __csv_columns_validation(first_row: list) -> bool:
         if len(first_row) > 7 or len(first_row) < 6:
             return False
-        else:
-            print("Column name confirmed valid:" + str(len(first_row)))
-            return True
+        print("Column name confirmed valid:" + str(len(first_row)))
+        return True
 
     def __row_brackets_validation(self, row: str) -> bool:
         stack = []
