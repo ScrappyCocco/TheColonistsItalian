@@ -4531,7 +4531,7 @@
     "Key": "HelpPanel_25",
     "Type": "Text",
     "Desc": "",
-    "English": "You can research various technologies to unlock new buildings and transport modes which improve and advance your colony.\n\nTechnologies are researched by researchbots at the <bd>Workshop</bd> building. Researchbots require <it>Energy</it> to research technology as well as resources specific to that technology.\n\nMore advanced technologies require higher level <bd>Workshops</bd> which in turn requrie more advanced <it>Energy</it> to function.\n\nTo start researching a technology, first select an available technology on a tech tree. Then select an idle <bd>workshop</bd> that is at the required or higher level.\n\nFinally click on the Start Research button in the bottom right to being the research.",
+    "English": "You can research various technologies to unlock new buildings and transport modes which improve and advance your colony.\n\nTechnologies are researched by researchbots at the <bd>Workshop</bd> building. Researchbots require <it>Energy</it> to research technology as well as resources specific to that technology.\n\nMore advanced technologies require higher level <bd>Workshops</bd> which in turn requrie more advanced <it>Energy</it> to function.\n\nTo start researching a technology, first select an available technology on a tech tree. Then select an idle <bd>workshop</bd> that is at the required or higher level.\n\nFinally click on the Start Research button in the bottom right to begin the research.",
     "Italian": "Puoi ricercare varie tecnologie per sbloccare nuovi edifici e modalità di trasporto che migliorano e fanno avanzare la tua colonia.\n\nLe tecnologie sono ricercate dai robot di ricerca nell'edificio <bd>Laboratorio</bd>. I robot di ricerca richiedono <it>Energia</it> per ricercare la tecnologia e risorse specifiche per tale tecnologia.\n\nTecnologie più avanzate richiedono <bd>Laboratori</bd> di livello superiore che a loro volta richiedono <it>Energia</it> più avanzata per funzionare.\n\nPer iniziare la ricerca di una tecnologia, selezionare prima una tecnologia disponibile su un albero tecnologico. Quindi seleziona un <bd>Laboratorio</bd> inattivo che è al livello richiesto o superiore.\n\nInfine, fai clic sul pulsante Avvia ricerca in basso a destra per avviare la ricerca.",
     "Verify": ""
   },
@@ -7619,7 +7619,7 @@
     "Key": "MapEditorMode_7_Desc",
     "Type": "Text",
     "Desc": "",
-    "English": "Click and hold to raise land\nHold [Shift] to lower land\nHold [Ctrl] to flatten land",
+    "English": "Click and drag to raise land\n[Shift] and drag to lower land\n[Ctrl] and drag to flatten land",
     "Italian": "Fai clic e tieni premuto per alzare il terreno\nTieni premuto [Shift] per abbassare il terreno\nTieni premuto [Ctrl] per appiattire il terreno",
     "Verify": ""
   },
@@ -12323,7 +12323,7 @@
     "Key": "User Maps",
     "Type": "Text",
     "Desc": "",
-    "English": "User Maps",
+    "English": "Workshop Maps",
     "Italian": "Mappe degli utenti",
     "Verify": ""
   },
@@ -18115,8 +18115,8 @@
     "Key": "StoreDesc_New",
     "Type": "Text",
     "Desc": "Enhanced entry from line 1565",
-    "English": "[img]{STEAM_APP_IMAGE}/extras/store_description_header.png[/img]\nThe Colonists is a relaxing settlement building game inspired by classic titles like The Settlers and the Anno series.\n\nTake on a series of individual campaign missions, play randomly generated maps, compete on player-designed creations or build your colony unfettered by any constraints in the [b]sandbox mode[/b].\n\n[img]{STEAM_APP_IMAGE}/extras/steam_stackbot1.gif[/img]\n\nYou take control of a team of self-replicating robots built to simulate human civilisation.  After escaping Earth, The Colonists are now free to roam the galaxy in search of a new home and construct their dream settlement.\n\n[img]{STEAM_APP_IMAGE}/extras/steam_loadboat1.gif[/img]\nYou'll advance through three different Ages as you build infrastructure for your colony by constructing road, boat and train transport systems.\n\nHarvest natural resources, set up farming and food production, create expeditions to discover new lands and research new technologies.\n\n[img]{STEAM_APP_IMAGE}/extras/steam_fish1.gif[/img]\nWith two separate mission tracks, The Colonists lets either you create sprawling settlements in peace or race to compete against AI colonies in military winner-takes-all scenarios.\n\nExplore, research, manage, tweak and refine to your heart's content.\n\n[img]{STEAM_APP_IMAGE}/extras/sculpt_mini_2.gif[/img]\n\nAn extensive map editor and Steam Workshop support is included, so you can create, share and play custom maps.\n\n[h2]Features[/h2]\n[list]\n[*][b]Campaign[/b]: 14 missions split into separate peaceful and military tracks\n[*][b]Random Maps[/b]: Play on a near-infinite amount of procedurally generated maps\n[*][b]Sandbox Mode[/b]: Customise various game settings to play the game how you like\n[*][b]Steam Workshop[/b]: Play hundreds of player-generated custom maps\n[*][b]Challenge Trophies[/b]: Special challenges which test the most expert colony builders\n[*][b]Map Editor[/b]: create, play and share your own maps\n[/list]",
-    "Italian": "[img]{STEAM_APP_IMAGE}/extras/store_description_header.png[/img]\nThe Colonists è un rilassante gioco gestionale sulla costruzione di insediamenti ispirato a titoli classici come The Settlers e la serie Anno.\n\nAffronta una serie di missioni, gioca mappe generate randomicamente, completa sfide create dai giocatori o costruisci la tua colonia liberamente nella [b]modalità sandbox[/b].\n\n[img]{STEAM_APP_IMAGE}/extras/steam_stackbot1.gif[/img]\n\nPrendi il controllo di un team di robot autoreplicanti creati per simulare la civiltà umana. Dopo essere fuggiti dalla Terra, i Coloni sono ora liberi di vagare per la galassia in cerca di una nuova casa per costruire il loro insediamento da sogno.\n\n[img]{STEAM_APP_IMAGE}/extras/steam_loadboat1.gif[/img]\nAvanzerai attraverso tre diverse epoche fabbricando infrastrutture per la tua colonia, costruendo sistemi di trasporto su strada, in barca e in treno.\n\nRaccogli risorse naturali, avvia l'agricoltura e la produzione alimentare, crea spedizioni per scoprire nuove terre e ricercare nuove tecnologie.\n\n[img]{STEAM_APP_IMAGE}/extras/steam_fish1.gif[/img]\nCon due percorsi di missione separati, The Colonists ti consente di creare enormi insediamenti in pace o gareggiare per competere contro le colonie di intelligenza artificiale in scenari militari all'ultimo sangue.\n\nEsplora, ricerca, gestisci, modifica e perfeziona in piena libertà quanto preferisci.\n\n[img]{STEAM_APP_IMAGE}/extras/sculpt_mini_2.gif[/img]\n\nÈ incluso un vasto editor di mappe e il supporto per lo Steam Workshop, in modo da poter creare, condividere e giocare mappe personalizzate.\n\n[h2]Caratteristiche[/h2]\n[list]\n[*][b]Campagna[/b]: 14 missioni divise in percorsi pacifici e militari\n[*][b]Mappe Random[/b]: Gioca una quantità pressoché infinita di mappe generate proceduralmente\n[*][b]Modalità Sandbox[/b]: Personalizza le varie impostazioni di gioco per giocare come preferisci\n[*][b]Steam Workshop[/b]: Gioca a centinaia di mappe personalizzate create dai giocatori\n[*][b]Trofei delle Sfide[/b]: Sfide speciali che mettono alla prova i costruttori di colonia più esperti\n[*][b]Editor di Mappe[/b]: Crea, gioca e condividi le tue mappe\n[/list]",
+    "English": "[img]{STEAM_APP_IMAGE}/extras/store_description_header.png[/img]\nThe Colonists is a relaxing settlement building game inspired by classic titles like The Settlers and the Anno series.\n\nTake on a series of individual campaign missions, play randomly generated maps, compete on player-designed creations or build your colony unfettered by any constraints in the [b]sandbox mode[/b].\n\n[img]{STEAM_APP_IMAGE}/extras/steam_stackbot1.gif[/img]\n\nYou take control of a team of self-replicating robots built to simulate human civilisation.  After escaping Earth, The Colonists are now free to roam the galaxy in search of a new home and construct their dream settlement.\n\n[img]{STEAM_APP_IMAGE}/extras/steam_loadboat1.gif[/img]\nYou'll advance through three different Ages as you build infrastructure for your colony by constructing road, boat and train transport systems.\n\nHarvest natural resources, set up farming and food production, create expeditions to discover new lands and research new technologies.\n\n[img]{STEAM_APP_IMAGE}/extras/steam_fish1.gif[/img]\nWith two separate mission tracks, The Colonists lets either you create sprawling settlements in peace or race to compete against AI colonies in military winner-takes-all scenarios.\n\nExplore, research, manage, tweak and refine to your heart's content.\n\n[img]{STEAM_APP_IMAGE}/extras/sculpt_mini_2.gif[/img]\n\nAn extensive map editor and Steam Workshop support is included, so you can create, share and play custom maps.\n\n[h2]Features[/h2]\n[list]\n[*][b]Campaign[/b]: 14 missions split into separate peaceful and military tracks\n[*][b]Random Maps[/b]: Play on a near-infinite amount of procedurally generated maps\n[*][b]Sandbox Mode[/b]: Customise various game settings to play the game how you like\n[*][b]Steam Workshop[/b]: Play hundreds of player-generated custom maps\n[*][b]Challenge Trophies[/b]: Special challenges which test the most expert colony builders\n[*][b]Map Editor[/b]: Create, play and share your own custom maps with your own victory conditions\n[*][b]Mod Support[/b]: Play with new buildings, new resources, new research and more with Steam Workshop mod integration\n[/list]",
+    "Italian": "[img]{STEAM_APP_IMAGE}/extras/store_description_header.png[/img]\nThe Colonists è un rilassante gioco gestionale sulla costruzione di insediamenti ispirato a titoli classici come The Settlers e la serie Anno.\n\nAffronta una serie di missioni, gioca mappe generate randomicamente, completa sfide create dai giocatori o costruisci la tua colonia liberamente nella [b]modalità sandbox[/b].\n\n[img]{STEAM_APP_IMAGE}/extras/steam_stackbot1.gif[/img]\n\nPrendi il controllo di un team di robot autoreplicanti creati per simulare la civiltà umana. Dopo essere fuggiti dalla Terra, i Coloni sono ora liberi di vagare per la galassia in cerca di una nuova casa per costruire il loro insediamento da sogno.\n\n[img]{STEAM_APP_IMAGE}/extras/steam_loadboat1.gif[/img]\nAvanzerai attraverso tre diverse epoche fabbricando infrastrutture per la tua colonia, costruendo sistemi di trasporto su strada, in barca e in treno.\n\nRaccogli risorse naturali, avvia l'agricoltura e la produzione alimentare, crea spedizioni per scoprire nuove terre e ricercare nuove tecnologie.\n\n[img]{STEAM_APP_IMAGE}/extras/steam_fish1.gif[/img]\nCon due percorsi di missione separati, The Colonists ti consente di creare enormi insediamenti in pace o gareggiare per competere contro le colonie di intelligenza artificiale in scenari militari all'ultimo sangue.\n\nEsplora, ricerca, gestisci, modifica e perfeziona in piena libertà quanto preferisci.\n\n[img]{STEAM_APP_IMAGE}/extras/sculpt_mini_2.gif[/img]\n\nÈ incluso un vasto editor di mappe e il supporto per lo Steam Workshop, in modo da poter creare, condividere e giocare mappe personalizzate.\n\n[h2]Caratteristiche[/h2]\n[list]\n[*][b]Campagna[/b]: 14 missioni divise in percorsi pacifici e militari\n[*][b]Mappe Random[/b]: Gioca una quantità pressoché infinita di mappe generate proceduralmente\n[*][b]Modalità Sandbox[/b]: Personalizza le varie impostazioni di gioco per giocare come preferisci\n[*][b]Steam Workshop[/b]: Gioca centinaia di mappe personalizzate create dai giocatori\n[*][b]Trofei delle Sfide[/b]: Sfide speciali che mettono alla prova i colonizzatori più esperti\n[*][b]Editor di Mappe[/b]: Crea, gioca e condividi le tue mappe personalizzate con le tue condizioni di vittoria\n[*][b]Supporto alle Mod[/b]: Gioca con nuovi edifici, nuove risorse, nuove ricerche e molto altro con l'integrazione delle mod dallo Steam Workshop\n[/list]",
     "Verify": ""
   },
   {
@@ -19765,6 +19765,686 @@
     "Desc": "A Frontier setting indicating that monument boosts have a multiplier applied\n{0} - the multiplier number e.g. 2.5x",
     "English": "Monument Boost Multiplier: {0}x",
     "Italian": "Boost Multiplicatore Monumento: {0}x",
+    "Verify": ""
+  },
+  {
+    "Key": "ItemTooltip_WaitConstruction",
+    "Type": "Text",
+    "Desc": "{0}:amount, {1}:resource\nEg. 3x Logs are waiting to be used for construction",
+    "English": "{0}x {1} waiting to be used for construction",
+    "Italian": "{0}x {1} in attesa di essere utilizzati per la costruzione",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityInfoBuildingStorageConstructionIncomingHeader",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Construction Queue ({0})",
+    "Italian": "Coda di Costruzione ({0})",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityInfoBuildingStorageConstructionIncomingEmpty",
+    "Type": "Text",
+    "Desc": "",
+    "English": "There are no resources waiting to be used for construction",
+    "Italian": "Non ci sono risorse in attesa di essere utilizzate per la costruzione",
+    "Verify": ""
+  },
+  {
+    "Key": "TooltipImportExportRules",
+    "Type": "Text",
+    "Desc": "",
+    "English": "You have set import/export rules on this building",
+    "Italian": "Hai impostato regole di importazione/esportazione per questo edificio",
+    "Verify": ""
+  },
+  {
+    "Key": "LoadFrontierArchive",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Load Archive",
+    "Italian": "Carica Archivio",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityInfoBuildingStorageConstructionImportWhitelistHeader",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Construction Import Whitelist",
+    "Italian": "Permessi Import Costruzioni",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityInfoBuildingStorageConstructionImportWhitelistDesc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Limit which buildings can send resources here for construction:",
+    "Italian": "Limita quali edifici possono inviare risorse qui per la costruzione:",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityInfoBuildingStorageProductionImportWhitelistHeader",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Production Import Whitelist",
+    "Italian": "Permessi Import Produzione",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityInfoBuildingStorageProductionImportWhitelistDesc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Limit which buildings can send resources here for production:",
+    "Italian": "Limita quali edifici possono inviare risorse qui per la produzione:",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityInfoBuildingStorageStorageImportWhitelistHeader",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Storage Import Whitelist",
+    "Italian": "Permessi Import Deposito",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityInfoBuildingStorageStorageImportWhitelistDesc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Limit which buildings can send resources here for storage:",
+    "Italian": "Limita quali edifici possono inviare risorse qui per il deposito:",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityInfoBuildingStorageProductionExportWhitelistHeader",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Production Export Whitelist",
+    "Italian": "Permessi Export Produzione",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityInfoBuildingStorageProductionExportWhitelistDesc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Limit which buildings can receive resources produced here:",
+    "Italian": "Limita gli edifici che possono ricevere le risorse prodotte qui:",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityInfoBuildingStorageStorageExportWhitelistHeader",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Storage Export Whitelist",
+    "Italian": "Permessi Export Deposito",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityInfoBuildingStorageStorageExportWhitelistDesc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Limit which buildings can receive resources stored here:",
+    "Italian": "Limita gli edifici che possono ricevere le risorse immagazzinate qui:",
+    "Verify": ""
+  },
+  {
+    "Key": "MapEditorModManager_Activate",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Activate",
+    "Italian": "Attiva",
+    "Verify": ""
+  },
+  {
+    "Key": "MapEditorModManager_Deactivate",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Deactivate",
+    "Italian": "Disattiva",
+    "Verify": ""
+  },
+  {
+    "Key": "MapEditorModManager_LocalModWarning",
+    "Type": "Text",
+    "Desc": "",
+    "English": "* Please note: maps cannot be published to Steam Workshop if a local mod is activated",
+    "Italian": "* Nota: le mappe non possono essere pubblicate su Steam Workshop se è attivata una mod locale",
+    "Verify": ""
+  },
+  {
+    "Key": "ScenGameVerErr_8",
+    "Type": "Text",
+    "Desc": "",
+    "English": "You have one or more local mods activated!",
+    "Italian": "Hai attivato una o più mod locali!",
+    "Verify": ""
+  },
+  {
+    "Key": "InfoPanel_ActiveModsHeader",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Active Mods",
+    "Italian": "Mod attive",
+    "Verify": ""
+  },
+  {
+    "Key": "AlertTradeTerminalNoRules",
+    "Type": "Text",
+    "Desc": "When a space port doesn't have any selling or purchasing rules",
+    "English": "You have not set any trade rules yet",
+    "Italian": "Non hai ancora impostato alcuna regola commerciale",
+    "Verify": ""
+  },
+  {
+    "Key": "WorkshopItem_Installing",
+    "Type": "Text",
+    "Desc": "When a mod from Steam Workshop is installing",
+    "English": "Installing",
+    "Italian": "Installazione",
+    "Verify": ""
+  },
+  {
+    "Key": "MapPublishTerms",
+    "Type": "Text",
+    "Desc": "",
+    "English": "By submitting this item, you agree to the Steam Workshop terms of service",
+    "Italian": "Caricando questo elemento, accetti i termini di servizio dello Steam Workshop",
+    "Verify": ""
+  },
+  {
+    "Key": "MapPublishedOpenTerms",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Open Steam Workshop Agreement",
+    "Italian": "Apri l'accordo dello Steam Workshop",
+    "Verify": ""
+  },
+  {
+    "Key": "MapPublishedOpenMap",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Open Map in Steam Workshop",
+    "Italian": "Apri la mappa nello Steam Workshop",
+    "Verify": ""
+  },
+  {
+    "Key": "MapPublishedTermsWarning",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Map uploaded but you need to agree to the Steam Workshop terms before it will appear for other players.",
+    "Italian": "Mappa caricata ma devi accettare i termini dello Steam Workshop prima che appaia agli altri giocatori.",
+    "Verify": ""
+  },
+  {
+    "Key": "MapEditorFloraRocks",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Rocks",
+    "Italian": "Rocce",
+    "Verify": ""
+  },
+  {
+    "Key": "MapEditorFloraTrees",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Trees",
+    "Italian": "Alberi",
+    "Verify": ""
+  },
+  {
+    "Key": "MapEditorFloraEnvironmental",
+    "Type": "Text",
+    "Desc": "Objects that have no gameplay purpose like bushes",
+    "English": "Decorative",
+    "Italian": "Decorazioni",
+    "Verify": ""
+  },
+  {
+    "Key": "AgeName_3",
+    "Type": "Text",
+    "Desc": "Level of building in the game",
+    "English": "Level 4",
+    "Italian": "Livello 4",
+    "Verify": ""
+  },
+  {
+    "Key": "AgeName_4",
+    "Type": "Text",
+    "Desc": "Level of building in the game",
+    "English": "Level 5",
+    "Italian": "Livello 5",
+    "Verify": ""
+  },
+  {
+    "Key": "AgeNameShort_3",
+    "Type": "Text",
+    "Desc": "Short for Level 4",
+    "English": "L4",
+    "Italian": "L4",
+    "Verify": ""
+  },
+  {
+    "Key": "AgeNameShort_4",
+    "Type": "Text",
+    "Desc": "Short for Level 5",
+    "English": "L5",
+    "Italian": "L5",
+    "Verify": ""
+  },
+  {
+    "Key": "OpenSteamWorkshop",
+    "Type": "Text",
+    "Desc": "Button to open Steam Workshop in-game overlay",
+    "English": "Steam Workshop",
+    "Italian": "Steam Workshop",
+    "Verify": ""
+  },
+  {
+    "Key": "ReloadModsButton",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Reload Mods",
+    "Italian": "Ricarica Mod",
+    "Verify": ""
+  },
+  {
+    "Key": "ReloadCodexHelpBody",
+    "Type": "Text",
+    "Desc": "",
+    "English": "This option is solely to make it easier to develop and test mods in that you don't have to keep restarting or making new games to see certain changes. \n\nBe warned though! Depending on the content of the your mod, or what has changed in between versions of your mod, things may break or go wrong, especially if you remove game data.",
+    "Italian": "Questa opzione serve esclusivamente a rendere più semplice lo sviluppo e il test delle mod in quanto non è necessario continuare a riavviare o creare nuove partite per vedere determinati cambiamenti.\n\nAttenzione però! A seconda del contenuto della tua mod, o di cosa è cambiato tra le versioni della tua mod, le cose potrebbero rompersi o andare male, specialmente se rimuovi i dati di gioco.",
+    "Verify": ""
+  },
+  {
+    "Key": "ReloadCodexHelpTitle",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Reloading Mods",
+    "Italian": "Ri-Caricamento delle Mod",
+    "Verify": ""
+  },
+  {
+    "Key": "ModBrowserNoAvailableMods",
+    "Type": "Text",
+    "Desc": "",
+    "English": "You don't have any mods available!\n\nBrowse the Steam Workshop tab to find mods from other players or find out how to make your own mods on the Community Wiki.",
+    "Italian": "Non hai nessuna mod disponibile!\n\nSfoglia la scheda Steam Workshop per trovare le mod di altri giocatori o scopri come creare le tue mod sulla Community Wiki.",
+    "Verify": ""
+  },
+  {
+    "Key": "ColonistsModsWiki",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Community Wiki",
+    "Italian": "Community Wiki",
+    "Verify": ""
+  },
+  {
+    "Key": "ModBrowser_ChooseModsTitle",
+    "Type": "Text",
+    "Desc": "Header of panel when choosing which mods to activate for a game",
+    "English": "Select Active Mods",
+    "Italian": "Seleziona Mod Attive",
+    "Verify": ""
+  },
+  {
+    "Key": "ModBrowser_ManageModsTitle",
+    "Type": "Text",
+    "Desc": "Header of panel when managing own mods",
+    "English": "My Mods",
+    "Italian": "Le mie Mod",
+    "Verify": ""
+  },
+  {
+    "Key": "ModsChangedTitle",
+    "Type": "Text",
+    "Desc": "Title of panel summarising changes in mods when loading a game",
+    "English": "Mod Updates",
+    "Italian": "Aggiornamenti Mod",
+    "Verify": ""
+  },
+  {
+    "Key": "ModsChangedButtonContinue",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Continue",
+    "Italian": "Continua",
+    "Verify": ""
+  },
+  {
+    "Key": "ModsChangedButtonResubscribe",
+    "Type": "Text",
+    "Desc": "Resubscribe to Workshop mods that had previously been subscribed to",
+    "English": "Resubscribe",
+    "Italian": "Ri-Sottoscrivi",
+    "Verify": ""
+  },
+  {
+    "Key": "ModsChangedButtonCancel",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Cancel",
+    "Italian": "Annulla",
+    "Verify": ""
+  },
+  {
+    "Key": "ModsChangedWorkshopCheckingDetails",
+    "Type": "Text",
+    "Desc": "While the game is waiting for data from Steam Workshop",
+    "English": "Checking details...",
+    "Italian": "Controllo dei dettagli...",
+    "Verify": ""
+  },
+  {
+    "Key": "ModsChangedWorkshopNotFound",
+    "Type": "Text",
+    "Desc": "When a mod is not found",
+    "English": "No longer on Steam Workshop",
+    "Italian": "Rimossa dallo Steam Workshop",
+    "Verify": ""
+  },
+  {
+    "Key": "ModsChangedWorkshopNotSubscribed",
+    "Type": "Text",
+    "Desc": "When a player is not currently subscribed to the mod on Steam workshop",
+    "English": "Not currently subscribed",
+    "Italian": "Attualmente non sottoscritta",
+    "Verify": ""
+  },
+  {
+    "Key": "ModsChangedGeneralUpdated",
+    "Type": "Text",
+    "Desc": "When a mod has been updated",
+    "English": "Updated to version: {0}",
+    "Italian": "Aggiornato alla versione: {0}",
+    "Verify": ""
+  },
+  {
+    "Key": "ModsChangedGeneralNoChange",
+    "Type": "Text",
+    "Desc": "When is a mod is the same version as before",
+    "English": "No change",
+    "Italian": "Nessun cambiamento",
+    "Verify": ""
+  },
+  {
+    "Key": "ModsChangedLocalNotFound",
+    "Type": "Text",
+    "Desc": "When a local mod can no longer be found at the previous folder",
+    "English": "Folder no longer exists",
+    "Italian": "La cartella non esiste più",
+    "Verify": ""
+  },
+  {
+    "Key": "ResubscribingModsMessage",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Resubscribing to mods",
+    "Italian": "Ri-Sottoscrizione alle mod",
+    "Verify": ""
+  },
+  {
+    "Key": "ModsChangedContinueWarning",
+    "Type": "Text",
+    "Desc": "",
+    "English": "WARNING!\n\nYou can try and load the game without the original mods active but depending on the contents of the missing mods, the game might really not like it.\n\nProceed at your own risk!",
+    "Italian": "ATTENZIONE!\n\nPuoi provare a caricare il gioco senza le mod originali attive, ma a seconda del contenuto delle mod mancanti, al gioco potrebbe non piacere.\n\nProcedi a tuo rischio!",
+    "Verify": ""
+  },
+  {
+    "Key": "ModBrowser_AvailableFilter_All",
+    "Type": "Text",
+    "Desc": "",
+    "English": "All Available",
+    "Italian": "Tutte disponibili",
+    "Verify": ""
+  },
+  {
+    "Key": "ModBrowser_AvailableFilter_WorkshopOnly",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Workshop Only",
+    "Italian": "Solo Workshop",
+    "Verify": ""
+  },
+  {
+    "Key": "ModBrowser_AvailableFilter_LocalOnly",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Local Only",
+    "Italian": "Solo Locali",
+    "Verify": ""
+  },
+  {
+    "Key": "ModBrowser_EmptyMyMods",
+    "Type": "Text",
+    "Desc": "",
+    "English": "You haven't created any mods yet!\n\nTo find out how to create and share mods for The Colonists visit the community wiki or join our Discord server.",
+    "Italian": "Non hai ancora creato nessuna mod!\n\nPer scoprire come creare e condividere mod per The Colonists, visita la wiki della community o unisciti al nostro server Discord.",
+    "Verify": ""
+  },
+  {
+    "Key": "ModBrowser_EmptyWorkshopMods",
+    "Type": "Text",
+    "Desc": "",
+    "English": "No Workshop mods found. Try using other filter settings!",
+    "Italian": "Nessuna mod del Workshop trovata. Prova a cambiare filtro di ricerca!",
+    "Verify": ""
+  },
+  {
+    "Key": "NewMap_LocalModWarning",
+    "Type": "Text",
+    "Desc": "",
+    "English": "You have selected local mods to activate for this map.\n\nPlease note that maps cannot be published to Steam Workshop which have active local mods.\n\nIf you intend to publish a map to Steam Workshop you'll need to publish any local mods first and then select the Workshop versions of those mods.\n\nDo you want to continue creating this map with the selected local mods?",
+    "Italian": "Hai selezionato mod locali da attivare per questa mappa.\n\nTieni presente che le mappe non possono essere pubblicate sullo Steam Workshop se hanno mod locali attive.\n\nSe intendi pubblicare una mappa sullo Steam Workshop, dovrai prima pubblicare eventuali mod locali e poi selezionare le versioni Workshop di tali mod.\n\nVuoi continuare a creare questa mappa con le mod locali selezionate?",
+    "Verify": ""
+  },
+  {
+    "Key": "PublishModThumbnailWarning",
+    "Type": "Text",
+    "Desc": "",
+    "English": "You haven't created a thumbnail for this mod. If you publish it, a default thumbnail will be used.\n\nPublish anyway?",
+    "Italian": "Non hai creato una miniatura per questa mod. Se la pubblichi, verrà utilizzata una miniatura predefinita.\n\nVuoi pubblicarla comunque?",
+    "Verify": ""
+  },
+  {
+    "Key": "MainMenu_Mods",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Mods",
+    "Italian": "Mods",
+    "Verify": ""
+  },
+  {
+    "Key": "ModsMenu_Browser",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Workshop Mods",
+    "Italian": "Workshop Mods",
+    "Verify": ""
+  },
+  {
+    "Key": "ModsMenu_MyMods",
+    "Type": "Text",
+    "Desc": "",
+    "English": "My Mods",
+    "Italian": "Le mie Mod",
+    "Verify": ""
+  },
+  {
+    "Key": "ModBrowser_WorkshopTitle",
+    "Type": "Text",
+    "Desc": "Header of panel when browsing mods on Steam Workshop",
+    "English": "Workshop Mods",
+    "Italian": "Workshop Mods",
+    "Verify": ""
+  },
+  {
+    "Key": "ModBrowser_NoActiveMods",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Toggle a mod on the available list to activate it",
+    "Italian": "Attiva o disattiva una mod nell'elenco disponibile per attivarla",
+    "Verify": ""
+  },
+  {
+    "Key": "ModsHelp_Body",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Welcome to mod support for The Colonists!\n\nMods can add new game content, change existing behaviour, switch up the game visuals and more.\n\nYou can subscribe to mods on Steam Workshop and if you want to create your own mods then check out the community wiki or our Discord server on how to get started.\n\nAny local or subscribed mods can be activated when starting random maps, sandbox games or are embedded when playing custom maps from the Steam Workshop.\n\nTo follow continued mod development or give feedback or suggestions then head to our Discord server or email dev@codebyfire.com.\n\nThanks and have fun!",
+    "Italian": "Benvenuto al supporto mod per The Colonists!\n\nLe mod possono aggiungere nuovi contenuti di gioco, modificare il comportamento esistente, cambiare la grafica del gioco e altro ancora.\n\nPuoi iscriverti alle mod sullo Steam Workshop e se vuoi creare le tue mod, dai un'occhiata alla wiki della community o al nostro server Discord su come iniziare.\n\nEventuali mod locali o sottoscritte possono essere attivate all'avvio di mappe casuali, partite sandbox o incorporate durante la partita di mappe personalizzate dallo Steam Workshop.\n\nPer seguire lo sviluppo continuo delle mod o fornire feedback o suggerimenti, vai al nostro server Discord o invia un'e-mail a dev@codebyfire.com.\n\nGrazie e buon divertimento!",
+    "Verify": ""
+  },
+  {
+    "Key": "ModBrowser_ActiveMods",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Active",
+    "Italian": "Attiva",
+    "Verify": ""
+  },
+  {
+    "Key": "ModsHelp_Title",
+    "Type": "Text",
+    "Desc": "",
+    "English": "The Colonists Mod Support",
+    "Italian": "The Colonists Supporto Mod",
+    "Verify": ""
+  },
+  {
+    "Key": "Unit_26_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Shipbot",
+    "Italian": "BotNavigatore",
+    "Verify": ""
+  },
+  {
+    "Key": "ModBrowser_WorkshopNoResults",
+    "Type": "Text",
+    "Desc": "",
+    "English": "No mods found. Try using other filter settings!",
+    "Italian": "Nessuna mod trovata. Prova a cambiare filtro di ricerca!",
+    "Verify": ""
+  },
+  {
+    "Key": "ModBrowser_UpdateMod",
+    "Type": "Text",
+    "Desc": "Button to update to new version of a mod",
+    "English": "Update",
+    "Italian": "Aggiorna",
+    "Verify": ""
+  },
+  {
+    "Key": "ModBrowser_ModUpdateAvailable",
+    "Type": "Text",
+    "Desc": "Message saying \"there is an update available",
+    "English": "Update available",
+    "Italian": "Aggiornamento disponibile",
+    "Verify": ""
+  },
+  {
+    "Key": "IdleWorkerReason_21_Name",
+    "Type": "Text",
+    "Desc": "(Workerbot is idle because....)\n{0} farm fields/plots e.g. wheat fields",
+    "English": "you haven't placed any {0}",
+    "Italian": "non hai piazzato nessun {0}",
+    "Verify": ""
+  },
+  {
+    "Key": "IdleWorkerReason_22_Name",
+    "Type": "Text",
+    "Desc": "(Workerbot is idle because....)\n{0} farm fields/plots e.g. wheat fields",
+    "English": "they're waiting for {0} to grow",
+    "Italian": "in attesa che {0} cresca",
+    "Verify": ""
+  },
+  {
+    "Key": "IdleWorkerReason_23_Name",
+    "Type": "Text",
+    "Desc": "(Workerbot is idle because....)\n{0} animal fields e.g. sheep fields",
+    "English": "you haven't placed enough {0}",
+    "Italian": "non hai piazzato abbastanza {0}",
+    "Verify": ""
+  },
+  {
+    "Key": "ModPublishedTermsWarning",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Mod uploaded but you need to agree to the Steam Workshop terms before it will appear for other players.",
+    "Italian": "Mod caricata ma devi accettare i termini dello Steam Workshop prima che appaia agli altri giocatori.",
+    "Verify": ""
+  },
+  {
+    "Key": "FirstModSubscribeAlert",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Great, you've subscribed to a mod!\n\nYou can now activate it when starting a random map, a sandbox game or when creating your own custom map.",
+    "Italian": "Fantastico, ti sei sottoscritto a un mod!\n\nOra puoi attivarla quando avvii una mappa casuale, una partita sandbox o quando crei la tua mappa personalizzata.",
+    "Verify": ""
+  },
+  {
+    "Key": "ScenVictMeas_0_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Earn as much money as possible",
+    "Italian": "Guadagna più soldi possibile",
+    "Verify": ""
+  },
+  {
+    "Key": "ScenVictMeas_0_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Money",
+    "Italian": "Denaro",
+    "Verify": ""
+  },
+  {
+    "Key": "ScenTimeLimit",
+    "Type": "Text",
+    "Desc": "{0}: e.g. 3 months",
+    "English": "Time Limit: {0}",
+    "Italian": "Tempo Limite: {0}",
+    "Verify": ""
+  },
+  {
+    "Key": "ScenTimeLimitHeader",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Time Limit",
+    "Italian": "Tempo Limite",
+    "Verify": ""
+  },
+  {
+    "Key": "MyBestScore",
+    "Type": "Text",
+    "Desc": "Eg. My best score: 4000",
+    "English": "My best score:",
+    "Italian": "Miglior punteggio personale:",
+    "Verify": ""
+  },
+  {
+    "Key": "CampaignWindow_RankingsScore",
+    "Type": "Text",
+    "Desc": "Time (of leadeboard entry)",
+    "English": "Score",
+    "Italian": "Punteggio",
+    "Verify": ""
+  },
+  {
+    "Key": "DownloadingMapDep",
+    "Type": "Text",
+    "Desc": "When downloading mods that a workshop map needs",
+    "English": "Downloading map dependencies",
+    "Italian": "Download delle dipendenze della mappa",
+    "Verify": ""
+  },
+  {
+    "Key": "DownloadingMapDepError",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Error - couldn't download workshop item dependencies",
+    "Italian": "Errore - impossibile scaricare le dipendenze dell'elemento del workshop",
     "Verify": ""
   }
 ]

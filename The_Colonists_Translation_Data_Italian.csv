@@ -654,7 +654,7 @@ More advanced technologies require higher level <bd>Workshops</bd> which in turn
 
 To start researching a technology, first select an available technology on a tech tree. Then select an idle <bd>workshop</bd> that is at the required or higher level.
 
-Finally click on the Start Research button in the bottom right to being the research.","Puoi ricercare varie tecnologie per sbloccare nuovi edifici e modalità di trasporto che migliorano e fanno avanzare la tua colonia.
+Finally click on the Start Research button in the bottom right to begin the research.","Puoi ricercare varie tecnologie per sbloccare nuovi edifici e modalità di trasporto che migliorano e fanno avanzare la tua colonia.
 
 Le tecnologie sono ricercate dai robot di ricerca nell'edificio <bd>Laboratorio</bd>. I robot di ricerca richiedono <it>Energia</it> per ricercare la tecnologia e risorse specifiche per tale tecnologia.
 
@@ -1254,9 +1254,9 @@ MapEditorMode_29_Desc,Text,,"Click to select an object.
 
 [Shift] + Clic per rimuovere un oggetto.",
 MapEditorMode_29_Name,Text,,Select,Seleziona,
-MapEditorMode_7_Desc,Text,,"Click and hold to raise land
-Hold [Shift] to lower land
-Hold [Ctrl] to flatten land","Fai clic e tieni premuto per alzare il terreno
+MapEditorMode_7_Desc,Text,,"Click and drag to raise land
+[Shift] and drag to lower land
+[Ctrl] and drag to flatten land","Fai clic e tieni premuto per alzare il terreno
 Tieni premuto [Shift] per abbassare il terreno
 Tieni premuto [Ctrl] per appiattire il terreno",
 MapEditorMode_7_Name,Text,,Terrain Sculpt,Scolpisci il terreno,
@@ -2032,7 +2032,7 @@ Unit_7_Name,Text,,Shipwrightbot,BotCostruttore,
 Unit_8_Name,Text,,Treebot,BotForestale,
 Unit_9_Name,Text,,Fisherbot,BotPescatore,
 Unsubscribe,Text,Unsubscribe from a map,Unsubscribe,Disiscrivi,
-User Maps,Text,,User Maps,Mappe degli utenti,
+User Maps,Text,,Workshop Maps,Mappe degli utenti,
 Username,Text,,Username,Username,
 Utility_0_Name,Text,In map editor the marker on the terrain for where a player starts,Player Start Marker,Indicatore di inizio del giocatore,
 ViewTypeLastMonth,Text,,Last Month,Ultimo mese,
@@ -2915,7 +2915,8 @@ An extensive map editor and Steam Workshop support is included, so you can creat
 [*][b]Sandbox Mode[/b]: Customise various game settings to play the game how you like
 [*][b]Steam Workshop[/b]: Play hundreds of player-generated custom maps
 [*][b]Challenge Trophies[/b]: Special challenges which test the most expert colony builders
-[*][b]Map Editor[/b]: create, play and share your own maps
+[*][b]Map Editor[/b]: Create, play and share your own custom maps with your own victory conditions
+[*][b]Mod Support[/b]: Play with new buildings, new resources, new research and more with Steam Workshop mod integration
 [/list]","[img]{STEAM_APP_IMAGE}/extras/store_description_header.png[/img]
 The Colonists è un rilassante gioco gestionale sulla costruzione di insediamenti ispirato a titoli classici come The Settlers e la serie Anno.
 
@@ -2944,9 +2945,10 @@ Esplora, ricerca, gestisci, modifica e perfeziona in piena libertà quanto prefe
 [*][b]Campagna[/b]: 14 missioni divise in percorsi pacifici e militari
 [*][b]Mappe Random[/b]: Gioca una quantità pressoché infinita di mappe generate proceduralmente
 [*][b]Modalità Sandbox[/b]: Personalizza le varie impostazioni di gioco per giocare come preferisci
-[*][b]Steam Workshop[/b]: Gioca a centinaia di mappe personalizzate create dai giocatori
-[*][b]Trofei delle Sfide[/b]: Sfide speciali che mettono alla prova i costruttori di colonia più esperti
-[*][b]Editor di Mappe[/b]: Crea, gioca e condividi le tue mappe
+[*][b]Steam Workshop[/b]: Gioca centinaia di mappe personalizzate create dai giocatori
+[*][b]Trofei delle Sfide[/b]: Sfide speciali che mettono alla prova i colonizzatori più esperti
+[*][b]Editor di Mappe[/b]: Crea, gioca e condividi le tue mappe personalizzate con le tue condizioni di vittoria
+[*][b]Supporto alle Mod[/b]: Gioca con nuovi edifici, nuove risorse, nuove ricerche e molto altro con l'integrazione delle mod dallo Steam Workshop
 [/list]",
 KeyBindings_CancelWarning,Text,,You have unsaved changes. Go back anyway?,Hai modifiche non salvate. Vuoi tornare indietro comunque?,
 KeyBindings_NoChanges,Text,,No changes made,Nessuna modifica effettuata,
@@ -3213,3 +3215,152 @@ ModPublishedDate,Text,E.g. Published: 2022/05/05 12:43,Published: ,Pubblicata:,
 SaveScenarioKeepWorkshopId,Text,Option when saving a custom map that has been published to Steam Workshop,Keep Workshop Id?,Mantenere l'Id Workshop?,
 GameSetting_MonumentBoostMultiplier,Text,"A Frontier setting indicating that monument boosts have a multiplier applied
 {0} - the multiplier number e.g. 2.5x",Monument Boost Multiplier: {0}x,Boost Multiplicatore Monumento: {0}x,
+ItemTooltip_WaitConstruction,Text,"{0}:amount, {1}:resource
+Eg. 3x Logs are waiting to be used for construction",{0}x {1} waiting to be used for construction,{0}x {1} in attesa di essere utilizzati per la costruzione,
+EntityInfoBuildingStorageConstructionIncomingHeader,Text,,Construction Queue ({0}),Coda di Costruzione ({0}),
+EntityInfoBuildingStorageConstructionIncomingEmpty,Text,,There are no resources waiting to be used for construction,Non ci sono risorse in attesa di essere utilizzate per la costruzione,
+TooltipImportExportRules,Text,,You have set import/export rules on this building,Hai impostato regole di importazione/esportazione per questo edificio,
+LoadFrontierArchive,Text,,Load Archive,Carica Archivio,
+EntityInfoBuildingStorageConstructionImportWhitelistHeader,Text,,Construction Import Whitelist,Permessi Import Costruzioni,
+EntityInfoBuildingStorageConstructionImportWhitelistDesc,Text,,Limit which buildings can send resources here for construction:,Limita quali edifici possono inviare risorse qui per la costruzione:,
+EntityInfoBuildingStorageProductionImportWhitelistHeader,Text,,Production Import Whitelist,Permessi Import Produzione,
+EntityInfoBuildingStorageProductionImportWhitelistDesc,Text,,Limit which buildings can send resources here for production:,Limita quali edifici possono inviare risorse qui per la produzione:,
+EntityInfoBuildingStorageStorageImportWhitelistHeader,Text,,Storage Import Whitelist,Permessi Import Deposito,
+EntityInfoBuildingStorageStorageImportWhitelistDesc,Text,,Limit which buildings can send resources here for storage:,Limita quali edifici possono inviare risorse qui per il deposito:,
+EntityInfoBuildingStorageProductionExportWhitelistHeader,Text,,Production Export Whitelist,Permessi Export Produzione,
+EntityInfoBuildingStorageProductionExportWhitelistDesc,Text,,Limit which buildings can receive resources produced here:,Limita gli edifici che possono ricevere le risorse prodotte qui:,
+EntityInfoBuildingStorageStorageExportWhitelistHeader,Text,,Storage Export Whitelist,Permessi Export Deposito,
+EntityInfoBuildingStorageStorageExportWhitelistDesc,Text,,Limit which buildings can receive resources stored here:,Limita gli edifici che possono ricevere le risorse immagazzinate qui:,
+MapEditorModManager_Activate,Text,,Activate,Attiva,
+MapEditorModManager_Deactivate,Text,,Deactivate,Disattiva,
+MapEditorModManager_LocalModWarning,Text,,* Please note: maps cannot be published to Steam Workshop if a local mod is activated,* Nota: le mappe non possono essere pubblicate su Steam Workshop se è attivata una mod locale,
+ScenGameVerErr_8,Text,,You have one or more local mods activated!,Hai attivato una o più mod locali!,
+InfoPanel_ActiveModsHeader,Text,,Active Mods,Mod attive,
+AlertTradeTerminalNoRules,Text,When a space port doesn't have any selling or purchasing rules,You have not set any trade rules yet,Non hai ancora impostato alcuna regola commerciale,
+WorkshopItem_Installing,Text,When a mod from Steam Workshop is installing,Installing,Installazione,
+MapPublishTerms,Text,,"By submitting this item, you agree to the Steam Workshop terms of service","Caricando questo elemento, accetti i termini di servizio dello Steam Workshop",
+MapPublishedOpenTerms,Text,,Open Steam Workshop Agreement,Apri l'accordo dello Steam Workshop,
+MapPublishedOpenMap,Text,,Open Map in Steam Workshop,Apri la mappa nello Steam Workshop,
+MapPublishedTermsWarning,Text,,Map uploaded but you need to agree to the Steam Workshop terms before it will appear for other players.,Mappa caricata ma devi accettare i termini dello Steam Workshop prima che appaia agli altri giocatori.,
+MapEditorFloraRocks,Text,,Rocks,Rocce,
+MapEditorFloraTrees,Text,,Trees,Alberi,
+MapEditorFloraEnvironmental,Text,Objects that have no gameplay purpose like bushes,Decorative,Decorazioni,
+AgeName_3,Text,Level of building in the game,Level 4,Livello 4,
+AgeName_4,Text,Level of building in the game,Level 5,Livello 5,
+AgeNameShort_3,Text,Short for Level 4,L4,L4,
+AgeNameShort_4,Text,Short for Level 5,L5,L5,
+OpenSteamWorkshop,Text,Button to open Steam Workshop in-game overlay,Steam Workshop,Steam Workshop,
+ReloadModsButton,Text,,Reload Mods,Ricarica Mod,
+ReloadCodexHelpBody,Text,,"This option is solely to make it easier to develop and test mods in that you don't have to keep restarting or making new games to see certain changes. 
+
+Be warned though! Depending on the content of the your mod, or what has changed in between versions of your mod, things may break or go wrong, especially if you remove game data.","Questa opzione serve esclusivamente a rendere più semplice lo sviluppo e il test delle mod in quanto non è necessario continuare a riavviare o creare nuove partite per vedere determinati cambiamenti.
+
+Attenzione però! A seconda del contenuto della tua mod, o di cosa è cambiato tra le versioni della tua mod, le cose potrebbero rompersi o andare male, specialmente se rimuovi i dati di gioco.",
+ReloadCodexHelpTitle,Text,,Reloading Mods,Ri-Caricamento delle Mod,
+ModBrowserNoAvailableMods,Text,,"You don't have any mods available!
+
+Browse the Steam Workshop tab to find mods from other players or find out how to make your own mods on the Community Wiki.","Non hai nessuna mod disponibile!
+
+Sfoglia la scheda Steam Workshop per trovare le mod di altri giocatori o scopri come creare le tue mod sulla Community Wiki.",
+ColonistsModsWiki,Text,,Community Wiki,Community Wiki,
+ModBrowser_ChooseModsTitle,Text,Header of panel when choosing which mods to activate for a game,Select Active Mods,Seleziona Mod Attive,
+ModBrowser_ManageModsTitle,Text,Header of panel when managing own mods,My Mods,Le mie Mod,
+ModsChangedTitle,Text,Title of panel summarising changes in mods when loading a game,Mod Updates,Aggiornamenti Mod,
+ModsChangedButtonContinue,Text,,Continue,Continua,
+ModsChangedButtonResubscribe,Text,Resubscribe to Workshop mods that had previously been subscribed to,Resubscribe,Ri-Sottoscrivi,
+ModsChangedButtonCancel,Text,,Cancel,Annulla,
+ModsChangedWorkshopCheckingDetails,Text,While the game is waiting for data from Steam Workshop,Checking details...,Controllo dei dettagli...,
+ModsChangedWorkshopNotFound,Text,When a mod is not found,No longer on Steam Workshop,Rimossa dallo Steam Workshop,
+ModsChangedWorkshopNotSubscribed,Text,When a player is not currently subscribed to the mod on Steam workshop,Not currently subscribed,Attualmente non sottoscritta,
+ModsChangedGeneralUpdated,Text,When a mod has been updated,Updated to version: {0},Aggiornato alla versione: {0},
+ModsChangedGeneralNoChange,Text,When is a mod is the same version as before,No change,Nessun cambiamento,
+ModsChangedLocalNotFound,Text,When a local mod can no longer be found at the previous folder,Folder no longer exists,La cartella non esiste più,
+ResubscribingModsMessage,Text,,Resubscribing to mods,Ri-Sottoscrizione alle mod,
+ModsChangedContinueWarning,Text,,"WARNING!
+
+You can try and load the game without the original mods active but depending on the contents of the missing mods, the game might really not like it.
+
+Proceed at your own risk!","ATTENZIONE!
+
+Puoi provare a caricare il gioco senza le mod originali attive, ma a seconda del contenuto delle mod mancanti, al gioco potrebbe non piacere.
+
+Procedi a tuo rischio!",
+ModBrowser_AvailableFilter_All,Text,,All Available,Tutte disponibili,
+ModBrowser_AvailableFilter_WorkshopOnly,Text,,Workshop Only,Solo Workshop,
+ModBrowser_AvailableFilter_LocalOnly,Text,,Local Only,Solo Locali,
+ModBrowser_EmptyMyMods,Text,,"You haven't created any mods yet!
+
+To find out how to create and share mods for The Colonists visit the community wiki or join our Discord server.","Non hai ancora creato nessuna mod!
+
+Per scoprire come creare e condividere mod per The Colonists, visita la wiki della community o unisciti al nostro server Discord.",
+ModBrowser_EmptyWorkshopMods,Text,,No Workshop mods found. Try using other filter settings!,Nessuna mod del Workshop trovata. Prova a cambiare filtro di ricerca!,
+NewMap_LocalModWarning,Text,,"You have selected local mods to activate for this map.
+
+Please note that maps cannot be published to Steam Workshop which have active local mods.
+
+If you intend to publish a map to Steam Workshop you'll need to publish any local mods first and then select the Workshop versions of those mods.
+
+Do you want to continue creating this map with the selected local mods?","Hai selezionato mod locali da attivare per questa mappa.
+
+Tieni presente che le mappe non possono essere pubblicate sullo Steam Workshop se hanno mod locali attive.
+
+Se intendi pubblicare una mappa sullo Steam Workshop, dovrai prima pubblicare eventuali mod locali e poi selezionare le versioni Workshop di tali mod.
+
+Vuoi continuare a creare questa mappa con le mod locali selezionate?",
+PublishModThumbnailWarning,Text,,"You haven't created a thumbnail for this mod. If you publish it, a default thumbnail will be used.
+
+Publish anyway?","Non hai creato una miniatura per questa mod. Se la pubblichi, verrà utilizzata una miniatura predefinita.
+
+Vuoi pubblicarla comunque?",
+MainMenu_Mods,Text,,Mods,Mods,
+ModsMenu_Browser,Text,,Workshop Mods,Workshop Mods,
+ModsMenu_MyMods,Text,,My Mods,Le mie Mod,
+ModBrowser_WorkshopTitle,Text,Header of panel when browsing mods on Steam Workshop,Workshop Mods,Workshop Mods,
+ModBrowser_NoActiveMods,Text,,Toggle a mod on the available list to activate it,Attiva o disattiva una mod nell'elenco disponibile per attivarla,
+ModsHelp_Body,Text,,"Welcome to mod support for The Colonists!
+
+Mods can add new game content, change existing behaviour, switch up the game visuals and more.
+
+You can subscribe to mods on Steam Workshop and if you want to create your own mods then check out the community wiki or our Discord server on how to get started.
+
+Any local or subscribed mods can be activated when starting random maps, sandbox games or are embedded when playing custom maps from the Steam Workshop.
+
+To follow continued mod development or give feedback or suggestions then head to our Discord server or email dev@codebyfire.com.
+
+Thanks and have fun!","Benvenuto al supporto mod per The Colonists!
+
+Le mod possono aggiungere nuovi contenuti di gioco, modificare il comportamento esistente, cambiare la grafica del gioco e altro ancora.
+
+Puoi iscriverti alle mod sullo Steam Workshop e se vuoi creare le tue mod, dai un'occhiata alla wiki della community o al nostro server Discord su come iniziare.
+
+Eventuali mod locali o sottoscritte possono essere attivate all'avvio di mappe casuali, partite sandbox o incorporate durante la partita di mappe personalizzate dallo Steam Workshop.
+
+Per seguire lo sviluppo continuo delle mod o fornire feedback o suggerimenti, vai al nostro server Discord o invia un'e-mail a dev@codebyfire.com.
+
+Grazie e buon divertimento!",
+ModBrowser_ActiveMods,Text,,Active,Attiva,
+ModsHelp_Title,Text,,The Colonists Mod Support,The Colonists Supporto Mod,
+Unit_26_Name,Text,,Shipbot,BotNavigatore,
+ModBrowser_WorkshopNoResults,Text,,No mods found. Try using other filter settings!,Nessuna mod trovata. Prova a cambiare filtro di ricerca!,
+ModBrowser_UpdateMod,Text,Button to update to new version of a mod,Update,Aggiorna,
+ModBrowser_ModUpdateAvailable,Text,"Message saying ""there is an update available""",Update available,Aggiornamento disponibile,
+IdleWorkerReason_21_Name,Text,"(Workerbot is idle because....)
+{0} farm fields/plots e.g. wheat fields",you haven't placed any {0},non hai piazzato nessun {0},
+IdleWorkerReason_22_Name,Text,"(Workerbot is idle because....)
+{0} farm fields/plots e.g. wheat fields",they're waiting for {0} to grow,in attesa che {0} cresca,
+IdleWorkerReason_23_Name,Text,"(Workerbot is idle because....)
+{0} animal fields e.g. sheep fields",you haven't placed enough {0},non hai piazzato abbastanza {0},
+ModPublishedTermsWarning,Text,,Mod uploaded but you need to agree to the Steam Workshop terms before it will appear for other players.,Mod caricata ma devi accettare i termini dello Steam Workshop prima che appaia agli altri giocatori.,
+FirstModSubscribeAlert,Text,,"Great, you've subscribed to a mod!
+
+You can now activate it when starting a random map, a sandbox game or when creating your own custom map.","Fantastico, ti sei sottoscritto a un mod!
+
+Ora puoi attivarla quando avvii una mappa casuale, una partita sandbox o quando crei la tua mappa personalizzata.",
+ScenVictMeas_0_Desc,Text,,Earn as much money as possible,Guadagna più soldi possibile,
+ScenVictMeas_0_Name,Text,,Money,Denaro,
+ScenTimeLimit,Text,{0}: e.g. 3 months,Time Limit: {0},Tempo Limite: {0},
+ScenTimeLimitHeader,Text,,Time Limit,Tempo Limite,
+MyBestScore,Text,Eg. My best score: 4000,My best score:,Miglior punteggio personale:,
+CampaignWindow_RankingsScore,Text,Time (of leadeboard entry),Score,Punteggio,
+DownloadingMapDep,Text,When downloading mods that a workshop map needs,Downloading map dependencies,Download delle dipendenze della mappa,
+DownloadingMapDepError,Text,,Error - couldn't download workshop item dependencies,Errore - impossibile scaricare le dipendenze dell'elemento del workshop,
