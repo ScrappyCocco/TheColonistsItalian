@@ -4556,7 +4556,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "This sub-panel lists resources recently delivered to a production building. You can filter the results by 'On Time', 'Warning' and 'Alert' and you can select any entry to see the route it took. The percentage number indicates the time the journey took compared to the time needed to maintain 100% productivity at the destination building.\n\nFor example, a <bd>Lumberjack Hut</bd> requires <it>Energy</it> at a rate of one per day and can store up to four <it>Energy</it> resources as a buffer. If an <it>Energy</it> resource takes 4.5 days to arrive, it will be listed here as 112% as if that journey time was consistent then resources wouldn't arrive quickly enough to maintain 100% productivity.\n\nThis is just one factor When taking into account whether a building can work at 100% as you also need to take into account whether there is enough of that resource being produced in the first place.\n\nIt is usually optimal to place a building that supply another building close together so that supply routes are short. Sometimes this is not possible but to work around this you can build <bd>Storage Yards</bd> near your destination to create an extra supply 'buffer'.\n\nFor example, if you have a remote <bd>Mine</bd>, you can build a nearby <bd>Storage Yard</bd> to keep a supply of <it>Energy</it> nearby. If you do this bear in mind that, by default, the <it>Energy</it> stored there will still be available to other buildings, potentially far away. There are two options to make it so that <it>Energy</it> only goes to that <bd>Mine</bd>:\n\nFirstly you could limit the export buildings in the <bd>Storage Yard</bd> settings to just your <bd>Mine</bd>. Secondly you could create a transport rule on a road post to only allow <it>Energy</it> to pass through if going to a <bd>Storage Yard</bd>.",
-    "Italian": "Questo pannello secondario elenca le risorse consegnate di recente a un edificio di produzione. Puoi filtrare i risultati in base a\" In orario\",\" Allerta\" e \"Allarme\" e puoi selezionare qualsiasi voce per vedere il percorso seguito. Il numero percentuale indica che il tempo impiegato per il viaggio rispetto al tempo necessario per mantenere la produttività del 100% nell'edificio di destinazione.\n\nAd esempio, una <bd>Capanna del Taglialegna</bd> richiede <it>Energia</it> al prezzo di una unità al giorno e può archiviare fino a quattro risorse <it>Energia</it> come buffer. Se una risorsa <it>Energia</it> impiega 4,5 giorni per arrivare, verrà elencata qui come 112% come se quel tempo di viaggio fosse coerente, quindi le risorse non arriverebbero abbastanza rapidamente per mantenere una produttività del 100%.\n\nQuesto è solo uno dei fattori. Quando si tiene conto del fatto che un edificio possa funzionare al 100%, si deve anche tenere conto del fatto che in primo luogo viene prodotta abbastanza quella risorsa.\n\nDi solito è ottimale posizionare un edificio che rifornisca un altro edificio vicino in modo che i percorsi di approvvigionamento siano brevi. A volte ciò non è possibile, ma per ovviare a questo problema è possibile creare <bd>Depositi</bd> vicino alla destinazione per creare un \"buffer\" di approvvigionamento aggiuntivo.\n\nAd esempio, se possiedi una <bd>Miniera</bd> remota, puoi costruire un <bd>Deposito</bd> nelle vicinanze per mantenere un rifornimento di <it>Energia</it> nelle vicinanze. Se lo fai, tieni presente che, per impostazione predefinita, l '<it>Energia</it> immagazzinata sarà comunque disponibile per altri edifici, potenzialmente lontani. Ci sono due opzioni per farlo in modo che <it>Energia</it> vada solo a quella <bd>Miniera</bd>:\n\nIn primo luogo potresti limitare gli edifici di esportazione nelle impostazioni <bd>Deposito </bd> solo alla tua <bd>Miniera</bd>. In secondo luogo, è possibile creare una regola di trasporto su un incrocio per consentire il passaggio di <it>Energia</it> solo se si va in un <bd>Deposito</bd>.",
+    "Italian": "Questo pannello secondario elenca le risorse consegnate di recente a un edificio di produzione. Puoi filtrare i risultati in base a\" In orario\",\" Allerta\" e \"Allarme\" e puoi selezionare qualsiasi voce per vedere il percorso seguito. Il numero percentuale indica che il tempo impiegato per il viaggio rispetto al tempo necessario per mantenere la produttività del 100% nell'edificio di destinazione.\n\nAd esempio, una <bd>Capanna del Taglialegna</bd> richiede <it>Energia</it> al prezzo di una unità al giorno e può archiviare fino a quattro risorse <it>Energia</it> come buffer. Se una risorsa <it>Energia</it> impiega 4.5 giorni per arrivare, sarà indicata qui come 112%, poiché se il tempo di viaggio fosse costante, le risorse non arriverebbero abbastanza velocemente da mantenere una produttività del 100%.\n\nQuesto è solo uno dei fattori. Quando si tiene conto del fatto che un edificio può funzionare al 100%, si deve anche tenere conto del fatto che in primo luogo viene prodotta abbastanza quella risorsa.\n\nDi solito è ottimale posizionare un edificio che rifornisca un altro edificio vicino in modo che i percorsi di approvvigionamento siano brevi. A volte ciò non è possibile, ma per ovviare a questo problema è possibile creare <bd>Depositi</bd> vicino alla destinazione per creare un \"buffer\" di approvvigionamento aggiuntivo.\n\nAd esempio, se possiedi una <bd>Miniera</bd> remota, puoi costruire un <bd>Deposito</bd> nelle vicinanze per mantenere un rifornimento di <it>Energia</it> nelle vicinanze. Se lo fai, tieni presente che, per impostazione predefinita, l '<it>Energia</it> immagazzinata sarà comunque disponibile per altri edifici, potenzialmente lontani. Ci sono due opzioni per farlo in modo che <it>Energia</it> vada solo a quella <bd>Miniera</bd>:\n\nIn primo luogo potresti limitare gli edifici di esportazione nelle impostazioni <bd>Deposito </bd> solo alla tua <bd>Miniera</bd>. In secondo luogo, è possibile creare una regola di trasporto su un incrocio per consentire il passaggio di <it>Energia</it> solo se si va in un <bd>Deposito</bd>.",
     "Verify": ""
   },
   {
@@ -5300,7 +5300,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "By the middle of the 21st century, significant advancements had been made in the fields of robotics and artificial intelligence.\n\nScientists had begun developing self-aware printable robots, capable of simulating human needs for sustenance and shelter.",
-    "Italian": "Entro la metà del 21° secolo, sono stati fatti significativi progressi nei settori della robotica e dell'intelligenza artificiale.\n\nGli scienziati avevano iniziato a sviluppare robot autocoscienti, in grado di simulare i bisogni umani di sostentamento e riparo.",
+    "Italian": "Entro la metà del XXI secolo, sono stati fatti significativi progressi nei settori della robotica e dell'intelligenza artificiale.\n\nGli scienziati avevano iniziato a sviluppare robot autocoscienti, in grado di simulare i bisogni umani di sostentamento e riparo.",
     "Verify": ""
   },
   {
@@ -12020,7 +12020,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "You have unlocked the Shaft Mine!\nLevel 1 Shaft Mines bots are powered by <it>Energy L2</it> can mine <nr>Coal</nr>, <nr>Iron Ore</nr>, <nr>Clay</nr> and <nr>Salt</nr> as well as mining <nr>Stone</nr>.\nShaft Mines tunnel into underground deposits so have to be placed in specific position related to the deposit. Use the building footprint to line up with the underground deposit.",
-    "Italian": "Hai sbloccato la Miniera!\nI Bot della Miniera Livello 1 utilizzano <it>Energia L2</it> e possono estrarre <nr>Carbone</nr>, <nr>Ferro grezzo</nr>, <nr>Argilla</nr> e <nr>Sale</nr> oltre ad estrarre <nr>Pietra</nr>.\nLa Miniera crea tunnel sotterranei quindi deve essere piazzata in punti specifici vicino ai depositi. Utilizza l'indicatore per allinearla con il deposito sotterraneo.",
+    "Italian": "Hai sbloccato la Miniera!\nI Bot della Miniera Livello 1 utilizzano <it>Energia L2</it> e possono estrarre <nr>Carbone</nr>, <nr>Ferro grezzo</nr>, <nr>Argilla</nr> e <nr>Sale</nr> oltre ad estrarre <nr>Pietra</nr>.\nLa Miniera crea tunnel sotterranei, quindi, deve essere piazzata in punti specifici vicino ai depositi. Utilizza l'indicatore per allinearla con il deposito sotterraneo.",
     "Verify": ""
   },
   {
@@ -12324,7 +12324,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Workshop Maps",
-    "Italian": "Mappe degli utenti",
+    "Italian": "Mappe del Workshop",
     "Verify": ""
   },
   {
@@ -20308,7 +20308,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "The Colonists Mod Support",
-    "Italian": "The Colonists Supporto Mod",
+    "Italian": "Supporto Mod di The Colonists",
     "Verify": ""
   },
   {
@@ -20388,7 +20388,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Earn as much money as possible",
-    "Italian": "Guadagna più soldi possibile",
+    "Italian": "Guadagna più denaro possibile",
     "Verify": ""
   },
   {

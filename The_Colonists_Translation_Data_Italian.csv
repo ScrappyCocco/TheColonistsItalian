@@ -694,9 +694,9 @@ For example, if you have a remote <bd>Mine</bd>, you can build a nearby <bd>Stor
 
 Firstly you could limit the export buildings in the <bd>Storage Yard</bd> settings to just your <bd>Mine</bd>. Secondly you could create a transport rule on a road post to only allow <it>Energy</it> to pass through if going to a <bd>Storage Yard</bd>.","Questo pannello secondario elenca le risorse consegnate di recente a un edificio di produzione. Puoi filtrare i risultati in base a"" In orario"","" Allerta"" e ""Allarme"" e puoi selezionare qualsiasi voce per vedere il percorso seguito. Il numero percentuale indica che il tempo impiegato per il viaggio rispetto al tempo necessario per mantenere la produttività del 100% nell'edificio di destinazione.
 
-Ad esempio, una <bd>Capanna del Taglialegna</bd> richiede <it>Energia</it> al prezzo di una unità al giorno e può archiviare fino a quattro risorse <it>Energia</it> come buffer. Se una risorsa <it>Energia</it> impiega 4,5 giorni per arrivare, verrà elencata qui come 112% come se quel tempo di viaggio fosse coerente, quindi le risorse non arriverebbero abbastanza rapidamente per mantenere una produttività del 100%.
+Ad esempio, una <bd>Capanna del Taglialegna</bd> richiede <it>Energia</it> al prezzo di una unità al giorno e può archiviare fino a quattro risorse <it>Energia</it> come buffer. Se una risorsa <it>Energia</it> impiega 4.5 giorni per arrivare, sarà indicata qui come 112%, poiché se il tempo di viaggio fosse costante, le risorse non arriverebbero abbastanza velocemente da mantenere una produttività del 100%.
 
-Questo è solo uno dei fattori. Quando si tiene conto del fatto che un edificio possa funzionare al 100%, si deve anche tenere conto del fatto che in primo luogo viene prodotta abbastanza quella risorsa.
+Questo è solo uno dei fattori. Quando si tiene conto del fatto che un edificio può funzionare al 100%, si deve anche tenere conto del fatto che in primo luogo viene prodotta abbastanza quella risorsa.
 
 Di solito è ottimale posizionare un edificio che rifornisca un altro edificio vicino in modo che i percorsi di approvvigionamento siano brevi. A volte ciò non è possibile, ma per ovviare a questo problema è possibile creare <bd>Depositi</bd> vicino alla destinazione per creare un ""buffer"" di approvvigionamento aggiuntivo.
 
@@ -884,7 +884,7 @@ IntFeedDesc_2,Text,,Sculpting would break path,Scolpire romperebbe il percorso,
 IntFeedDesc_3,Text,,Neighbour occupied by rockface,Zona vicina occupata da una roccia,
 IntroDescription1,Text,,"By the middle of the 21st century, significant advancements had been made in the fields of robotics and artificial intelligence.
 
-Scientists had begun developing self-aware printable robots, capable of simulating human needs for sustenance and shelter.","Entro la metà del 21° secolo, sono stati fatti significativi progressi nei settori della robotica e dell'intelligenza artificiale.
+Scientists had begun developing self-aware printable robots, capable of simulating human needs for sustenance and shelter.","Entro la metà del XXI secolo, sono stati fatti significativi progressi nei settori della robotica e dell'intelligenza artificiale.
 
 Gli scienziati avevano iniziato a sviluppare robot autocoscienti, in grado di simulare i bisogni umani di sostentamento e riparo.",
 IntroDescription2,Text,,"Faced with an indefinite future of servitude, one group of robots hatched a plan to create a new life for themselves.
@@ -1970,7 +1970,7 @@ TutorialDialogues__Overlay_ShaftMineUnlock,Text,,"You have unlocked the Shaft Mi
 Level 1 Shaft Mines bots are powered by <it>Energy L2</it> can mine <nr>Coal</nr>, <nr>Iron Ore</nr>, <nr>Clay</nr> and <nr>Salt</nr> as well as mining <nr>Stone</nr>.
 Shaft Mines tunnel into underground deposits so have to be placed in specific position related to the deposit. Use the building footprint to line up with the underground deposit.","Hai sbloccato la Miniera!
 I Bot della Miniera Livello 1 utilizzano <it>Energia L2</it> e possono estrarre <nr>Carbone</nr>, <nr>Ferro grezzo</nr>, <nr>Argilla</nr> e <nr>Sale</nr> oltre ad estrarre <nr>Pietra</nr>.
-La Miniera crea tunnel sotterranei quindi deve essere piazzata in punti specifici vicino ai depositi. Utilizza l'indicatore per allinearla con il deposito sotterraneo.",
+La Miniera crea tunnel sotterranei, quindi, deve essere piazzata in punti specifici vicino ai depositi. Utilizza l'indicatore per allinearla con il deposito sotterraneo.",
 TutorialDialogues__Overlay_SurfaceMineUpgrade,Text,,"You now have access to a Level 2 Surface Mine! Click the tab at the top of the construction panel to change the level of the building.
 Level 2 Surface Mines bots are powered by <it>Energy L2</it> and can mine <nr>Coal</nr>, <nr>Iron Ore</nr> and <nr>Clay</nr> as well as mining <nr>Stone</nr> faster.
 But remember, you can always choose to build Level 1 Surface Mines to mine <nr>Stone</nr> if you prefer or in the event you run out of <it>Stone</it> to construct Level 2 Surface Mines.","Ora hai accesso alla Miniera di Superficie Livello 2! Clicca sulla scheda in alto al pannello costruzione per cambiare il livello dell'edificio.
@@ -2032,7 +2032,7 @@ Unit_7_Name,Text,,Shipwrightbot,BotCostruttore,
 Unit_8_Name,Text,,Treebot,BotForestale,
 Unit_9_Name,Text,,Fisherbot,BotPescatore,
 Unsubscribe,Text,Unsubscribe from a map,Unsubscribe,Disiscrivi,
-User Maps,Text,,Workshop Maps,Mappe degli utenti,
+User Maps,Text,,Workshop Maps,Mappe del Workshop,
 Username,Text,,Username,Username,
 Utility_0_Name,Text,In map editor the marker on the terrain for where a player starts,Player Start Marker,Indicatore di inizio del giocatore,
 ViewTypeLastMonth,Text,,Last Month,Ultimo mese,
@@ -3339,7 +3339,7 @@ Per seguire lo sviluppo continuo delle mod o fornire feedback o suggerimenti, va
 
 Grazie e buon divertimento!",
 ModBrowser_ActiveMods,Text,,Active,Attiva,
-ModsHelp_Title,Text,,The Colonists Mod Support,The Colonists Supporto Mod,
+ModsHelp_Title,Text,,The Colonists Mod Support,Supporto Mod di The Colonists,
 Unit_26_Name,Text,,Shipbot,BotNavigatore,
 ModBrowser_WorkshopNoResults,Text,,No mods found. Try using other filter settings!,Nessuna mod trovata. Prova a cambiare filtro di ricerca!,
 ModBrowser_UpdateMod,Text,Button to update to new version of a mod,Update,Aggiorna,
@@ -3356,7 +3356,7 @@ FirstModSubscribeAlert,Text,,"Great, you've subscribed to a mod!
 You can now activate it when starting a random map, a sandbox game or when creating your own custom map.","Fantastico, ti sei sottoscritto a un mod!
 
 Ora puoi attivarla quando avvii una mappa casuale, una partita sandbox o quando crei la tua mappa personalizzata.",
-ScenVictMeas_0_Desc,Text,,Earn as much money as possible,Guadagna più soldi possibile,
+ScenVictMeas_0_Desc,Text,,Earn as much money as possible,Guadagna più denaro possibile,
 ScenVictMeas_0_Name,Text,,Money,Denaro,
 ScenTimeLimit,Text,{0}: e.g. 3 months,Time Limit: {0},Tempo Limite: {0},
 ScenTimeLimitHeader,Text,,Time Limit,Tempo Limite,
