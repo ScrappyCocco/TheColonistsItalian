@@ -1207,12 +1207,12 @@ MapEditorMode_15_Desc,Text,,"Click and drag to paint primary terrain.
 [Ctrl] + Click to fill tile with primary terrain.
 [C] + Click to select primary terrain from tile.
 [V] + Click to select secondary terrain from tile.
-[B] + Click to flip terrain types on tile.","Fai clic e trascina per dipingere il terreno principale.
+[F] + Click to flip terrain types on tile.","Fai clic e trascina per dipingere il terreno principale.
 [Alt] + trascina lentamente per disegnare il bordo usando i tipi primario e secondo.
 [Ctrl] + clic per riempire la tessera con terreno primario.
 [C] + clic per selezionare il terreno principale dalla tessera.
 [V] + clic per selezionare il terreno secondario dalla tessera.
-[B] + clic per invertire i tipi di terreno sulla tessera. ",
+[F] + clic per invertire i tipi di terreno sulla tessera. ",
 MapEditorMode_15_Name,Text,,Paint Terrain,Dipingi terreno,
 MapEditorMode_16_Desc,Text,,"Click and Hold to place/increase.
 [Shift] to reduce/remove.
@@ -1654,7 +1654,7 @@ TerrainType_10,Text,,Desert A,Deserto A,
 TerrainType_11,Text,,Rock B,Roccioso B,
 TerrainType_12,Text,,Sand B,Sabbioso B,
 TerrainType_13,Text,,Desert B,Deserto B,
-TerrainType_14,Text,,Rock A,Roccioso A,
+TerrainType_14,Text,,Desert C,Deserto C,
 TerrainType_15,Text,,Prairie,Prateria,
 TerrainType_16,Text,,Scrub,Prato con arbusti,
 TerrainType_17,Text,,Forest,Foresta,
@@ -2870,9 +2870,9 @@ Advice_3_Name_Plural,Text,<amount>: any number more than one,<amount> of your bu
 RandomMap_Seed,Text,https://en.wikipedia.org/wiki/Random_seed,Seed,Seed Random,
 RandomMap_GenSeed,Text,(Generate) new (seed),New,Nuovo,
 RandomMap_Biome,Text,,Biome,Bioma,
-RandomMap_Biome0,Text,,Default,Default,
-RandomMap_Biome1,Text,,Snow,Neve,
-RandomMap_Biome2,Text,,Desert,Deserto,
+Biome_0,Text,,Default,Default,
+Biome_1,Text,,Snow,Neve,
+Biome_2,Text,,Desert,Deserto,
 TutorialDialogues_T2_SoloInstructionsB1,Text,,"It's time to build this colony on your own!
 First, remind yourself of the mission goals by opening the mission info panel in the top left of the screen.","È tempo di costruire questa colonia da solo!
 Innanzitutto, riguardati gli obiettivi della missione aprendo il pannello delle informazioni sulla missione nella parte superiore sinistra dello schermo.",
@@ -2942,13 +2942,13 @@ Esplora, ricerca, gestisci, modifica e perfeziona in piena libertà quanto prefe
 
 [h2]Caratteristiche[/h2]
 [list]
-[*][b]Campagna[/b]: 14 missioni divise in percorsi pacifici e militari
-[*][b]Mappe Random[/b]: Gioca una quantità pressoché infinita di mappe generate proceduralmente
-[*][b]Modalità Sandbox[/b]: Personalizza le varie impostazioni di gioco per giocare come preferisci
-[*][b]Steam Workshop[/b]: Gioca centinaia di mappe personalizzate create dai giocatori
-[*][b]Trofei delle Sfide[/b]: Sfide speciali che mettono alla prova i colonizzatori più esperti
-[*][b]Editor di Mappe[/b]: Crea, gioca e condividi le tue mappe personalizzate con le tue condizioni di vittoria
-[*][b]Supporto alle Mod[/b]: Gioca con nuovi edifici, nuove risorse, nuove ricerche e molto altro con l'integrazione delle mod dallo Steam Workshop
+[*][b]Campagna[/b]: 14 missioni divise in percorsi pacifici e militari;
+[*][b]Mappe Randomiche[/b]: Gioca una quantità pressoché infinita di mappe generate proceduralmente;
+[*][b]Modalità Sandbox[/b]: Personalizza le varie impostazioni di gioco per giocare come preferisci;
+[*][b]Steam Workshop[/b]: Gioca centinaia di mappe personalizzate create dai giocatori;
+[*][b]Trofei delle Sfide[/b]: Sfide speciali che mettono alla prova i colonizzatori più esperti;
+[*][b]Editor di Mappe[/b]: Crea, gioca e condividi le tue mappe personalizzate con le tue condizioni di vittoria;
+[*][b]Supporto alle Mod[/b]: Gioca con nuovi edifici, nuove risorse, nuove ricerche e molto altro con l'integrazione delle mod dallo Steam Workshop.
 [/list]",
 KeyBindings_CancelWarning,Text,,You have unsaved changes. Go back anyway?,Hai modifiche non salvate. Vuoi tornare indietro comunque?,
 KeyBindings_NoChanges,Text,,No changes made,Nessuna modifica effettuata,
@@ -3364,3 +3364,7 @@ MyBestScore,Text,Eg. My best score: 4000,My best score:,Miglior punteggio person
 CampaignWindow_RankingsScore,Text,Time (of leadeboard entry),Score,Punteggio,
 DownloadingMapDep,Text,When downloading mods that a workshop map needs,Downloading map dependencies,Download delle dipendenze della mappa,
 DownloadingMapDepError,Text,,Error - couldn't download workshop item dependencies,Errore - impossibile scaricare le dipendenze dell'elemento del workshop,
+Unit_24_Name,Text,Vegetable Farm bot,Farmbot,BotContadino,
+Unit_25_Name,Text,Cocoa Farm bot,Farmbot,BotContadino,
+PublishModThumbnailSizeError,Text,,Thumbnail need to be less than 1MB.,La miniatura deve pesare meno di 1MB.,
+PublishModPublishingError,Text,,A mod is already being published. Please try again shortly.,Una mod è già in pubblicazione. Riprova a breve.,

@@ -7475,8 +7475,8 @@
     "Key": "MapEditorMode_15_Desc",
     "Type": "Text",
     "Desc": "",
-    "English": "Click and drag to paint primary terrain.\n[Alt] + slowly drag to paint border using primary and second types.\n[Ctrl] + Click to fill tile with primary terrain.\n[C] + Click to select primary terrain from tile.\n[V] + Click to select secondary terrain from tile.\n[B] + Click to flip terrain types on tile.",
-    "Italian": "Fai clic e trascina per dipingere il terreno principale.\n[Alt] + trascina lentamente per disegnare il bordo usando i tipi primario e secondo.\n[Ctrl] + clic per riempire la tessera con terreno primario.\n[C] + clic per selezionare il terreno principale dalla tessera.\n[V] + clic per selezionare il terreno secondario dalla tessera.\n[B] + clic per invertire i tipi di terreno sulla tessera.",
+    "English": "Click and drag to paint primary terrain.\n[Alt] + slowly drag to paint border using primary and second types.\n[Ctrl] + Click to fill tile with primary terrain.\n[C] + Click to select primary terrain from tile.\n[V] + Click to select secondary terrain from tile.\n[F] + Click to flip terrain types on tile.",
+    "Italian": "Fai clic e trascina per dipingere il terreno principale.\n[Alt] + trascina lentamente per disegnare il bordo usando i tipi primario e secondo.\n[Ctrl] + clic per riempire la tessera con terreno primario.\n[C] + clic per selezionare il terreno principale dalla tessera.\n[V] + clic per selezionare il terreno secondario dalla tessera.\n[F] + clic per invertire i tipi di terreno sulla tessera.",
     "Verify": ""
   },
   {
@@ -10715,8 +10715,8 @@
     "Key": "TerrainType_14",
     "Type": "Text",
     "Desc": "",
-    "English": "Rock A",
-    "Italian": "Roccioso A",
+    "English": "Desert C",
+    "Italian": "Deserto C",
     "Verify": ""
   },
   {
@@ -18056,7 +18056,7 @@
     "Verify": ""
   },
   {
-    "Key": "RandomMap_Biome0",
+    "Key": "Biome_0",
     "Type": "Text",
     "Desc": "",
     "English": "Default",
@@ -18064,7 +18064,7 @@
     "Verify": ""
   },
   {
-    "Key": "RandomMap_Biome1",
+    "Key": "Biome_1",
     "Type": "Text",
     "Desc": "",
     "English": "Snow",
@@ -18072,7 +18072,7 @@
     "Verify": ""
   },
   {
-    "Key": "RandomMap_Biome2",
+    "Key": "Biome_2",
     "Type": "Text",
     "Desc": "",
     "English": "Desert",
@@ -18116,7 +18116,7 @@
     "Type": "Text",
     "Desc": "Enhanced entry from line 1565",
     "English": "[img]{STEAM_APP_IMAGE}/extras/store_description_header.png[/img]\nThe Colonists is a relaxing settlement building game inspired by classic titles like The Settlers and the Anno series.\n\nTake on a series of individual campaign missions, play randomly generated maps, compete on player-designed creations or build your colony unfettered by any constraints in the [b]sandbox mode[/b].\n\n[img]{STEAM_APP_IMAGE}/extras/steam_stackbot1.gif[/img]\n\nYou take control of a team of self-replicating robots built to simulate human civilisation.  After escaping Earth, The Colonists are now free to roam the galaxy in search of a new home and construct their dream settlement.\n\n[img]{STEAM_APP_IMAGE}/extras/steam_loadboat1.gif[/img]\nYou'll advance through three different Ages as you build infrastructure for your colony by constructing road, boat and train transport systems.\n\nHarvest natural resources, set up farming and food production, create expeditions to discover new lands and research new technologies.\n\n[img]{STEAM_APP_IMAGE}/extras/steam_fish1.gif[/img]\nWith two separate mission tracks, The Colonists lets either you create sprawling settlements in peace or race to compete against AI colonies in military winner-takes-all scenarios.\n\nExplore, research, manage, tweak and refine to your heart's content.\n\n[img]{STEAM_APP_IMAGE}/extras/sculpt_mini_2.gif[/img]\n\nAn extensive map editor and Steam Workshop support is included, so you can create, share and play custom maps.\n\n[h2]Features[/h2]\n[list]\n[*][b]Campaign[/b]: 14 missions split into separate peaceful and military tracks\n[*][b]Random Maps[/b]: Play on a near-infinite amount of procedurally generated maps\n[*][b]Sandbox Mode[/b]: Customise various game settings to play the game how you like\n[*][b]Steam Workshop[/b]: Play hundreds of player-generated custom maps\n[*][b]Challenge Trophies[/b]: Special challenges which test the most expert colony builders\n[*][b]Map Editor[/b]: Create, play and share your own custom maps with your own victory conditions\n[*][b]Mod Support[/b]: Play with new buildings, new resources, new research and more with Steam Workshop mod integration\n[/list]",
-    "Italian": "[img]{STEAM_APP_IMAGE}/extras/store_description_header.png[/img]\nThe Colonists è un rilassante gioco gestionale sulla costruzione di insediamenti ispirato a titoli classici come The Settlers e la serie Anno.\n\nAffronta una serie di missioni, gioca mappe generate randomicamente, completa sfide create dai giocatori o costruisci la tua colonia liberamente nella [b]modalità sandbox[/b].\n\n[img]{STEAM_APP_IMAGE}/extras/steam_stackbot1.gif[/img]\n\nPrendi il controllo di un team di robot autoreplicanti creati per simulare la civiltà umana. Dopo essere fuggiti dalla Terra, i Coloni sono ora liberi di vagare per la galassia in cerca di una nuova casa per costruire il loro insediamento da sogno.\n\n[img]{STEAM_APP_IMAGE}/extras/steam_loadboat1.gif[/img]\nAvanzerai attraverso tre diverse epoche fabbricando infrastrutture per la tua colonia, costruendo sistemi di trasporto su strada, in barca e in treno.\n\nRaccogli risorse naturali, avvia l'agricoltura e la produzione alimentare, crea spedizioni per scoprire nuove terre e ricercare nuove tecnologie.\n\n[img]{STEAM_APP_IMAGE}/extras/steam_fish1.gif[/img]\nCon due percorsi di missione separati, The Colonists ti consente di creare enormi insediamenti in pace o gareggiare per competere contro le colonie di intelligenza artificiale in scenari militari all'ultimo sangue.\n\nEsplora, ricerca, gestisci, modifica e perfeziona in piena libertà quanto preferisci.\n\n[img]{STEAM_APP_IMAGE}/extras/sculpt_mini_2.gif[/img]\n\nÈ incluso un vasto editor di mappe e il supporto per lo Steam Workshop, in modo da poter creare, condividere e giocare mappe personalizzate.\n\n[h2]Caratteristiche[/h2]\n[list]\n[*][b]Campagna[/b]: 14 missioni divise in percorsi pacifici e militari\n[*][b]Mappe Random[/b]: Gioca una quantità pressoché infinita di mappe generate proceduralmente\n[*][b]Modalità Sandbox[/b]: Personalizza le varie impostazioni di gioco per giocare come preferisci\n[*][b]Steam Workshop[/b]: Gioca centinaia di mappe personalizzate create dai giocatori\n[*][b]Trofei delle Sfide[/b]: Sfide speciali che mettono alla prova i colonizzatori più esperti\n[*][b]Editor di Mappe[/b]: Crea, gioca e condividi le tue mappe personalizzate con le tue condizioni di vittoria\n[*][b]Supporto alle Mod[/b]: Gioca con nuovi edifici, nuove risorse, nuove ricerche e molto altro con l'integrazione delle mod dallo Steam Workshop\n[/list]",
+    "Italian": "[img]{STEAM_APP_IMAGE}/extras/store_description_header.png[/img]\nThe Colonists è un rilassante gioco gestionale sulla costruzione di insediamenti ispirato a titoli classici come The Settlers e la serie Anno.\n\nAffronta una serie di missioni, gioca mappe generate randomicamente, completa sfide create dai giocatori o costruisci la tua colonia liberamente nella [b]modalità sandbox[/b].\n\n[img]{STEAM_APP_IMAGE}/extras/steam_stackbot1.gif[/img]\n\nPrendi il controllo di un team di robot autoreplicanti creati per simulare la civiltà umana. Dopo essere fuggiti dalla Terra, i Coloni sono ora liberi di vagare per la galassia in cerca di una nuova casa per costruire il loro insediamento da sogno.\n\n[img]{STEAM_APP_IMAGE}/extras/steam_loadboat1.gif[/img]\nAvanzerai attraverso tre diverse epoche fabbricando infrastrutture per la tua colonia, costruendo sistemi di trasporto su strada, in barca e in treno.\n\nRaccogli risorse naturali, avvia l'agricoltura e la produzione alimentare, crea spedizioni per scoprire nuove terre e ricercare nuove tecnologie.\n\n[img]{STEAM_APP_IMAGE}/extras/steam_fish1.gif[/img]\nCon due percorsi di missione separati, The Colonists ti consente di creare enormi insediamenti in pace o gareggiare per competere contro le colonie di intelligenza artificiale in scenari militari all'ultimo sangue.\n\nEsplora, ricerca, gestisci, modifica e perfeziona in piena libertà quanto preferisci.\n\n[img]{STEAM_APP_IMAGE}/extras/sculpt_mini_2.gif[/img]\n\nÈ incluso un vasto editor di mappe e il supporto per lo Steam Workshop, in modo da poter creare, condividere e giocare mappe personalizzate.\n\n[h2]Caratteristiche[/h2]\n[list]\n[*][b]Campagna[/b]: 14 missioni divise in percorsi pacifici e militari;\n[*][b]Mappe Randomiche[/b]: Gioca una quantità pressoché infinita di mappe generate proceduralmente;\n[*][b]Modalità Sandbox[/b]: Personalizza le varie impostazioni di gioco per giocare come preferisci;\n[*][b]Steam Workshop[/b]: Gioca centinaia di mappe personalizzate create dai giocatori;\n[*][b]Trofei delle Sfide[/b]: Sfide speciali che mettono alla prova i colonizzatori più esperti;\n[*][b]Editor di Mappe[/b]: Crea, gioca e condividi le tue mappe personalizzate con le tue condizioni di vittoria;\n[*][b]Supporto alle Mod[/b]: Gioca con nuovi edifici, nuove risorse, nuove ricerche e molto altro con l'integrazione delle mod dallo Steam Workshop.\n[/list]",
     "Verify": ""
   },
   {
@@ -20445,6 +20445,38 @@
     "Desc": "",
     "English": "Error - couldn't download workshop item dependencies",
     "Italian": "Errore - impossibile scaricare le dipendenze dell'elemento del workshop",
+    "Verify": ""
+  },
+  {
+    "Key": "Unit_24_Name",
+    "Type": "Text",
+    "Desc": "Vegetable Farm bot",
+    "English": "Farmbot",
+    "Italian": "BotContadino",
+    "Verify": ""
+  },
+  {
+    "Key": "Unit_25_Name",
+    "Type": "Text",
+    "Desc": "Cocoa Farm bot",
+    "English": "Farmbot",
+    "Italian": "BotContadino",
+    "Verify": ""
+  },
+  {
+    "Key": "PublishModThumbnailSizeError",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Thumbnail need to be less than 1MB.",
+    "Italian": "La miniatura deve pesare meno di 1MB.",
+    "Verify": ""
+  },
+  {
+    "Key": "PublishModPublishingError",
+    "Type": "Text",
+    "Desc": "",
+    "English": "A mod is already being published. Please try again shortly.",
+    "Italian": "Una mod è già in pubblicazione. Riprova a breve.",
     "Verify": ""
   }
 ]
