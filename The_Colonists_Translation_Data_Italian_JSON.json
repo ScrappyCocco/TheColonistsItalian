@@ -1652,7 +1652,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Watchtowers",
-    "Italian": "Torri di osservazione",
+    "Italian": "Torri di Guardia",
     "Verify": ""
   },
   {
@@ -20477,6 +20477,214 @@
     "Desc": "",
     "English": "A mod is already being published. Please try again shortly.",
     "Italian": "Una mod è già in pubblicazione. Riprova a breve.",
+    "Verify": ""
+  },
+  {
+    "Key": "GameComplete_Workshop",
+    "Type": "Text",
+    "Desc": "{0}: name of map\n{1}: creator of map",
+    "English": "Well done! You completed {0} by {1}!",
+    "Italian": "Ben fatto! Hai completato la mappa {0} di {1}!",
+    "Verify": ""
+  },
+  {
+    "Key": "GameComplete_LeaveComment",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Leave Comment",
+    "Italian": "Lascia un commento",
+    "Verify": ""
+  },
+  {
+    "Key": "GameComplete_VoteUp",
+    "Type": "Text",
+    "Desc": "",
+    "English": "It was great!",
+    "Italian": "Fantastica!",
+    "Verify": ""
+  },
+  {
+    "Key": "GameComplete_VoteDown",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Not so much",
+    "Italian": "Così così",
+    "Verify": ""
+  },
+  {
+    "Key": "ModErrorLoadingMeta",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Error loading meta.json",
+    "Italian": "Errore nel caricamento di meta.json",
+    "Verify": ""
+  },
+  {
+    "Key": "MapNoVictoryConditions",
+    "Type": "Text",
+    "Desc": "When a map has no victory conditions set",
+    "English": "No victory conditions",
+    "Italian": "Nessuna condizione di vittoria",
+    "Verify": ""
+  },
+  {
+    "Key": "ExpeditionType_0_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Harbour",
+    "Italian": "Porto",
+    "Verify": ""
+  },
+  {
+    "Key": "ExpeditionType_1_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Large Harbour",
+    "Italian": "Porto grande",
+    "Verify": ""
+  },
+  {
+    "Key": "ExpeditionType_2_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Floating Watchtower",
+    "Italian": "Torre di Guardia galleggiante",
+    "Verify": ""
+  },
+  {
+    "Key": "ExpeditionType_3_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Beach Landing",
+    "Italian": "Atterraggio sulla spiaggia",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityInfoSelectExpeditionHeader",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Select expedition type",
+    "Italian": "Seleziona il tipo di spedizione",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_71_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Floating Watchtower",
+    "Italian": "Torre di Guardia galleggiante",
+    "Verify": ""
+  },
+  {
+    "Key": "TransportBoatExpedition_Build",
+    "Type": "Text",
+    "Desc": "{0}: name of building, e.g. \"harbour",
+    "English": "Build {0}",
+    "Italian": "Costruisci {0}",
+    "Verify": ""
+  },
+  {
+    "Key": "MarketItemBuyOnly",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Purchase Only",
+    "Italian": "Acquista solo",
+    "Verify": ""
+  },
+  {
+    "Key": "MarketItemSellOnly",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Sell Only",
+    "Italian": "Vendi solo",
+    "Verify": ""
+  },
+  {
+    "Key": "Hotkey_70",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Show Grid Coordinates",
+    "Italian": "Mostra coordinate",
+    "Verify": ""
+  },
+  {
+    "Key": "GameComplete_MP_Won",
+    "Type": "Text",
+    "Desc": "",
+    "English": "You won!",
+    "Italian": "Hai vinto!",
+    "Verify": ""
+  },
+  {
+    "Key": "GameComplete_MP_Lost",
+    "Type": "Text",
+    "Desc": "",
+    "English": "You lost...",
+    "Italian": "Hai perso...",
+    "Verify": ""
+  },
+  {
+    "Key": "Scenario_100_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Multiplayer Beta Map 2P",
+    "Italian": "Mappa Beta Multiplayer 2P",
+    "Verify": ""
+  },
+  {
+    "Key": "GameComplete_MP_PlayerWon",
+    "Type": "Text",
+    "Desc": "{0}: name of the player that won the game",
+    "English": "{0} won!",
+    "Italian": "{0} ha vinto!",
+    "Verify": ""
+  },
+  {
+    "Key": "Scenario_101_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Multiplayer Beta Map 3P",
+    "Italian": "Mappa Beta Multiplayer 3P",
+    "Verify": ""
+  },
+  {
+    "Key": "MultiplayerSpeed_Pause",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Pause",
+    "Italian": "Pausa",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_68_Description",
+    "Type": "",
+    "Desc": "",
+    "English": "",
+    "Italian": "",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_75_Name",
+    "Type": "",
+    "Desc": "",
+    "English": "Fishing Station",
+    "Italian": "Postazione di Pesca",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_68_Plural",
+    "Type": "",
+    "Desc": "",
+    "English": "",
+    "Italian": "",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_68_Worker",
+    "Type": "",
+    "Desc": "",
+    "English": "",
+    "Italian": "",
     "Verify": ""
   }
 ]
