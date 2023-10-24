@@ -16424,7 +16424,7 @@
     "Verify": ""
   },
   {
-    "Key": "Pumpkins_Building_66_Description",
+    "Key": "Building_66_Description",
     "Type": "Text",
     "Desc": "",
     "English": "Create <it>Pumpkins</it> from pumpkin patches.",
@@ -16432,7 +16432,7 @@
     "Verify": ""
   },
   {
-    "Key": "Pumpkins_Building_66_Name",
+    "Key": "Building_66_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Pumpkin Farm",
@@ -16440,7 +16440,7 @@
     "Verify": ""
   },
   {
-    "Key": "Pumpkins_Building_66_Plural",
+    "Key": "Building_66_Plural",
     "Type": "Text",
     "Desc": "",
     "English": "Pumpkin Farms",
@@ -16448,7 +16448,7 @@
     "Verify": ""
   },
   {
-    "Key": "Pumpkins_Item_47_Desc",
+    "Key": "Item_47_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Pumpkins are harvested at the <bd>Pumpkin Farm</bd>.",
@@ -16456,7 +16456,7 @@
     "Verify": ""
   },
   {
-    "Key": "Pumpkins_Item_47_FullDesc",
+    "Key": "Item_47_FullDesc",
     "Type": "Text",
     "Desc": "",
     "English": "Pumpkins are harvested at the <bd>Pumpkin Farm</bd> and are consumed by <bd>Level 1 Residences</bd>.",
@@ -16464,7 +16464,7 @@
     "Verify": ""
   },
   {
-    "Key": "Pumpkins_Item_47_Name",
+    "Key": "Item_47_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Pumpkins",
@@ -16496,7 +16496,7 @@
     "Verify": ""
   },
   {
-    "Key": "Pumpkins_ItemCat_2_FullDesc",
+    "Key": "ItemCat_2_FullDesc",
     "Type": "Text",
     "Desc": "",
     "English": "<cat>Food</cat> is needed by all <bd>Residences</bd> and can be <it>Fish</it>, <it>Meat</it> or <it>Pumpkins</it>.",
@@ -16504,7 +16504,7 @@
     "Verify": ""
   },
   {
-    "Key": "Pumpkins_Structure_2_Name",
+    "Key": "Structure_2_Name",
     "Type": "Text",
     "Desc": "These are the \"fields\" the player manually places",
     "English": "Pumpkin Patch",
@@ -16512,7 +16512,7 @@
     "Verify": ""
   },
   {
-    "Key": "Pumpkins_Structure_2_Plural",
+    "Key": "Structure_2_Plural",
     "Type": "Text",
     "Desc": "These are the \"fields\" the player manually places",
     "English": "Pumpkin Patches",
@@ -16552,7 +16552,7 @@
     "Verify": ""
   },
   {
-    "Key": "Pumpkins_AlertVegetableFarmFields",
+    "Key": "AlertVegetableFarmFields",
     "Type": "Text",
     "Desc": "",
     "English": "You have not planted any pumpkin patches",
@@ -16560,7 +16560,7 @@
     "Verify": ""
   },
   {
-    "Key": "Pumpkins_ItemCat_2_Desc",
+    "Key": "ItemCat_2_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "<it>Fish</it> / <it>Meat</it> / <it>Pumpkins</it>",
@@ -16576,7 +16576,7 @@
     "Verify": ""
   },
   {
-    "Key": "Pumpkins_MiscCat_13_Name",
+    "Key": "MiscCat_13_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Pumpkin Patches",
@@ -20657,7 +20657,7 @@
   },
   {
     "Key": "Building_68_Description",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "",
     "Italian": "",
@@ -20665,7 +20665,7 @@
   },
   {
     "Key": "Building_75_Name",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Fishing Station",
     "Italian": "Postazione di Pesca",
@@ -20673,7 +20673,7 @@
   },
   {
     "Key": "Building_68_Plural",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "",
     "Italian": "",
@@ -20681,10 +20681,322 @@
   },
   {
     "Key": "Building_68_Worker",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "",
     "Italian": "",
+    "Verify": ""
+  },
+  {
+    "Key": "Previous",
+    "Type": "Text",
+    "Desc": "The opposite of 'Next', as in the next item in the list",
+    "English": "Previous",
+    "Italian": "Precedente",
+    "Verify": ""
+  },
+  {
+    "Key": "No_ConstructionDepots_Yet",
+    "Type": "Text",
+    "Desc": "",
+    "English": "You haven't built any <bd>Construction Yards</bd> yet!",
+    "Italian": "Non hai ancora costruito nessun <bd>Cantiere</bd>!",
+    "Verify": ""
+  },
+  {
+    "Key": "Assign_ConstructionDepot",
+    "Type": "Text",
+    "Desc": "Button to assign a construction yard building to the construction of a target structure",
+    "English": "Assign Construction Yard",
+    "Italian": "Assegna Cantiere",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityInfoSelectRoadBridgeConstructionDepotHeader",
+    "Type": "Text",
+    "Desc": "Header for sub panel listing possible construction depots to assign to target structure",
+    "English": "Select Construction Depot",
+    "Italian": "Seleziona Deposito di Costruzione",
+    "Verify": ""
+  },
+  {
+    "Key": "RoadBridge_0_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Wooden Bridge",
+    "Italian": "Ponte di Legno",
+    "Verify": ""
+  },
+  {
+    "Key": "RoadBridge_0_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "A wooden bridge you can build road and paths over.",
+    "Italian": "Un ponte di legno su cui puoi costruire strade e sentieri.",
+    "Verify": ""
+  },
+  {
+    "Key": "RoadBridge_1_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Iron Bridge",
+    "Italian": "Ponte di Ferro",
+    "Verify": ""
+  },
+  {
+    "Key": "RoadBridge_1_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "An iron bridge you can build roads and paths over.",
+    "Italian": "Un ponte di ferro su cui costruire strade e sentieri.",
+    "Verify": ""
+  },
+  {
+    "Key": "RoadBridge_2_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Steel Bridge",
+    "Italian": "Ponte d'Acciaio",
+    "Verify": ""
+  },
+  {
+    "Key": "RoadBridge_2_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "A steel bridge you can build roads and paths over.",
+    "Italian": "Un ponte d'acciaio su cui puoi costruire strade e sentieri.",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_76_Description",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Constructs road bridges",
+    "Italian": "Costruisce ponti stradali",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_76_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Construction Yard",
+    "Italian": "Cantiere di costruzione",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_76_Plural",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Construction Yards",
+    "Italian": "Cantieri di costruzione",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_76_Worker",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Engineerbot",
+    "Italian": "BotIngegnere",
+    "Verify": ""
+  },
+  {
+    "Key": "RoadBridgeConstructionCosts",
+    "Type": "Text",
+    "Desc": "Header for panel showing construction costs for each road bridge section",
+    "English": "Construction Per Section",
+    "Italian": "Costruzione Per Sezione",
+    "Verify": ""
+  },
+  {
+    "Key": "RoadBridgeMaxLength",
+    "Type": "Text",
+    "Desc": "Header for maximum length of road bridge",
+    "English": "Max Length",
+    "Italian": "Lunghezza massima",
+    "Verify": ""
+  },
+  {
+    "Key": "RoadBridgeMaxLengthNoLimit",
+    "Type": "Text",
+    "Desc": "If a road bridge doesn't have a maximum length",
+    "English": "No limit",
+    "Italian": "Senza limiti",
+    "Verify": ""
+  },
+  {
+    "Key": "Item_39_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Gold Coins are minted by the <bd>Mint</bd>.",
+    "Italian": "Le Monete d'Oro vengono coniate dalla <bd>Zecca</bd>.",
+    "Verify": ""
+  },
+  {
+    "Key": "Item_39_FullDesc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Gold Coins are minted by the <bd>Mint</bd> from <it>Gold</it> using <cat>Fuel</cat> and are used by <bd>Churches</bd>.",
+    "Italian": "Le Monete d'Oro vengono coniate dalla <bd>Zecca</bd> dall'<it>Oro</it> utilizzando il <cat>Carburante</cat> e vengono utilizzate dalle <bd>Chiese</bd>.",
+    "Verify": ""
+  },
+  {
+    "Key": "Item_39_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Gold Coins",
+    "Italian": "Monete d'oro",
+    "Verify": ""
+  },
+  {
+    "Key": "Item_39_Past",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Minted",
+    "Italian": "Coniato",
+    "Verify": ""
+  },
+  {
+    "Key": "Item_39_Present",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Minting",
+    "Italian": "Coniando",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_73_Description",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Uses <it>Gold Coins</it> and <it>Books</it> to provide blessings to buildings.",
+    "Italian": "Utilizza <it>Monete d'Oro</it> e <it>Libri</it> per fornire benedizioni agli edifici.",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_73_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Church",
+    "Italian": "Chiesa",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_73_Plural",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Churches",
+    "Italian": "Chiese",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_73_Worker",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Priestbot",
+    "Italian": "BotPrete",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityBuildingPriorityEntitiesClear",
+    "Type": "Text",
+    "Desc": "Button to clear any prioritised entities",
+    "English": "Clear",
+    "Italian": "Cancella",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityBuildingPriorityEntitiesFishingStationHeader",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Priority Fishing Location",
+    "Italian": "Posizione di pesca prioritaria",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityBuildingPriorityEntitiesFishingStationDesc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "By default fishing boats will fish at the nearest location but you can override this behaviour by prioritising a particular fishing location.\n\nClick on a fishing location to set it as a priority.\n<hotkey>[Shift]</hotkey> click a fishing location to unset it.",
+    "Italian": "Per impostazione predefinita, i pescherecci pescheranno nella posizione più vicina, ma è possibile sovrascrivere questo comportamento dando priorità a una particolare località di pesca.\n\nFare clic su una posizione di pesca per impostarla come priorità.\n<hotkey>[Shift]</hotkey> fai clic su una posizione di pesca per disattivarla.",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_75_Description",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Fishing boat fishes at off-shore locations for <it>Fish</it> or <it>Lobster</it>",
+    "Italian": "Il peschereccio pesca in luoghi al largo per <it>Pesce</it> o <it>Aragosta</it>",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_75_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Fishing Station",
+    "Italian": "Stazione di Pesca",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_75_Plural",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Fishing Stations",
+    "Italian": "Stazioni di Pesca",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_75_Worker",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Fisherbot",
+    "Italian": "BotPescatore",
+    "Verify": ""
+  },
+  {
+    "Key": "Item_51_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Lobsters are caught by the fishing boat and unloaded at the <bd>Fishing Station</bd>.",
+    "Italian": "Le aragoste vengono catturate dal peschereccio e scaricate alla <bd>Stazione di pesca</bd>.",
+    "Verify": ""
+  },
+  {
+    "Key": "Item_51_FullDesc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Lobsters are caught by the fishing boat and unloaded at the <bd>Fishing Station</bd> and are a <cat>Luxury Food</cat>.",
+    "Italian": "Le aragoste vengono catturate dal peschereccio e scaricate alla <bd>Stazione di pesca</bd> e sono un <cat>Cibo di lusso</cat>.",
+    "Verify": ""
+  },
+  {
+    "Key": "Item_51_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Lobster",
+    "Italian": "Aragosta",
+    "Verify": ""
+  },
+  {
+    "Key": "Item_51_Past",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Caught",
+    "Italian": "Preso",
+    "Verify": ""
+  },
+  {
+    "Key": "Item_51_Present",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Catching",
+    "Italian": "Catturando",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityBuildingPriorityEntitiesChangeAction",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Change Priority",
+    "Italian": "Cambia priorità",
     "Verify": ""
   }
 ]
