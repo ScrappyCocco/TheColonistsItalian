@@ -360,7 +360,7 @@ ConstructionMilitaryDefence,Text,Building defence stats,Military Defence,Difese 
 ConstructionRequirements,Text,Technology required to be able to build this building,Requirements,Requisiti,
 Create New Map,Text,,Create New Map,Crea una nuova mappa,
 Credits,Text,,Credits,Crediti,
-Custom Maps,Text,,Custom Maps,Mappe personalizzate,
+Custom Maps,Text,,Custom Map,Mappe personalizzate,
 Difficulty,Text,,Difficulty,Difficoltà,
 Edit,Text,Open the map in the map editor,Edit,Modifica,
 EffectsVolume,Text,(Sound) Effects Volume,Effects Volume,Volume effetti,
@@ -370,7 +370,7 @@ EntPanelHead_10,Text,,Boats,Barche,
 EntPanelHead_100,Text,,Transport Route,Percorsi di trasporto,
 EntPanelHead_11,Text,,Expedition,Spedizione,
 EntPanelHead_12,Text,,Trains,Treni,
-EntPanelHead_13,Text,,Sell Resources,Vendi risorse,
+EntPanelHead_13,Text,,Trade Resources,Vendi risorse,
 EntPanelHead_14,Text,,<x>,<x>,
 EntPanelHead_15,Text,,Buy Resources,Compra risorse,
 EntPanelHead_16,Text,,Resource Statistics,Statistiche delle risorse,
@@ -574,9 +574,8 @@ Flora_14_Name,Text,,Tree Stump,Tronco d'albero,
 Flora_15_Name,Text,,Tree Stump,Tronco d'albero,
 Flora_16_Name,Text,,Tree Stump,Tronco d'albero,
 Flora_19_Name,Text,,Tree Stump,Tronco d'albero,
-Flora_200_Description,Text,,"This mine contains an infinite supply of <nr><natres></nr>.
-You can build a <bd>Shaft Mine</bd> here to extract the <nr><natres></nr>.",Questa miniera contiene una scorta infinita di <nr><natres></nr>. Puoi costruire una <bd>Miniera</bd> qui per estrarre il <nr><natres></nr>.,
-Flora_200_Name,Text,,Underground Deposit,Deposito sotterraneo,
+Flora_200_Description,Text,(Deprecated),,Questa miniera contiene una scorta infinita di <nr><natres></nr>. Puoi costruire una <bd>Miniera</bd> qui per estrarre il <nr><natres></nr>.,
+Flora_200_Name,Text,(Deprecated),,Deposito sotterraneo,
 Flora_2_Name,Text,,Fir Tree,Abete,
 Flora_3_Name,Text,,Tree Stump,Tronco d'albero,
 Flora_43_Name,Text,,Rock 2x2,Roccia 2x2,
@@ -1444,7 +1443,7 @@ QualityHigh,Text,,High,Alta,
 QualityLODBias,Text,,LOD Bias,LOD Bias,
 QualityLow,Text,,Low,Bassa,
 QualityMedium,Text,,Medium,Media,
-QualityShadowDistance,Text,,Shadow Distance,Distanza ombre,
+QualityShadowDistance,Text,,Distance,Distanza ombre,
 QualityShadows,Text,,Shadows,Ombre,
 QualityVignette,Text,,Vignette,Vignettatura,
 Quit,Text,,Quit,Esci,
@@ -1913,7 +1912,7 @@ A <bd>Small Monument</bd> requires more advanced materials including <it>Iron</i
 Un <bd>Monumento Piccolo</bd> richiede materiali più avanzati come <it>Ferro</it> e avrai bisogno di ricercare tecnologia per migliorare e sbloccare edifici più avanzati.",
 TutorialDialogues_T3_FakeEnd,Text,,<blank>,<blank>,
 TutorialDialogues_T3_Welcome,Text,,"We seem to have landed on a small island with few resources.
-You're going to need to build a harbour and boatyard to explore the seas to find new land!","Sembra che siamo atterrati su una piccola isola con poche risorse.
+You're going to need to build a harbour and boatyard to explore the seas and find new land!","Sembra che siamo atterrati su una piccola isola con poche risorse.
 Dovrai costruire un porto e un cantiere navale per esplorare i mari e trovare altra terra!",
 TutorialDialogues_T4_Intro,Text,,"It looks like you might not be alone this planet...
 You should set up your colony and expand quickly!","Sembra che non siamo soli in questo pianeta...
@@ -2322,10 +2321,10 @@ DaysAgo,Text,(5) days ago,Days ago,Giorni fa,
 EntityStorageUI_Storage,Text,,Storage,Deposito,
 EntityFlagStorageUI_Empty,Text,,There are no resources waiting to be collected,Non ci sono risorse in attesa di essere raccolte,
 BuildState_ChangeHeight,Text,{0}:Ctrl,Hold [{0}] to change height,Tieni premuto [{0}] per cambiare altezza,
-BuildState_Rotate,Text,,<hotkey>{0}</hotkey> to rotate,<hotkey>{0}</hotkey> per ruotare,
-BuildState_RotateAndFlip,Text,,"<hotkey>{0}</hotkey> to rotate
-<hotkey>{1}</hotkey> to flip","<hotkey>{0}</hotkey> per ruotare
-<hotkey>{1}</hotkey> per specchiare",
+BuildState_Rotate,Text,,<hotkey>[{0}]</hotkey> to rotate,<hotkey>[{0}]</hotkey> per ruotare,
+BuildState_RotateAndFlip,Text,,"<hotkey>[{0}]</hotkey> to rotate
+<hotkey>[{1}]</hotkey> to flip","<hotkey>[{0}]</hotkey> per ruotare
+<hotkey>[{1}]</hotkey> per specchiare",
 SummaryUI_Yield,Text,This (Cypress tree) yield (1) (Logs),This {0} yields {1} <it>{2}</it>.,Questo {0} rende {1} <it>{2}</it>.,
 SummaryUI_YieldNatRes,Text,This (Stone Deposit) yields a total of (75) (Stone),This {0} yields a total of {1} <it>{2}</it>.,Questo {0} rende un totale di {1} <it>{2}</it>.,
 DestroyConfirm,Text,"{0}: building, {1}:hotkey","Are you sure you want to destroy {0}?
@@ -2510,7 +2509,7 @@ GameComplete_Stats_AvgProd,Text,,Average Productivity,Produttività media,
 GameComplete_Stats_MaxProdRate,Text,,Maximum Production Rate,Tasso di produzione massimo,
 GameComplete_Stats_MaxBlockedRoads,Text,,Maximum Blocked Roads,Strade massime bloccate,
 GameCompletePre_Click,Text,,[click to continue],[clicca per continuare],
-GameComplete_Default,Text,,Well done! You completed the map!,Ben fatto! Hai completato la mappa!,
+GameComplete_Default,Text,,Well done! You completed the mission!,Ben fatto! Hai completato la mappa!,
 ConstructionSpacePortPrompt,Text,,Gain Trader Reputation to build more!,Guadagna reputazione come commerciante per costruirne ancora!,
 Tip_19,Text,,Trains can be used to carry building resources to train stations that are under construction.,I treni possono essere usati per trasportare risorse da costruzione alle stazioni che sono in costruzione.,
 Tip_20,Text,,Use unsupported elevated railways to span gaps and obstacles that could otherwise not be reached.,Usa ferrovie sopraelevate senza supporti per superare ostacoli e raggiungere punti che altrimenti non potrebbero essere raggiunti.,
@@ -2560,8 +2559,8 @@ Check your downloads.","{0} è disponibile!
 Controlla i tuoi download.",
 OK,Text,Alert window confirmation,OK,OK,
 BugReport_Header,Text,,Bug Report Generated,Bug-report generato,
-BugReport_Body_Manual,Text,,Please send the following file to codebyfire@gmail.com or post it in Discord along with a short description of what has gone wrong.,Per piacere invia il seguente file a codebyfire@gmail.com o invialo su Discord con una descrizione su cosa è andato storto.,
-BugReport_Body_Auto,Text,,An error has been caught and a bug report generated. Please send the following file to codebyfire@gmail.com or post it in Discord. Depending on the bug you may be able to continue playing.,Un errore è stato rilevato e un bug-report è stato generato. Per piacere invia il seguente file a codebyfire@gmail.com o invialo su Discord. A seconda della gravità del bug potresti essere in grado di continuare a giocare.,
+BugReport_Body_Manual,Text,,Please send the following file to dev@codebyfire.com or post it in Discord along with a short description of what has gone wrong.,Per piacere invia il seguente file a codebyfire@gmail.com o invialo su Discord con una descrizione su cosa è andato storto.,
+BugReport_Body_Auto,Text,,An error has been caught and a bug report generated. Please send the following file to dev@codebyfire.com or post it in Discord. Depending on the bug you may be able to continue playing.,Un errore è stato rilevato e un bug-report è stato generato. Per piacere invia il seguente file a codebyfire@gmail.com o invialo su Discord. A seconda della gravità del bug potresti essere in grado di continuare a giocare.,
 BugReport_OpenFile,Text,,Open in Explorer,Apri in Esplora Risorse,
 GenBugReport,Text,,Generating bug report...,Generazione bug-report...,
 AlertNoForestryTiles,Text,,Forestry has no tiles set,La Guardia Forestale non ha caselle impostate,
@@ -2626,26 +2625,26 @@ MapEditorClearAllFish,Text,"In the map editor, removes all the fish on the map",
 EntPanelHead_25,Text,Header of panel where you can change your colony colour,Colony Colour,Colore Colonia,
 StoreDesc_Short,Text,,Build a new home for your team of robots as they begin a new life for themselves on a distant planet where they can fulfil their ultimate dream: to be human.,Costruisci una nuova casa per il tuo team di robot mentre iniziano una nuova vita su un pianeta distante dove possono realizzare il loro sogno: essere umani.,
 AffectedTransportRulesDesc,Text,{0}: resource type. e.g. Planks,The following transport rules affect the movement of {0}.,Le seguenti regole di trasporto influenzano il trasporti di: {0}.,
-Building_66_Description,Text,,Create <it>Pumpkins</it> from pumpkin patches.,Crea <it>Zucche</it> dai campi di zucche.,
-Building_66_Name,Text,,Pumpkin Farm,Campo di Zucche,
-Building_66_Plural,Text,,Pumpkin Farms,Campi di Zucche,
-Item_47_Desc,Text,,Pumpkins are harvested at the <bd>Pumpkin Farm</bd>.,Le Zucche sono raccolte al <bd>Campo di Zucche</bd>.,
-Item_47_FullDesc,Text,,Pumpkins are harvested at the <bd>Pumpkin Farm</bd> and are consumed by <bd>Level 1 Residences</bd>.,Le Zucche sono raccolte al <bd>Campo di Zucche</bd> e sono consumate dalle <bd>Residenze di Livello 1</bd>.,
-Item_47_Name,Text,,Pumpkins,Zucche,
+Pumpkins_Building_66_Description,Text,,Create <it>Pumpkins</it> from pumpkin patches.,Crea <it>Zucche</it> dai campi di zucche.,
+Pumpkins_Building_66_Name,Text,,Pumpkin Farm,Campo di Zucche,
+Pumpkins_Building_66_Plural,Text,,Pumpkin Farms,Campi di Zucche,
+Pumpkins_Item_47_Desc,Text,,Pumpkins are harvested at the <bd>Pumpkin Farm</bd>.,Le Zucche sono raccolte al <bd>Campo di Zucche</bd>.,
+Pumpkins_Item_47_FullDesc,Text,,Pumpkins are harvested at the <bd>Pumpkin Farm</bd> and are consumed by <bd>Level 1 Residences</bd>.,Le Zucche sono raccolte al <bd>Campo di Zucche</bd> e sono consumate dalle <bd>Residenze di Livello 1</bd>.,
+Pumpkins_Item_47_Name,Text,,Pumpkins,Zucche,
 MapEditorMapSettingTerritoryEnabled,Text,,Territory & fog of war enabled,Territori e Nebbia di guerra attivati,
 MapEditorTestVerificationFailed,Text,,Cannot test this scenario! Check the verification panel in the top right.,Impossibile testare questo scenario! Controlla il pannello di verifica in alto a destra.,
 ItemCat_2_FullDesc,Text,,"<cat>Food</cat> is needed by all <bd>Residences</bd> and can be <it>Fish</it>, <it>Meat</it> or <it>Vegetables</it>.","<cat>Cibo</cat> è richiesto da tutte le <bd>Residenze</bd> e può essere <it>Pesce</it>, <it>Carne</it> o <it>Verdure</it>.",
-ItemCat_2_FullDesc,Text,,"<cat>Food</cat> is needed by all <bd>Residences</bd> and can be <it>Fish</it>, <it>Meat</it> or <it>Pumpkins</it>.","<cat>Cibo</cat> è richiesto da tutte le <bd>Residenze</bd> e può essere <it>Pesce</it>, <it>Carne</it> o <it>Zucche</it>.",
-Structure_2_Name,Text,"These are the ""fields"" the player manually places",Pumpkin Patch,Orto(Zucche),
-Structure_2_Plural,Text,"These are the ""fields"" the player manually places",Pumpkin Patches,Orti(Zucche),
+Pumpkins_ItemCat_2_FullDesc,Text,,"<cat>Food</cat> is needed by all <bd>Residences</bd> and can be <it>Fish</it>, <it>Meat</it> or <it>Pumpkins</it>.","<cat>Cibo</cat> è richiesto da tutte le <bd>Residenze</bd> e può essere <it>Pesce</it>, <it>Carne</it> o <it>Zucche</it>.",
+Pumpkins_Structure_2_Name,Text,"These are the ""fields"" the player manually places",Pumpkin Patch,Orto(Zucche),
+Pumpkins_Structure_2_Plural,Text,"These are the ""fields"" the player manually places",Pumpkin Patches,Orti(Zucche),
 Structure_2_Name,Text,"These are the ""fields"" the player manually places",Vegetable Plot,Orto(Verdure),
 Structure_2_Plural,Text,"These are the ""fields"" the player manually places",Vegetable Plots,Orti(Verdure),
 Tech_66_Desc,Text,,Unlocks construction of Lugger,Sblocca la costruzione del Lugger,
 AlertVegetableFarmFields,Text,,You have not planted any vegetable plots,Non hai piantato nessuna zona per le verdure,
-AlertVegetableFarmFields,Text,,You have not planted any pumpkin patches,Non hai piantato nessuna zona per le zucche,
-ItemCat_2_Desc,Text,,<it>Fish</it> / <it>Meat</it> / <it>Pumpkins</it>,<it>Pesce</it> / <it>Carne</it> / <it>Zucche</it>,
+Pumpkins_AlertVegetableFarmFields,Text,,You have not planted any pumpkin patches,Non hai piantato nessuna zona per le zucche,
+Pumpkins_ItemCat_2_Desc,Text,,<it>Fish</it> / <it>Meat</it> / <it>Pumpkins</it>,<it>Pesce</it> / <it>Carne</it> / <it>Zucche</it>,
 ItemCat_2_Desc,Text,,<it>Fish</it> / <it>Meat</it> / <it>Vegetables</it>,<it>Pesce</it> / <it>Carne</it> / <it>Verdure</it>,
-MiscCat_13_Name,Text,,Pumpkin Patches,Orti(Zucche),
+Pumpkins_MiscCat_13_Name,Text,,Pumpkin Patches,Orti(Zucche),
 MiscCat_13_Desc,Text,,can be planted on green tiles,può essere piantato sulle caselle verdi,
 RoadState_ValidEndRoadMsg,Text,{0}: click,[{0}] to place post and complete road,[{0}] per piazzare un incrocio e completare la strada,
 RoadState_ValidWaypointMsg,Text,{0}: click,[{0}] to set road waypoint,[{0}] per impostare una tappa intermedia,
@@ -2813,7 +2812,7 @@ Scenario_13_Name,Text,,The Three Hills,Le Tre Colline,
 BugReport_CopyClipboard,Text,(path means path of the bug report file on your computer),Copy path to clipboard,Copia percorso file negli appunti,
 NowAvailableInLanguage,Text,"!!! Replace English with the name of your language in your language!
 (The Colonists is) now available in English!",Now available in English!,Ora disponibile in italiano!,
-Tip_21,Text,,Hold [Alt] when placing a building to have its construction instantly paused,Tieni premuto [Alt] quando piazzi un edificio per mettere subito in pausa la sua costruzione,
+Tip_21,Text,,Hold <hotkey>[Alt]</hotkey> when placing a building to have its construction instantly paused,Tieni premuto <hotkey>[Alt]</hotkey> quando piazzi un edificio per mettere subito in pausa la sua costruzione,
 DevBuildIntro,Text,,"Welcome to the development build of The Colonists!
 
 Please be aware that you may find extra bugs in this version of the game.
@@ -2997,7 +2996,8 @@ Month11,Text,,November,Novembre,
 Month12,Text,,December,Dicembre,
 GameComplete_Frontier,Text,"{0} e.g. ""July 2020""",Well done! You've completed the {0} frontier map!,Ben fatto! Hai completato la mappa Frontiera di {0}!,
 Frontier_Ended,Text,(This frontier has) ended [replaces the Play button for frontiers that has finished),Ended,Conclusa,
-Frontiers_Desc,Text,,Frontiers are missions that all players compete for the best times on the same randomly generated map. Each frontier lasts for a month (using GMT) and is played with fog of war turned off. Good luck!,Le missioni Frontiera sono missioni in cui tutti i giocatori competono per il miglior tempo nella stessa mappa generata randomicamente. Ogni Frontiera dura un mese (nel fuso orario GMT) e si gioca senza Nebbia di guerra. Buona fortuna!,
+Frontiers_Desc,Text,,"Frontiers are missions that all players compete for the best times on the same randomly generated map. Each frontier lasts for a month (using GMT) and is played with fog of war turned off.
+Good luck!",Le missioni Frontiera sono missioni in cui tutti i giocatori competono per il miglior tempo nella stessa mappa generata randomicamente. Ogni Frontiera dura un mese (nel fuso orario GMT) e si gioca senza Nebbia di guerra. Buona fortuna!,
 MyRank,Text,E.g. My rank: #482,My rank:,Rank:,
 MyBestTime,Text,Eg. My best time: 4 months 17 days,My best time:,Tempo migliore:,
 UpgradeImportRulesWarning,Text,,You have import rules on this building which might affect upgrade resources arriving.,Hai regole di importazione in questa struttura che potrebbero influenzare l'arrivo delle risorse per il miglioramento.,
@@ -3017,7 +3017,7 @@ EntityInfoSelectVehicleStopTrainHeader,Text,,Add Station Stop,Aggiungi fermata s
 EntityInfoSelectVehicleStopBoatHeader,Text,,Add Harbour Stop,Aggiungi fermata porto,
 HarbourStopBoatTooBig,Text,{0}: boat,{0} is too big to stop here!,{0} è troppo grande per fermarsi qui!,
 VehicleStopMaximumStops,Text,{0} harbour or train station,{0} has reached maximum number of stops!,{0} ha raggiunto il massimo numero di fermate!,
-FrontierReplayMessage,Text,,"This frontier has ended and your time won't be recorded.
+FrontierReplayMessage,Text,,"This frontier has ended and your time won't be submitted.
 Play anyway?",Questa frontiera si è conclusa e il tuo tempo non verrà registrato. Giocare comunque?,
 DeleteSavegameWarning,Text,,"Are you sure you want to delete this savegame?
 
@@ -3382,7 +3382,7 @@ ExpeditionType_3_Name,Text,,Beach Landing,Atterraggio sulla spiaggia,
 EntityInfoSelectExpeditionHeader,Text,,Select expedition type,Seleziona il tipo di spedizione,
 Building_71_Name,Text,,Floating Watchtower,Torre di Guardia galleggiante,
 TransportBoatExpedition_Build,Text,"{0}: name of building, e.g. ""harbour""",Build {0},Costruisci {0},
-MarketItemBuyOnly,Text,,Purchase Only,Acquista solo,
+MarketItemBuyOnly,Text,,Buy Only,Acquista solo,
 MarketItemSellOnly,Text,,Sell Only,Vendi solo,
 Hotkey_70,Text,,Show Grid Coordinates,Mostra coordinate,
 GameComplete_MP_Won,Text,,You won!,Hai vinto!,
@@ -3391,45 +3391,39 @@ Scenario_100_Name,Text,,Multiplayer Beta Map 2P,Mappa Beta Multiplayer 2P,
 GameComplete_MP_PlayerWon,Text,{0}: name of the player that won the game,{0} won!,{0} ha vinto!,
 Scenario_101_Name,Text,,Multiplayer Beta Map 3P,Mappa Beta Multiplayer 3P,
 MultiplayerSpeed_Pause,Text,,Pause,Pausa,
-Building_68_Description,Text,,,,
+Building_75_Description,Text,,,,
 Building_75_Name,Text,,Fishing Station,Postazione di Pesca,
-Building_68_Plural,Text,,,,
-Building_68_Worker,Text,,,,
+Building_75_Plural,Text,,,,
+Building_75_Worker,Text,,,,
 Previous,Text,"The opposite of 'Next', as in the next item in the list",Previous,Precedente,
 No_ConstructionDepots_Yet,Text,,You haven't built any <bd>Construction Yards</bd> yet!,Non hai ancora costruito nessun <bd>Cantiere</bd>!,
 Assign_ConstructionDepot,Text,Button to assign a construction yard building to the construction of a target structure,Assign Construction Yard,Assegna Cantiere,
-EntityInfoSelectRoadBridgeConstructionDepotHeader,Text,Header for sub panel listing possible construction depots to assign to target structure,Select Construction Depot,Seleziona Deposito di Costruzione,
+EntityInfoSelectRoadBridgeConstructionDepotHeader,Text,Header for sub panel listing possible construction depots to assign to target structure,Select Construction Yard,Seleziona Cantiere,
 RoadBridge_0_Name,Text,,Wooden Bridge,Ponte di Legno,
-RoadBridge_0_Desc,Text,,A wooden bridge you can build road and paths over.,Un ponte di legno su cui puoi costruire strade e sentieri.,
+RoadBridge_0_Desc,Text,,A wooden bridge you can build roads and paths over.,Un ponte di legno su cui puoi costruire strade e sentieri.,
 RoadBridge_1_Name,Text,,Iron Bridge,Ponte di Ferro,
 RoadBridge_1_Desc,Text,,An iron bridge you can build roads and paths over.,Un ponte di ferro su cui costruire strade e sentieri.,
 RoadBridge_2_Name,Text,,Steel Bridge,Ponte d'Acciaio,
 RoadBridge_2_Desc,Text,,A steel bridge you can build roads and paths over.,Un ponte d'acciaio su cui puoi costruire strade e sentieri.,
-Building_76_Description,Text,,Constructs road bridges,Costruisce ponti stradali,
+Building_76_Description,Text,[PLEASE UPDATE],A resource depot used by a buildbot to construct bridges.,Un deposito di risorse utilizzato da un BotCostruttore per costruire ponti.,
 Building_76_Name,Text,,Construction Yard,Cantiere di costruzione,
 Building_76_Plural,Text,,Construction Yards,Cantieri di costruzione,
 Building_76_Worker,Text,,Engineerbot,BotIngegnere,
 RoadBridgeConstructionCosts,Text,Header for panel showing construction costs for each road bridge section,Construction Per Section,Costruzione Per Sezione ,
 RoadBridgeMaxLength,Text,Header for maximum length of road bridge,Max Length,Lunghezza massima,
-RoadBridgeMaxLengthNoLimit,Text,If a road bridge doesn't have a maximum length,No limit,Senza limiti,
+RoadBridgeMaxLengthNoLimit,Text,If a road bridge doesn't have a maximum length,Unlimited,Senza limiti,
 Item_39_Desc,Text,,Gold Coins are minted by the <bd>Mint</bd>.,Le Monete d'Oro vengono coniate dalla <bd>Zecca</bd>.,
-Item_39_FullDesc,Text,,Gold Coins are minted by the <bd>Mint</bd> from <it>Gold</it> using <cat>Fuel</cat> and are used by <bd>Churches</bd>.,Le Monete d'Oro vengono coniate dalla <bd>Zecca</bd> dall'<it>Oro</it> utilizzando il <cat>Carburante</cat> e vengono utilizzate dalle <bd>Chiese</bd>.,
+Item_39_FullDesc,Text,,Gold Coins are minted by the <bd>Mint</bd> from <it>Gold</it> using <cat>Fuel</cat>.,Le Monete d'Oro vengono coniate dalla <bd>Zecca</bd> dall'<it>Oro</it> utilizzando il <cat>Carburante</cat> e vengono utilizzate dalle <bd>Chiese</bd>.,
 Item_39_Name,Text,,Gold Coins,Monete d'oro,
 Item_39_Past,Text,,Minted,Coniato,
 Item_39_Present,Text,,Minting,Coniando,
-Building_73_Description,Text,,Uses <it>Gold Coins</it> and <it>Books</it> to provide blessings to buildings.,Utilizza <it>Monete d'Oro</it> e <it>Libri</it> per fornire benedizioni agli edifici.,
+Building_73_Description,Text,,Creates <it>Holy Energy</it> from <it>Energy L2</it>,Crea <it>Energia Sacra</it> da <it>EnergiaL2</it>,
 Building_73_Name,Text,,Church,Chiesa,
 Building_73_Plural,Text,,Churches,Chiese,
 Building_73_Worker,Text,,Priestbot,BotPrete,
 EntityBuildingPriorityEntitiesClear,Text,Button to clear any prioritised entities,Clear,Cancella,
-EntityBuildingPriorityEntitiesFishingStationHeader,Text,,Priority Fishing Location,Posizione di pesca prioritaria,
-EntityBuildingPriorityEntitiesFishingStationDesc,Text,,"By default fishing boats will fish at the nearest location but you can override this behaviour by prioritising a particular fishing location.
-
-Click on a fishing location to set it as a priority.
-<hotkey>[Shift]</hotkey> click a fishing location to unset it.","Per impostazione predefinita, i pescherecci pescheranno nella posizione più vicina, ma è possibile sovrascrivere questo comportamento dando priorità a una particolare località di pesca.
-
-Fare clic su una posizione di pesca per impostarla come priorità.
-<hotkey>[Shift]</hotkey> fai clic su una posizione di pesca per disattivarla.",
+EntityBuildingPriorityEntitiesFishingStationHeader,Text,,Priority Fishing Locations,Posizione di pesca prioritaria,
+EntityBuildingPriorityEntitiesFishingStationDesc,Text,,By default fishing boats will fish at the nearest location but you can set priority fishing locations that the fishing boat will cycle through.,Per impostazione predefinita i pescherecci pescheranno nella località più vicina ma è possibile impostare le località di pesca prioritarie che il peschereccio attraverserà.,
 Building_75_Description,Text,,Fishing boat fishes at off-shore locations for <it>Fish</it> or <it>Lobster</it>,Il peschereccio pesca in luoghi al largo per <it>Pesce</it> o <it>Aragosta</it>,
 Building_75_Name,Text,,Fishing Station,Stazione di Pesca,
 Building_75_Plural,Text,,Fishing Stations,Stazioni di Pesca,
@@ -3439,4 +3433,282 @@ Item_51_FullDesc,Text,,Lobsters are caught by the fishing boat and unloaded at t
 Item_51_Name,Text,,Lobster,Aragosta,
 Item_51_Past,Text,,Caught,Preso,
 Item_51_Present,Text,,Catching,Catturando,
-EntityBuildingPriorityEntitiesChangeAction,Text,,Change Priority,Cambia priorità,
+EntityBuildingPriorityEntitiesFishingLocationAddMessage,Text,,Select a fishing location to prioritise it,Seleziona una località di pesca per dargli la priorità,
+Fish_10_Name,Text,Sea fishing location which produces multiple fish resources,Fish Shoal,Banco di Pesci,
+Fish_11_Name,Text,Sea fishing location which produces multiple lobster resources,Lobster Pod,Aragoste,
+EntPanelHead_37,Text,Header for panel showing what the fishing boat is doing,Activity,Attività,
+FishingBoat_Unloading,Text,,Unloading,Scaricando,
+FishingBoat_Fishing,Text,{0}: target resource (fish or lobster),Catching {0},Catturando {0},
+FishingBoat_Returning,Text,,Returning,Tornando,
+FishingBoat_HeadingOut,Text,,Going to fish,Andando a pesca,
+FishingBoat_Queueing,Text,{0}: number in queue,Queueing (#{0} in queue),In coda (#{0} in coda),
+FishingBoat_ActivityOverlayTooltipBody,Text,"{0}: name of workerbot
+{1}: target resource (fish or lobster)",{0} is catching {1},{0} sta catturando {1},
+FishingBoat_ActivityOverlayTooltipTitle,Text,,Fishing Activity,Attività di Pesca,
+Boat_4_Name,Text,,Fishing Boat,Peschereccio,
+Tech_130_Desc,Text,,Unlocks wooden bridges which can be used to span short gaps,Sblocca ponti di legno che possono essere utilizzati per superare brevi spazi,
+Tech_130_Name,Text,,Wooden Bridges,Ponti di Legno,
+Tech_131_Desc,Text,,Unlocks iron bridges which can be used to span longer gaps,Sblocca ponti di ferro che possono essere utilizzati per coprire spazi più lunghi,
+Tech_131_Name,Text,,Iron Bridges,Ponti di Ferro,
+Tech_132_Desc,Text,,Unlocks steel bridges which can be used to span gaps of unlimited length,Sblocca ponti in acciaio che possono essere utilizzati per superare spazi di lunghezza illimitata,
+Tech_132_Name,Text,,Steel Bridges,Ponti di Acciaio,
+RoadBridgeBuildMode_InvalidStart,Text,,Invalid tile,Casella invalida,
+DLC1_Campaign,Text,,New Lands,New Lands,
+Scenario_30_Description,Text,,Explore and expand with your robots' new bridge technology,Esplora ed espanditi con la nuova tecnologia ponte dei tuoi robot,
+Scenario_30_Name,Text,,Bridging the Gap,Colmare il Divario,
+Scenario_31_Description,Text,,,,
+Scenario_31_Name,Text,,The Golden Isle,L'isola d'Oro,
+UnitState_BestowingBlessing,Text,,Blessing {0} - {1}%,Benedizione {0} - {1}%,
+EntityBuildingPriorityEntitiesChurchHeader,Text,,Blessings,Benedizione,
+EntityBuildingPriorityEntitiesChurchDesc,Text,,Priestbot will visit assigned buildings in order and provide a blessing to it.,Il BotPrete visiterà gli edifici assegnati in ordine e li benedirà.,
+EntityBuildingPriorityEntitiesChurchAddMessage,Text,,Select buildings to assign for blessings.,Selezionare gli edifici da assegnare alle benedizioni.,
+UnitState_RoadBridgeBuilding,Text,,Constructing bridge segment {0}%,Costruzione del tratto di ponte {0}%,
+EntPanelHead_75,Text,,Construction,Costruzione,
+EntityRoadBridgeAssignConstructionYardHeader,Text,,Construction Yard,Cantiere di costruzione,
+MiscCat_17_Name,Text,,Bridge Construction,Costruzione del ponte,
+MiscCat_17_Desc,Text,,Bridges can be used to span gaps,I ponti possono essere utilizzati per superare spazi,
+AlertChurchTargetBuildings,Text,,You have not set any target buildings,Non hai impostato alcun edificio bersaglio,
+Building_74_Description,Text,,Allows you to buy and sell more resources at a faster rate.,Ti consente di acquistare e vendere più risorse a un ritmo più veloce.,
+Building_74_Name,Text,,Large Space Port,Grande Porto Spaziale,
+Building_74_Plural,Text,,Large Space Ports,Grandi Porti Spaziali,
+Building_74_Worker,Text,,Stackbot,BotImpilatore,
+AlertRoadBridgeConstructionYard,Text,,Bridge doesn't have a construction yard assigned,Al ponte non è assegnato un Cantiere,
+EntityRoadBridgeNoConstructionYardYetTitle,Text,,No Construction Yard,Nessun Cantiere,
+EntityRoadBridgeNoConstructionYardYetBody,Text,,Assign a construction yard to allow an engineerbot to construct this bridge,Assegna un Cantiere per consentire a un BotIngegnere di costruire questo ponte,
+EntityProductionRoadBridgeTitle,Text,,Target Bridge,Ponte di destinazione,
+EntityProductionRoadBridgeUnassigned,Text,,No bridge is assigned,Nessun ponte è assegnato,
+RoadBridgeState_ChangeHeight,Text,,Hold <hotkey>[{0}]</hotkey> to change height,Tieni premuto <hotkey>[{0}]</hotkey> per modificare l'altezza,
+RoadBridgeState_StartTip,Text,,Click and drag to place bridge,Fare clic e trascina per posizionare il Ponte,
+Track_0_Name,Text,Basic term for train track),Track,Tracciato,
+ValidityResult_60,Text,Reason that you can't destroy a train station,Train currently stopped at station,Il Treno è attualmente fermo alla stazione,
+ValidityResult_61,Text,Reason that you can't destroy a burning building/structure,Currently burning,In fiamme,
+ValidityResult_62,Text,Rason that you can't destroy colony ship's road post,This is your colony ship's road post,Questo è l'incrocio della tua nave coloniale,
+ValidityResult_63,Text,Reason that you can't destroy a harbour road post,This is your colony harbour's road post,Questo è l'incrocio del tuo porto coloniale,
+ValidityResult_64,Text,Reason that you can't destory something you don't own,You don't owned this,Non è di tua proprietà,
+ValidityResult_65,Text,Reason that you can't destroy a piece of track,Track is needed by train station platform,Il tracciato è necessario per la piattaforma della stazione ferroviaria,
+ItemTooltip_WaitExpedition,Text,"{0}:amount, {1}:resource
+Eg. 4x Planks are waiting to be used for an expedition",{0}x {1} waiting to be used for an expedition,{0}x {1} in attesa di essere utilizzati per una spedizione,
+EntityInfoBuildingStorageExpeditionEmpty,Text,,There are no resources waiting to be used for an expedition,Non ci sono risorse in attesa di essere utilizzate per una spedizione,
+EntityInfoBuildingStorageExpeditionHeader,Text,,Expedition Queue ({0}),Coda per la spedizione ({0}),
+EntityInfoBuildingStorageExpeditionImportWhitelistDesc,Text,,Limit which buildings can send resources here for expeditions:,Limita quali edifici possono inviare risorse qui per le spedizioni:,
+EntityInfoBuildingStorageExpeditionImportWhitelistHeader,Text,,Expedition Import Whitelist,Permessi Import spedizione,
+ExpeditionHarbour_ExpeditionInvalidLugger,Text,(shown when assigning lugger to normal harbour expedition),Boat too large,Barca troppo grande,
+EntityPortColonyShipPrepareChangeExpeditionType,Text,,Change Expedition Type,Cambia tipo di spedizione,
+HelpPanel_42,Text,Updated Help for 'Clearance Mode' button,"Clearance mode means the worker bot will still go to work even if the building's outgoing storage is full but no resources will be generated on the completion of their job.
+
+This can be useful if you want to clear areas of trees or natural resources but don't need the resources generated.","La modalità di sgombero significa che il BotLavoratore continuerà a lavorare anche se il magazzino in uscita dell'edificio è pieno, ma non verranno generate risorse al termine del lavoro.
+
+Questo può essere utile se si desidera liberare aree da alberi o risorse naturali, ma non si ha bisogno delle risorse generate.",
+OverlayProductionUI_ClearanceMode,Text,,Clearance mode is enabled,La modalità di sgombero è abilitata,
+ColonyStatisticsResearchHistoryHeader,Text,Title of fourth colony stats panel showing tech research timeline,Tech Research Stats,Statistiche della ricerca tecnologica,
+TookTime,Text,Time it took to do something,Took: {0},Tempo: {0},
+MainMenu_Multiplayer,Text,,Multiplayer,Multigiocatore,
+Notification_30_Desc,Text,,Construction has finished,La costruzione è terminata,
+Notification_30_Name,Text,,Bridge complete!,Ponte completato!,
+Multiplayer_TeamPlayerDesc,Text,E.g. Teams: 2 vs 2,Teams: {0},Squadre: {0},
+Multiplayer_TeamPlayerDescVs,Text,"Team number versus separator, i.e. ""2 vs 2""",vs,vs,
+MapEditorPlayerStatusToggle,Text,"Player Type: ""Individual or Team""",Type,Tipo,
+MapEditorPlayerStatusPlayer,Text,,Player,Giocatore,
+MapEditorPlayerStatusAI,Text,,AI,IA,
+MapEditorPlayerModeToggle,Text,"Label for toggle between ""Individual"" and ""Team""",Player Mode,Modalità giocatore,
+MapEditorPlayerModePlayer,Text,,Individual,Individuale,
+MapEditorPlayerModeTeam,Text,,Team,Team,
+MapEditorPlayersAddTeam,Text,Button to add a team in map editor,Add Team,Aggiungi Team,
+MapEditorPlayerLandingLocation,Text,,Landing Location,Posizione di atterraggio,
+MapEditorPlayerLandingLocationSet,Text,Button to set landing location,Set,Imposta,
+MapEditorPlayerLandingLocationChange,Text,Button to change landing location,Change,Cambia,
+MapEditorPlayerLandingLocationWarningNotSet,Text,,Not set!,Non impostata!,
+MapEditorPlayerLandingLocationCancel,Text,Cancel setting starting location,Cancel,Annulla,
+ScenGameVerErr_9,Text,,No victory conditions set!,Nessuna condizione di vittoria impostata!,
+Multiplayer_TeamPlayerDescSolo,Text,E.g. Team: 2P Co-op,Team: {0}P Co-op,Team: {0}P Co-op,
+Scenario_102_Name,Text,,Multiplayer Beta Map 2P vs 2P,Multigiocatore Mappa Beta 2P vs 2P,
+Scenario_103_Name,Text,,Multiplayer Beta Map 2P Co-op,Multigiocatore Mappa Beta 2P Co-op,
+Scenario_104_Name,Text,,Multiplayer Beta Map 4P,Multigiocatore Mappa Beta 4P,
+Multiplayer_PlayerDesc,Text,"{0} is player count, e.g: ""PVP: 2P""",PvP: {0}P,PvP: {0}P,
+Scenario_105_Name,Text,,Multiplayer Beta Map 3P Co-op,Multigiocatore Mappa Beta 3P Co-op,
+MultiplayerVictoryConditionAnd,Text,[A] AND [B],AND,AND,
+MultiplayerVictoryConditionOr,Text,[A] OR [B],OR,OR,
+MultiplayerRandomMapGameType,Text,,Game Type,Tipo di partita,
+MultiplayerRandomMapGameTypePvP,Text,,PvP,PvP,
+MultiplayerRandomMapGameTypeTeamCoop,Text,,Team,Team,
+MultiplayerRandomMapPlayerCount,Text,,Players,Giocatori,
+MultiplayerPublic,Text,,Public,Pubblica,
+MultiplayerPrivate,Text,,Private,Privata,
+MultiplayerPrivateNoPasswordWarning,Text,,You need to set a password for a private game!,Devi impostare una password per una partita privata!,
+BdPlVaResults_45_Name,Text,Error when there's not enough room for a building because of bridge above it,Blocked by bridge,Bloccato dal ponte,
+ExpeditionBoatNoRouteToHarbour,Text,,Boat cannot find a route to the new harbour!,La barca non riesce a trovare una rotta per il nuovo porto!,
+ExpeditionBoatHarbourBody,Text,,Boat is heading to new harbour,La barca si sta dirigendo verso il nuovo porto,
+ExpeditionBoatNewHarbourCancelBtn,Text,,Cancel New Harbour,Annulla il nuovo porto,
+Tunnel_0_Name,Text,Train tunnel,Tunnel,Galleria,
+Scenario_32_Description,Text,,,,
+Scenario_32_Name,Text,,,,
+Scenario_33_Description,Text,,,,
+Scenario_33_Name,Text,,,,
+SandboxOptionDLCEnabled,Text,,New Lands DLC Features,Funzionalità del DLC New Lands,
+Building_79_Description,Text,,Uses <it>Holy Energy</it> to provide blessings to buildings.,Utilizza l'<it>Energia Sacra</it> per fornire benedizioni agli edifici.,
+Building_79_Name,Text,,Missionary Outpost,Avamposto Missionario,
+Building_79_Plural,Text,,Missionary Outposts,Avamposti Missionari,
+Building_79_Worker,Text,,Priestbot,BotPrete,
+Item_52_Desc,Text,,Holy Energy is made at the <bd>Church</bd>.,L'Energia Sacra è prodotta alla <bd>Chiesa</bd>.,
+Item_52_FullDesc,Text,,Holy Energy is made at the <bd>Church</bd> from <it>Energy L2</it> and is used by <bd>Missionary Outposts</bd> to bless buildings.,L'Energia Sacra è prodotta nella <bd>Chiesa</bd> da <it>Energia L2</it> e viene utilizzata dagli <bd>Avamposti Missionari</bd> per benedire gli edifici.,
+Item_52_Name,Text,,Holy Energy,Energia Sacra,
+Item_52_Past,Text,,Prepare,Preparato,
+Item_52_Present,Text,,Preparing,Preparazione,
+Building_77_Description,Text,,Allows you to share resources with other players on your team.,Ti consente di condividere risorse con altri giocatori della tua squadra.,
+Building_77_Name,Text,,Team Space Port,Porto Spaziale del Team,
+Building_77_Plural,Text,,Team Space Ports,Porti Spaziali del Team,
+Building_77_Worker,Text,,Stackbot,BotImpilatore,
+TeamStorageEmpty,Text,,Your team does not have any shared resources available.,Il tuo team non ha risorse condivise disponibili.,
+TeamStorageHeader,Text,,Available Resources ({0}),Risorse disponibili ({0}),
+EntPanelHead_29,Text,Header for panel about the shared resource stockpile for your team,Team Storage,Deposito del Team,
+EntityInfoBuildingStorageForContributionEmpty,Text,,There are no resources waiting to be contributed,Non ci sono risorse in attesa di essere donate,
+EntityInfoBuildingStorageForContributionHeader,Text,"(Resources that are) for sending to team storage
+{0}: amount of resources",For Contribution ({0}),Per il contributo ({0}),
+EntityInfoBuildingStorageWithdrawnHeader,Text,"(Resources that have been) purchased
+{0}: amount of resources",Withdrawn ({0}),Ritirato ({0}),
+AlliedTradeTerminalContributeHeader,,,Contribute,Contribuisci,
+AlliedTradeTerminalWithdrawHeader,,,Withdraw,Ritira,
+Notification_31_Desc,Text,"{0}: player name, {1}: resource name",{0} has contributed the first <it>{1}</it>!,{0} ha contribuito con il primo <it>{1}</it>!,
+Notification_31_Name,Text,,New Team Storage Resource,Nuova risorsa nel deposito del Team,
+MultiplayerRoomRowSetToAI,Text,Set a multiplayer slot to play as the AI,Set To AI,Imposta a IA,
+MultiplayerRoomRowSwitchTo,Text,Button to change to a different player slot in a multiplayer game,Switch To,Passa a,
+DLCCampaignMissionTitleNumber,Text,"{0}: number, e.g. New Lands Mission 7",New Lands Mission {0},New Lands Missione {0},
+ContinueMultiplayerWindowExitWarning,Text,,Are you sure to want to exit this multiplayer game?,Sei sicuro di voler uscire da questa partita multigiocatore?,
+TeamName_0,Text,,Blue Team,Team Blu,
+TeamName_1,Text,,Red Team,Team Rosso,
+TeamName_2,Text,,Green Team,Team Verde,
+TeamName_3,Text,,Yellow Team,Team Giallo,
+MultiplayerResyncing1,Text,,Client Desync!,Desincronizzazione del Client!,
+MultiplayerResyncing2,Text,,Resync in progress...,Risincronizzazione in corso...,
+ScenVict_0_CreateDesc,Text,,Capture enemy colony ships,Cattura le navi coloniali nemiche,
+ScenVict_1_CreateDesc,Text,,Construct a specified amount of a specified building,Costruisci una quantità specifica di un edificio specificato,
+ScenVict_5_CreateDesc,Text,,Have a specified amount of money in the bank,Avere una determinata somma di denaro in banca,
+ScenVict_7_CreateDesc,Text,,Research a specified technology,Ricerca una tecnologia specifica,
+ScenVict_8_CreateDesc,Text,,Reach a specified trader reputation,Raggiungi una reputazione commerciante specifica,
+ScenVict_10_CreateDesc,Text,,Construct a specified boat,Costruisci una barca specifica,
+ScenVict_11_CreateDesc,Text,,Have a specified amount of a specified resource in storage,Avere una quantità specifica di una risorsa specifica nel deposito,
+ScenVict_4_CreateDesc,Text,,Holds a specified object within territory,Avere un oggetto specificato all'interno del territorio,
+ScenVict_4_Desc,Text,,Hold <amount> <name> in your territory,Avere <amount> <name> nel tuo territorio,
+ScenVict_4_Name,Text,,Hold Entity in Territory,Mantenere l'entità nel territorio,
+ScenVict_12_Name,Text,,Recover Crashed Colony Ship,Recupera la nave coloniale precipitata,
+ScenVict_12_Desc,Text,TBC,Locate and recover crashed ship,Individua e recupera la nave precipitata,
+ScenVict_12_CreateDesc,Text,TBC,Locate and recover the crashed ship,Individua e recupera la nave precipitata,
+Utility_5_Name,Text,,Crashed Colony Ship,Nave Coloniale precipitata,
+MP_AI_Player_Name,Text,{0}: randomly generated name,{0} [AI],{0} [IA],
+MP_ReuploadingGame,Text,When a problem has happened in multiplayer and the game needs to be ,Re-uploading game,Ri-Upload del gioco,
+MainMenu_MapEditor,Text,,Map Editor,Editore di mappe,
+MP_PreparingBuilding,,Shows on building tooltip if building hovered over before building placement is confirmed by host,[Preparing building],[Preparazione edificio],
+MP_HostPublicGame,,,Host Public Game,Ospita una partita pubblica,
+MP_HostPrivateGame,,,Host Private Game,Ospita una partita privata,
+MP_Join,,,Join Game,Unisciti al gioco,
+ScenVict_12_CreateWarning,,,You haven't placed a crashed colony ship yet!,Non hai ancora posizionato una nave coloniale precipitata!,
+MapEditorMode_15_Desc,Text,,"Click and drag to paint terrain.
+[Ctrl] + Click to select terrain type.
+[F] + Mouse Wheel to change brush size.","Fai clic e trascina per dipingere il terreno.
+[Ctrl] + Click per selezionare il tipo di terreno.
+[F] + Rotellina del mouse per modificare la dimensione del pennello.",
+MapEditorSettingsTerritoryAndFogOfWar,,,Territory & fog of war,Territorio e nebbia di guerra,
+MapEditorDLC1Features,,,New Lands DLC Features,Funzionalità del DLC New Lands,
+DLC1Maps,,,New Lands DLC Maps,Mappe del DLC New Lands,
+Tech_35_Desc,Text,,Increases repair hit points by <amount>%,Aumenta i punti ferita di riparazione di <amount>%,
+Tech_36_Desc,Text,,Increases repair hit points by <amount>%,Aumenta i punti ferita di riparazione di <amount>%,
+Tech_37_Desc,Text,,Increases repair hit points by <amount>%,Aumenta i punti ferita di riparazione di <amount>%,
+QualitySettingsShadowHard,,,Hard,Duro,
+QualitySettingsShadowSoft,,,Soft,Morbido,
+QualitySettingsShadowResolutionLabel,,,Resolution,Risoluzione,
+QualitySettingsShadowResolutionMedium,,,Medium,Medio,
+QualitySettingsShadowResolutionHigh,,,High,Alto,
+QualitySettingsShadowResolutionVeryHigh,,,Very High,Molto Alto,
+MultiplayerTimeLimit,,Time for games,Time Limit,Limite di tempo,
+TerrainCategory_0,,,Fertile,Fertile,
+TerrainCategory_1,,,Sand,Sabbia,
+TerrainCategory_2,,,Rock,Roccia,
+TerrainCategory_3,,,Snow,Neve,
+MapEditorMarketSetDefault,,Button to set market resources to default values,Set To Defaults,Imposta su valori predefiniti,
+MapEditorMarketAddResource,,Button to add a resource to the market resource list,Add Resource,Aggiungi risorsa,
+MarketItemBuyAndSell,,Default status of a market resource entry - that you can buy and sell it,Buy & Sell,Compra & Vendi,
+MapEditorMarketClearAll,,Button to clear all entries in market resource list,Clear All,Cancella tutto,
+TestScenarioSandboxTitle,,,Test Scenario in Sandbox,Prova scenario nella mappa personalizzata,
+MapEditorMarketEmpty,,,No resources set!,Nessuna risorsa impostata!,
+MyMapsScenarioPanelTest,,Small button to playtest the selected map,Test,Test,
+ChooseScenarioSelect,,Small button used to select a map in a list,Select,Seleziona,
+MultiplayerOfficialMaps,,Section where official multiplayer maps are listed,Official Maps,Mappe Ufficiali,
+DeleteScenarioWarning,,,"Are you sure you want to delete this scenario?
+
+Hold [Alt] to skip this message.","Sei sicuro di voler eliminare questo scenario?
+
+Tieni premuto [Alt] per saltare questo messaggio.",
+MapEditorColonyShipOverlay,,Label for UI toggle to show the graphical overlay for the footprint and starting territory of a player's colony ship,Colony Ship Overlay,Overlay Nave Coloniale,
+DLCCampaignMissionTitleNumber,,"{0}: number, e.g. New Lands Mission 7",New Lands Mission {0},New Lands Missione {0},
+Flora_120_Name,,,Crashed Colony Ship,Nave coloniale precipitata,
+Building_82_Description,Text,,Pulls <it>Water</it> from deep underground.,Estrae <it>Acqua</it> dal sottosuolo profondo.,
+Building_82_Name,Text,,Shaft Well,Pozzo di pompaggio,
+Building_82_Plural,Text,,Shaft Wells,Pozzi di pompaggio,
+Building_82_Worker,Text,,Waterbot,AcquaBot,
+MiscCat_16_Name,Text,,Blessings,Benedizione,
+MiscCat_16_Desc,Text,,Boost bots' activity speed,Aumenta la velocità di attività dei Bot,
+Building_72_Description,Text,,Produces <it>Gold Coins</it> using <it>Gold</it> and <cat>Fuel</cat>,Produce <it>Monete d'Oro</it> utilizzando <it>Oro</it> e <cat>Carburante</cat>,
+Building_72_Name,Text,,Mint,Zecca,
+Building_72_Plural,Text,,Mints,Zecca,
+Building_72_Worker,Text,,Minterbot,BotConiatore,
+DLC1_Store_Description,,,"Expand your frontiers with The Colonists: New Lands! Improve your transport network and overcome challenging terrain with Bridges and Train Tunnels, boost your economy with the Mint and even allow your bots to discover their spiritual side…
+
+Master the seas with Floating Watchtowers to oversee your charming new Fishing Boats as they haul in bountiful catches of fish and lobster.
+
+With six new maps and much more to discover, New Lands is an essential addition to The Colonists experience.
+
+[h2][b]Features:[/b][/h2]
+
+[b]Churches[/b]
+Boost your colony by generating Holy Energy which allows the Priestbot to bless buildings
+
+[b]Bridges[/b]
+Wood, Iron and Steel - your bots can now span the shortest gaps to the widest seas.
+
+[b]Train Tunnels[/b]
+Reach previously inaccessible locations or create shortcuts by tunnelling through hills and mountains.
+
+[b]Fishing Boats[/b]
+Send out boat trips to make use of offshore fishing spots and provide fish and lobster for your residences.
+
+[b]Floating Watchtower[/b]
+Expand your domain to the open seas and challenge your enemies from the water.
+
+[b]Mint[/b]
+Produce Gold Coins which can be sold at the marketplace or supplied to the Workshop for improved research techs.
+
+[b]Desert Well[/b]
+Construct deep-sunk wells to gain access to valuable water in desert regions.
+
+[b]6 New Maps[/b]
+Take on the challenge of the new campaign and recover the crashed colony ships.","Espandi le tue frontiere con The Colonists: New Lands! Migliora la tua rete di trasporti e supera terreni impegnativi con ponti e tunnel ferroviari, potenzia la tua economia con la zecca e consenti persino ai tuoi robot di scoprire il loro lato spirituale...
+
+Domina i mari con le torri di guardia galleggianti per sorvegliare le tue affascinanti nuove barche da pesca mentre trasportano abbondanti catture di pesci e aragoste.
+
+Con sei nuove mappe e molto altro da scoprire, New Lands è un'aggiunta essenziale all'esperienza di The Colonists.
+
+[h2][b]Caratteristiche:[/b][/h2]
+
+[b]Chiese[/b]
+Potenzia la tua colonia generando Energia Sacra che consente al BotPrete di benedire gli edifici
+
+[b]Ponti[/b]
+Legno, ferro e acciaio - ora i tuoi robot possono attraversare gli spazi più brevi fino ai mari più ampi.
+
+[b]Tunnel ferroviari[/b]
+Raggiungi luoghi precedentemente inaccessibili o crea scorciatoie scavando tunnel tra colline e montagne.
+
+[b]Barche da pesca[/b]
+Invia le barche per utilizzare i punti di pesca in mare aperto e fornire pesce e aragosta per le tue abitazioni.
+
+[b]Torre di guardia galleggiante[/b]
+Espandi il tuo dominio in mare aperto e sfida i tuoi nemici dall'acqua.
+
+[b]Zecca[/b]
+Produci monete d'oro che possono essere vendute al mercato o fornite all'officina per migliorare le tecnologie di ricerca.
+
+[b]Pozzo del deserto[/b]
+Costruisci pozzi profondi per accedere alla preziosa acqua nelle regioni desertiche.
+
+[b]6 Nuove Mappe[/b]
+Accetta la sfida della nuova campagna e recupera le navi coloniali precipitate.",

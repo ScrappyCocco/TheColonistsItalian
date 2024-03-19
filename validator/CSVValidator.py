@@ -163,6 +163,25 @@ class CSVValidator:
                         return False
         return True
 
+    def __print_row_grammar_validation_stats(self, row: list) -> str:
+        # Get the original content and the translated content to count and print results
+        english_content = row[3]
+        translated_content = row[4]
+        result_string = ""
+        for grammar_element in self.elements_to_check:
+            en_count = english_content.count(grammar_element)
+            if grammar_element not in self.allowed_elements_difference:
+                tr_count = translated_content.count(grammar_element)
+                result_string += "Element: '" + str(grammar_element) + "'"
+                result_string += " - Original Count:" + str(en_count)
+                result_string += " - Translated Count:" + str(tr_count)
+                if en_count == tr_count:
+                    result_string += " - [OK]"
+                else:
+                    result_string += " - [ERROR]"
+                result_string += "\n"
+        return result_string
+
     def process_file(self, filename: str):
         with open(filename, encoding="utf8") as csv_file:
             csv_reader = csv.reader(csv_file, delimiter=',')
@@ -184,17 +203,39 @@ class CSVValidator:
                     if not self.__csv_columns_validation(row):
                         raise Exception("Column name not valid (LINE 1)! Found: " + str(len(row)) + " expected 6 or 7!")
                 else:
+                    deprecated_line = False
                     if line_counter in self.lines_to_ignore:
                         file_manager.write_line_separator(str(line_counter))
                         file_manager.write_string_to_file("---Skipped line " + str(line_counter) +
                                                           " because in ignore list!\n\n")
                     else:
-                        # Check balance of brackets in original line
-                        if not self.__row_brackets_validation(row[3]):
+                        # Check if we want to print a remainder to update the lines
+                        if "PLEASE UPDATE" in str(row[2]):
                             warnings_found += 1
                             file_manager.write_line_separator(str(line_counter))
                             file_manager.write_string_to_file(
-                                "Warning [Brackets]: " +
+                                "Warning [Line needs update]: " +
+                                "This line may be marked with [PLEASE UPDATE]. " +
+                                "Check if you need to update it \n" +
+                                "Original: " + str(row[3]) + "\n" +
+                                "Translated: " + str(row[4]) + "\n\n")
+                        # Check deprecation first
+                        if str(row[3]) == "" or "deprecated" in str(row[2]):
+                            warnings_found += 1
+                            deprecated_line = True
+                            file_manager.write_line_separator(str(line_counter))
+                            file_manager.write_string_to_file(
+                                "Warning [Deprecated Line]: " +
+                                "This line will be skipped because is deprecated or empty in the original file. " +
+                                "Consider removing it in your file too \n" +
+                                "Original: " + str(row[3]) + "\n" +
+                                "Translated: " + str(row[4]) + "\n\n")
+                        # Check balance of brackets in original line
+                        elif not self.__row_brackets_validation(row[3]):
+                            warnings_found += 1
+                            file_manager.write_line_separator(str(line_counter))
+                            file_manager.write_string_to_file(
+                                "Warning [Brackets - Original Unbalanced]: " +
                                 "The Brackets (ex: {0}) looks invalid, and appear unbalanced " +
                                 "(there are unclosed brackets or the order is wrong)" +
                                 " - Translated line will not be checked since the original is already unbalanced " +
@@ -209,26 +250,28 @@ class CSVValidator:
                                 "but are balanced in the original line " +
                                 "(there are unclosed brackets or the order is wrong) " +
                                 "check the line:\n'" + str(row[4]) + "'\n\n")
-                        if not self.__row_param_validation(row):
-                            errors_found += 1
-                            file_manager.write_line_separator(str(line_counter))
-                            file_manager.write_string_to_file(
-                                "Error [Parameters]: " +
-                                "The parameters (ex: {0}) looks invalid, " +
-                                "check the line:\n'" + str(row[4]) + "'\n\n")
-                        if not self.__row_grammar_validation(row):
-                            errors_found += 1
-                            file_manager.write_line_separator(str(line_counter))
-                            file_manager.write_string_to_file(
-                                "Error [Grammar]: " +
-                                "The grammar (ex: .(dot) or !(exclamation point)) looks invalid, "
-                                "check the line:\n'" + str(row[4]) + "'\n\n")
-                        if not self.__row_tags_validation(row):
-                            errors_found += 1
-                            file_manager.write_line_separator(str(line_counter))
-                            file_manager.write_string_to_file(
-                                "Error [Tags]: " +
-                                "The tags (ex. <cat>) looks invalid, check the line:\n'" + str(row[4]) + "'\n\n")
+                        if not deprecated_line:
+                            if not self.__row_param_validation(row):
+                                errors_found += 1
+                                file_manager.write_line_separator(str(line_counter))
+                                file_manager.write_string_to_file(
+                                    "Error [Parameters]: " +
+                                    "The parameters (ex: {0}) looks invalid, " +
+                                    "check the line:\n'" + str(row[4]) + "'\n\n")
+                            if not self.__row_grammar_validation(row):
+                                errors_found += 1
+                                file_manager.write_line_separator(str(line_counter))
+                                file_manager.write_string_to_file(
+                                    "Error [Grammar]: " +
+                                    "The grammar (ex: .(dot) or !(exclamation point)) looks invalid \n" +
+                                    "Stats:" + self.__print_row_grammar_validation_stats(row) + "\n"
+                                    "check the line:\n'" + str(row[4]) + "'\n\n")
+                            if not self.__row_tags_validation(row):
+                                errors_found += 1
+                                file_manager.write_line_separator(str(line_counter))
+                                file_manager.write_string_to_file(
+                                    "Error [Tags]: " +
+                                    "The tags (ex. <cat>) looks invalid, check the line:\n'" + str(row[4]) + "'\n\n")
                 line_counter += 1
             # For end
             print("Warnings counter:" + str(warnings_found))

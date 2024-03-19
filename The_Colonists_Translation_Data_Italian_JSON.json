@@ -2731,7 +2731,7 @@
     "Key": "Custom Maps",
     "Type": "Text",
     "Desc": "",
-    "English": "Custom Maps",
+    "English": "Custom Map",
     "Italian": "Mappe personalizzate",
     "Verify": ""
   },
@@ -2811,7 +2811,7 @@
     "Key": "EntPanelHead_13",
     "Type": "Text",
     "Desc": "",
-    "English": "Sell Resources",
+    "English": "Trade Resources",
     "Italian": "Vendi risorse",
     "Verify": ""
   },
@@ -4186,16 +4186,16 @@
   {
     "Key": "Flora_200_Description",
     "Type": "Text",
-    "Desc": "",
-    "English": "This mine contains an infinite supply of <nr><natres></nr>.\nYou can build a <bd>Shaft Mine</bd> here to extract the <nr><natres></nr>.",
+    "Desc": "(Deprecated)",
+    "English": "",
     "Italian": "Questa miniera contiene una scorta infinita di <nr><natres></nr>. Puoi costruire una <bd>Miniera</bd> qui per estrarre il <nr><natres></nr>.",
     "Verify": ""
   },
   {
     "Key": "Flora_200_Name",
     "Type": "Text",
-    "Desc": "",
-    "English": "Underground Deposit",
+    "Desc": "(Deprecated)",
+    "English": "",
     "Italian": "Deposito sotterraneo",
     "Verify": ""
   },
@@ -9043,7 +9043,7 @@
     "Key": "QualityShadowDistance",
     "Type": "Text",
     "Desc": "",
-    "English": "Shadow Distance",
+    "English": "Distance",
     "Italian": "Distanza ombre",
     "Verify": ""
   },
@@ -11923,7 +11923,7 @@
     "Key": "TutorialDialogues_T3_Welcome",
     "Type": "Text",
     "Desc": "",
-    "English": "We seem to have landed on a small island with few resources.\nYou're going to need to build a harbour and boatyard to explore the seas to find new land!",
+    "English": "We seem to have landed on a small island with few resources.\nYou're going to need to build a harbour and boatyard to explore the seas and find new land!",
     "Italian": "Sembra che siamo atterrati su una piccola isola con poche risorse.\nDovrai costruire un porto e un cantiere navale per esplorare i mari e trovare altra terra!",
     "Verify": ""
   },
@@ -14315,16 +14315,16 @@
     "Key": "BuildState_Rotate",
     "Type": "Text",
     "Desc": "",
-    "English": "<hotkey>{0}</hotkey> to rotate",
-    "Italian": "<hotkey>{0}</hotkey> per ruotare",
+    "English": "<hotkey>[{0}]</hotkey> to rotate",
+    "Italian": "<hotkey>[{0}]</hotkey> per ruotare",
     "Verify": ""
   },
   {
     "Key": "BuildState_RotateAndFlip",
     "Type": "Text",
     "Desc": "",
-    "English": "<hotkey>{0}</hotkey> to rotate\n<hotkey>{1}</hotkey> to flip",
-    "Italian": "<hotkey>{0}</hotkey> per ruotare\n<hotkey>{1}</hotkey> per specchiare",
+    "English": "<hotkey>[{0}]</hotkey> to rotate\n<hotkey>[{1}]</hotkey> to flip",
+    "Italian": "<hotkey>[{0}]</hotkey> per ruotare\n<hotkey>[{1}]</hotkey> per specchiare",
     "Verify": ""
   },
   {
@@ -15699,7 +15699,7 @@
     "Key": "GameComplete_Default",
     "Type": "Text",
     "Desc": "",
-    "English": "Well done! You completed the map!",
+    "English": "Well done! You completed the mission!",
     "Italian": "Ben fatto! Hai completato la mappa!",
     "Verify": ""
   },
@@ -16035,7 +16035,7 @@
     "Key": "BugReport_Body_Manual",
     "Type": "Text",
     "Desc": "",
-    "English": "Please send the following file to codebyfire@gmail.com or post it in Discord along with a short description of what has gone wrong.",
+    "English": "Please send the following file to dev@codebyfire.com or post it in Discord along with a short description of what has gone wrong.",
     "Italian": "Per piacere invia il seguente file a codebyfire@gmail.com o invialo su Discord con una descrizione su cosa è andato storto.",
     "Verify": ""
   },
@@ -16043,7 +16043,7 @@
     "Key": "BugReport_Body_Auto",
     "Type": "Text",
     "Desc": "",
-    "English": "An error has been caught and a bug report generated. Please send the following file to codebyfire@gmail.com or post it in Discord. Depending on the bug you may be able to continue playing.",
+    "English": "An error has been caught and a bug report generated. Please send the following file to dev@codebyfire.com or post it in Discord. Depending on the bug you may be able to continue playing.",
     "Italian": "Un errore è stato rilevato e un bug-report è stato generato. Per piacere invia il seguente file a codebyfire@gmail.com o invialo su Discord. A seconda della gravità del bug potresti essere in grado di continuare a giocare.",
     "Verify": ""
   },
@@ -16424,7 +16424,7 @@
     "Verify": ""
   },
   {
-    "Key": "Building_66_Description",
+    "Key": "Pumpkins_Building_66_Description",
     "Type": "Text",
     "Desc": "",
     "English": "Create <it>Pumpkins</it> from pumpkin patches.",
@@ -16432,7 +16432,7 @@
     "Verify": ""
   },
   {
-    "Key": "Building_66_Name",
+    "Key": "Pumpkins_Building_66_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Pumpkin Farm",
@@ -16440,7 +16440,7 @@
     "Verify": ""
   },
   {
-    "Key": "Building_66_Plural",
+    "Key": "Pumpkins_Building_66_Plural",
     "Type": "Text",
     "Desc": "",
     "English": "Pumpkin Farms",
@@ -16448,7 +16448,7 @@
     "Verify": ""
   },
   {
-    "Key": "Item_47_Desc",
+    "Key": "Pumpkins_Item_47_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "Pumpkins are harvested at the <bd>Pumpkin Farm</bd>.",
@@ -16456,7 +16456,7 @@
     "Verify": ""
   },
   {
-    "Key": "Item_47_FullDesc",
+    "Key": "Pumpkins_Item_47_FullDesc",
     "Type": "Text",
     "Desc": "",
     "English": "Pumpkins are harvested at the <bd>Pumpkin Farm</bd> and are consumed by <bd>Level 1 Residences</bd>.",
@@ -16464,7 +16464,7 @@
     "Verify": ""
   },
   {
-    "Key": "Item_47_Name",
+    "Key": "Pumpkins_Item_47_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Pumpkins",
@@ -16496,7 +16496,7 @@
     "Verify": ""
   },
   {
-    "Key": "ItemCat_2_FullDesc",
+    "Key": "Pumpkins_ItemCat_2_FullDesc",
     "Type": "Text",
     "Desc": "",
     "English": "<cat>Food</cat> is needed by all <bd>Residences</bd> and can be <it>Fish</it>, <it>Meat</it> or <it>Pumpkins</it>.",
@@ -16504,7 +16504,7 @@
     "Verify": ""
   },
   {
-    "Key": "Structure_2_Name",
+    "Key": "Pumpkins_Structure_2_Name",
     "Type": "Text",
     "Desc": "These are the \"fields\" the player manually places",
     "English": "Pumpkin Patch",
@@ -16512,7 +16512,7 @@
     "Verify": ""
   },
   {
-    "Key": "Structure_2_Plural",
+    "Key": "Pumpkins_Structure_2_Plural",
     "Type": "Text",
     "Desc": "These are the \"fields\" the player manually places",
     "English": "Pumpkin Patches",
@@ -16552,7 +16552,7 @@
     "Verify": ""
   },
   {
-    "Key": "AlertVegetableFarmFields",
+    "Key": "Pumpkins_AlertVegetableFarmFields",
     "Type": "Text",
     "Desc": "",
     "English": "You have not planted any pumpkin patches",
@@ -16560,7 +16560,7 @@
     "Verify": ""
   },
   {
-    "Key": "ItemCat_2_Desc",
+    "Key": "Pumpkins_ItemCat_2_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "<it>Fish</it> / <it>Meat</it> / <it>Pumpkins</it>",
@@ -16576,7 +16576,7 @@
     "Verify": ""
   },
   {
-    "Key": "MiscCat_13_Name",
+    "Key": "Pumpkins_MiscCat_13_Name",
     "Type": "Text",
     "Desc": "",
     "English": "Pumpkin Patches",
@@ -17699,8 +17699,8 @@
     "Key": "Tip_21",
     "Type": "Text",
     "Desc": "",
-    "English": "Hold [Alt] when placing a building to have its construction instantly paused",
-    "Italian": "Tieni premuto [Alt] quando piazzi un edificio per mettere subito in pausa la sua costruzione",
+    "English": "Hold <hotkey>[Alt]</hotkey> when placing a building to have its construction instantly paused",
+    "Italian": "Tieni premuto <hotkey>[Alt]</hotkey> quando piazzi un edificio per mettere subito in pausa la sua costruzione",
     "Verify": ""
   },
   {
@@ -18371,7 +18371,7 @@
     "Key": "Frontiers_Desc",
     "Type": "Text",
     "Desc": "",
-    "English": "Frontiers are missions that all players compete for the best times on the same randomly generated map. Each frontier lasts for a month (using GMT) and is played with fog of war turned off. Good luck!",
+    "English": "Frontiers are missions that all players compete for the best times on the same randomly generated map. Each frontier lasts for a month (using GMT) and is played with fog of war turned off.\nGood luck!",
     "Italian": "Le missioni Frontiera sono missioni in cui tutti i giocatori competono per il miglior tempo nella stessa mappa generata randomicamente. Ogni Frontiera dura un mese (nel fuso orario GMT) e si gioca senza Nebbia di guerra. Buona fortuna!",
     "Verify": ""
   },
@@ -18531,7 +18531,7 @@
     "Key": "FrontierReplayMessage",
     "Type": "Text",
     "Desc": "",
-    "English": "This frontier has ended and your time won't be recorded.\nPlay anyway?",
+    "English": "This frontier has ended and your time won't be submitted.\nPlay anyway?",
     "Italian": "Questa frontiera si è conclusa e il tuo tempo non verrà registrato. Giocare comunque?",
     "Verify": ""
   },
@@ -20587,7 +20587,7 @@
     "Key": "MarketItemBuyOnly",
     "Type": "Text",
     "Desc": "",
-    "English": "Purchase Only",
+    "English": "Buy Only",
     "Italian": "Acquista solo",
     "Verify": ""
   },
@@ -20656,7 +20656,7 @@
     "Verify": ""
   },
   {
-    "Key": "Building_68_Description",
+    "Key": "Building_75_Description",
     "Type": "Text",
     "Desc": "",
     "English": "",
@@ -20672,7 +20672,7 @@
     "Verify": ""
   },
   {
-    "Key": "Building_68_Plural",
+    "Key": "Building_75_Plural",
     "Type": "Text",
     "Desc": "",
     "English": "",
@@ -20680,7 +20680,7 @@
     "Verify": ""
   },
   {
-    "Key": "Building_68_Worker",
+    "Key": "Building_75_Worker",
     "Type": "Text",
     "Desc": "",
     "English": "",
@@ -20715,8 +20715,8 @@
     "Key": "EntityInfoSelectRoadBridgeConstructionDepotHeader",
     "Type": "Text",
     "Desc": "Header for sub panel listing possible construction depots to assign to target structure",
-    "English": "Select Construction Depot",
-    "Italian": "Seleziona Deposito di Costruzione",
+    "English": "Select Construction Yard",
+    "Italian": "Seleziona Cantiere",
     "Verify": ""
   },
   {
@@ -20731,7 +20731,7 @@
     "Key": "RoadBridge_0_Desc",
     "Type": "Text",
     "Desc": "",
-    "English": "A wooden bridge you can build road and paths over.",
+    "English": "A wooden bridge you can build roads and paths over.",
     "Italian": "Un ponte di legno su cui puoi costruire strade e sentieri.",
     "Verify": ""
   },
@@ -20770,9 +20770,9 @@
   {
     "Key": "Building_76_Description",
     "Type": "Text",
-    "Desc": "",
-    "English": "Constructs road bridges",
-    "Italian": "Costruisce ponti stradali",
+    "Desc": "[PLEASE UPDATE]",
+    "English": "A resource depot used by a buildbot to construct bridges.",
+    "Italian": "Un deposito di risorse utilizzato da un BotCostruttore per costruire ponti.",
     "Verify": ""
   },
   {
@@ -20819,7 +20819,7 @@
     "Key": "RoadBridgeMaxLengthNoLimit",
     "Type": "Text",
     "Desc": "If a road bridge doesn't have a maximum length",
-    "English": "No limit",
+    "English": "Unlimited",
     "Italian": "Senza limiti",
     "Verify": ""
   },
@@ -20835,7 +20835,7 @@
     "Key": "Item_39_FullDesc",
     "Type": "Text",
     "Desc": "",
-    "English": "Gold Coins are minted by the <bd>Mint</bd> from <it>Gold</it> using <cat>Fuel</cat> and are used by <bd>Churches</bd>.",
+    "English": "Gold Coins are minted by the <bd>Mint</bd> from <it>Gold</it> using <cat>Fuel</cat>.",
     "Italian": "Le Monete d'Oro vengono coniate dalla <bd>Zecca</bd> dall'<it>Oro</it> utilizzando il <cat>Carburante</cat> e vengono utilizzate dalle <bd>Chiese</bd>.",
     "Verify": ""
   },
@@ -20867,8 +20867,8 @@
     "Key": "Building_73_Description",
     "Type": "Text",
     "Desc": "",
-    "English": "Uses <it>Gold Coins</it> and <it>Books</it> to provide blessings to buildings.",
-    "Italian": "Utilizza <it>Monete d'Oro</it> e <it>Libri</it> per fornire benedizioni agli edifici.",
+    "English": "Creates <it>Holy Energy</it> from <it>Energy L2</it>",
+    "Italian": "Crea <it>Energia Sacra</it> da <it>EnergiaL2</it>",
     "Verify": ""
   },
   {
@@ -20907,7 +20907,7 @@
     "Key": "EntityBuildingPriorityEntitiesFishingStationHeader",
     "Type": "Text",
     "Desc": "",
-    "English": "Priority Fishing Location",
+    "English": "Priority Fishing Locations",
     "Italian": "Posizione di pesca prioritaria",
     "Verify": ""
   },
@@ -20915,8 +20915,8 @@
     "Key": "EntityBuildingPriorityEntitiesFishingStationDesc",
     "Type": "Text",
     "Desc": "",
-    "English": "By default fishing boats will fish at the nearest location but you can override this behaviour by prioritising a particular fishing location.\n\nClick on a fishing location to set it as a priority.\n<hotkey>[Shift]</hotkey> click a fishing location to unset it.",
-    "Italian": "Per impostazione predefinita, i pescherecci pescheranno nella posizione più vicina, ma è possibile sovrascrivere questo comportamento dando priorità a una particolare località di pesca.\n\nFare clic su una posizione di pesca per impostarla come priorità.\n<hotkey>[Shift]</hotkey> fai clic su una posizione di pesca per disattivarla.",
+    "English": "By default fishing boats will fish at the nearest location but you can set priority fishing locations that the fishing boat will cycle through.",
+    "Italian": "Per impostazione predefinita i pescherecci pescheranno nella località più vicina ma è possibile impostare le località di pesca prioritarie che il peschereccio attraverserà.",
     "Verify": ""
   },
   {
@@ -20992,11 +20992,1627 @@
     "Verify": ""
   },
   {
-    "Key": "EntityBuildingPriorityEntitiesChangeAction",
+    "Key": "EntityBuildingPriorityEntitiesFishingLocationAddMessage",
     "Type": "Text",
     "Desc": "",
-    "English": "Change Priority",
-    "Italian": "Cambia priorità",
+    "English": "Select a fishing location to prioritise it",
+    "Italian": "Seleziona una località di pesca per dargli la priorità",
+    "Verify": ""
+  },
+  {
+    "Key": "Fish_10_Name",
+    "Type": "Text",
+    "Desc": "Sea fishing location which produces multiple fish resources",
+    "English": "Fish Shoal",
+    "Italian": "Banco di Pesci",
+    "Verify": ""
+  },
+  {
+    "Key": "Fish_11_Name",
+    "Type": "Text",
+    "Desc": "Sea fishing location which produces multiple lobster resources",
+    "English": "Lobster Pod",
+    "Italian": "Aragoste",
+    "Verify": ""
+  },
+  {
+    "Key": "EntPanelHead_37",
+    "Type": "Text",
+    "Desc": "Header for panel showing what the fishing boat is doing",
+    "English": "Activity",
+    "Italian": "Attività",
+    "Verify": ""
+  },
+  {
+    "Key": "FishingBoat_Unloading",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Unloading",
+    "Italian": "Scaricando",
+    "Verify": ""
+  },
+  {
+    "Key": "FishingBoat_Fishing",
+    "Type": "Text",
+    "Desc": "{0}: target resource (fish or lobster)",
+    "English": "Catching {0}",
+    "Italian": "Catturando {0}",
+    "Verify": ""
+  },
+  {
+    "Key": "FishingBoat_Returning",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Returning",
+    "Italian": "Tornando",
+    "Verify": ""
+  },
+  {
+    "Key": "FishingBoat_HeadingOut",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Going to fish",
+    "Italian": "Andando a pesca",
+    "Verify": ""
+  },
+  {
+    "Key": "FishingBoat_Queueing",
+    "Type": "Text",
+    "Desc": "{0}: number in queue",
+    "English": "Queueing (#{0} in queue)",
+    "Italian": "In coda (#{0} in coda)",
+    "Verify": ""
+  },
+  {
+    "Key": "FishingBoat_ActivityOverlayTooltipBody",
+    "Type": "Text",
+    "Desc": "{0}: name of workerbot\n{1}: target resource (fish or lobster)",
+    "English": "{0} is catching {1}",
+    "Italian": "{0} sta catturando {1}",
+    "Verify": ""
+  },
+  {
+    "Key": "FishingBoat_ActivityOverlayTooltipTitle",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Fishing Activity",
+    "Italian": "Attività di Pesca",
+    "Verify": ""
+  },
+  {
+    "Key": "Boat_4_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Fishing Boat",
+    "Italian": "Peschereccio",
+    "Verify": ""
+  },
+  {
+    "Key": "Tech_130_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Unlocks wooden bridges which can be used to span short gaps",
+    "Italian": "Sblocca ponti di legno che possono essere utilizzati per superare brevi spazi",
+    "Verify": ""
+  },
+  {
+    "Key": "Tech_130_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Wooden Bridges",
+    "Italian": "Ponti di Legno",
+    "Verify": ""
+  },
+  {
+    "Key": "Tech_131_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Unlocks iron bridges which can be used to span longer gaps",
+    "Italian": "Sblocca ponti di ferro che possono essere utilizzati per coprire spazi più lunghi",
+    "Verify": ""
+  },
+  {
+    "Key": "Tech_131_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Iron Bridges",
+    "Italian": "Ponti di Ferro",
+    "Verify": ""
+  },
+  {
+    "Key": "Tech_132_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Unlocks steel bridges which can be used to span gaps of unlimited length",
+    "Italian": "Sblocca ponti in acciaio che possono essere utilizzati per superare spazi di lunghezza illimitata",
+    "Verify": ""
+  },
+  {
+    "Key": "Tech_132_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Steel Bridges",
+    "Italian": "Ponti di Acciaio",
+    "Verify": ""
+  },
+  {
+    "Key": "RoadBridgeBuildMode_InvalidStart",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Invalid tile",
+    "Italian": "Casella invalida",
+    "Verify": ""
+  },
+  {
+    "Key": "DLC1_Campaign",
+    "Type": "Text",
+    "Desc": "",
+    "English": "New Lands",
+    "Italian": "New Lands",
+    "Verify": ""
+  },
+  {
+    "Key": "Scenario_30_Description",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Explore and expand with your robots' new bridge technology",
+    "Italian": "Esplora ed espanditi con la nuova tecnologia ponte dei tuoi robot",
+    "Verify": ""
+  },
+  {
+    "Key": "Scenario_30_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Bridging the Gap",
+    "Italian": "Colmare il Divario",
+    "Verify": ""
+  },
+  {
+    "Key": "Scenario_31_Description",
+    "Type": "Text",
+    "Desc": "",
+    "English": "",
+    "Italian": "",
+    "Verify": ""
+  },
+  {
+    "Key": "Scenario_31_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "The Golden Isle",
+    "Italian": "L'isola d'Oro",
+    "Verify": ""
+  },
+  {
+    "Key": "UnitState_BestowingBlessing",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Blessing {0} - {1}%",
+    "Italian": "Benedizione {0} - {1}%",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityBuildingPriorityEntitiesChurchHeader",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Blessings",
+    "Italian": "Benedizione",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityBuildingPriorityEntitiesChurchDesc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Priestbot will visit assigned buildings in order and provide a blessing to it.",
+    "Italian": "Il BotPrete visiterà gli edifici assegnati in ordine e li benedirà.",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityBuildingPriorityEntitiesChurchAddMessage",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Select buildings to assign for blessings.",
+    "Italian": "Selezionare gli edifici da assegnare alle benedizioni.",
+    "Verify": ""
+  },
+  {
+    "Key": "UnitState_RoadBridgeBuilding",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Constructing bridge segment {0}%",
+    "Italian": "Costruzione del tratto di ponte {0}%",
+    "Verify": ""
+  },
+  {
+    "Key": "EntPanelHead_75",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Construction",
+    "Italian": "Costruzione",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityRoadBridgeAssignConstructionYardHeader",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Construction Yard",
+    "Italian": "Cantiere di costruzione",
+    "Verify": ""
+  },
+  {
+    "Key": "MiscCat_17_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Bridge Construction",
+    "Italian": "Costruzione del ponte",
+    "Verify": ""
+  },
+  {
+    "Key": "MiscCat_17_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Bridges can be used to span gaps",
+    "Italian": "I ponti possono essere utilizzati per superare spazi",
+    "Verify": ""
+  },
+  {
+    "Key": "AlertChurchTargetBuildings",
+    "Type": "Text",
+    "Desc": "",
+    "English": "You have not set any target buildings",
+    "Italian": "Non hai impostato alcun edificio bersaglio",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_74_Description",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Allows you to buy and sell more resources at a faster rate.",
+    "Italian": "Ti consente di acquistare e vendere più risorse a un ritmo più veloce.",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_74_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Large Space Port",
+    "Italian": "Grande Porto Spaziale",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_74_Plural",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Large Space Ports",
+    "Italian": "Grandi Porti Spaziali",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_74_Worker",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Stackbot",
+    "Italian": "BotImpilatore",
+    "Verify": ""
+  },
+  {
+    "Key": "AlertRoadBridgeConstructionYard",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Bridge doesn't have a construction yard assigned",
+    "Italian": "Al ponte non è assegnato un Cantiere",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityRoadBridgeNoConstructionYardYetTitle",
+    "Type": "Text",
+    "Desc": "",
+    "English": "No Construction Yard",
+    "Italian": "Nessun Cantiere",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityRoadBridgeNoConstructionYardYetBody",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Assign a construction yard to allow an engineerbot to construct this bridge",
+    "Italian": "Assegna un Cantiere per consentire a un BotIngegnere di costruire questo ponte",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityProductionRoadBridgeTitle",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Target Bridge",
+    "Italian": "Ponte di destinazione",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityProductionRoadBridgeUnassigned",
+    "Type": "Text",
+    "Desc": "",
+    "English": "No bridge is assigned",
+    "Italian": "Nessun ponte è assegnato",
+    "Verify": ""
+  },
+  {
+    "Key": "RoadBridgeState_ChangeHeight",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Hold <hotkey>[{0}]</hotkey> to change height",
+    "Italian": "Tieni premuto <hotkey>[{0}]</hotkey> per modificare l'altezza",
+    "Verify": ""
+  },
+  {
+    "Key": "RoadBridgeState_StartTip",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Click and drag to place bridge",
+    "Italian": "Fare clic e trascina per posizionare il Ponte",
+    "Verify": ""
+  },
+  {
+    "Key": "Track_0_Name",
+    "Type": "Text",
+    "Desc": "Basic term for train track)",
+    "English": "Track",
+    "Italian": "Tracciato",
+    "Verify": ""
+  },
+  {
+    "Key": "ValidityResult_60",
+    "Type": "Text",
+    "Desc": "Reason that you can't destroy a train station",
+    "English": "Train currently stopped at station",
+    "Italian": "Il Treno è attualmente fermo alla stazione",
+    "Verify": ""
+  },
+  {
+    "Key": "ValidityResult_61",
+    "Type": "Text",
+    "Desc": "Reason that you can't destroy a burning building/structure",
+    "English": "Currently burning",
+    "Italian": "In fiamme",
+    "Verify": ""
+  },
+  {
+    "Key": "ValidityResult_62",
+    "Type": "Text",
+    "Desc": "Rason that you can't destroy colony ship's road post",
+    "English": "This is your colony ship's road post",
+    "Italian": "Questo è l'incrocio della tua nave coloniale",
+    "Verify": ""
+  },
+  {
+    "Key": "ValidityResult_63",
+    "Type": "Text",
+    "Desc": "Reason that you can't destroy a harbour road post",
+    "English": "This is your colony harbour's road post",
+    "Italian": "Questo è l'incrocio del tuo porto coloniale",
+    "Verify": ""
+  },
+  {
+    "Key": "ValidityResult_64",
+    "Type": "Text",
+    "Desc": "Reason that you can't destory something you don't own",
+    "English": "You don't owned this",
+    "Italian": "Non è di tua proprietà",
+    "Verify": ""
+  },
+  {
+    "Key": "ValidityResult_65",
+    "Type": "Text",
+    "Desc": "Reason that you can't destroy a piece of track",
+    "English": "Track is needed by train station platform",
+    "Italian": "Il tracciato è necessario per la piattaforma della stazione ferroviaria",
+    "Verify": ""
+  },
+  {
+    "Key": "ItemTooltip_WaitExpedition",
+    "Type": "Text",
+    "Desc": "{0}:amount, {1}:resource\nEg. 4x Planks are waiting to be used for an expedition",
+    "English": "{0}x {1} waiting to be used for an expedition",
+    "Italian": "{0}x {1} in attesa di essere utilizzati per una spedizione",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityInfoBuildingStorageExpeditionEmpty",
+    "Type": "Text",
+    "Desc": "",
+    "English": "There are no resources waiting to be used for an expedition",
+    "Italian": "Non ci sono risorse in attesa di essere utilizzate per una spedizione",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityInfoBuildingStorageExpeditionHeader",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Expedition Queue ({0})",
+    "Italian": "Coda per la spedizione ({0})",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityInfoBuildingStorageExpeditionImportWhitelistDesc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Limit which buildings can send resources here for expeditions:",
+    "Italian": "Limita quali edifici possono inviare risorse qui per le spedizioni:",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityInfoBuildingStorageExpeditionImportWhitelistHeader",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Expedition Import Whitelist",
+    "Italian": "Permessi Import spedizione",
+    "Verify": ""
+  },
+  {
+    "Key": "ExpeditionHarbour_ExpeditionInvalidLugger",
+    "Type": "Text",
+    "Desc": "(shown when assigning lugger to normal harbour expedition)",
+    "English": "Boat too large",
+    "Italian": "Barca troppo grande",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityPortColonyShipPrepareChangeExpeditionType",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Change Expedition Type",
+    "Italian": "Cambia tipo di spedizione",
+    "Verify": ""
+  },
+  {
+    "Key": "HelpPanel_42",
+    "Type": "Text",
+    "Desc": "Updated Help for 'Clearance Mode' button",
+    "English": "Clearance mode means the worker bot will still go to work even if the building's outgoing storage is full but no resources will be generated on the completion of their job.\n\nThis can be useful if you want to clear areas of trees or natural resources but don't need the resources generated.",
+    "Italian": "La modalità di sgombero significa che il BotLavoratore continuerà a lavorare anche se il magazzino in uscita dell'edificio è pieno, ma non verranno generate risorse al termine del lavoro.\n\nQuesto può essere utile se si desidera liberare aree da alberi o risorse naturali, ma non si ha bisogno delle risorse generate.",
+    "Verify": ""
+  },
+  {
+    "Key": "OverlayProductionUI_ClearanceMode",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Clearance mode is enabled",
+    "Italian": "La modalità di sgombero è abilitata",
+    "Verify": ""
+  },
+  {
+    "Key": "ColonyStatisticsResearchHistoryHeader",
+    "Type": "Text",
+    "Desc": "Title of fourth colony stats panel showing tech research timeline",
+    "English": "Tech Research Stats",
+    "Italian": "Statistiche della ricerca tecnologica",
+    "Verify": ""
+  },
+  {
+    "Key": "TookTime",
+    "Type": "Text",
+    "Desc": "Time it took to do something",
+    "English": "Took: {0}",
+    "Italian": "Tempo: {0}",
+    "Verify": ""
+  },
+  {
+    "Key": "MainMenu_Multiplayer",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Multiplayer",
+    "Italian": "Multigiocatore",
+    "Verify": ""
+  },
+  {
+    "Key": "Notification_30_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Construction has finished",
+    "Italian": "La costruzione è terminata",
+    "Verify": ""
+  },
+  {
+    "Key": "Notification_30_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Bridge complete!",
+    "Italian": "Ponte completato!",
+    "Verify": ""
+  },
+  {
+    "Key": "Multiplayer_TeamPlayerDesc",
+    "Type": "Text",
+    "Desc": "E.g. Teams: 2 vs 2",
+    "English": "Teams: {0}",
+    "Italian": "Squadre: {0}",
+    "Verify": ""
+  },
+  {
+    "Key": "Multiplayer_TeamPlayerDescVs",
+    "Type": "Text",
+    "Desc": "Team number versus separator, i.e. \"2 vs 2",
+    "English": "vs",
+    "Italian": "vs",
+    "Verify": ""
+  },
+  {
+    "Key": "MapEditorPlayerStatusToggle",
+    "Type": "Text",
+    "Desc": "Player Type: \"Individual or Team",
+    "English": "Type",
+    "Italian": "Tipo",
+    "Verify": ""
+  },
+  {
+    "Key": "MapEditorPlayerStatusPlayer",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Player",
+    "Italian": "Giocatore",
+    "Verify": ""
+  },
+  {
+    "Key": "MapEditorPlayerStatusAI",
+    "Type": "Text",
+    "Desc": "",
+    "English": "AI",
+    "Italian": "IA",
+    "Verify": ""
+  },
+  {
+    "Key": "MapEditorPlayerModeToggle",
+    "Type": "Text",
+    "Desc": "Label for toggle between \"Individual\" and \"Team",
+    "English": "Player Mode",
+    "Italian": "Modalità giocatore",
+    "Verify": ""
+  },
+  {
+    "Key": "MapEditorPlayerModePlayer",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Individual",
+    "Italian": "Individuale",
+    "Verify": ""
+  },
+  {
+    "Key": "MapEditorPlayerModeTeam",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Team",
+    "Italian": "Team",
+    "Verify": ""
+  },
+  {
+    "Key": "MapEditorPlayersAddTeam",
+    "Type": "Text",
+    "Desc": "Button to add a team in map editor",
+    "English": "Add Team",
+    "Italian": "Aggiungi Team",
+    "Verify": ""
+  },
+  {
+    "Key": "MapEditorPlayerLandingLocation",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Landing Location",
+    "Italian": "Posizione di atterraggio",
+    "Verify": ""
+  },
+  {
+    "Key": "MapEditorPlayerLandingLocationSet",
+    "Type": "Text",
+    "Desc": "Button to set landing location",
+    "English": "Set",
+    "Italian": "Imposta",
+    "Verify": ""
+  },
+  {
+    "Key": "MapEditorPlayerLandingLocationChange",
+    "Type": "Text",
+    "Desc": "Button to change landing location",
+    "English": "Change",
+    "Italian": "Cambia",
+    "Verify": ""
+  },
+  {
+    "Key": "MapEditorPlayerLandingLocationWarningNotSet",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Not set!",
+    "Italian": "Non impostata!",
+    "Verify": ""
+  },
+  {
+    "Key": "MapEditorPlayerLandingLocationCancel",
+    "Type": "Text",
+    "Desc": "Cancel setting starting location",
+    "English": "Cancel",
+    "Italian": "Annulla",
+    "Verify": ""
+  },
+  {
+    "Key": "ScenGameVerErr_9",
+    "Type": "Text",
+    "Desc": "",
+    "English": "No victory conditions set!",
+    "Italian": "Nessuna condizione di vittoria impostata!",
+    "Verify": ""
+  },
+  {
+    "Key": "Multiplayer_TeamPlayerDescSolo",
+    "Type": "Text",
+    "Desc": "E.g. Team: 2P Co-op",
+    "English": "Team: {0}P Co-op",
+    "Italian": "Team: {0}P Co-op",
+    "Verify": ""
+  },
+  {
+    "Key": "Scenario_102_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Multiplayer Beta Map 2P vs 2P",
+    "Italian": "Multigiocatore Mappa Beta 2P vs 2P",
+    "Verify": ""
+  },
+  {
+    "Key": "Scenario_103_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Multiplayer Beta Map 2P Co-op",
+    "Italian": "Multigiocatore Mappa Beta 2P Co-op",
+    "Verify": ""
+  },
+  {
+    "Key": "Scenario_104_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Multiplayer Beta Map 4P",
+    "Italian": "Multigiocatore Mappa Beta 4P",
+    "Verify": ""
+  },
+  {
+    "Key": "Multiplayer_PlayerDesc",
+    "Type": "Text",
+    "Desc": "{0} is player count, e.g: \"PVP: 2P",
+    "English": "PvP: {0}P",
+    "Italian": "PvP: {0}P",
+    "Verify": ""
+  },
+  {
+    "Key": "Scenario_105_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Multiplayer Beta Map 3P Co-op",
+    "Italian": "Multigiocatore Mappa Beta 3P Co-op",
+    "Verify": ""
+  },
+  {
+    "Key": "MultiplayerVictoryConditionAnd",
+    "Type": "Text",
+    "Desc": "[A] AND [B]",
+    "English": "AND",
+    "Italian": "AND",
+    "Verify": ""
+  },
+  {
+    "Key": "MultiplayerVictoryConditionOr",
+    "Type": "Text",
+    "Desc": "[A] OR [B]",
+    "English": "OR",
+    "Italian": "OR",
+    "Verify": ""
+  },
+  {
+    "Key": "MultiplayerRandomMapGameType",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Game Type",
+    "Italian": "Tipo di partita",
+    "Verify": ""
+  },
+  {
+    "Key": "MultiplayerRandomMapGameTypePvP",
+    "Type": "Text",
+    "Desc": "",
+    "English": "PvP",
+    "Italian": "PvP",
+    "Verify": ""
+  },
+  {
+    "Key": "MultiplayerRandomMapGameTypeTeamCoop",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Team",
+    "Italian": "Team",
+    "Verify": ""
+  },
+  {
+    "Key": "MultiplayerRandomMapPlayerCount",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Players",
+    "Italian": "Giocatori",
+    "Verify": ""
+  },
+  {
+    "Key": "MultiplayerPublic",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Public",
+    "Italian": "Pubblica",
+    "Verify": ""
+  },
+  {
+    "Key": "MultiplayerPrivate",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Private",
+    "Italian": "Privata",
+    "Verify": ""
+  },
+  {
+    "Key": "MultiplayerPrivateNoPasswordWarning",
+    "Type": "Text",
+    "Desc": "",
+    "English": "You need to set a password for a private game!",
+    "Italian": "Devi impostare una password per una partita privata!",
+    "Verify": ""
+  },
+  {
+    "Key": "BdPlVaResults_45_Name",
+    "Type": "Text",
+    "Desc": "Error when there's not enough room for a building because of bridge above it",
+    "English": "Blocked by bridge",
+    "Italian": "Bloccato dal ponte",
+    "Verify": ""
+  },
+  {
+    "Key": "ExpeditionBoatNoRouteToHarbour",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Boat cannot find a route to the new harbour!",
+    "Italian": "La barca non riesce a trovare una rotta per il nuovo porto!",
+    "Verify": ""
+  },
+  {
+    "Key": "ExpeditionBoatHarbourBody",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Boat is heading to new harbour",
+    "Italian": "La barca si sta dirigendo verso il nuovo porto",
+    "Verify": ""
+  },
+  {
+    "Key": "ExpeditionBoatNewHarbourCancelBtn",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Cancel New Harbour",
+    "Italian": "Annulla il nuovo porto",
+    "Verify": ""
+  },
+  {
+    "Key": "Tunnel_0_Name",
+    "Type": "Text",
+    "Desc": "Train tunnel",
+    "English": "Tunnel",
+    "Italian": "Galleria",
+    "Verify": ""
+  },
+  {
+    "Key": "Scenario_32_Description",
+    "Type": "Text",
+    "Desc": "",
+    "English": "",
+    "Italian": "",
+    "Verify": ""
+  },
+  {
+    "Key": "Scenario_32_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "",
+    "Italian": "",
+    "Verify": ""
+  },
+  {
+    "Key": "Scenario_33_Description",
+    "Type": "Text",
+    "Desc": "",
+    "English": "",
+    "Italian": "",
+    "Verify": ""
+  },
+  {
+    "Key": "Scenario_33_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "",
+    "Italian": "",
+    "Verify": ""
+  },
+  {
+    "Key": "SandboxOptionDLCEnabled",
+    "Type": "Text",
+    "Desc": "",
+    "English": "New Lands DLC Features",
+    "Italian": "Funzionalità del DLC New Lands",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_79_Description",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Uses <it>Holy Energy</it> to provide blessings to buildings.",
+    "Italian": "Utilizza l'<it>Energia Sacra</it> per fornire benedizioni agli edifici.",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_79_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Missionary Outpost",
+    "Italian": "Avamposto Missionario",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_79_Plural",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Missionary Outposts",
+    "Italian": "Avamposti Missionari",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_79_Worker",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Priestbot",
+    "Italian": "BotPrete",
+    "Verify": ""
+  },
+  {
+    "Key": "Item_52_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Holy Energy is made at the <bd>Church</bd>.",
+    "Italian": "L'Energia Sacra è prodotta alla <bd>Chiesa</bd>.",
+    "Verify": ""
+  },
+  {
+    "Key": "Item_52_FullDesc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Holy Energy is made at the <bd>Church</bd> from <it>Energy L2</it> and is used by <bd>Missionary Outposts</bd> to bless buildings.",
+    "Italian": "L'Energia Sacra è prodotta nella <bd>Chiesa</bd> da <it>Energia L2</it> e viene utilizzata dagli <bd>Avamposti Missionari</bd> per benedire gli edifici.",
+    "Verify": ""
+  },
+  {
+    "Key": "Item_52_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Holy Energy",
+    "Italian": "Energia Sacra",
+    "Verify": ""
+  },
+  {
+    "Key": "Item_52_Past",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Prepare",
+    "Italian": "Preparato",
+    "Verify": ""
+  },
+  {
+    "Key": "Item_52_Present",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Preparing",
+    "Italian": "Preparazione",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_77_Description",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Allows you to share resources with other players on your team.",
+    "Italian": "Ti consente di condividere risorse con altri giocatori della tua squadra.",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_77_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Team Space Port",
+    "Italian": "Porto Spaziale del Team",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_77_Plural",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Team Space Ports",
+    "Italian": "Porti Spaziali del Team",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_77_Worker",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Stackbot",
+    "Italian": "BotImpilatore",
+    "Verify": ""
+  },
+  {
+    "Key": "TeamStorageEmpty",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Your team does not have any shared resources available.",
+    "Italian": "Il tuo team non ha risorse condivise disponibili.",
+    "Verify": ""
+  },
+  {
+    "Key": "TeamStorageHeader",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Available Resources ({0})",
+    "Italian": "Risorse disponibili ({0})",
+    "Verify": ""
+  },
+  {
+    "Key": "EntPanelHead_29",
+    "Type": "Text",
+    "Desc": "Header for panel about the shared resource stockpile for your team",
+    "English": "Team Storage",
+    "Italian": "Deposito del Team",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityInfoBuildingStorageForContributionEmpty",
+    "Type": "Text",
+    "Desc": "",
+    "English": "There are no resources waiting to be contributed",
+    "Italian": "Non ci sono risorse in attesa di essere donate",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityInfoBuildingStorageForContributionHeader",
+    "Type": "Text",
+    "Desc": "(Resources that are) for sending to team storage\n{0}: amount of resources",
+    "English": "For Contribution ({0})",
+    "Italian": "Per il contributo ({0})",
+    "Verify": ""
+  },
+  {
+    "Key": "EntityInfoBuildingStorageWithdrawnHeader",
+    "Type": "Text",
+    "Desc": "(Resources that have been) purchased\n{0}: amount of resources",
+    "English": "Withdrawn ({0})",
+    "Italian": "Ritirato ({0})",
+    "Verify": ""
+  },
+  {
+    "Key": "AlliedTradeTerminalContributeHeader",
+    "Type": "",
+    "Desc": "",
+    "English": "Contribute",
+    "Italian": "Contribuisci",
+    "Verify": ""
+  },
+  {
+    "Key": "AlliedTradeTerminalWithdrawHeader",
+    "Type": "",
+    "Desc": "",
+    "English": "Withdraw",
+    "Italian": "Ritira",
+    "Verify": ""
+  },
+  {
+    "Key": "Notification_31_Desc",
+    "Type": "Text",
+    "Desc": "{0}: player name, {1}: resource name",
+    "English": "{0} has contributed the first <it>{1}</it>!",
+    "Italian": "{0} ha contribuito con il primo <it>{1}</it>!",
+    "Verify": ""
+  },
+  {
+    "Key": "Notification_31_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "New Team Storage Resource",
+    "Italian": "Nuova risorsa nel deposito del Team",
+    "Verify": ""
+  },
+  {
+    "Key": "MultiplayerRoomRowSetToAI",
+    "Type": "Text",
+    "Desc": "Set a multiplayer slot to play as the AI",
+    "English": "Set To AI",
+    "Italian": "Imposta a IA",
+    "Verify": ""
+  },
+  {
+    "Key": "MultiplayerRoomRowSwitchTo",
+    "Type": "Text",
+    "Desc": "Button to change to a different player slot in a multiplayer game",
+    "English": "Switch To",
+    "Italian": "Passa a",
+    "Verify": ""
+  },
+  {
+    "Key": "DLCCampaignMissionTitleNumber",
+    "Type": "Text",
+    "Desc": "{0}: number, e.g. New Lands Mission 7",
+    "English": "New Lands Mission {0}",
+    "Italian": "New Lands Missione {0}",
+    "Verify": ""
+  },
+  {
+    "Key": "ContinueMultiplayerWindowExitWarning",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Are you sure to want to exit this multiplayer game?",
+    "Italian": "Sei sicuro di voler uscire da questa partita multigiocatore?",
+    "Verify": ""
+  },
+  {
+    "Key": "TeamName_0",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Blue Team",
+    "Italian": "Team Blu",
+    "Verify": ""
+  },
+  {
+    "Key": "TeamName_1",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Red Team",
+    "Italian": "Team Rosso",
+    "Verify": ""
+  },
+  {
+    "Key": "TeamName_2",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Green Team",
+    "Italian": "Team Verde",
+    "Verify": ""
+  },
+  {
+    "Key": "TeamName_3",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Yellow Team",
+    "Italian": "Team Giallo",
+    "Verify": ""
+  },
+  {
+    "Key": "MultiplayerResyncing1",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Client Desync!",
+    "Italian": "Desincronizzazione del Client!",
+    "Verify": ""
+  },
+  {
+    "Key": "MultiplayerResyncing2",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Resync in progress...",
+    "Italian": "Risincronizzazione in corso...",
+    "Verify": ""
+  },
+  {
+    "Key": "ScenVict_0_CreateDesc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Capture enemy colony ships",
+    "Italian": "Cattura le navi coloniali nemiche",
+    "Verify": ""
+  },
+  {
+    "Key": "ScenVict_1_CreateDesc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Construct a specified amount of a specified building",
+    "Italian": "Costruisci una quantità specifica di un edificio specificato",
+    "Verify": ""
+  },
+  {
+    "Key": "ScenVict_5_CreateDesc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Have a specified amount of money in the bank",
+    "Italian": "Avere una determinata somma di denaro in banca",
+    "Verify": ""
+  },
+  {
+    "Key": "ScenVict_7_CreateDesc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Research a specified technology",
+    "Italian": "Ricerca una tecnologia specifica",
+    "Verify": ""
+  },
+  {
+    "Key": "ScenVict_8_CreateDesc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Reach a specified trader reputation",
+    "Italian": "Raggiungi una reputazione commerciante specifica",
+    "Verify": ""
+  },
+  {
+    "Key": "ScenVict_10_CreateDesc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Construct a specified boat",
+    "Italian": "Costruisci una barca specifica",
+    "Verify": ""
+  },
+  {
+    "Key": "ScenVict_11_CreateDesc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Have a specified amount of a specified resource in storage",
+    "Italian": "Avere una quantità specifica di una risorsa specifica nel deposito",
+    "Verify": ""
+  },
+  {
+    "Key": "ScenVict_4_CreateDesc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Holds a specified object within territory",
+    "Italian": "Avere un oggetto specificato all'interno del territorio",
+    "Verify": ""
+  },
+  {
+    "Key": "ScenVict_4_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Hold <amount> <name> in your territory",
+    "Italian": "Avere <amount> <name> nel tuo territorio",
+    "Verify": ""
+  },
+  {
+    "Key": "ScenVict_4_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Hold Entity in Territory",
+    "Italian": "Mantenere l'entità nel territorio",
+    "Verify": ""
+  },
+  {
+    "Key": "ScenVict_12_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Recover Crashed Colony Ship",
+    "Italian": "Recupera la nave coloniale precipitata",
+    "Verify": ""
+  },
+  {
+    "Key": "ScenVict_12_Desc",
+    "Type": "Text",
+    "Desc": "TBC",
+    "English": "Locate and recover crashed ship",
+    "Italian": "Individua e recupera la nave precipitata",
+    "Verify": ""
+  },
+  {
+    "Key": "ScenVict_12_CreateDesc",
+    "Type": "Text",
+    "Desc": "TBC",
+    "English": "Locate and recover the crashed ship",
+    "Italian": "Individua e recupera la nave precipitata",
+    "Verify": ""
+  },
+  {
+    "Key": "Utility_5_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Crashed Colony Ship",
+    "Italian": "Nave Coloniale precipitata",
+    "Verify": ""
+  },
+  {
+    "Key": "MP_AI_Player_Name",
+    "Type": "Text",
+    "Desc": "{0}: randomly generated name",
+    "English": "{0} [AI]",
+    "Italian": "{0} [IA]",
+    "Verify": ""
+  },
+  {
+    "Key": "MP_ReuploadingGame",
+    "Type": "Text",
+    "Desc": "When a problem has happened in multiplayer and the game needs to be",
+    "English": "Re-uploading game",
+    "Italian": "Ri-Upload del gioco",
+    "Verify": ""
+  },
+  {
+    "Key": "MainMenu_MapEditor",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Map Editor",
+    "Italian": "Editore di mappe",
+    "Verify": ""
+  },
+  {
+    "Key": "MP_PreparingBuilding",
+    "Type": "",
+    "Desc": "Shows on building tooltip if building hovered over before building placement is confirmed by host",
+    "English": "[Preparing building]",
+    "Italian": "[Preparazione edificio]",
+    "Verify": ""
+  },
+  {
+    "Key": "MP_HostPublicGame",
+    "Type": "",
+    "Desc": "",
+    "English": "Host Public Game",
+    "Italian": "Ospita una partita pubblica",
+    "Verify": ""
+  },
+  {
+    "Key": "MP_HostPrivateGame",
+    "Type": "",
+    "Desc": "",
+    "English": "Host Private Game",
+    "Italian": "Ospita una partita privata",
+    "Verify": ""
+  },
+  {
+    "Key": "MP_Join",
+    "Type": "",
+    "Desc": "",
+    "English": "Join Game",
+    "Italian": "Unisciti al gioco",
+    "Verify": ""
+  },
+  {
+    "Key": "ScenVict_12_CreateWarning",
+    "Type": "",
+    "Desc": "",
+    "English": "You haven't placed a crashed colony ship yet!",
+    "Italian": "Non hai ancora posizionato una nave coloniale precipitata!",
+    "Verify": ""
+  },
+  {
+    "Key": "MapEditorMode_15_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Click and drag to paint terrain.\n[Ctrl] + Click to select terrain type.\n[F] + Mouse Wheel to change brush size.",
+    "Italian": "Fai clic e trascina per dipingere il terreno.\n[Ctrl] + Click per selezionare il tipo di terreno.\n[F] + Rotellina del mouse per modificare la dimensione del pennello.",
+    "Verify": ""
+  },
+  {
+    "Key": "MapEditorSettingsTerritoryAndFogOfWar",
+    "Type": "",
+    "Desc": "",
+    "English": "Territory & fog of war",
+    "Italian": "Territorio e nebbia di guerra",
+    "Verify": ""
+  },
+  {
+    "Key": "MapEditorDLC1Features",
+    "Type": "",
+    "Desc": "",
+    "English": "New Lands DLC Features",
+    "Italian": "Funzionalità del DLC New Lands",
+    "Verify": ""
+  },
+  {
+    "Key": "DLC1Maps",
+    "Type": "",
+    "Desc": "",
+    "English": "New Lands DLC Maps",
+    "Italian": "Mappe del DLC New Lands",
+    "Verify": ""
+  },
+  {
+    "Key": "Tech_35_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Increases repair hit points by <amount>%",
+    "Italian": "Aumenta i punti ferita di riparazione di <amount>%",
+    "Verify": ""
+  },
+  {
+    "Key": "Tech_36_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Increases repair hit points by <amount>%",
+    "Italian": "Aumenta i punti ferita di riparazione di <amount>%",
+    "Verify": ""
+  },
+  {
+    "Key": "Tech_37_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Increases repair hit points by <amount>%",
+    "Italian": "Aumenta i punti ferita di riparazione di <amount>%",
+    "Verify": ""
+  },
+  {
+    "Key": "QualitySettingsShadowHard",
+    "Type": "",
+    "Desc": "",
+    "English": "Hard",
+    "Italian": "Duro",
+    "Verify": ""
+  },
+  {
+    "Key": "QualitySettingsShadowSoft",
+    "Type": "",
+    "Desc": "",
+    "English": "Soft",
+    "Italian": "Morbido",
+    "Verify": ""
+  },
+  {
+    "Key": "QualitySettingsShadowResolutionLabel",
+    "Type": "",
+    "Desc": "",
+    "English": "Resolution",
+    "Italian": "Risoluzione",
+    "Verify": ""
+  },
+  {
+    "Key": "QualitySettingsShadowResolutionMedium",
+    "Type": "",
+    "Desc": "",
+    "English": "Medium",
+    "Italian": "Medio",
+    "Verify": ""
+  },
+  {
+    "Key": "QualitySettingsShadowResolutionHigh",
+    "Type": "",
+    "Desc": "",
+    "English": "High",
+    "Italian": "Alto",
+    "Verify": ""
+  },
+  {
+    "Key": "QualitySettingsShadowResolutionVeryHigh",
+    "Type": "",
+    "Desc": "",
+    "English": "Very High",
+    "Italian": "Molto Alto",
+    "Verify": ""
+  },
+  {
+    "Key": "MultiplayerTimeLimit",
+    "Type": "",
+    "Desc": "Time for games",
+    "English": "Time Limit",
+    "Italian": "Limite di tempo",
+    "Verify": ""
+  },
+  {
+    "Key": "TerrainCategory_0",
+    "Type": "",
+    "Desc": "",
+    "English": "Fertile",
+    "Italian": "Fertile",
+    "Verify": ""
+  },
+  {
+    "Key": "TerrainCategory_1",
+    "Type": "",
+    "Desc": "",
+    "English": "Sand",
+    "Italian": "Sabbia",
+    "Verify": ""
+  },
+  {
+    "Key": "TerrainCategory_2",
+    "Type": "",
+    "Desc": "",
+    "English": "Rock",
+    "Italian": "Roccia",
+    "Verify": ""
+  },
+  {
+    "Key": "TerrainCategory_3",
+    "Type": "",
+    "Desc": "",
+    "English": "Snow",
+    "Italian": "Neve",
+    "Verify": ""
+  },
+  {
+    "Key": "MapEditorMarketSetDefault",
+    "Type": "",
+    "Desc": "Button to set market resources to default values",
+    "English": "Set To Defaults",
+    "Italian": "Imposta su valori predefiniti",
+    "Verify": ""
+  },
+  {
+    "Key": "MapEditorMarketAddResource",
+    "Type": "",
+    "Desc": "Button to add a resource to the market resource list",
+    "English": "Add Resource",
+    "Italian": "Aggiungi risorsa",
+    "Verify": ""
+  },
+  {
+    "Key": "MarketItemBuyAndSell",
+    "Type": "",
+    "Desc": "Default status of a market resource entry - that you can buy and sell it",
+    "English": "Buy & Sell",
+    "Italian": "Compra & Vendi",
+    "Verify": ""
+  },
+  {
+    "Key": "MapEditorMarketClearAll",
+    "Type": "",
+    "Desc": "Button to clear all entries in market resource list",
+    "English": "Clear All",
+    "Italian": "Cancella tutto",
+    "Verify": ""
+  },
+  {
+    "Key": "TestScenarioSandboxTitle",
+    "Type": "",
+    "Desc": "",
+    "English": "Test Scenario in Sandbox",
+    "Italian": "Prova scenario nella mappa personalizzata",
+    "Verify": ""
+  },
+  {
+    "Key": "MapEditorMarketEmpty",
+    "Type": "",
+    "Desc": "",
+    "English": "No resources set!",
+    "Italian": "Nessuna risorsa impostata!",
+    "Verify": ""
+  },
+  {
+    "Key": "MyMapsScenarioPanelTest",
+    "Type": "",
+    "Desc": "Small button to playtest the selected map",
+    "English": "Test",
+    "Italian": "Test",
+    "Verify": ""
+  },
+  {
+    "Key": "ChooseScenarioSelect",
+    "Type": "",
+    "Desc": "Small button used to select a map in a list",
+    "English": "Select",
+    "Italian": "Seleziona",
+    "Verify": ""
+  },
+  {
+    "Key": "MultiplayerOfficialMaps",
+    "Type": "",
+    "Desc": "Section where official multiplayer maps are listed",
+    "English": "Official Maps",
+    "Italian": "Mappe Ufficiali",
+    "Verify": ""
+  },
+  {
+    "Key": "DeleteScenarioWarning",
+    "Type": "",
+    "Desc": "",
+    "English": "Are you sure you want to delete this scenario?\n\nHold [Alt] to skip this message.",
+    "Italian": "Sei sicuro di voler eliminare questo scenario?\n\nTieni premuto [Alt] per saltare questo messaggio.",
+    "Verify": ""
+  },
+  {
+    "Key": "MapEditorColonyShipOverlay",
+    "Type": "",
+    "Desc": "Label for UI toggle to show the graphical overlay for the footprint and starting territory of a player's colony ship",
+    "English": "Colony Ship Overlay",
+    "Italian": "Overlay Nave Coloniale",
+    "Verify": ""
+  },
+  {
+    "Key": "DLCCampaignMissionTitleNumber",
+    "Type": "",
+    "Desc": "{0}: number, e.g. New Lands Mission 7",
+    "English": "New Lands Mission {0}",
+    "Italian": "New Lands Missione {0}",
+    "Verify": ""
+  },
+  {
+    "Key": "Flora_120_Name",
+    "Type": "",
+    "Desc": "",
+    "English": "Crashed Colony Ship",
+    "Italian": "Nave coloniale precipitata",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_82_Description",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Pulls <it>Water</it> from deep underground.",
+    "Italian": "Estrae <it>Acqua</it> dal sottosuolo profondo.",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_82_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Shaft Well",
+    "Italian": "Pozzo di pompaggio",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_82_Plural",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Shaft Wells",
+    "Italian": "Pozzi di pompaggio",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_82_Worker",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Waterbot",
+    "Italian": "AcquaBot",
+    "Verify": ""
+  },
+  {
+    "Key": "MiscCat_16_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Blessings",
+    "Italian": "Benedizione",
+    "Verify": ""
+  },
+  {
+    "Key": "MiscCat_16_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Boost bots' activity speed",
+    "Italian": "Aumenta la velocità di attività dei Bot",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_72_Description",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Produces <it>Gold Coins</it> using <it>Gold</it> and <cat>Fuel</cat>",
+    "Italian": "Produce <it>Monete d'Oro</it> utilizzando <it>Oro</it> e <cat>Carburante</cat>",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_72_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Mint",
+    "Italian": "Zecca",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_72_Plural",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Mints",
+    "Italian": "Zecca",
+    "Verify": ""
+  },
+  {
+    "Key": "Building_72_Worker",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Minterbot",
+    "Italian": "BotConiatore",
+    "Verify": ""
+  },
+  {
+    "Key": "DLC1_Store_Description",
+    "Type": "",
+    "Desc": "",
+    "English": "Expand your frontiers with The Colonists: New Lands! Improve your transport network and overcome challenging terrain with Bridges and Train Tunnels, boost your economy with the Mint and even allow your bots to discover their spiritual side…\n\nMaster the seas with Floating Watchtowers to oversee your charming new Fishing Boats as they haul in bountiful catches of fish and lobster.\n\nWith six new maps and much more to discover, New Lands is an essential addition to The Colonists experience.\n\n[h2][b]Features:[/b][/h2]\n\n[b]Churches[/b]\nBoost your colony by generating Holy Energy which allows the Priestbot to bless buildings\n\n[b]Bridges[/b]\nWood, Iron and Steel - your bots can now span the shortest gaps to the widest seas.\n\n[b]Train Tunnels[/b]\nReach previously inaccessible locations or create shortcuts by tunnelling through hills and mountains.\n\n[b]Fishing Boats[/b]\nSend out boat trips to make use of offshore fishing spots and provide fish and lobster for your residences.\n\n[b]Floating Watchtower[/b]\nExpand your domain to the open seas and challenge your enemies from the water.\n\n[b]Mint[/b]\nProduce Gold Coins which can be sold at the marketplace or supplied to the Workshop for improved research techs.\n\n[b]Desert Well[/b]\nConstruct deep-sunk wells to gain access to valuable water in desert regions.\n\n[b]6 New Maps[/b]\nTake on the challenge of the new campaign and recover the crashed colony ships.",
+    "Italian": "Espandi le tue frontiere con The Colonists: New Lands! Migliora la tua rete di trasporti e supera terreni impegnativi con ponti e tunnel ferroviari, potenzia la tua economia con la zecca e consenti persino ai tuoi robot di scoprire il loro lato spirituale...\n\nDomina i mari con le torri di guardia galleggianti per sorvegliare le tue affascinanti nuove barche da pesca mentre trasportano abbondanti catture di pesci e aragoste.\n\nCon sei nuove mappe e molto altro da scoprire, New Lands è un'aggiunta essenziale all'esperienza di The Colonists.\n\n[h2][b]Caratteristiche:[/b][/h2]\n\n[b]Chiese[/b]\nPotenzia la tua colonia generando Energia Sacra che consente al BotPrete di benedire gli edifici\n\n[b]Ponti[/b]\nLegno, ferro e acciaio - ora i tuoi robot possono attraversare gli spazi più brevi fino ai mari più ampi.\n\n[b]Tunnel ferroviari[/b]\nRaggiungi luoghi precedentemente inaccessibili o crea scorciatoie scavando tunnel tra colline e montagne.\n\n[b]Barche da pesca[/b]\nInvia le barche per utilizzare i punti di pesca in mare aperto e fornire pesce e aragosta per le tue abitazioni.\n\n[b]Torre di guardia galleggiante[/b]\nEspandi il tuo dominio in mare aperto e sfida i tuoi nemici dall'acqua.\n\n[b]Zecca[/b]\nProduci monete d'oro che possono essere vendute al mercato o fornite all'officina per migliorare le tecnologie di ricerca.\n\n[b]Pozzo del deserto[/b]\nCostruisci pozzi profondi per accedere alla preziosa acqua nelle regioni desertiche.\n\n[b]6 Nuove Mappe[/b]\nAccetta la sfida della nuova campagna e recupera le navi coloniali precipitate.",
     "Verify": ""
   }
 ]
