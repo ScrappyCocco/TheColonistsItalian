@@ -173,7 +173,7 @@ Building_18_Worker,Text,,Farmbot,BotAllevatore,
 Building_19_Description,Text,,Pulls <it>Water</it> from an underground source.,Estrae <it>Acqua</it> da una fonte sotterranea.,
 Building_19_Name,Text,,Well,Pozzo,
 Building_19_Plural,Text,,Wells,Pozzi,
-Building_19_Worker,Text,,Waterbot,AcquaBot,
+Building_19_Worker,Text,,Waterbot,BotAcquaiolo,
 Building_1_Description,Text,,Grows <it>Apples</it>.,Fa crescere le <it>Mele</it>.,
 Building_1_Name,Text,,Orchard,Frutteto,
 Building_1_Plural,Text,,Orchards,Frutteti,
@@ -611,7 +611,7 @@ GameSettingsTitle,Text,,Game Options,Opzioni di gioco,
 GameSettingsZoomSensitivity,Text,,Zoom sensitivity,Sensibilità dello zoom,
 GameUIResourceStorage,Text,,Resource Storage,Deposito risorse,
 GameUI_Build,Text,In-game build mode,Build,Costruisci,
-GameUI_PotentialSurplus,Text,,Potential Surplus,Surplus potenziale,
+GameUI_PotentialSurplus,Text,,Potential Surplus,Eccedenza potenziale,
 GameUI_PrioritiseBuilding,Text,,Prioritise,Dai priorità,
 Hard,Text,,Hard,Difficile,
 Height,Text,,Height,Altezza,
@@ -873,7 +873,7 @@ IdleWorkerReason_2_Name,Text,,all tiles are planted,tutte le caselle sono pianta
 IdleWorkerReason_3_Name,Text,,there are no fully grown trees within range,non ci sono alberi completamente cresciuti nel raggio d'azione,
 IdleWorkerReason_4_Name,Text,,there is no nearby <nr><natres></nr> to mine,non c'è nessun <nr><natres></nr> da estrarre,
 IdleWorkerReason_5_Name,Text,,you've disabled production,hai disabilitato la produzione,
-IdleWorkerReason_6_Name,Text,,they're waiting for resources,stanno aspettando risorse,
+IdleWorkerReason_6_Name,Text,,they're waiting for resources,in attesa di risorse,
 IdleWorkerReason_7_Name,Text,,no <en> is being supplied,non viene fornito <en>,
 IdleWorkerReason_8_Name,Text,,waiting for worker bot to arrive,in attesa dell'arrivo del BotLavoratore,
 IdleWorkerReason_9_Name,Text,,production has been stopped,la produzione è stata interrotta,
@@ -2010,7 +2010,7 @@ UICategory_5_Name,Text,,Fuel,Carburante,
 UICategory_6_Name,Text,,Military,Militare,
 Unit_0_Name,Text,,Carrybot,BotTrasportatore,
 Unit_10_Name,Text,,Guardbot,BotGuardia,
-Unit_11_Name,Text,,Waterbot,AcquaBot,
+Unit_11_Name,Text,,Waterbot,BotAcquaiolo,
 Unit_12_Name,Text,,Repairbot,BotRiparatore,
 Unit_15_Name,Text,,Roadbot,BotAsfaltatore,
 Unit_16_Name,Text,,Researchbot,BotRicercatore,
@@ -2181,8 +2181,8 @@ Tooltip_YieldsMineInfinite,Text,(Shaft mine) yields unlimited {Gold},yields unli
 AgeNameShort_0,Text,Short for Level 1,L1,L1,
 AgeNameShort_1,Text,Short for Level 2,L2,L2,
 AgeNameShort_2,Text,Short for Level 3,L3,L3,
-Tooltip_Build,Text,"{0}: building age, {1}: building type e.g. ""Build L2 Watchtower""",Build {0}{1},Costruisci {0}{1},
-Tooltip_CantBuild,Text,"{0}: building age, {1}: building type e.g. ""Can't build L2 Watchtower""",Can't build {0}{1},Impossibile costruire {0}{1},
+Tooltip_Build,Text,"{0}: building age, {1}: building type e.g. ""Build L2 Watchtower""",Build {0}{1},Costruisci {1}{0},
+Tooltip_CantBuild,Text,"{0}: building age, {1}: building type e.g. ""Can't build L2 Watchtower""",Can't build {0}{1},Impossibile costruire {1}{0},
 Tooltip_Place,Text,"{0}: something user puts down instantly e.g. ""Place sheep field""",Place {0},Piazza {0},
 Tooltip_CantPlace,Text,,Can't place {0},Impossibile piazzare {0},
 Tooltip_StartRoad,Text,,Start road,Inizia strada,
@@ -2237,7 +2237,7 @@ You haven't yet researched <res>{1}</res> which you need to generate <it>Energy 
 
 Non hai ancora ricercato <res>{1}</res> necessario per generare <it>Energia Livello 3</it>.",
 BuildingUpgradeUI_LockUnderConstruction,Text,,Cannot upgrade whilst under construction,Impossibile migliorare durante la costruzione,
-BuildingUpgradeUI_NotUnlocked,Text,,Technology not researched,Tecnologia non ricercata,
+BuildingUpgradeUI_NotUnlocked,Text,,Technology not researched,Tecnologia non studiata,
 BuildingUpgradeUI_LockWhileResearching,Text,,Cannot upgrade whilst researching,Impossibile migliorare durante la ricerca,
 BuildingUpgradeUI_LockWhileRepairing,Text,,Cannot upgrade whilst repairing,Impossibile migliorare durante la riparazione,
 BuildingLifetimeStats_ResourcesDelivered,Text,,Resources Delivered,Risorse consegnate,
@@ -2310,7 +2310,7 @@ FloorInvalidRoadPostExisting,Text,,New road must start at existing post,Una nuov
 FloorInvalidRoadPostRoad,Text,,Can't place road post on existing road,Non puoi piazzare un incrocio su una strada esistente,
 FloorInvalidRoadComplete,Text,,Can't complete road on existing road,Non puoi completare una strada su una strada esistente,
 FloorInvalidHeightGap,Text,When there is not enough space under a railways bridge for example,Not enough height gap,Dislivello insufficiente,
-ItemDetails_CreatedAt,Text,Building that the resource was created at,Created at,Creato presso,
+ItemDetails_CreatedAt,Text,Building that the resource was created at,Created at,Creato da,
 ItemDetails_Destination,Text,,Destination,Destinazione,
 ItemDetails_Departed,Text,(Resource) departed: (5 days ago),Departed:,Partito:,
 ItemDetails_ArrivingIn,Text,(Resource) arriving in: (5 days ago),Arriving In:,Arrivo:,
@@ -2419,12 +2419,12 @@ TradeTerminalLanding,Text,(Trade) Ship (is) landing,Ship landing,Nave in atterra
 TradeTerminalDepartingIn,Text,(Trade) Ship departing in (5 days),Ship departing in,Nave in partenza in,
 TradeTerminalDeparting,Text,(Trade) Ship (is) departing,Ship departing,Nave in partenza,
 HarbourUIRoutesEmpty,Text,,No boats currently stop here,Nessuna barca si ferma qui,
-EntPanelHead_254,Text,Same as EntPanelHead_90 etc,Info,Informazioni,
+EntPanelHead_254,Text,Same as EntPanelHead_90 etc,Info,Nessuna barca si ferma qui,
 ExpeditionAssignToPort,Text,Assign (boat to harbour expedition),Assign,Assegna,
 OverlayPrioritisedBuildingTooltip,Text,{0}: building type e.g. (this is the ) prioritised watchtower,Prioritised {0},{0} ha la priorità,
 FutureExpeditionHarbour,Text,The harbour that will be created as a result of completing the expedition,Expedition's Future Harbour,Porto della spedizione,
 ProductionChangeTreeType,Text,,Change tree type,Cambia tipo di albero,
-TrackEditorPrompt,Text,,Select an existing piece of track to start from,Seleziona un tracciato esistente da cui iniziare,
+TrackEditorPrompt,Text,,Select an existing piece of track to start from.,Seleziona un tracciato esistente da cui iniziare.,
 VehicleAverageJourney,Text,,Average journey: ,Viaggio medio:,
 TrackEditorTrackConnected,Text,,Track connected!,Tracciato connesso!,
 TrackEditorInvalidElevationDirection,Text,,"Can't Place Track
@@ -2436,7 +2436,7 @@ TrackEditorInvalidBridge,Text,{0}: further error info,"Can't place bridge!
 {0}",Impossibile piazzare il ponte! {0},
 TraderReputationReward,Text,,+1 Space Port,Porto Spaziale +1,
 BuildingStorageRules,Text,,Rules,Regole,
-BuildingStorageRulesDesc,Text,,This building does not automatically store resources. You can add rules to allow this.,Questo edificio non deposita automaticamente le risorse. È possibile aggiungere regole per consentirlo.,
+BuildingStorageRulesDesc,Text,,This building does not automatically store resources. You can add rules to allow this.,Questo edificio non immagazzina automaticamente risorse. Puoi aggiungere regole per consentirlo.,
 VehicleStopsEmpty,Text,,No stops yet,Ancora nessuna fermata,
 EntitySidePanelAddStop,Text,Add (station or port stop),Add,Aggiungi,
 EntitySidePanelBoatsStopping,Text,E.g. Boats stopping here: 2,Boats stopping here:,Barche che si fermano qui:,
@@ -2850,9 +2850,9 @@ EditSandbox_RevertWarning,Text,When a settings is selected that cannot be revert
 AlertPanel_Title,Text,Title of generic warning window - e.g. when you click to destroy a building,Alert,Attenzione,
 MapEditor_MaxVictoryConditions,Text,When the user has created the maximum allowable number of victory conditions,Maximum conditions reached!,Numero massimo di condizioni raggiunto!,
 EntityBoatyardDockCancelConstruction,Text,Button to cancel construction of the current boat,Cancel Construction,Annulla Costruzione,
-RandomMap,Text,Procedurally generated maps,Random Map,Mappa Random,
+RandomMap,Text,Procedurally generated maps,Random Map,Genera Mappa,
 RandomMap_Water0,Text,Little water on the map,Little,Poca,
-RandomMap_Water1,Text,Some amount of water on the map,Some,Standard,
+RandomMap_Water1,Text,Some amount of water on the map,Some,Normale,
 RandomMap_Water2,Text,Lots of water on the map,Lots,Tanta,
 RandomMap_Water,Text,Water (for the random map),Water,Acqua,
 ModManager,Text,Panel for managing player created mods,Mod Manager,Mod Manager,
@@ -3131,7 +3131,7 @@ Hold [{1}] to skip this message.","Sei sicuro di voler distruggere tutte le riso
 Tieni premuto [{1}] per saltare questo messaggio.",
 RandomMap_Trees,Text,,Trees,Alberi,
 RandomMap_Trees0,Text,Few trees available,Few,Pochi,
-RandomMap_Trees1,Text,Moderate amount of trees available,Normal,Normale,
+RandomMap_Trees1,Text,Moderate amount of trees available,Normal,Normali,
 RandomMap_Trees2,Text,Plenty of trees available,Lots,Tanti,
 ChallengeComplete_MessageFail,Text,,"You completed the challenge but not fast enough for a rank.
 Try again!","Hai completato la sfida ma non abbastanza velocemente per guadagnare un rank.
@@ -3204,7 +3204,7 @@ Hotkey_19,Text,,Dismantle Mode,Modalità Smantella,
 RandomMap_Fish,Text,,Fish,Pesci,
 RandomMap_Fish0,Text,No fish available,None,Nessuno,
 RandomMap_Fish1,Text,Few fish available,Few,Pochi,
-RandomMap_Fish2,Text,Moderate amount of fish available,Normal,Normale,
+RandomMap_Fish2,Text,Moderate amount of fish available,Normal,Normali,
 RandomMap_Fish3,Text,Plenty of fish available,Lots,Tanti,
 Flora_100_Description,Text,,"This mine contains an infinite supply of <nr><natres></nr>.
 You can build a <bd>Shaft Mine</bd> here to extract the <nr><natres></nr>.",Questa miniera contiene una scorta infinita di <nr><natres></nr>. Puoi costruire una <bd>Miniera</bd> qui per estrarre il <nr><natres></nr>.,
@@ -3478,7 +3478,7 @@ EntityRoadBridgeNoConstructionYardYetBody,Text,,Assign a construction yard to al
 EntityProductionRoadBridgeTitle,Text,,Target Bridge,Ponte di destinazione,
 EntityProductionRoadBridgeUnassigned,Text,,No bridge is assigned,Nessun ponte è assegnato,
 RoadBridgeState_ChangeHeight,Text,,Hold <hotkey>[{0}]</hotkey> to change height,Tieni premuto <hotkey>[{0}]</hotkey> per modificare l'altezza,
-RoadBridgeState_StartTip,Text,,Click and drag to place bridge,Fare clic e trascina per posizionare il Ponte,
+RoadBridgeState_StartTip,Text,,Click and drag to place bridge,Fai clic e trascina per posizionare il Ponte,
 Track_0_Name,Text,Basic term for train track),Track,Tracciato,
 ValidityResult_60,Text,Reason that you can't destroy a train station,Train currently stopped at station,Il Treno è attualmente fermo alla stazione,
 ValidityResult_61,Text,Reason that you can't destroy a burning building/structure,Currently burning,In fiamme,
@@ -3596,7 +3596,7 @@ ScenVict_12_CreateDesc,Text,,Recover the crashed ship,Individua e recupera la na
 Utility_5_Name,Text,,Crashed Colony Ship,Nave Coloniale precipitata,
 MP_AI_Player_Name,Text,{0}: randomly generated name,{0} [AI],{0} [IA],
 MP_ReuploadingGame,Text,When a problem has happened in multiplayer and the game needs to be ,Re-uploading game,Ri-Upload del gioco,
-MainMenu_MapEditor,Text,,Map Editor,Editore di mappe,
+MainMenu_MapEditor,Text,,Map Editor,Editor di mappe,
 MP_PreparingBuilding,,Shows on building tooltip if building hovered over before building placement is confirmed by host,[Preparing building],[Preparazione edificio],
 MP_HostPublicGame,,,Host Public Game,Ospita una partita pubblica,
 MP_HostPrivateGame,,,Host Private Game,Ospita una partita privata,
@@ -3648,7 +3648,7 @@ Needs be placed a certain distance away from other Desert Wells.","Estrae <it>Ac
 Deve essere posizionato a una certa distanza dagli altri Pozzi di pompaggio.",
 Building_82_Name,Text,,Desert Well,Pozzo di pompaggio,
 Building_82_Plural,Text,,Desert Wells,Pozzi di pompaggio,
-Building_82_Worker,Text,,Waterbot,AcquaBot,
+Building_82_Worker,Text,,Waterbot,BotAcquaiolo,
 MiscCat_16_Name,Text,,Blessings,Benedizione,
 MiscCat_16_Desc,Text,,Boost bots' activity speed,Aumenta la velocità di attività dei Bot,
 Building_72_Description,Text,,Produces <it>Gold Coins</it> using <it>Gold</it> and <cat>Fuel</cat>,Produce <it>Monete d'Oro</it> utilizzando <it>Oro</it> e <cat>Carburante</cat>,
@@ -3778,7 +3778,7 @@ Tunnel_0_Desc,,,"Tunnels allow your trains to go under hills and mountains.
 Tunnels are straight and level so find a steep unobstructed part of the terrain and if the other end of tunnel is unobstructed you will be able to place a tunnel.","I tunnel permettono ai tuoi treni di passare sotto colline e montagne.
 
 I tunnel sono diritti e in piano, quindi trova una parte ripida e libera del terreno e se l'altra estremità del tunnel non è ostruita sarai in grado di posizionare un tunnel.",
-Tech_77_Desc,,,Increases the speed of all the roads and paths in your colony by <amount>%,Aumenta la velocità di tutte le strade e i percorsi della tua colonia del <amount>%,
+Tech_77_Desc,,,Increases the speed of all the roads and paths in your colony by <amount>% on each research,Aumenta la velocità di tutte le strade e i percorsi della tua colonia del <amount>%,
 Tech_77_Name,,,Road & Path Boost,Potenziamento di Strade e Percorsi,
 TerrainCategory_4_Desc,,,Animals can graze but nothing can be planted,Gli animali possono pascolare ma non si può piantare nulla,
 TerrainCategory_5_Desc,,,Supports roads and paths but not buildings,Supporta strade e percorsi ma non edifici,
@@ -3812,9 +3812,9 @@ ScenarioIntro_32,,intro mesage when starting DLC Mission 3,"It looks like this w
 It’ll probably take all our technology and ingenuity so we should also construct a large monument to celebrate our rescue!","Sembra che questo mondo abbia molti posti per pescare in mare aperto, seguiamo questo fiume e vediamo dove possiamo trovare il nostro cugino umanoide incagliato.
 
 Probabilmente ci vorrà tutta la nostra tecnologia e il nostro ingegno, quindi dovremmo anche costruire un grande monumento per celebrare il nostro salvataggio!",
-ScenarioIntro_33,,intro mesage when starting DLC Mission 4,"A final signal was found emanating somewhere on this world. It’s a dusty start - let’s make use of our desert well - but our scans showed fertile land where we can grow our food.
+ScenarioIntro_33,,intro mesage when starting DLC Mission 4,"A final signal was found emanating from somewhere on this world. It’s a dusty start - let’s make use of our desert well - but our scans showed fertile land where we can grow our food.
 
-Our robot friend need us!","È stato trovato un ultimo segnale proveniente da qualche parte su questo mondo. È un inizio polveroso - utilizziamo bene il nostro deserto - ma le nostre scansioni hanno mostrato terreni fertili dove possiamo coltivare il nostro cibo.
+Our robot friend needs us!","È stato trovato un ultimo segnale proveniente da qualche parte su questo mondo. È un inizio polveroso - utilizziamo bene il nostro deserto - ma le nostre scansioni hanno mostrato terreni fertili dove possiamo coltivare il nostro cibo.
 
 Il nostro amico robot ha bisogno di noi!",
 MapEditorMode_17_Desc,Text,,"Click and drag to paint flora.
@@ -3824,7 +3824,7 @@ Hold [F] + Wheel to change scale.
 Hold [R] + Wheel to change internal rotation.
 Hold [G] + Wheel to change rock height.","Fai clic e trascina per posizionare la flora.
 [Ctrl] e clic per copiare la flora esistente.
-[Alt] e clic per posizionarli individualmente.
+[Alt] e clic per posizionare individualmente.
 Tieni premuto [F] + Rotella per cambiare scala.
 Tieni premuto [R] + Rotella per modificare la rotazione interna.
 Tieni premuto [G] + Rotella per modificare l'altezza della roccia.",
@@ -3833,5 +3833,12 @@ Tip_24,,,You can place train tracks outside your territory,Puoi posizionare i bi
 Tip_25,,,"In New Lands DLC, use floating watchtowers and train stations to access otherwise inaccessible locations","Nel DLC New Lands, usa le torri di guardia galleggianti e le stazioni ferroviarie per accedere a luoghi altrimenti inaccessibili",
 BdPlVaResults_48_Name,Text,"{0}: building plural type
 ""Too close to other Desert Wells""",Too close to other {0},Troppo vicino ad altri {0},
-MiscCat_18_Name,Text,,Desert Water Source,,2907
-MiscCat_18_Desc,Text,,available on sand or desert tiles,,2908
+MiscCat_18_Name,Text,,Desert Water Source,Fonte d'acqua del deserto,
+MiscCat_18_Desc,Text,,available on sand or desert tiles,disponibile su caselle sabbia o deserto,
+Tech_67_Desc,,,Increases the speed of all the boats in your colony by <amount>% on each research,Aumenta la velocità di tutte le barche nella tua colonia del <amount>% per ogni ricerca,
+Tech_67_Name,,,Boat Speed Boost,Aumento Velocità Barca,
+TrackPlacementTerritoryTip,,,You can place train track outside your territory but your train stations must be inside!,"Puoi posizionare i binari del treno fuori dal tuo territorio, ma le tue stazioni ferroviarie devono essere all'interno!",
+TrackPlacementGeneral2,,,You can also <hotkey>[Ctrl]</hotkey> and click a track section at any point to build from it.,Puoi anche usare <hotkey>[Ctrl]</hotkey> e fare clic su una sezione di tracciato in qualsiasi punto per costruire da essa.,
+TunnelPlacementTip1,,,Press [R] to switch to other potential rotation on the highlight tile.,Premi [R] per passare ad un'altra potenziale rotazione sulla cella evidenziata.,
+MiscCat_15_Name,,,Fish / Lobster,Pesce/Aragosta,
+MiscCat_15_Desc,,,available from sea fishing locations,disponibile nei punti di pesca in mare,

@@ -1236,7 +1236,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Waterbot",
-    "Italian": "AcquaBot",
+    "Italian": "BotAcquaiolo",
     "Verify": ""
   },
   {
@@ -4452,7 +4452,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Potential Surplus",
-    "Italian": "Surplus potenziale",
+    "Italian": "Eccedenza potenziale",
     "Verify": ""
   },
   {
@@ -5236,7 +5236,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "they're waiting for resources",
-    "Italian": "stanno aspettando risorse",
+    "Italian": "in attesa di risorse",
     "Verify": ""
   },
   {
@@ -12156,7 +12156,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Waterbot",
-    "Italian": "AcquaBot",
+    "Italian": "BotAcquaiolo",
     "Verify": ""
   },
   {
@@ -13292,7 +13292,7 @@
     "Type": "Text",
     "Desc": "{0}: building age, {1}: building type e.g. \"Build L2 Watchtower",
     "English": "Build {0}{1}",
-    "Italian": "Costruisci {0}{1}",
+    "Italian": "Costruisci {1}{0}",
     "Verify": ""
   },
   {
@@ -13300,7 +13300,7 @@
     "Type": "Text",
     "Desc": "{0}: building age, {1}: building type e.g. \"Can't build L2 Watchtower",
     "English": "Can't build {0}{1}",
-    "Italian": "Impossibile costruire {0}{1}",
+    "Italian": "Impossibile costruire {1}{0}",
     "Verify": ""
   },
   {
@@ -13708,7 +13708,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Technology not researched",
-    "Italian": "Tecnologia non ricercata",
+    "Italian": "Tecnologia non studiata",
     "Verify": ""
   },
   {
@@ -14228,7 +14228,7 @@
     "Type": "Text",
     "Desc": "Building that the resource was created at",
     "English": "Created at",
-    "Italian": "Creato presso",
+    "Italian": "Creato da",
     "Verify": ""
   },
   {
@@ -15020,7 +15020,7 @@
     "Type": "Text",
     "Desc": "Same as EntPanelHead_90 etc",
     "English": "Info",
-    "Italian": "Informazioni",
+    "Italian": "Nessuna barca si ferma qui",
     "Verify": ""
   },
   {
@@ -15059,8 +15059,8 @@
     "Key": "TrackEditorPrompt",
     "Type": "Text",
     "Desc": "",
-    "English": "Select an existing piece of track to start from",
-    "Italian": "Seleziona un tracciato esistente da cui iniziare",
+    "English": "Select an existing piece of track to start from.",
+    "Italian": "Seleziona un tracciato esistente da cui iniziare.",
     "Verify": ""
   },
   {
@@ -15124,7 +15124,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "This building does not automatically store resources. You can add rules to allow this.",
-    "Italian": "Questo edificio non deposita automaticamente le risorse. È possibile aggiungere regole per consentirlo.",
+    "Italian": "Questo edificio non immagazzina automaticamente risorse. Puoi aggiungere regole per consentirlo.",
     "Verify": ""
   },
   {
@@ -17908,7 +17908,7 @@
     "Type": "Text",
     "Desc": "Procedurally generated maps",
     "English": "Random Map",
-    "Italian": "Mappa Random",
+    "Italian": "Genera Mappa",
     "Verify": ""
   },
   {
@@ -17924,7 +17924,7 @@
     "Type": "Text",
     "Desc": "Some amount of water on the map",
     "English": "Some",
-    "Italian": "Standard",
+    "Italian": "Normale",
     "Verify": ""
   },
   {
@@ -19252,7 +19252,7 @@
     "Type": "Text",
     "Desc": "Moderate amount of trees available",
     "English": "Normal",
-    "Italian": "Normale",
+    "Italian": "Normali",
     "Verify": ""
   },
   {
@@ -19700,7 +19700,7 @@
     "Type": "Text",
     "Desc": "Moderate amount of fish available",
     "English": "Normal",
-    "Italian": "Normale",
+    "Italian": "Normali",
     "Verify": ""
   },
   {
@@ -21348,7 +21348,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Click and drag to place bridge",
-    "Italian": "Fare clic e trascina per posizionare il Ponte",
+    "Italian": "Fai clic e trascina per posizionare il Ponte",
     "Verify": ""
   },
   {
@@ -22236,7 +22236,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Map Editor",
-    "Italian": "Editore di mappe",
+    "Italian": "Editor di mappe",
     "Verify": ""
   },
   {
@@ -22556,7 +22556,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Waterbot",
-    "Italian": "AcquaBot",
+    "Italian": "BotAcquaiolo",
     "Verify": ""
   },
   {
@@ -23019,7 +23019,7 @@
     "Key": "Tech_77_Desc",
     "Type": "",
     "Desc": "",
-    "English": "Increases the speed of all the roads and paths in your colony by <amount>%",
+    "English": "Increases the speed of all the roads and paths in your colony by <amount>% on each research",
     "Italian": "Aumenta la velocità di tutte le strade e i percorsi della tua colonia del <amount>%",
     "Verify": ""
   },
@@ -23195,7 +23195,7 @@
     "Key": "ScenarioIntro_33",
     "Type": "",
     "Desc": "intro mesage when starting DLC Mission 4",
-    "English": "A final signal was found emanating somewhere on this world. It’s a dusty start - let’s make use of our desert well - but our scans showed fertile land where we can grow our food.\n\nOur robot friend need us!",
+    "English": "A final signal was found emanating from somewhere on this world. It’s a dusty start - let’s make use of our desert well - but our scans showed fertile land where we can grow our food.\n\nOur robot friend needs us!",
     "Italian": "È stato trovato un ultimo segnale proveniente da qualche parte su questo mondo. È un inizio polveroso - utilizziamo bene il nostro deserto - ma le nostre scansioni hanno mostrato terreni fertili dove possiamo coltivare il nostro cibo.\n\nIl nostro amico robot ha bisogno di noi!",
     "Verify": ""
   },
@@ -23204,7 +23204,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Click and drag to paint flora.\n[Ctrl] and click to copy existing flora.\n[Alt] and click to place individually.\nHold [F] + Wheel to change scale.\nHold [R] + Wheel to change internal rotation.\nHold [G] + Wheel to change rock height.",
-    "Italian": "Fai clic e trascina per posizionare la flora.\n[Ctrl] e clic per copiare la flora esistente.\n[Alt] e clic per posizionarli individualmente.\nTieni premuto [F] + Rotella per cambiare scala.\nTieni premuto [R] + Rotella per modificare la rotazione interna.\nTieni premuto [G] + Rotella per modificare l'altezza della roccia.",
+    "Italian": "Fai clic e trascina per posizionare la flora.\n[Ctrl] e clic per copiare la flora esistente.\n[Alt] e clic per posizionare individualmente.\nTieni premuto [F] + Rotella per cambiare scala.\nTieni premuto [R] + Rotella per modificare la rotazione interna.\nTieni premuto [G] + Rotella per modificare l'altezza della roccia.",
     "Verify": ""
   },
   {
@@ -23244,15 +23244,71 @@
     "Type": "Text",
     "Desc": "",
     "English": "Desert Water Source",
-    "Italian": "",
-    "Verify": 2907
+    "Italian": "Fonte d'acqua del deserto",
+    "Verify": ""
   },
   {
     "Key": "MiscCat_18_Desc",
     "Type": "Text",
     "Desc": "",
     "English": "available on sand or desert tiles",
-    "Italian": "",
-    "Verify": 2908
+    "Italian": "disponibile su caselle sabbia o deserto",
+    "Verify": ""
+  },
+  {
+    "Key": "Tech_67_Desc",
+    "Type": "",
+    "Desc": "",
+    "English": "Increases the speed of all the boats in your colony by <amount>% on each research",
+    "Italian": "Aumenta la velocità di tutte le barche nella tua colonia del <amount>% per ogni ricerca",
+    "Verify": ""
+  },
+  {
+    "Key": "Tech_67_Name",
+    "Type": "",
+    "Desc": "",
+    "English": "Boat Speed Boost",
+    "Italian": "Aumento Velocità Barca",
+    "Verify": ""
+  },
+  {
+    "Key": "TrackPlacementTerritoryTip",
+    "Type": "",
+    "Desc": "",
+    "English": "You can place train track outside your territory but your train stations must be inside!",
+    "Italian": "Puoi posizionare i binari del treno fuori dal tuo territorio, ma le tue stazioni ferroviarie devono essere all'interno!",
+    "Verify": ""
+  },
+  {
+    "Key": "TrackPlacementGeneral2",
+    "Type": "",
+    "Desc": "",
+    "English": "You can also <hotkey>[Ctrl]</hotkey> and click a track section at any point to build from it.",
+    "Italian": "Puoi anche usare <hotkey>[Ctrl]</hotkey> e fare clic su una sezione di tracciato in qualsiasi punto per costruire da essa.",
+    "Verify": ""
+  },
+  {
+    "Key": "TunnelPlacementTip1",
+    "Type": "",
+    "Desc": "",
+    "English": "Press [R] to switch to other potential rotation on the highlight tile.",
+    "Italian": "Premi [R] per passare ad un'altra potenziale rotazione sulla cella evidenziata.",
+    "Verify": ""
+  },
+  {
+    "Key": "MiscCat_15_Name",
+    "Type": "",
+    "Desc": "",
+    "English": "Fish / Lobster",
+    "Italian": "Pesce/Aragosta",
+    "Verify": ""
+  },
+  {
+    "Key": "MiscCat_15_Desc",
+    "Type": "",
+    "Desc": "",
+    "English": "available from sea fishing locations",
+    "Italian": "disponibile nei punti di pesca in mare",
+    "Verify": ""
   }
 ]
