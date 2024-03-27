@@ -360,7 +360,7 @@ ConstructionMilitaryDefence,Text,Building defence stats,Military Defence,Difese 
 ConstructionRequirements,Text,Technology required to be able to build this building,Requirements,Requisiti,
 Create New Map,Text,,Create New Map,Crea una nuova mappa,
 Credits,Text,,Credits,Crediti,
-Custom Maps,Text,,Custom Map,Mappe personalizzate,
+Custom Maps,Text,,Custom Maps,Mappe personalizzate,
 Difficulty,Text,,Difficulty,Difficoltà,
 Edit,Text,Open the map in the map editor,Edit,Modifica,
 EffectsVolume,Text,(Sound) Effects Volume,Effects Volume,Volume effetti,
@@ -3454,10 +3454,10 @@ Tech_132_Desc,Text,,Unlocks steel bridges which can be used to span gaps of unli
 Tech_132_Name,Text,,Steel Bridges,Ponti di Acciaio,
 RoadBridgeBuildMode_InvalidStart,Text,,Invalid tile,Casella invalida,
 DLC1_Campaign,Text,,New Lands,New Lands,
-Scenario_30_Description,Text,,Explore and expand with your robots' new bridge technology,Esplora ed espanditi con la nuova tecnologia ponte dei tuoi robot,
+Scenario_30_Description,Text,,As you continue to explore the galaxies of deep space you pick up a faint distress signal from a nearby planet with a familiar digital signature...,"Mentre continui a esplorare le galassie dello spazio profondo, raccogli un debole segnale di soccorso da un pianeta vicino con una firma digitale familiare...",
 Scenario_30_Name,Text,,Bridging the Gap,Colmare il Divario,
-Scenario_31_Description,Text,,,,
-Scenario_31_Name,Text,,The Golden Isle,L'isola d'Oro,
+Scenario_31_Description,Text,,Another crashed colony ship needs your help as you make use of all your new technology.,Un'altra nave coloniale precipitata ha bisogno del tuo aiuto mentre utilizzi tutta la tua nuova tecnologia.,
+Scenario_31_Name,Text,(need to use a tunnel on this map),Tunnel Vision,Visuale Tunnel,
 UnitState_BestowingBlessing,Text,,Blessing {0} - {1}%,Benedizione {0} - {1}%,
 EntityBuildingPriorityEntitiesChurchHeader,Text,,Blessings,Benedizione,
 EntityBuildingPriorityEntitiesChurchDesc,Text,,Priestbot will visit assigned buildings in order and provide a blessing to it.,Il BotPrete visiterà gli edifici assegnati in ordine e li benedirà.,
@@ -3540,10 +3540,10 @@ ExpeditionBoatNoRouteToHarbour,Text,,Boat cannot find a route to the new harbour
 ExpeditionBoatHarbourBody,Text,,Boat is heading to new harbour,La barca si sta dirigendo verso il nuovo porto,
 ExpeditionBoatNewHarbourCancelBtn,Text,,Cancel New Harbour,Annulla il nuovo porto,
 Tunnel_0_Name,Text,Train tunnel,Tunnel,Galleria,
-Scenario_32_Description,Text,,,,
-Scenario_32_Name,Text,,,,
-Scenario_33_Description,Text,,,,
-Scenario_33_Name,Text,,,,
+Scenario_32_Description,Text,,The terrain becomes trickier as the search continues for all the lost colony ships.,Il terreno diventa più complicato man mano che continua la ricerca di tutte le navi coloniali perdute.,
+Scenario_32_Name,Text,,Downstream,A valle,
+Scenario_33_Description,Text,,The last ship remains somewhere through a harsh desert landscape.,L'ultima nave è da qualche parte in un aspro paesaggio desertico.,
+Scenario_33_Name,Text,,The Desert Climb,La Scalata del Deserto,
 SandboxOptionDLCEnabled,Text,,New Lands DLC Features,Funzionalità del DLC New Lands,
 Building_79_Description,Text,,Uses <it>Holy Energy</it> to provide blessings to buildings.,Utilizza l'<it>Energia Sacra</it> per fornire benedizioni agli edifici.,
 Building_79_Name,Text,,Missionary Outpost,Avamposto Missionario,
@@ -3591,8 +3591,8 @@ ScenVict_4_CreateDesc,Text,,Holds a specified object within territory,Avere un o
 ScenVict_4_Desc,Text,,Hold <amount> <name> in your territory,Avere <amount> <name> nel tuo territorio,
 ScenVict_4_Name,Text,,Hold Entity in Territory,Mantenere l'entità nel territorio,
 ScenVict_12_Name,Text,,Recover Crashed Colony Ship,Recupera la nave coloniale precipitata,
-ScenVict_12_Desc,Text,TBC,Locate and recover crashed ship,Individua e recupera la nave precipitata,
-ScenVict_12_CreateDesc,Text,TBC,Locate and recover the crashed ship,Individua e recupera la nave precipitata,
+ScenVict_12_Desc,Text,,Recover crashed ship,Individua e recupera la nave precipitata,
+ScenVict_12_CreateDesc,Text,,Recover the crashed ship,Individua e recupera la nave precipitata,
 Utility_5_Name,Text,,Crashed Colony Ship,Nave Coloniale precipitata,
 MP_AI_Player_Name,Text,{0}: randomly generated name,{0} [AI],{0} [IA],
 MP_ReuploadingGame,Text,When a problem has happened in multiplayer and the game needs to be ,Re-uploading game,Ri-Upload del gioco,
@@ -3641,9 +3641,13 @@ Tieni premuto [Alt] per saltare questo messaggio.",
 MapEditorColonyShipOverlay,,Label for UI toggle to show the graphical overlay for the footprint and starting territory of a player's colony ship,Colony Ship Overlay,Overlay Nave Coloniale,
 DLCCampaignMissionTitleNumber,,"{0}: number, e.g. New Lands Mission 7",New Lands Mission {0},New Lands Missione {0},
 Flora_120_Name,,,Crashed Colony Ship,Nave coloniale precipitata,
-Building_82_Description,Text,,Pulls <it>Water</it> from deep underground.,Estrae <it>Acqua</it> dal sottosuolo profondo.,
-Building_82_Name,Text,,Shaft Well,Pozzo di pompaggio,
-Building_82_Plural,Text,,Shaft Wells,Pozzi di pompaggio,
+Building_82_Description,Text,,"Pulls <it>Water</it> from a deep underground water source on sand tiles.
+
+Needs be placed a certain distance away from other Desert Wells.","Estrae <it>Acqua</it> da una profonda fonte d'acqua sotterranea su caselle di sabbia.
+
+Deve essere posizionato a una certa distanza dagli altri Pozzi di pompaggio.",
+Building_82_Name,Text,,Desert Well,Pozzo di pompaggio,
+Building_82_Plural,Text,,Desert Wells,Pozzi di pompaggio,
 Building_82_Worker,Text,,Waterbot,AcquaBot,
 MiscCat_16_Name,Text,,Blessings,Benedizione,
 MiscCat_16_Desc,Text,,Boost bots' activity speed,Aumenta la velocità di attività dei Bot,
@@ -3712,3 +3716,122 @@ Costruisci pozzi profondi per accedere alla preziosa acqua nelle regioni deserti
 
 [b]6 Nuove Mappe[/b]
 Accetta la sfida della nuova campagna e recupera le navi coloniali precipitate.",
+MultiplayerResyncingMsg,,,Resyncing game,Risincronizzazione della partita,
+GameMenuMultiplayerConcedeBtn,,,Concede game,Arrenditi,
+GameMenu_MultiplayerConcedeCheck,,,Are you sure you want to concede this game?,Sicuro di voler dichiarare la resa?,
+HelpTitle_44_Desc,,,Unlocked more colour schemes in New Lands DLC campaign,Hai sbloccato più combinazioni di colori nella campagna DLC New Lands,
+HelpTitle_44_Name,,,Locked,Bloccato,
+ScenarioIntro_30,,,"We've landed in a bog surrounded by rock! Luckily there appears to be a small gap we can cross using our new bridge technology.
+
+Let's explore, locate the source of the distress signal, and build a small monument to celebrate a new home in this land.","Siamo atterrati in una palude circondata da rocce! Fortunatamente sembra esserci un piccolo varco che possiamo attraversare utilizzando la nostra nuova tecnologia per i ponti.
+
+Esploriamo, localizziamo la fonte del segnale di soccorso, e costruiamo un piccolo monumento per celebrare una nuova casa in questa terra.",
+DLC1GameCompleteColourMsg,,,You've unlocked a new colour scheme!,Hai sbloccato una nuova combinazione di colori!,
+Notification_32_Desc,,,You've recovered a colony ship!,Hai recuperato una nave coloniale!,
+Notification_32_Name,,,Colony Ship Recovered!,Nave Coloniale recuperata!,
+TerrainCategory_4,,,Prairie,Prateria,
+TerrainCategory_5,,,Mud,Fango,
+MapEditorMode_39_Desc,Text,,"Click to place a crashed colony ship.
+[Shift] and click to remove.","Fai clic per posizionare una nave coloniale precipitata.
+[Shift] e clic per rimuovere.",
+MapEditorMode_39_Name,Text,,Crashed Colony Ships,Navi Coloniali precipitate,
+MapEditorMapInfoUploadImage,,Button to upload an image for your map's thumbnail,Upload,Upload,
+MapEditorSettingsActiveModsHeader,,Title of section where you edit active mods for your map,Active Mods,Mods Attive,
+MapEditorSettingsActiveModsChangeMods,,Button to change mods you have in your map,Change Mods,Modifica Mods,
+MapEditorSettingsActiveModsReloadMods,,Button to reload current mods,Reload Mods,Ricarica Mods,
+SelectVictoryConditionWindowHeader,,,Select Victory Condition,Seleziona Condizione di Vittoria,
+SaveGameTypeLocal,,If the savegame is of a map created by the player,Local Map,Mappa locale,
+SaveGameWindowShowMeta,,Toggle to show/hide full details of a save game file,Show Details,Mostra dettagli,
+TechResearchRepeatable,,Meaning a tech can be researched multiple times,Repeatable,Ripetibile,
+MP_PublicGames,,,Public Games,Partite Pubbliche,
+MP_PublicGamesLoading,,,Loading public games...,Cercando partite pubbliche...,
+MP_PublicGamesEmpty,,,"There are no public games available currently.
+Try hosting one!","Al momento non ci sono partite pubbliche disponibili.
+Prova a crearne una!",
+MP_CreatePrivateHeader,,Header of Create Private section,Create Private Game,Crea Partita Privata,
+MP_CreatePrivateHostNewBtn,,Button,Host New Game,Ospita Nuova Partita,
+MP_CreatePrivateContinueBtn,,Button to continue playing a previous multiplayer game,Continue Game,Continua Partita,
+MP_JoinPrivateHeader,,Header of Join Private section,Join Private Game,Unisciti ad una Partita Privata,
+MP_EnterPassword,,Input field instruction,Enter password,Inserisci password,
+MP_JoinPrivateJoinBtn,,Button,Join Game,Uniscititi ad una Partita,
+MP_HostMultiplayerWindowTitle,,Title of panel when you set a multiplayer game,Host Multiplayer Game,Ospita Partita Multiplayer,
+MP_HostMultiplayerWindowGameType,,Whether a game will be public or private,Game Type,Tipo di Gioco,
+,,,,,
+,,,,,
+MP_HostMultiplayerWindowHostBtn,,Button to create game,Host Game,Ospita Partita,
+MP_EditVictoryConditionsHeader,,,Edit Victory Conditions,Modifica le Condizioni di Vittoria,
+MP_EditVictoryConditionsIntro,,,Players need to complete all the conditions in any set of victory conditions:,I giocatori devono completare tutte le condizioni in qualsiasi serie di condizioni di vittoria:,
+MP_EditVictoryConditionsAddCondBtn,,Button,Add Victory Condition,Aggiungi la Condizione di Vittoria,
+MP_EditVictoryConditionsAddSetBtn,,Button to add a new set of alternative victory conditions,Add Alternative Set,Aggiungi Set Alternativo,
+MP_EditVictoryConditionsCreateSetBtn,,Button to create a set of victory conditions,Create Set,Crea Set,
+MP_EditVictoryConditionsAlreadyAdded,,Message if unique victory condition type has already been added,Already added!,Già aggiunto!,
+MP_EditVictoryConditionsAddNewBtn,,Button to add victory condition,ADD,AGGIUNGI,
+MP_EditVictoryConditionHeader,,Header for window when editing victory condition properties,Edit Victory Condition,Modifica le Condizioni di Vittoria,
+MP_EditVictoryConditionConfirmBtn,,,CONFIRM,CONFERMA,
+MP_SettingUpGame,,When multiplayer is in process of being created,Setting up game,Preparando la partita,
+MP_LobbyWaitingForMorePlayers,,,Waiting for more players to join,In attesa che si uniscano altri giocatori,
+MP_LobbyStartGameBtn,,,Start Game,Inizia Partita,
+MP_LobbyWaitingForHostToStart,,,Waiting for host to start a game,In attesa che l'host avvii una partita,
+MP_LobbyInviteASteamFriendBtn,,,Invite a Steam Friend,Invita un amico di Steam,
+Tunnel_0_Desc,,,"Tunnels allow your trains to go under hills and mountains.
+
+Tunnels are straight and level so find a steep unobstructed part of the terrain and if the other end of tunnel is unobstructed you will be able to place a tunnel.","I tunnel permettono ai tuoi treni di passare sotto colline e montagne.
+
+I tunnel sono diritti e in piano, quindi trova una parte ripida e libera del terreno e se l'altra estremità del tunnel non è ostruita sarai in grado di posizionare un tunnel.",
+Tech_77_Desc,,,Increases the speed of all the roads and paths in your colony by <amount>%,Aumenta la velocità di tutte le strade e i percorsi della tua colonia del <amount>%,
+Tech_77_Name,,,Road & Path Boost,Potenziamento di Strade e Percorsi,
+TerrainCategory_4_Desc,,,Animals can graze but nothing can be planted,Gli animali possono pascolare ma non si può piantare nulla,
+TerrainCategory_5_Desc,,,Supports roads and paths but not buildings,Supporta strade e percorsi ma non edifici,
+TerrainType_22,,,Rock C,Roccioso C,
+TerrainType_19,,,Prairie A,Prateria A,
+TerrainType_23,,,Prairie B,Prateria B,
+TerrainType_20,,,Mud A,Fango A,
+TerrainType_21,,,Mud B,Fango B,
+Scenario_40_Name,,(you're attacking an island),Island Assault,Assalto all'isola,
+Scenario_40_Description,,,Use your new technologies to claim victory over your anthrobotic foe.,Usa le tue nuove tecnologie per rivendicare la vittoria sul tuo nemico umanoide.,
+Scenario_41_Name,,(map is sort of in the shape of a ring),The Ring,L'anello,
+Scenario_41_Description,,,Use your new technologies to claim victory over your anthrobotic foe.,Usa le tue nuove tecnologie per rivendicare la vittoria sul tuo nemico umanoide.,
+DLC1_Required,,,New Lands DLC Required,Richiede DLC New Lands,
+OpenOnSteam,,,Buy on Steam,Compra su Steam,
+OpenOnEpic,,,Buy on Epic,Compra su Epic,
+OpenOnGOG,,,Buy on GOG,Compra su GOG,
+DLC1WindowBody,,,"Featuring bridges, train tunnels, churches, floating watchtowers, new maps and more!
+
+The Colonists: New Land DLC expansion pack is available now!","Con ponti, tunnel ferroviari, chiese, torri di guardia galleggianti, nuove mappe e altro ancora!
+
+Il pacchetto di espansione DLC The Colonists: New Land è ora disponibile!",
+DLC1WindowContinueBtn,,Button to continue past this screen,Continue,Continua,
+MultiplayerLiveDate,,,Multiplayer with PvP and Co-op modes will be going live on May 9th!,Il multiplayer con modalità PvP e cooperativa sarà disponibile dal 9 maggio!,
+ScenarioIntro_31,,intro mesage when starting DLC Mission 2,"Our new friend has told us that other robots escaping from Earth headed to this region of space with the same faulty landing mechanism on their ships.
+
+Let’s build a medium monument as we search for our stricken brethren. Their signal is coming from one of the corners of this map - we’re going to need our bridge, train tunnel and floating watchtower technology to find and rescue them!","Il nostro nuovo amico ci ha detto che altri robot in fuga dalla Terra si sono diretti in questa regione dello spazio con lo stesso meccanismo di atterraggio difettoso sulle loro navi.
+
+Costruiamo un monumento di medie dimensioni mentre cerchiamo i nostri fratelli colpiti. Il loro segnale proviene da uno degli angoli di questa mappa - avremo bisogno del nostro ponte, del tunnel ferroviario e della tecnologia della torre di guardia galleggiante per trovarli e salvarli!",
+ScenarioIntro_32,,intro mesage when starting DLC Mission 3,"It looks like this world has plenty of fishing spots out to sea, let's follow this river and see where we can find our stranded anthrobotic cousin.
+
+It’ll probably take all our technology and ingenuity so we should also construct a large monument to celebrate our rescue!","Sembra che questo mondo abbia molti posti per pescare in mare aperto, seguiamo questo fiume e vediamo dove possiamo trovare il nostro cugino umanoide incagliato.
+
+Probabilmente ci vorrà tutta la nostra tecnologia e il nostro ingegno, quindi dovremmo anche costruire un grande monumento per celebrare il nostro salvataggio!",
+ScenarioIntro_33,,intro mesage when starting DLC Mission 4,"A final signal was found emanating somewhere on this world. It’s a dusty start - let’s make use of our desert well - but our scans showed fertile land where we can grow our food.
+
+Our robot friend need us!","È stato trovato un ultimo segnale proveniente da qualche parte su questo mondo. È un inizio polveroso - utilizziamo bene il nostro deserto - ma le nostre scansioni hanno mostrato terreni fertili dove possiamo coltivare il nostro cibo.
+
+Il nostro amico robot ha bisogno di noi!",
+MapEditorMode_17_Desc,Text,,"Click and drag to paint flora.
+[Ctrl] and click to copy existing flora.
+[Alt] and click to place individually.
+Hold [F] + Wheel to change scale.
+Hold [R] + Wheel to change internal rotation.
+Hold [G] + Wheel to change rock height.","Fai clic e trascina per posizionare la flora.
+[Ctrl] e clic per copiare la flora esistente.
+[Alt] e clic per posizionarli individualmente.
+Tieni premuto [F] + Rotella per cambiare scala.
+Tieni premuto [R] + Rotella per modificare la rotazione interna.
+Tieni premuto [G] + Rotella per modificare l'altezza della roccia.",
+Tip_23,,,You can upgrade watchtowers to increase their territory range,Puoi potenziare le torri di guardia per aumentare la loro portata territoriale,
+Tip_24,,,You can place train tracks outside your territory,Puoi posizionare i binari del treno fuori dal tuo territorio,
+Tip_25,,,"In New Lands DLC, use floating watchtowers and train stations to access otherwise inaccessible locations","Nel DLC New Lands, usa le torri di guardia galleggianti e le stazioni ferroviarie per accedere a luoghi altrimenti inaccessibili",
+BdPlVaResults_48_Name,Text,"{0}: building plural type
+""Too close to other Desert Wells""",Too close to other {0},Troppo vicino ad altri {0},
+MiscCat_18_Name,Text,,Desert Water Source,,2907
+MiscCat_18_Desc,Text,,available on sand or desert tiles,,2908

@@ -170,16 +170,15 @@ class CSVValidator:
         result_string = ""
         for grammar_element in self.elements_to_check:
             en_count = english_content.count(grammar_element)
-            if grammar_element not in self.allowed_elements_difference:
-                tr_count = translated_content.count(grammar_element)
-                result_string += "Element: '" + str(grammar_element) + "'"
-                result_string += " - Original Count:" + str(en_count)
-                result_string += " - Translated Count:" + str(tr_count)
-                if en_count == tr_count:
-                    result_string += " - [OK]"
-                else:
-                    result_string += " - [ERROR]"
-                result_string += "\n"
+            tr_count = translated_content.count(grammar_element)
+            result_string += "Element: '" + str(grammar_element) + "'"
+            result_string += " - Original Count:" + str(en_count)
+            result_string += " - Translated Count:" + str(tr_count)
+            if en_count == tr_count:
+                result_string += " - [OK]"
+            else:
+                result_string += " - [ERROR]"
+            result_string += "\n"
         return result_string
 
     def process_file(self, filename: str):

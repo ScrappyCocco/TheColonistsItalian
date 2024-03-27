@@ -2731,7 +2731,7 @@
     "Key": "Custom Maps",
     "Type": "Text",
     "Desc": "",
-    "English": "Custom Map",
+    "English": "Custom Maps",
     "Italian": "Mappe personalizzate",
     "Verify": ""
   },
@@ -21155,8 +21155,8 @@
     "Key": "Scenario_30_Description",
     "Type": "Text",
     "Desc": "",
-    "English": "Explore and expand with your robots' new bridge technology",
-    "Italian": "Esplora ed espanditi con la nuova tecnologia ponte dei tuoi robot",
+    "English": "As you continue to explore the galaxies of deep space you pick up a faint distress signal from a nearby planet with a familiar digital signature...",
+    "Italian": "Mentre continui a esplorare le galassie dello spazio profondo, raccogli un debole segnale di soccorso da un pianeta vicino con una firma digitale familiare...",
     "Verify": ""
   },
   {
@@ -21171,16 +21171,16 @@
     "Key": "Scenario_31_Description",
     "Type": "Text",
     "Desc": "",
-    "English": "",
-    "Italian": "",
+    "English": "Another crashed colony ship needs your help as you make use of all your new technology.",
+    "Italian": "Un'altra nave coloniale precipitata ha bisogno del tuo aiuto mentre utilizzi tutta la tua nuova tecnologia.",
     "Verify": ""
   },
   {
     "Key": "Scenario_31_Name",
     "Type": "Text",
-    "Desc": "",
-    "English": "The Golden Isle",
-    "Italian": "L'isola d'Oro",
+    "Desc": "(need to use a tunnel on this map)",
+    "English": "Tunnel Vision",
+    "Italian": "Visuale Tunnel",
     "Verify": ""
   },
   {
@@ -21803,32 +21803,32 @@
     "Key": "Scenario_32_Description",
     "Type": "Text",
     "Desc": "",
-    "English": "",
-    "Italian": "",
+    "English": "The terrain becomes trickier as the search continues for all the lost colony ships.",
+    "Italian": "Il terreno diventa più complicato man mano che continua la ricerca di tutte le navi coloniali perdute.",
     "Verify": ""
   },
   {
     "Key": "Scenario_32_Name",
     "Type": "Text",
     "Desc": "",
-    "English": "",
-    "Italian": "",
+    "English": "Downstream",
+    "Italian": "A valle",
     "Verify": ""
   },
   {
     "Key": "Scenario_33_Description",
     "Type": "Text",
     "Desc": "",
-    "English": "",
-    "Italian": "",
+    "English": "The last ship remains somewhere through a harsh desert landscape.",
+    "Italian": "L'ultima nave è da qualche parte in un aspro paesaggio desertico.",
     "Verify": ""
   },
   {
     "Key": "Scenario_33_Name",
     "Type": "Text",
     "Desc": "",
-    "English": "",
-    "Italian": "",
+    "English": "The Desert Climb",
+    "Italian": "La Scalata del Deserto",
     "Verify": ""
   },
   {
@@ -22194,16 +22194,16 @@
   {
     "Key": "ScenVict_12_Desc",
     "Type": "Text",
-    "Desc": "TBC",
-    "English": "Locate and recover crashed ship",
+    "Desc": "",
+    "English": "Recover crashed ship",
     "Italian": "Individua e recupera la nave precipitata",
     "Verify": ""
   },
   {
     "Key": "ScenVict_12_CreateDesc",
     "Type": "Text",
-    "Desc": "TBC",
-    "English": "Locate and recover the crashed ship",
+    "Desc": "",
+    "English": "Recover the crashed ship",
     "Italian": "Individua e recupera la nave precipitata",
     "Verify": ""
   },
@@ -22531,15 +22531,15 @@
     "Key": "Building_82_Description",
     "Type": "Text",
     "Desc": "",
-    "English": "Pulls <it>Water</it> from deep underground.",
-    "Italian": "Estrae <it>Acqua</it> dal sottosuolo profondo.",
+    "English": "Pulls <it>Water</it> from a deep underground water source on sand tiles.\n\nNeeds be placed a certain distance away from other Desert Wells.",
+    "Italian": "Estrae <it>Acqua</it> da una profonda fonte d'acqua sotterranea su caselle di sabbia.\n\nDeve essere posizionato a una certa distanza dagli altri Pozzi di pompaggio.",
     "Verify": ""
   },
   {
     "Key": "Building_82_Name",
     "Type": "Text",
     "Desc": "",
-    "English": "Shaft Well",
+    "English": "Desert Well",
     "Italian": "Pozzo di pompaggio",
     "Verify": ""
   },
@@ -22547,7 +22547,7 @@
     "Key": "Building_82_Plural",
     "Type": "Text",
     "Desc": "",
-    "English": "Shaft Wells",
+    "English": "Desert Wells",
     "Italian": "Pozzi di pompaggio",
     "Verify": ""
   },
@@ -22614,5 +22614,645 @@
     "English": "Expand your frontiers with The Colonists: New Lands! Improve your transport network and overcome challenging terrain with Bridges and Train Tunnels, boost your economy with the Mint and even allow your bots to discover their spiritual side…\n\nMaster the seas with Floating Watchtowers to oversee your charming new Fishing Boats as they haul in bountiful catches of fish and lobster.\n\nWith six new maps and much more to discover, New Lands is an essential addition to The Colonists experience.\n\n[h2][b]Features:[/b][/h2]\n\n[b]Churches[/b]\nBoost your colony by generating Holy Energy which allows the Priestbot to bless buildings\n\n[b]Bridges[/b]\nWood, Iron and Steel - your bots can now span the shortest gaps to the widest seas.\n\n[b]Train Tunnels[/b]\nReach previously inaccessible locations or create shortcuts by tunnelling through hills and mountains.\n\n[b]Fishing Boats[/b]\nSend out boat trips to make use of offshore fishing spots and provide fish and lobster for your residences.\n\n[b]Floating Watchtower[/b]\nExpand your domain to the open seas and challenge your enemies from the water.\n\n[b]Mint[/b]\nProduce Gold Coins which can be sold at the marketplace or supplied to the Workshop for improved research techs.\n\n[b]Desert Well[/b]\nConstruct deep-sunk wells to gain access to valuable water in desert regions.\n\n[b]6 New Maps[/b]\nTake on the challenge of the new campaign and recover the crashed colony ships.",
     "Italian": "Espandi le tue frontiere con The Colonists: New Lands! Migliora la tua rete di trasporti e supera terreni impegnativi con ponti e tunnel ferroviari, potenzia la tua economia con la zecca e consenti persino ai tuoi robot di scoprire il loro lato spirituale...\n\nDomina i mari con le torri di guardia galleggianti per sorvegliare le tue affascinanti nuove barche da pesca mentre trasportano abbondanti catture di pesci e aragoste.\n\nCon sei nuove mappe e molto altro da scoprire, New Lands è un'aggiunta essenziale all'esperienza di The Colonists.\n\n[h2][b]Caratteristiche:[/b][/h2]\n\n[b]Chiese[/b]\nPotenzia la tua colonia generando Energia Sacra che consente al BotPrete di benedire gli edifici\n\n[b]Ponti[/b]\nLegno, ferro e acciaio - ora i tuoi robot possono attraversare gli spazi più brevi fino ai mari più ampi.\n\n[b]Tunnel ferroviari[/b]\nRaggiungi luoghi precedentemente inaccessibili o crea scorciatoie scavando tunnel tra colline e montagne.\n\n[b]Barche da pesca[/b]\nInvia le barche per utilizzare i punti di pesca in mare aperto e fornire pesce e aragosta per le tue abitazioni.\n\n[b]Torre di guardia galleggiante[/b]\nEspandi il tuo dominio in mare aperto e sfida i tuoi nemici dall'acqua.\n\n[b]Zecca[/b]\nProduci monete d'oro che possono essere vendute al mercato o fornite all'officina per migliorare le tecnologie di ricerca.\n\n[b]Pozzo del deserto[/b]\nCostruisci pozzi profondi per accedere alla preziosa acqua nelle regioni desertiche.\n\n[b]6 Nuove Mappe[/b]\nAccetta la sfida della nuova campagna e recupera le navi coloniali precipitate.",
     "Verify": ""
+  },
+  {
+    "Key": "MultiplayerResyncingMsg",
+    "Type": "",
+    "Desc": "",
+    "English": "Resyncing game",
+    "Italian": "Risincronizzazione della partita",
+    "Verify": ""
+  },
+  {
+    "Key": "GameMenuMultiplayerConcedeBtn",
+    "Type": "",
+    "Desc": "",
+    "English": "Concede game",
+    "Italian": "Arrenditi",
+    "Verify": ""
+  },
+  {
+    "Key": "GameMenu_MultiplayerConcedeCheck",
+    "Type": "",
+    "Desc": "",
+    "English": "Are you sure you want to concede this game?",
+    "Italian": "Sicuro di voler dichiarare la resa?",
+    "Verify": ""
+  },
+  {
+    "Key": "HelpTitle_44_Desc",
+    "Type": "",
+    "Desc": "",
+    "English": "Unlocked more colour schemes in New Lands DLC campaign",
+    "Italian": "Hai sbloccato più combinazioni di colori nella campagna DLC New Lands",
+    "Verify": ""
+  },
+  {
+    "Key": "HelpTitle_44_Name",
+    "Type": "",
+    "Desc": "",
+    "English": "Locked",
+    "Italian": "Bloccato",
+    "Verify": ""
+  },
+  {
+    "Key": "ScenarioIntro_30",
+    "Type": "",
+    "Desc": "",
+    "English": "We've landed in a bog surrounded by rock! Luckily there appears to be a small gap we can cross using our new bridge technology.\n\nLet's explore, locate the source of the distress signal, and build a small monument to celebrate a new home in this land.",
+    "Italian": "Siamo atterrati in una palude circondata da rocce! Fortunatamente sembra esserci un piccolo varco che possiamo attraversare utilizzando la nostra nuova tecnologia per i ponti.\n\nEsploriamo, localizziamo la fonte del segnale di soccorso, e costruiamo un piccolo monumento per celebrare una nuova casa in questa terra.",
+    "Verify": ""
+  },
+  {
+    "Key": "DLC1GameCompleteColourMsg",
+    "Type": "",
+    "Desc": "",
+    "English": "You've unlocked a new colour scheme!",
+    "Italian": "Hai sbloccato una nuova combinazione di colori!",
+    "Verify": ""
+  },
+  {
+    "Key": "Notification_32_Desc",
+    "Type": "",
+    "Desc": "",
+    "English": "You've recovered a colony ship!",
+    "Italian": "Hai recuperato una nave coloniale!",
+    "Verify": ""
+  },
+  {
+    "Key": "Notification_32_Name",
+    "Type": "",
+    "Desc": "",
+    "English": "Colony Ship Recovered!",
+    "Italian": "Nave Coloniale recuperata!",
+    "Verify": ""
+  },
+  {
+    "Key": "TerrainCategory_4",
+    "Type": "",
+    "Desc": "",
+    "English": "Prairie",
+    "Italian": "Prateria",
+    "Verify": ""
+  },
+  {
+    "Key": "TerrainCategory_5",
+    "Type": "",
+    "Desc": "",
+    "English": "Mud",
+    "Italian": "Fango",
+    "Verify": ""
+  },
+  {
+    "Key": "MapEditorMode_39_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Click to place a crashed colony ship.\n[Shift] and click to remove.",
+    "Italian": "Fai clic per posizionare una nave coloniale precipitata.\n[Shift] e clic per rimuovere.",
+    "Verify": ""
+  },
+  {
+    "Key": "MapEditorMode_39_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Crashed Colony Ships",
+    "Italian": "Navi Coloniali precipitate",
+    "Verify": ""
+  },
+  {
+    "Key": "MapEditorMapInfoUploadImage",
+    "Type": "",
+    "Desc": "Button to upload an image for your map's thumbnail",
+    "English": "Upload",
+    "Italian": "Upload",
+    "Verify": ""
+  },
+  {
+    "Key": "MapEditorSettingsActiveModsHeader",
+    "Type": "",
+    "Desc": "Title of section where you edit active mods for your map",
+    "English": "Active Mods",
+    "Italian": "Mods Attive",
+    "Verify": ""
+  },
+  {
+    "Key": "MapEditorSettingsActiveModsChangeMods",
+    "Type": "",
+    "Desc": "Button to change mods you have in your map",
+    "English": "Change Mods",
+    "Italian": "Modifica Mods",
+    "Verify": ""
+  },
+  {
+    "Key": "MapEditorSettingsActiveModsReloadMods",
+    "Type": "",
+    "Desc": "Button to reload current mods",
+    "English": "Reload Mods",
+    "Italian": "Ricarica Mods",
+    "Verify": ""
+  },
+  {
+    "Key": "SelectVictoryConditionWindowHeader",
+    "Type": "",
+    "Desc": "",
+    "English": "Select Victory Condition",
+    "Italian": "Seleziona Condizione di Vittoria",
+    "Verify": ""
+  },
+  {
+    "Key": "SaveGameTypeLocal",
+    "Type": "",
+    "Desc": "If the savegame is of a map created by the player",
+    "English": "Local Map",
+    "Italian": "Mappa locale",
+    "Verify": ""
+  },
+  {
+    "Key": "SaveGameWindowShowMeta",
+    "Type": "",
+    "Desc": "Toggle to show/hide full details of a save game file",
+    "English": "Show Details",
+    "Italian": "Mostra dettagli",
+    "Verify": ""
+  },
+  {
+    "Key": "TechResearchRepeatable",
+    "Type": "",
+    "Desc": "Meaning a tech can be researched multiple times",
+    "English": "Repeatable",
+    "Italian": "Ripetibile",
+    "Verify": ""
+  },
+  {
+    "Key": "MP_PublicGames",
+    "Type": "",
+    "Desc": "",
+    "English": "Public Games",
+    "Italian": "Partite Pubbliche",
+    "Verify": ""
+  },
+  {
+    "Key": "MP_PublicGamesLoading",
+    "Type": "",
+    "Desc": "",
+    "English": "Loading public games...",
+    "Italian": "Cercando partite pubbliche...",
+    "Verify": ""
+  },
+  {
+    "Key": "MP_PublicGamesEmpty",
+    "Type": "",
+    "Desc": "",
+    "English": "There are no public games available currently.\nTry hosting one!",
+    "Italian": "Al momento non ci sono partite pubbliche disponibili.\nProva a crearne una!",
+    "Verify": ""
+  },
+  {
+    "Key": "MP_CreatePrivateHeader",
+    "Type": "",
+    "Desc": "Header of Create Private section",
+    "English": "Create Private Game",
+    "Italian": "Crea Partita Privata",
+    "Verify": ""
+  },
+  {
+    "Key": "MP_CreatePrivateHostNewBtn",
+    "Type": "",
+    "Desc": "Button",
+    "English": "Host New Game",
+    "Italian": "Ospita Nuova Partita",
+    "Verify": ""
+  },
+  {
+    "Key": "MP_CreatePrivateContinueBtn",
+    "Type": "",
+    "Desc": "Button to continue playing a previous multiplayer game",
+    "English": "Continue Game",
+    "Italian": "Continua Partita",
+    "Verify": ""
+  },
+  {
+    "Key": "MP_JoinPrivateHeader",
+    "Type": "",
+    "Desc": "Header of Join Private section",
+    "English": "Join Private Game",
+    "Italian": "Unisciti ad una Partita Privata",
+    "Verify": ""
+  },
+  {
+    "Key": "MP_EnterPassword",
+    "Type": "",
+    "Desc": "Input field instruction",
+    "English": "Enter password",
+    "Italian": "Inserisci password",
+    "Verify": ""
+  },
+  {
+    "Key": "MP_JoinPrivateJoinBtn",
+    "Type": "",
+    "Desc": "Button",
+    "English": "Join Game",
+    "Italian": "Uniscititi ad una Partita",
+    "Verify": ""
+  },
+  {
+    "Key": "MP_HostMultiplayerWindowTitle",
+    "Type": "",
+    "Desc": "Title of panel when you set a multiplayer game",
+    "English": "Host Multiplayer Game",
+    "Italian": "Ospita Partita Multiplayer",
+    "Verify": ""
+  },
+  {
+    "Key": "MP_HostMultiplayerWindowGameType",
+    "Type": "",
+    "Desc": "Whether a game will be public or private",
+    "English": "Game Type",
+    "Italian": "Tipo di Gioco",
+    "Verify": ""
+  },
+  {
+    "Key": "",
+    "Type": "",
+    "Desc": "",
+    "English": "",
+    "Italian": "",
+    "Verify": ""
+  },
+  {
+    "Key": "",
+    "Type": "",
+    "Desc": "",
+    "English": "",
+    "Italian": "",
+    "Verify": ""
+  },
+  {
+    "Key": "MP_HostMultiplayerWindowHostBtn",
+    "Type": "",
+    "Desc": "Button to create game",
+    "English": "Host Game",
+    "Italian": "Ospita Partita",
+    "Verify": ""
+  },
+  {
+    "Key": "MP_EditVictoryConditionsHeader",
+    "Type": "",
+    "Desc": "",
+    "English": "Edit Victory Conditions",
+    "Italian": "Modifica le Condizioni di Vittoria",
+    "Verify": ""
+  },
+  {
+    "Key": "MP_EditVictoryConditionsIntro",
+    "Type": "",
+    "Desc": "",
+    "English": "Players need to complete all the conditions in any set of victory conditions:",
+    "Italian": "I giocatori devono completare tutte le condizioni in qualsiasi serie di condizioni di vittoria:",
+    "Verify": ""
+  },
+  {
+    "Key": "MP_EditVictoryConditionsAddCondBtn",
+    "Type": "",
+    "Desc": "Button",
+    "English": "Add Victory Condition",
+    "Italian": "Aggiungi la Condizione di Vittoria",
+    "Verify": ""
+  },
+  {
+    "Key": "MP_EditVictoryConditionsAddSetBtn",
+    "Type": "",
+    "Desc": "Button to add a new set of alternative victory conditions",
+    "English": "Add Alternative Set",
+    "Italian": "Aggiungi Set Alternativo",
+    "Verify": ""
+  },
+  {
+    "Key": "MP_EditVictoryConditionsCreateSetBtn",
+    "Type": "",
+    "Desc": "Button to create a set of victory conditions",
+    "English": "Create Set",
+    "Italian": "Crea Set",
+    "Verify": ""
+  },
+  {
+    "Key": "MP_EditVictoryConditionsAlreadyAdded",
+    "Type": "",
+    "Desc": "Message if unique victory condition type has already been added",
+    "English": "Already added!",
+    "Italian": "Già aggiunto!",
+    "Verify": ""
+  },
+  {
+    "Key": "MP_EditVictoryConditionsAddNewBtn",
+    "Type": "",
+    "Desc": "Button to add victory condition",
+    "English": "ADD",
+    "Italian": "AGGIUNGI",
+    "Verify": ""
+  },
+  {
+    "Key": "MP_EditVictoryConditionHeader",
+    "Type": "",
+    "Desc": "Header for window when editing victory condition properties",
+    "English": "Edit Victory Condition",
+    "Italian": "Modifica le Condizioni di Vittoria",
+    "Verify": ""
+  },
+  {
+    "Key": "MP_EditVictoryConditionConfirmBtn",
+    "Type": "",
+    "Desc": "",
+    "English": "CONFIRM",
+    "Italian": "CONFERMA",
+    "Verify": ""
+  },
+  {
+    "Key": "MP_SettingUpGame",
+    "Type": "",
+    "Desc": "When multiplayer is in process of being created",
+    "English": "Setting up game",
+    "Italian": "Preparando la partita",
+    "Verify": ""
+  },
+  {
+    "Key": "MP_LobbyWaitingForMorePlayers",
+    "Type": "",
+    "Desc": "",
+    "English": "Waiting for more players to join",
+    "Italian": "In attesa che si uniscano altri giocatori",
+    "Verify": ""
+  },
+  {
+    "Key": "MP_LobbyStartGameBtn",
+    "Type": "",
+    "Desc": "",
+    "English": "Start Game",
+    "Italian": "Inizia Partita",
+    "Verify": ""
+  },
+  {
+    "Key": "MP_LobbyWaitingForHostToStart",
+    "Type": "",
+    "Desc": "",
+    "English": "Waiting for host to start a game",
+    "Italian": "In attesa che l'host avvii una partita",
+    "Verify": ""
+  },
+  {
+    "Key": "MP_LobbyInviteASteamFriendBtn",
+    "Type": "",
+    "Desc": "",
+    "English": "Invite a Steam Friend",
+    "Italian": "Invita un amico di Steam",
+    "Verify": ""
+  },
+  {
+    "Key": "Tunnel_0_Desc",
+    "Type": "",
+    "Desc": "",
+    "English": "Tunnels allow your trains to go under hills and mountains.\n\nTunnels are straight and level so find a steep unobstructed part of the terrain and if the other end of tunnel is unobstructed you will be able to place a tunnel.",
+    "Italian": "I tunnel permettono ai tuoi treni di passare sotto colline e montagne.\n\nI tunnel sono diritti e in piano, quindi trova una parte ripida e libera del terreno e se l'altra estremità del tunnel non è ostruita sarai in grado di posizionare un tunnel.",
+    "Verify": ""
+  },
+  {
+    "Key": "Tech_77_Desc",
+    "Type": "",
+    "Desc": "",
+    "English": "Increases the speed of all the roads and paths in your colony by <amount>%",
+    "Italian": "Aumenta la velocità di tutte le strade e i percorsi della tua colonia del <amount>%",
+    "Verify": ""
+  },
+  {
+    "Key": "Tech_77_Name",
+    "Type": "",
+    "Desc": "",
+    "English": "Road & Path Boost",
+    "Italian": "Potenziamento di Strade e Percorsi",
+    "Verify": ""
+  },
+  {
+    "Key": "TerrainCategory_4_Desc",
+    "Type": "",
+    "Desc": "",
+    "English": "Animals can graze but nothing can be planted",
+    "Italian": "Gli animali possono pascolare ma non si può piantare nulla",
+    "Verify": ""
+  },
+  {
+    "Key": "TerrainCategory_5_Desc",
+    "Type": "",
+    "Desc": "",
+    "English": "Supports roads and paths but not buildings",
+    "Italian": "Supporta strade e percorsi ma non edifici",
+    "Verify": ""
+  },
+  {
+    "Key": "TerrainType_22",
+    "Type": "",
+    "Desc": "",
+    "English": "Rock C",
+    "Italian": "Roccioso C",
+    "Verify": ""
+  },
+  {
+    "Key": "TerrainType_19",
+    "Type": "",
+    "Desc": "",
+    "English": "Prairie A",
+    "Italian": "Prateria A",
+    "Verify": ""
+  },
+  {
+    "Key": "TerrainType_23",
+    "Type": "",
+    "Desc": "",
+    "English": "Prairie B",
+    "Italian": "Prateria B",
+    "Verify": ""
+  },
+  {
+    "Key": "TerrainType_20",
+    "Type": "",
+    "Desc": "",
+    "English": "Mud A",
+    "Italian": "Fango A",
+    "Verify": ""
+  },
+  {
+    "Key": "TerrainType_21",
+    "Type": "",
+    "Desc": "",
+    "English": "Mud B",
+    "Italian": "Fango B",
+    "Verify": ""
+  },
+  {
+    "Key": "Scenario_40_Name",
+    "Type": "",
+    "Desc": "(you're attacking an island)",
+    "English": "Island Assault",
+    "Italian": "Assalto all'isola",
+    "Verify": ""
+  },
+  {
+    "Key": "Scenario_40_Description",
+    "Type": "",
+    "Desc": "",
+    "English": "Use your new technologies to claim victory over your anthrobotic foe.",
+    "Italian": "Usa le tue nuove tecnologie per rivendicare la vittoria sul tuo nemico umanoide.",
+    "Verify": ""
+  },
+  {
+    "Key": "Scenario_41_Name",
+    "Type": "",
+    "Desc": "(map is sort of in the shape of a ring)",
+    "English": "The Ring",
+    "Italian": "L'anello",
+    "Verify": ""
+  },
+  {
+    "Key": "Scenario_41_Description",
+    "Type": "",
+    "Desc": "",
+    "English": "Use your new technologies to claim victory over your anthrobotic foe.",
+    "Italian": "Usa le tue nuove tecnologie per rivendicare la vittoria sul tuo nemico umanoide.",
+    "Verify": ""
+  },
+  {
+    "Key": "DLC1_Required",
+    "Type": "",
+    "Desc": "",
+    "English": "New Lands DLC Required",
+    "Italian": "Richiede DLC New Lands",
+    "Verify": ""
+  },
+  {
+    "Key": "OpenOnSteam",
+    "Type": "",
+    "Desc": "",
+    "English": "Buy on Steam",
+    "Italian": "Compra su Steam",
+    "Verify": ""
+  },
+  {
+    "Key": "OpenOnEpic",
+    "Type": "",
+    "Desc": "",
+    "English": "Buy on Epic",
+    "Italian": "Compra su Epic",
+    "Verify": ""
+  },
+  {
+    "Key": "OpenOnGOG",
+    "Type": "",
+    "Desc": "",
+    "English": "Buy on GOG",
+    "Italian": "Compra su GOG",
+    "Verify": ""
+  },
+  {
+    "Key": "DLC1WindowBody",
+    "Type": "",
+    "Desc": "",
+    "English": "Featuring bridges, train tunnels, churches, floating watchtowers, new maps and more!\n\nThe Colonists: New Land DLC expansion pack is available now!",
+    "Italian": "Con ponti, tunnel ferroviari, chiese, torri di guardia galleggianti, nuove mappe e altro ancora!\n\nIl pacchetto di espansione DLC The Colonists: New Land è ora disponibile!",
+    "Verify": ""
+  },
+  {
+    "Key": "DLC1WindowContinueBtn",
+    "Type": "",
+    "Desc": "Button to continue past this screen",
+    "English": "Continue",
+    "Italian": "Continua",
+    "Verify": ""
+  },
+  {
+    "Key": "MultiplayerLiveDate",
+    "Type": "",
+    "Desc": "",
+    "English": "Multiplayer with PvP and Co-op modes will be going live on May 9th!",
+    "Italian": "Il multiplayer con modalità PvP e cooperativa sarà disponibile dal 9 maggio!",
+    "Verify": ""
+  },
+  {
+    "Key": "ScenarioIntro_31",
+    "Type": "",
+    "Desc": "intro mesage when starting DLC Mission 2",
+    "English": "Our new friend has told us that other robots escaping from Earth headed to this region of space with the same faulty landing mechanism on their ships.\n\nLet’s build a medium monument as we search for our stricken brethren. Their signal is coming from one of the corners of this map - we’re going to need our bridge, train tunnel and floating watchtower technology to find and rescue them!",
+    "Italian": "Il nostro nuovo amico ci ha detto che altri robot in fuga dalla Terra si sono diretti in questa regione dello spazio con lo stesso meccanismo di atterraggio difettoso sulle loro navi.\n\nCostruiamo un monumento di medie dimensioni mentre cerchiamo i nostri fratelli colpiti. Il loro segnale proviene da uno degli angoli di questa mappa - avremo bisogno del nostro ponte, del tunnel ferroviario e della tecnologia della torre di guardia galleggiante per trovarli e salvarli!",
+    "Verify": ""
+  },
+  {
+    "Key": "ScenarioIntro_32",
+    "Type": "",
+    "Desc": "intro mesage when starting DLC Mission 3",
+    "English": "It looks like this world has plenty of fishing spots out to sea, let's follow this river and see where we can find our stranded anthrobotic cousin.\n\nIt’ll probably take all our technology and ingenuity so we should also construct a large monument to celebrate our rescue!",
+    "Italian": "Sembra che questo mondo abbia molti posti per pescare in mare aperto, seguiamo questo fiume e vediamo dove possiamo trovare il nostro cugino umanoide incagliato.\n\nProbabilmente ci vorrà tutta la nostra tecnologia e il nostro ingegno, quindi dovremmo anche costruire un grande monumento per celebrare il nostro salvataggio!",
+    "Verify": ""
+  },
+  {
+    "Key": "ScenarioIntro_33",
+    "Type": "",
+    "Desc": "intro mesage when starting DLC Mission 4",
+    "English": "A final signal was found emanating somewhere on this world. It’s a dusty start - let’s make use of our desert well - but our scans showed fertile land where we can grow our food.\n\nOur robot friend need us!",
+    "Italian": "È stato trovato un ultimo segnale proveniente da qualche parte su questo mondo. È un inizio polveroso - utilizziamo bene il nostro deserto - ma le nostre scansioni hanno mostrato terreni fertili dove possiamo coltivare il nostro cibo.\n\nIl nostro amico robot ha bisogno di noi!",
+    "Verify": ""
+  },
+  {
+    "Key": "MapEditorMode_17_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Click and drag to paint flora.\n[Ctrl] and click to copy existing flora.\n[Alt] and click to place individually.\nHold [F] + Wheel to change scale.\nHold [R] + Wheel to change internal rotation.\nHold [G] + Wheel to change rock height.",
+    "Italian": "Fai clic e trascina per posizionare la flora.\n[Ctrl] e clic per copiare la flora esistente.\n[Alt] e clic per posizionarli individualmente.\nTieni premuto [F] + Rotella per cambiare scala.\nTieni premuto [R] + Rotella per modificare la rotazione interna.\nTieni premuto [G] + Rotella per modificare l'altezza della roccia.",
+    "Verify": ""
+  },
+  {
+    "Key": "Tip_23",
+    "Type": "",
+    "Desc": "",
+    "English": "You can upgrade watchtowers to increase their territory range",
+    "Italian": "Puoi potenziare le torri di guardia per aumentare la loro portata territoriale",
+    "Verify": ""
+  },
+  {
+    "Key": "Tip_24",
+    "Type": "",
+    "Desc": "",
+    "English": "You can place train tracks outside your territory",
+    "Italian": "Puoi posizionare i binari del treno fuori dal tuo territorio",
+    "Verify": ""
+  },
+  {
+    "Key": "Tip_25",
+    "Type": "",
+    "Desc": "",
+    "English": "In New Lands DLC, use floating watchtowers and train stations to access otherwise inaccessible locations",
+    "Italian": "Nel DLC New Lands, usa le torri di guardia galleggianti e le stazioni ferroviarie per accedere a luoghi altrimenti inaccessibili",
+    "Verify": ""
+  },
+  {
+    "Key": "BdPlVaResults_48_Name",
+    "Type": "Text",
+    "Desc": "{0}: building plural type\n\"Too close to other Desert Wells",
+    "English": "Too close to other {0}",
+    "Italian": "Troppo vicino ad altri {0}",
+    "Verify": ""
+  },
+  {
+    "Key": "MiscCat_18_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Desert Water Source",
+    "Italian": "",
+    "Verify": 2907
+  },
+  {
+    "Key": "MiscCat_18_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "available on sand or desert tiles",
+    "Italian": "",
+    "Verify": 2908
   }
 ]
