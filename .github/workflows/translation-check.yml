@@ -21,6 +21,12 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r validator/requirements.txt
     - name: Translation Validator
+      id: translation-check
       run: |
         cd validator
         python main.py "../The_Colonists_Translation_Data_Italian.csv"
+        echo "RESULT_CAT=$(cat result)" >> $GITHUB_OUTPUT
+    - name: Output result
+      env:
+        RESULT_TEXT: ${{ steps.translation-check.outputs.RESULT_CAT }}
+      run: echo "$RESULT_TEXT"
