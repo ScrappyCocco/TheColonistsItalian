@@ -25,7 +25,7 @@ jobs:
       run: |
         cd validator
         python main.py "../The_Colonists_Translation_Data_Italian.csv"
-        echo "RESULT_CAT=$(cat result)" >> $GITHUB_OUTPUT
+        echo "RESULT_CAT=$(cat result.txt)" >> $GITHUB_OUTPUT
     - name: Output result
       env:
         RESULT_TEXT: ${{ steps.translation-check.outputs.RESULT_CAT }}
