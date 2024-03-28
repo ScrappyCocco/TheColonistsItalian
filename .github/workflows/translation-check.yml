@@ -26,5 +26,5 @@ jobs:
         python main.py "../The_Colonists_Translation_Data_Italian.csv"
     - name: Output result
       run: |
-        ls -l
+        cd validator
         cat result.txt
