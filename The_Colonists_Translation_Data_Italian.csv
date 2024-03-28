@@ -718,7 +718,7 @@ Una volta assegnata la priorità, una stella rosa apparirà sopra l'edificio e a
 
 Ad esempio, se si dispone di una Torre di guardia di Livello 1 che si desidera costruire il più rapidamente possibile, dare priorità alla Torre di guardia significa che riceverà tutti i Tronchi disponibili prodotti prima di qualsiasi altro edificio che potrebbe anche aver bisogno di Tronchi.
 
-.Puoi impostare un edificio prioritario per tipo di edificio.",
+Puoi impostare un edificio prioritario per tipo di edificio.",
 HelpPanel_31,Text,,"The Resource Overview panel gives you an general insight into how much a particular resource is being produced and how much it is in demand.
 
 Current Production is the amount being produced right now based on active buildings.
@@ -1332,19 +1332,19 @@ MusicVolume,Text,,Music Volume,Volume musica,
 My Maps,Text,,My Maps,Le mie mappe,
 My Scenarios,Text,,My Maps,Le mie mappe,
 NatRes_0_Desc,Text,,This Stone deposit can be harvested by the <bd>Level 1 Surface Mine</bd>.,Questo deposito di Pietra può essere estratto con la <bd>Miniera di Superficie Livello 1</bd>.,
-NatRes_0_Name,Text,,Stone Deposit,Deposito di pietra,
+NatRes_0_Name,Text,,Stone Deposit,Deposito di Pietra,
 NatRes_1_Desc,Text,,This Iron Ore deposit can be harvested by the <bd>Level 2 Surface Mine</bd>.,Questo deposito di Ferro grezzo può essere estratto con la <bd>Miniera di Superficie Livello 2</bd>.,
 NatRes_1_Name,Text,,Iron Ore Deposit,Deposito di Ferro grezzo,
 NatRes_253_Name,Text,,Unknown Natural Resources,Risorse naturali sconosciute,
 NatRes_254_Name,Text,,Any Natural Resources,Qualsiasi risorsa naturale,
 NatRes_2_Desc,Text,,This Coal deposit can be harvested by the <bd>Level 2 Surface Mine</bd>.,Questo deposito di Carbone può essere estratto con la <bd>Miniera di Superficie Livello 2</bd>.,
-NatRes_2_Name,Text,,Coal Deposit,Deposito di carbone,
+NatRes_2_Name,Text,,Coal Deposit,Deposito di Carbone,
 NatRes_3_Desc,Text,,This Quartz deposit can be harvested by the <bd>Level 3 Surface Mine</bd>.,Questo deposito di Quarzo può essere estratto con la <bd>Miniera di Superficie Livello 3</bd>.,
-NatRes_3_Name,Text,,Quartz Deposit,Deposito di quarzo,
+NatRes_3_Name,Text,,Quartz Deposit,Deposito di Quarzo,
 NatRes_4_Desc,Text,,This Gold deposit can be harvested by the <bd>Level 3 Surface Mine</bd>.,Questo deposito di Oro può essere estratto con la <bd>Miniera di Superficie Livello 3</bd>.,
-NatRes_4_Name,Text,,Gold Deposit,Deposito di oro,
+NatRes_4_Name,Text,,Gold Deposit,Deposito di Oro,
 NatRes_5_Desc,Text,,This Clay deposit can be harvested by the <bd>Level 2 Surface Mine</bd>.,Questo deposito di Argilla può essere estratto con la <bd>Miniera di Superficie Livello 2</bd>.,
-NatRes_5_Name,Text,,Clay Deposit,Deposito di argilla,
+NatRes_5_Name,Text,,Clay Deposit,Deposito di Argilla,
 NatRes_6_Desc,Text,,This Salt deposit can be harvested by the <bd>Level 3 Surface Mine</bd>.,Questo deposito di Sale può essere estratto con la <bd>Miniera di Superficie Livello 3</bd>.,
 NatRes_6_Name,Text,,Salt Deposit,Deposito di Sale,
 Natural Resources,Text,,Natural Resources,Risorse naturali,
@@ -3687,7 +3687,7 @@ Construct deep-sunk wells to gain access to valuable water in desert regions.
 [b]6 New Maps[/b]
 Take on the challenge of the new campaign and recover the crashed colony ships.","Espandi le tue frontiere con The Colonists: New Lands! Migliora la tua rete di trasporti e supera terreni impegnativi con ponti e tunnel ferroviari, potenzia la tua economia con la zecca e consenti persino ai tuoi robot di scoprire il loro lato spirituale...
 
-Domina i mari con le torri di guardia galleggianti per sorvegliare le tue affascinanti nuove barche da pesca mentre trasportano abbondanti catture di pesci e aragoste.
+Domina i mari con le torri di guardia galleggianti per sorvegliare le tue affascinanti nuove barche da pesca mentre trasportano un carico abbondante di pesci e aragoste.
 
 Con sei nuove mappe e molto altro da scoprire, New Lands è un'aggiunta essenziale all'esperienza di The Colonists.
 
@@ -3703,13 +3703,13 @@ Legno, ferro e acciaio - ora i tuoi robot possono attraversare gli spazi più br
 Raggiungi luoghi precedentemente inaccessibili o crea scorciatoie scavando tunnel tra colline e montagne.
 
 [b]Barche da pesca[/b]
-Invia le barche per utilizzare i punti di pesca in mare aperto e fornire pesce e aragosta per le tue abitazioni.
+Invia le barche per sfruttare le zone di pesca in mare aperto e fornire pesce e aragosta alle tue abitazioni.
 
 [b]Torre di guardia galleggiante[/b]
 Espandi il tuo dominio in mare aperto e sfida i tuoi nemici dall'acqua.
 
 [b]Zecca[/b]
-Produci monete d'oro che possono essere vendute al mercato o fornite all'officina per migliorare le tecnologie di ricerca.
+Produci monete d'oro che possono essere vendute al mercato o fornite al Laboratorio per migliorare le tecnologie di ricerca.
 
 [b]Pozzo del deserto[/b]
 Costruisci pozzi profondi per accedere alla preziosa acqua nelle regioni desertiche.
@@ -3806,7 +3806,7 @@ ScenarioIntro_31,,intro mesage when starting DLC Mission 2,"Our new friend has t
 
 Let’s build a medium monument as we search for our stricken brethren. Their signal is coming from one of the corners of this map - we’re going to need our bridge, train tunnel and floating watchtower technology to find and rescue them!","Il nostro nuovo amico ci ha detto che altri robot in fuga dalla Terra si sono diretti in questa regione dello spazio con lo stesso meccanismo di atterraggio difettoso sulle loro navi.
 
-Costruiamo un monumento di medie dimensioni mentre cerchiamo i nostri fratelli colpiti. Il loro segnale proviene da uno degli angoli di questa mappa - avremo bisogno del nostro ponte, del tunnel ferroviario e della tecnologia della torre di guardia galleggiante per trovarli e salvarli!",
+Costruiamo un monumento di medie dimensioni mentre cerchiamo i nostri fratelli colpiti. Il loro segnale proviene da uno degli angoli di questa mappa - avremo bisogno del ponte, del tunnel ferroviario e della tecnologia della torre di guardia galleggiante per trovarli e salvarli!",
 ScenarioIntro_32,,intro mesage when starting DLC Mission 3,"It looks like this world has plenty of fishing spots out to sea, let's follow this river and see where we can find our stranded anthrobotic cousin.
 
 It’ll probably take all our technology and ingenuity so we should also construct a large monument to celebrate our rescue!","Sembra che questo mondo abbia molti posti per pescare in mare aperto, seguiamo questo fiume e vediamo dove possiamo trovare il nostro cugino umanoide incagliato.
@@ -3842,3 +3842,9 @@ TrackPlacementGeneral2,,,You can also <hotkey>[Ctrl]</hotkey> and click a track 
 TunnelPlacementTip1,,,Press [R] to switch to other potential rotation on the highlight tile.,Premi [R] per passare ad un'altra potenziale rotazione sulla cella evidenziata.,
 MiscCat_15_Name,,,Fish / Lobster,Pesce/Aragosta,
 MiscCat_15_Desc,,,available from sea fishing locations,disponibile nei punti di pesca in mare,
+BdPlVaResults_42_Name,Text,,Can't adjust end tile,Impossibile regolare la casella finale,
+BdPlVaResults_49_Name,Text,,Can't adjust start tile,Impossibile regolare la casella iniziale,
+BdPlVaResults_43_Name,,,Obstruction below bridge,Ostruzione sotto il ponte,
+RandomMapCashVictoryCondition,,,Have $10000 in the bank,Avere $10000 in banca,
+FloraGrowthProgress,,{0}: percentage number,{0}% grown,{0}% cresciuto,
+FloraFullyGrown,,referring to trees for examples,Fully grown,Maturo,

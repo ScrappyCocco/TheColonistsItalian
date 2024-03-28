@@ -4564,7 +4564,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "By default, resource priorities are determined by the order set in the demands panel for each resource.\n\nHowever, you can also prioritise a single building over all others by using this button (or holding <hotkey>[P]</hotkey> and clicking the building).\n\nOnce prioritised, a pink star will appear above the building and it will appear at the top of the demand list of all resources that it is trying to source.\n\nFor example, if you have a Level 1 Watchtower that you wish to build as quickly as possible then Prioritising your Watchtower will mean it receives all available Logs produced ahead of any other buildings that may also currently need Logs.\n\nYou are able to set one Priority building per building type.",
-    "Italian": "Per impostazione predefinita, le priorità delle risorse sono determinate dall'ordine impostato nel pannello delle richieste per ciascuna risorsa.\n\nTuttavia, puoi anche dare la priorità a un singolo edificio rispetto a tutti gli altri usando questo pulsante (o tenendo premuto <hotkey>[P]</hotkey> e facendo clic sull'edificio).\n\nUna volta assegnata la priorità, una stella rosa apparirà sopra l'edificio e apparirà in cima all'elenco della domanda di tutte le risorse che sta cercando di reperire.\n\nAd esempio, se si dispone di una Torre di guardia di Livello 1 che si desidera costruire il più rapidamente possibile, dare priorità alla Torre di guardia significa che riceverà tutti i Tronchi disponibili prodotti prima di qualsiasi altro edificio che potrebbe anche aver bisogno di Tronchi.\n\n.Puoi impostare un edificio prioritario per tipo di edificio.",
+    "Italian": "Per impostazione predefinita, le priorità delle risorse sono determinate dall'ordine impostato nel pannello delle richieste per ciascuna risorsa.\n\nTuttavia, puoi anche dare la priorità a un singolo edificio rispetto a tutti gli altri usando questo pulsante (o tenendo premuto <hotkey>[P]</hotkey> e facendo clic sull'edificio).\n\nUna volta assegnata la priorità, una stella rosa apparirà sopra l'edificio e apparirà in cima all'elenco della domanda di tutte le risorse che sta cercando di reperire.\n\nAd esempio, se si dispone di una Torre di guardia di Livello 1 che si desidera costruire il più rapidamente possibile, dare priorità alla Torre di guardia significa che riceverà tutti i Tronchi disponibili prodotti prima di qualsiasi altro edificio che potrebbe anche aver bisogno di Tronchi.\n\nPuoi impostare un edificio prioritario per tipo di edificio.",
     "Verify": ""
   },
   {
@@ -8156,7 +8156,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Stone Deposit",
-    "Italian": "Deposito di pietra",
+    "Italian": "Deposito di Pietra",
     "Verify": ""
   },
   {
@@ -8204,7 +8204,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Coal Deposit",
-    "Italian": "Deposito di carbone",
+    "Italian": "Deposito di Carbone",
     "Verify": ""
   },
   {
@@ -8220,7 +8220,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Quartz Deposit",
-    "Italian": "Deposito di quarzo",
+    "Italian": "Deposito di Quarzo",
     "Verify": ""
   },
   {
@@ -8236,7 +8236,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Gold Deposit",
-    "Italian": "Deposito di oro",
+    "Italian": "Deposito di Oro",
     "Verify": ""
   },
   {
@@ -8252,7 +8252,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Clay Deposit",
-    "Italian": "Deposito di argilla",
+    "Italian": "Deposito di Argilla",
     "Verify": ""
   },
   {
@@ -22612,7 +22612,7 @@
     "Type": "",
     "Desc": "",
     "English": "Expand your frontiers with The Colonists: New Lands! Improve your transport network and overcome challenging terrain with Bridges and Train Tunnels, boost your economy with the Mint and even allow your bots to discover their spiritual side…\n\nMaster the seas with Floating Watchtowers to oversee your charming new Fishing Boats as they haul in bountiful catches of fish and lobster.\n\nWith six new maps and much more to discover, New Lands is an essential addition to The Colonists experience.\n\n[h2][b]Features:[/b][/h2]\n\n[b]Churches[/b]\nBoost your colony by generating Holy Energy which allows the Priestbot to bless buildings\n\n[b]Bridges[/b]\nWood, Iron and Steel - your bots can now span the shortest gaps to the widest seas.\n\n[b]Train Tunnels[/b]\nReach previously inaccessible locations or create shortcuts by tunnelling through hills and mountains.\n\n[b]Fishing Boats[/b]\nSend out boat trips to make use of offshore fishing spots and provide fish and lobster for your residences.\n\n[b]Floating Watchtower[/b]\nExpand your domain to the open seas and challenge your enemies from the water.\n\n[b]Mint[/b]\nProduce Gold Coins which can be sold at the marketplace or supplied to the Workshop for improved research techs.\n\n[b]Desert Well[/b]\nConstruct deep-sunk wells to gain access to valuable water in desert regions.\n\n[b]6 New Maps[/b]\nTake on the challenge of the new campaign and recover the crashed colony ships.",
-    "Italian": "Espandi le tue frontiere con The Colonists: New Lands! Migliora la tua rete di trasporti e supera terreni impegnativi con ponti e tunnel ferroviari, potenzia la tua economia con la zecca e consenti persino ai tuoi robot di scoprire il loro lato spirituale...\n\nDomina i mari con le torri di guardia galleggianti per sorvegliare le tue affascinanti nuove barche da pesca mentre trasportano abbondanti catture di pesci e aragoste.\n\nCon sei nuove mappe e molto altro da scoprire, New Lands è un'aggiunta essenziale all'esperienza di The Colonists.\n\n[h2][b]Caratteristiche:[/b][/h2]\n\n[b]Chiese[/b]\nPotenzia la tua colonia generando Energia Sacra che consente al BotPrete di benedire gli edifici\n\n[b]Ponti[/b]\nLegno, ferro e acciaio - ora i tuoi robot possono attraversare gli spazi più brevi fino ai mari più ampi.\n\n[b]Tunnel ferroviari[/b]\nRaggiungi luoghi precedentemente inaccessibili o crea scorciatoie scavando tunnel tra colline e montagne.\n\n[b]Barche da pesca[/b]\nInvia le barche per utilizzare i punti di pesca in mare aperto e fornire pesce e aragosta per le tue abitazioni.\n\n[b]Torre di guardia galleggiante[/b]\nEspandi il tuo dominio in mare aperto e sfida i tuoi nemici dall'acqua.\n\n[b]Zecca[/b]\nProduci monete d'oro che possono essere vendute al mercato o fornite all'officina per migliorare le tecnologie di ricerca.\n\n[b]Pozzo del deserto[/b]\nCostruisci pozzi profondi per accedere alla preziosa acqua nelle regioni desertiche.\n\n[b]6 Nuove Mappe[/b]\nAccetta la sfida della nuova campagna e recupera le navi coloniali precipitate.",
+    "Italian": "Espandi le tue frontiere con The Colonists: New Lands! Migliora la tua rete di trasporti e supera terreni impegnativi con ponti e tunnel ferroviari, potenzia la tua economia con la zecca e consenti persino ai tuoi robot di scoprire il loro lato spirituale...\n\nDomina i mari con le torri di guardia galleggianti per sorvegliare le tue affascinanti nuove barche da pesca mentre trasportano un carico abbondante di pesci e aragoste.\n\nCon sei nuove mappe e molto altro da scoprire, New Lands è un'aggiunta essenziale all'esperienza di The Colonists.\n\n[h2][b]Caratteristiche:[/b][/h2]\n\n[b]Chiese[/b]\nPotenzia la tua colonia generando Energia Sacra che consente al BotPrete di benedire gli edifici\n\n[b]Ponti[/b]\nLegno, ferro e acciaio - ora i tuoi robot possono attraversare gli spazi più brevi fino ai mari più ampi.\n\n[b]Tunnel ferroviari[/b]\nRaggiungi luoghi precedentemente inaccessibili o crea scorciatoie scavando tunnel tra colline e montagne.\n\n[b]Barche da pesca[/b]\nInvia le barche per sfruttare le zone di pesca in mare aperto e fornire pesce e aragosta alle tue abitazioni.\n\n[b]Torre di guardia galleggiante[/b]\nEspandi il tuo dominio in mare aperto e sfida i tuoi nemici dall'acqua.\n\n[b]Zecca[/b]\nProduci monete d'oro che possono essere vendute al mercato o fornite al Laboratorio per migliorare le tecnologie di ricerca.\n\n[b]Pozzo del deserto[/b]\nCostruisci pozzi profondi per accedere alla preziosa acqua nelle regioni desertiche.\n\n[b]6 Nuove Mappe[/b]\nAccetta la sfida della nuova campagna e recupera le navi coloniali precipitate.",
     "Verify": ""
   },
   {
@@ -23180,7 +23180,7 @@
     "Type": "",
     "Desc": "intro mesage when starting DLC Mission 2",
     "English": "Our new friend has told us that other robots escaping from Earth headed to this region of space with the same faulty landing mechanism on their ships.\n\nLet’s build a medium monument as we search for our stricken brethren. Their signal is coming from one of the corners of this map - we’re going to need our bridge, train tunnel and floating watchtower technology to find and rescue them!",
-    "Italian": "Il nostro nuovo amico ci ha detto che altri robot in fuga dalla Terra si sono diretti in questa regione dello spazio con lo stesso meccanismo di atterraggio difettoso sulle loro navi.\n\nCostruiamo un monumento di medie dimensioni mentre cerchiamo i nostri fratelli colpiti. Il loro segnale proviene da uno degli angoli di questa mappa - avremo bisogno del nostro ponte, del tunnel ferroviario e della tecnologia della torre di guardia galleggiante per trovarli e salvarli!",
+    "Italian": "Il nostro nuovo amico ci ha detto che altri robot in fuga dalla Terra si sono diretti in questa regione dello spazio con lo stesso meccanismo di atterraggio difettoso sulle loro navi.\n\nCostruiamo un monumento di medie dimensioni mentre cerchiamo i nostri fratelli colpiti. Il loro segnale proviene da uno degli angoli di questa mappa - avremo bisogno del ponte, del tunnel ferroviario e della tecnologia della torre di guardia galleggiante per trovarli e salvarli!",
     "Verify": ""
   },
   {
@@ -23309,6 +23309,54 @@
     "Desc": "",
     "English": "available from sea fishing locations",
     "Italian": "disponibile nei punti di pesca in mare",
+    "Verify": ""
+  },
+  {
+    "Key": "BdPlVaResults_42_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Can't adjust end tile",
+    "Italian": "Impossibile regolare la casella finale",
+    "Verify": ""
+  },
+  {
+    "Key": "BdPlVaResults_49_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Can't adjust start tile",
+    "Italian": "Impossibile regolare la casella iniziale",
+    "Verify": ""
+  },
+  {
+    "Key": "BdPlVaResults_43_Name",
+    "Type": "",
+    "Desc": "",
+    "English": "Obstruction below bridge",
+    "Italian": "Ostruzione sotto il ponte",
+    "Verify": ""
+  },
+  {
+    "Key": "RandomMapCashVictoryCondition",
+    "Type": "",
+    "Desc": "",
+    "English": "Have $10000 in the bank",
+    "Italian": "Avere $10000 in banca",
+    "Verify": ""
+  },
+  {
+    "Key": "FloraGrowthProgress",
+    "Type": "",
+    "Desc": "{0}: percentage number",
+    "English": "{0}% grown",
+    "Italian": "{0}% cresciuto",
+    "Verify": ""
+  },
+  {
+    "Key": "FloraFullyGrown",
+    "Type": "",
+    "Desc": "referring to trees for examples",
+    "English": "Fully grown",
+    "Italian": "Maturo",
     "Verify": ""
   }
 ]
