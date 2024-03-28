@@ -25,4 +25,4 @@ jobs:
         cd validator
         python main.py "../The_Colonists_Translation_Data_Italian.csv"
     - name: Output result
-      run: cat results.txt
+      run: cat result.txt
