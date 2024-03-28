@@ -17,7 +17,7 @@ Per facilitare la lettura o l'utilizzo dei dati, il file .csv esportato è anche
 **Attenzione:** il file json **non può** essere riconvertito a .csv con un convertitore, in quanto si genererebbero errori riguardo la presenza di virgole, virgolette e spazi a capo.
 
 ## Come utilizzo la traduzione?
-La traduzione sarà inclusa nel gioco una volta completata al 100%.
+La traduzione è già inclusa nel gioco e sempre aggiornata con esso.
 
 ## Link foglio traduzioni principale
 Tutte le traduzioni per The Colonists sono visibili nel [relativo foglio](https://docs.google.com/spreadsheets/d/1laq8t0firN-AsQtYfEr1QiP1-qIWYtMLSixQ-P9Bwgk/edit?usp=sharing).
