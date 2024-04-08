@@ -9740,7 +9740,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Needs Higher Level Workshop",
-    "Italian": "Hai bisogno di un Laboratorio di livello superiore",
+    "Italian": "Hai bisogno di un Laboratorio di Livello Superiore",
     "Requires Update": ""
   },
   {
@@ -10836,7 +10836,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "You are always able to construct Level 1 buildings if you run out of resources for higher level ones.",
-    "Italian": "Sei sempre in grado di costruire edifici di livello 1 se esaurisci le risorse per quelli di livello superiore.",
+    "Italian": "Sei sempre in grado di costruire edifici di Livello 1 se esaurisci le risorse per quelli di livello superiore.",
     "Requires Update": ""
   },
   {
@@ -12076,7 +12076,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "You now have a Level 2 <bd>Workshop</bd> which can research more advanced technologies!\nResearch <res>Mining I</res> so that you can begin mining the <nr>Coal</nr> and <nr>Iron Ore</nr> you need to make the <it>Iron</it> required for the <bd>Monument</bd>.",
-    "Italian": "Ora hai un <bd>Laboratorio</bd> di livello 2 con cui puoi ricercare tecnologie più avanzate!\nRicerca <res>Estrazione Mineraria I</res> in modo da iniziare ad estrarre <nr>Carbone</nr> e <nr>Ferro grezzo</nr> di cui hai bisogno per fare il <it>Ferro</it> richiesto per il <bd>Monumento</bd>.",
+    "Italian": "Ora hai un <bd>Laboratorio</bd> di Livello 2 con cui puoi ricercare tecnologie più avanzate!\nRicerca <res>Estrazione Mineraria I</res> in modo da iniziare ad estrarre <nr>Carbone</nr> e <nr>Ferro grezzo</nr> di cui hai bisogno per fare il <it>Ferro</it> richiesto per il <bd>Monumento</bd>.",
     "Requires Update": ""
   },
   {

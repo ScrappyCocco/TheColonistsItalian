@@ -1531,7 +1531,7 @@ TechTreeButtonSelectResearchIdleWorkshop,Text,,"Select Research &
 Idle Workshop",Seleziona Ricerca e Laboratorio inattivo,
 TechTreeButtonStartResearch,Text,,Start Research,Inizia ricerca,
 TechCategory_0_Name,Text,Tech research category,Construction,Costruzione,
-TechTreeErrorNeedsHigherLevelWorkshop,Text,,Needs Higher Level Workshop,Hai bisogno di un Laboratorio di livello superiore,
+TechTreeErrorNeedsHigherLevelWorkshop,Text,,Needs Higher Level Workshop,Hai bisogno di un Laboratorio di Livello Superiore,
 TechTreeHeader,Text,,Technology Overview,Panoramica della tecnologia,
 TechCategory_1_Name,Text,Tech research category,Military,Militare,
 TechCategory_6_Name,Text,Tech research category,Mining,Estrazione mineraria,
@@ -1668,7 +1668,7 @@ TerrainType_8,Text,,Dirt,Fangoso,
 TerrainType_9,Text,,Swamp A,Paludoso A,
 Territory,Text,The area which the player owns,Territory,Territorio,
 This map is incomplete! Open in the map editor and check the verification panel.,Text,,This map is incomplete! Open in the map editor and check the verification panel.,Questa mappa è incompleta! Apri l'editor e controlla il pannello di verifica.,
-Tip_0,Text,,You are always able to construct Level 1 buildings if you run out of resources for higher level ones.,Sei sempre in grado di costruire edifici di livello 1 se esaurisci le risorse per quelli di livello superiore.,
+Tip_0,Text,,You are always able to construct Level 1 buildings if you run out of resources for higher level ones.,Sei sempre in grado di costruire edifici di Livello 1 se esaurisci le risorse per quelli di livello superiore.,
 Tip_1,Text,,You will always be able to find an underground deposit of <nr>Stone</nr> on the map somewhere.,Sarai sempre in grado di trovare un deposito sotterraneo di <nr>Pietra</nr> sulla mappa da qualche parte.,
 Tip_10,Text,,Use the Map to check the location and amount of natural resources you have inside and outside of your territory.,Utilizza la Mappa per verificare la posizione e la quantità di risorse naturali presenti all'interno e all'esterno del tuo territorio.,
 Tip_11,Text,,Use the priority panel on a Lumberjack Hut to prioritise trees you want to chop down first.,Usa il pannello di priorità su una Capanna del Taglialegna per dare la priorità agli alberi che vuoi abbattere per primi.,
@@ -1999,7 +1999,7 @@ So if you don't have access to, or don't wish to use your <it>Stone</it> you are
 Anche se forniscono più territorio, hanno bisogno di <it>Assi</it> e <it>Pietra</it> per essere costruite.
 Quindi se non ne hai, o non vuoi utilizzare la <it>Pietra</it>, puoi sempre espanderti con le Torri di Guardia Livello 1.",
 TutorialDialogues__Overlay_WorkshopUpgraded,Text,,"You now have a Level 2 <bd>Workshop</bd> which can research more advanced technologies!
-Research <res>Mining I</res> so that you can begin mining the <nr>Coal</nr> and <nr>Iron Ore</nr> you need to make the <it>Iron</it> required for the <bd>Monument</bd>.","Ora hai un <bd>Laboratorio</bd> di livello 2 con cui puoi ricercare tecnologie più avanzate!
+Research <res>Mining I</res> so that you can begin mining the <nr>Coal</nr> and <nr>Iron Ore</nr> you need to make the <it>Iron</it> required for the <bd>Monument</bd>.","Ora hai un <bd>Laboratorio</bd> di Livello 2 con cui puoi ricercare tecnologie più avanzate!
 Ricerca <res>Estrazione Mineraria I</res> in modo da iniziare ad estrarre <nr>Carbone</nr> e <nr>Ferro grezzo</nr> di cui hai bisogno per fare il <it>Ferro</it> richiesto per il <bd>Monumento</bd>.",
 UICategory_0_Name,Text,,Energy,Energia,
 UICategory_1_Name,Text,,Construction,Costruzione,
