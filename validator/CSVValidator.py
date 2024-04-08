@@ -3,6 +3,7 @@
 
 import csv
 import sys
+import re
 
 from bs4 import BeautifulSoup
 from ValidatorFileManager import ValidatorFileManager
@@ -34,7 +35,8 @@ class CSVValidator:
     def __csv_columns_validation(first_row: list) -> bool:
         if len(first_row) > 7 or len(first_row) < 6:
             return False
-        print("Column name confirmed valid:" + str(len(first_row)))
+        print("Columns number confirmed valid:" + str(len(first_row)))
+        print("Columns:" + str(first_row))
         return True
 
     def __row_brackets_validation(self, row: str) -> bool:
@@ -181,6 +183,9 @@ class CSVValidator:
             result_string += "\n"
         return result_string
 
+    def __has_multiple_spaces(self, text: str) -> bool:
+        return bool(re.search(r' {2,}', text))
+
     def process_file(self, filename: str):
         with open(filename, encoding="utf8") as csv_file:
             csv_reader = csv.reader(csv_file, delimiter=',')
@@ -209,13 +214,15 @@ class CSVValidator:
                                                           " because in ignore list!\n\n")
                     else:
                         # Check if we want to print a remainder to update the lines
-                        if "PLEASE UPDATE" in str(row[2]):
+                        if ("PLEASE UPDATE" in str(row[2])) or ((str(row[5])).strip()):
                             warnings_found += 1
                             file_manager.write_line_separator(str(line_counter))
                             file_manager.write_string_to_file(
                                 "Warning [Line needs update]: " +
                                 "This line may be marked with [PLEASE UPDATE]. " +
                                 "Check if you need to update it \n" +
+                                "Description: " + str(row[2]) + "\n" +
+                                "Please Update: " + str(row[6]) + "\n" +
                                 "Original: " + str(row[3]) + "\n" +
                                 "Translated: " + str(row[4]) + "\n\n")
                         # Check deprecation first
@@ -227,6 +234,7 @@ class CSVValidator:
                                 "Warning [Deprecated Line]: " +
                                 "This line will be skipped because is deprecated or empty in the original file. " +
                                 "Consider removing it in your file too \n" +
+                                "Description: " + str(row[3]) + "\n" +
                                 "Original: " + str(row[3]) + "\n" +
                                 "Translated: " + str(row[4]) + "\n\n")
                         # Check balance of brackets in original line
@@ -271,6 +279,12 @@ class CSVValidator:
                                 file_manager.write_string_to_file(
                                     "Error [Tags]: " +
                                     "The tags (ex. <cat>) looks invalid, check the line:\n'" + str(row[4]) + "'\n\n")
+                            if self.__has_multiple_spaces(str(row[4])):
+                                errors_found += 1
+                                file_manager.write_line_separator(str(line_counter))
+                                file_manager.write_string_to_file(
+                                    "Error [Spaces]: " +
+                                    "The row has 2 or more spaces! Check the line:\n'" + str(row[4]) + "'\n\n")
                 line_counter += 1
             # For end
             print("Warnings counter:" + str(warnings_found))
