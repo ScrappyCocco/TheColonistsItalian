@@ -1,7 +1,7 @@
-Key,Type,Desc,English,Italian,Verify
+Key,Type,Desc,English,Italian,Requires Update
 AI Players,Text,Computer-controlled players you compete against in the game,AI Players,Giocatori IA,
-Advice_0_Desc,Text,,"Build some <bd>Residences</bd> to generate more <it>Energy</it> for lumbering, mining and technology research.","Costruisci alcune <bd>Residenze</bd> per generare più <it>Energia</it> per tagliare la legna, estrarre minerali e ricercare nuova tecnologia.",
-Advice_0_Name,Text,,No <bd>Residences</bd>!,Nessuna <bd>Residenza</bd>!,
+Advice_0_Desc,Text,,"Build some <bd>Residences</bd> to generate more <it>Energy</it> for lumbering, mining and technology research.","Costruisci alcune <bd>Abitazioni</bd> per generare più <it>Energia</it> per tagliare la legna, estrarre minerali e ricercare nuova tecnologia.",
+Advice_0_Name,Text,,No <bd>Residences</bd>!,Nessuna <bd>Abitazione</bd>!,
 Advice_10_Desc,Text,,Keep expanding until you find a <nr>Coal</nr> deposit and it's inside your territory.,Continua ad espanderti finché non trovi un deposito di <nr>Carbone</nr> incluso nel tuo territorio.,
 Advice_10_Name,Text,,Find <nr>Coal</nr>!,Trova del <nr>Carbone</nr>!,
 Advice_11_Desc,Text,,Keep expanding until you find a <nr>Iron Ore</nr> deposit and it's inside your territory.,Continua ad espanderti finché non trovi un deposito di <nr>Ferro</nr> incluso nel tuo territorio.,
@@ -16,15 +16,15 @@ Advice_13_Desc,Text,,"You can upgrade <bd>Residences</bd> to produce Level 2 <it
 
 <it>Energy L2</it> is used by the upgraded <bd>Workshop</bd> to research more advanced technologies.
 
-<it>Energy L2</it> is also used by the <bd>Shaft Mine</bd> and Level 2 <bd>Surface Mine</bd> to excavate <nr>Coal</nr>, <nr>Iron Ore</nr> and <nr>Clay</nr>.","Puoi migliorare le <bd>Residenze</bd> per produrre <it>Energia</it> di Livello 2.
+<it>Energy L2</it> is also used by the <bd>Shaft Mine</bd> and Level 2 <bd>Surface Mine</bd> to excavate <nr>Coal</nr>, <nr>Iron Ore</nr> and <nr>Clay</nr>.","Puoi migliorare le <bd>Abitazioni</bd> per produrre <it>Energia</it> di Livello 2.
 
 L'<it>Energia L2</it> è usata dal <bd>Laboratorio</bd> avanzato per ricercare tecnologie più avanzate.
 
 L'<it>Energia L2</it> è inoltre usata dalla <bd>Miniera</bd> e dalla <bd>Miniera di Superficie</bd> Livello 2 per estrarre <nr>Carbone</nr>, <nr>Ferro grezzo</nr> e <nr>Argilla</nr>.",
-Advice_13_Name,Text,,Upgrade a <bd>Residence</bd>!,Migliora una <bd>Residenza</bd>!,
+Advice_13_Name,Text,,Upgrade a <bd>Residence</bd>!,Migliora un'<bd>Abitazione</bd>!,
 Advice_14_Desc,Text,,"Level 2 <bd>Residences</bd> need <cat>Alcohol</cat> to be able to generate the more powerful <it>Energy L2</it> needed at the Level 2 <bd>Workshop</bd> and to mine <it>Iron Ore</it> and <it>Coal</it>.
 
-Build an <bd>Orchard</bd> and <bd>Cider Press</bd> to start producing <it>Cider</it>.","Le <bd>Residenze</bd> Livello 2 hanno bisogno di <cat>Alcol</cat> per poter generare <it>Energia L2</it> necessaria al <bd>Laboratorio</bd> di Livello 2 e per estrarre <it>Ferro grezzo</it> e <it>Carbone</it>.
+Build an <bd>Orchard</bd> and <bd>Cider Press</bd> to start producing <it>Cider</it>.","Le <bd>Abitazioni</bd> Livello 2 hanno bisogno di <cat>Alcol</cat> per poter generare <it>Energia L2</it> necessaria al <bd>Laboratorio</bd> di Livello 2 e per estrarre <it>Ferro grezzo</it> e <it>Carbone</it>.
 
 Costruisci un <bd>Frutteto</bd> e una <bd>Pressa per Sidro</bd> per iniziare a produrre del <it>Sidro</it>.",
 Advice_14_Name,Text,,Generate <it>Energy L2</it>!,Genera <it>Energia L2</it>!,
@@ -34,7 +34,7 @@ Advice_16_Desc,Text,,Begin mining <nr>Iron Ore</nr> by building a Level 2 <bd>Su
 Advice_16_Name,Text,,Start mining <nr>Iron Ore</nr>!,Inizia ad estrarre del <nr>Ferro grezzo</nr>!,
 Advice_17_Desc,Text,,Build a <bd>Blast Furnace</bd> to create <it>Iron</it> from <it>Iron Ore</it> and <it>Coal</it>.,Costruisci un <bd>Altoforno</bd> per ottenere del <it>Ferro</it> da <it>Ferro grezzo</it> e <it>Carbone</it>.,
 Advice_17_Name,Text,,Start producing <it>Iron</it>!,Comincia a produrre <it>Ferro</it>!,
-Advice_18_Desc,Text,,Build a <bd>Well</bd> to supply <it>Water</it> to your <bd>Residences</bd>.,Costruisci un <bd>Pozzo</bd> per fornire <it>Acqua</it> alle tue <bd>Residenze</bd>.,
+Advice_18_Desc,Text,,Build a <bd>Well</bd> to supply <it>Water</it> to your <bd>Residences</bd>.,Costruisci un <bd>Pozzo</bd> per fornire <it>Acqua</it> alle tue <bd>Abitazioni</bd>.,
 Advice_18_Name,Text,,No <bd>Well</bd>!,Nessun <bd>Pozzo</bd>!,
 Advice_19_Desc,Text,,Build a <bd>Harbour</bd> on the shore to discover new islands and more resources.,Costruisci un <bd>Porto</bd> sulla costa per scoprire nuove isole e altre risorse.,
 Advice_19_Name,Text,,Build a <bd>Harbour</bd>!,Costruisci un <bd>Porto</bd>!,
@@ -252,8 +252,8 @@ Building_40_Name,Text,,Space Port,Porto Spaziale,
 Building_40_Plural,Text,,Space Ports,Porti Spaziali,
 Building_40_Worker,Text,,Stackbot,BotImpilatore,
 Building_41_Description,Text,,Creates <it>Energy</it> from <it>Water</it> and <cat>Food</cat>.,Crea <it>Energia</it> da <it>Acqua</it> e <cat>Cubi</cat>.,
-Building_41_Name,Text,,Residence,Residenza,
-Building_41_Plural,Text,,Residences,Residenze,
+Building_41_Name,Text,,Residence,Abitazione,
+Building_41_Plural,Text,,Residences,Abitazioni,
 Building_41_Worker,Text,,Housebot,BotCasalingo,
 Building_45_Description,Text,,Creates <it>Steel</it> from <it>Iron</it> using <cat>Fuel</cat>.,Crea <it>Acciaio</it> da <it>Ferro</it> utilizzando <cat>Carburante</cat>.,
 Building_45_Name,Text,,Steelworks,Acciaieria,
@@ -574,8 +574,8 @@ Flora_14_Name,Text,,Tree Stump,Tronco d'albero,
 Flora_15_Name,Text,,Tree Stump,Tronco d'albero,
 Flora_16_Name,Text,,Tree Stump,Tronco d'albero,
 Flora_19_Name,Text,,Tree Stump,Tronco d'albero,
-Flora_200_Description,Text,(Deprecated),,Questa miniera contiene una scorta infinita di <nr><natres></nr>. Puoi costruire una <bd>Miniera</bd> qui per estrarre il <nr><natres></nr>.,
-Flora_200_Name,Text,(Deprecated),,Deposito sotterraneo,
+Flora_200_Description,Text,(Deprecated),-,Questa miniera contiene una scorta infinita di <nr><natres></nr> Puoi costruire una <bd>Miniera</bd> qui per estrarre il <nr><natres></nr>,
+Flora_200_Name,Text,(Deprecated),-,Deposito sotterraneo,
 Flora_2_Name,Text,,Fir Tree,Abete,
 Flora_3_Name,Text,,Tree Stump,Tronco d'albero,
 Flora_43_Name,Text,,Rock 2x2,Roccia 2x2,
@@ -897,13 +897,13 @@ Rendendosi conto che non ci sarebbe posto sulla Terra in cui avrebbero potuto go
 Hanno rubato il razzo più vicino e sono volati nell'oscurità del sistema solare alla ricerca di una nuova casa dove sarebbero stati liberi di realizzare il loro sogno: essere umani... ",
 IntroTitle,Text,,The Story So Far...,La storia finora...,
 ItemCat_2_Desc,Text,,<it>Fish</it> / <it>Meat</it>,<it>Pesce</it> / <it>Carne</it>,
-ItemCat_2_FullDesc,Text,,<cat>Food</cat> is needed by all <bd>Residences</bd> and can be <it>Fish</it> or <it>Meat</it>.,Il <cat>Cibo</cat> è necessario per tutte le <bd>Residenze</bd> e può essere <it>Pesce</it> o <it>Carne</it>.,
+ItemCat_2_FullDesc,Text,,<cat>Food</cat> is needed by all <bd>Residences</bd> and can be <it>Fish</it> or <it>Meat</it>.,Il <cat>Cibo</cat> è necessario per tutte le <bd>Abitazioni</bd> e può essere <it>Pesce</it> o <it>Carne</it>.,
 ItemCat_2_Name,Text,,Food,Cibo,
 ItemCat_3_Desc,Text,,<it>Bread</it> / <it>Chocolate</it>,<it>Pane</it> / <it>Cioccolato</it>,
-ItemCat_3_FullDesc,Text,,<cat>Luxury Food</cat> is needed by Level 3 <bd>Residences</bd> and can be <it>Bread</it> or <it>Chocolate</it>.,Il <cat>Cibo di Lusso</cat> è richiesto dalle <bd>Residenze</bd> Livello 3 e può essere <it>Pane</it> o <it>Cioccolato</it>.,
+ItemCat_3_FullDesc,Text,,<cat>Luxury Food</cat> is needed by Level 3 <bd>Residences</bd> and can be <it>Bread</it> or <it>Chocolate</it>.,Il <cat>Cibo di Lusso</cat> è richiesto dalle <bd>Abitazioni</bd> Livello 3 e può essere <it>Pane</it> o <it>Cioccolato</it>.,
 ItemCat_3_Name,Text,,Luxury Food,Cibo di lusso,
 ItemCat_4_Desc,Text,,<it>Cider</it> / <it>Beer</it>,<it>Sidro</it> / <it>Birra</it>,
-ItemCat_4_FullDesc,Text,,<cat>Alcohol</cat> is needed by Level 2 <bd>Residences</bd> and can be <it>Cider</it> or <it>Beer</it>.,<cat>Alcol</cat> è necessario per le <bd>Residenze</bd> di Livello 2 e può essere <it>Sidro</it> o <it>Birra</it>.,
+ItemCat_4_FullDesc,Text,,<cat>Alcohol</cat> is needed by Level 2 <bd>Residences</bd> and can be <it>Cider</it> or <it>Beer</it>.,<cat>Alcol</cat> è necessario per le <bd>Abitazioni</bd> di Livello 2 e può essere <it>Sidro</it> o <it>Birra</it>.,
 ItemCat_4_Name,Text,,Alcohol,Alcol,
 ItemCat_7_Desc,Text,,<it>Coal</it> / <it>Charcoal</it>,<it>Carbone</it> / <it>Carbonella</it>,
 ItemCat_7_FullDesc,Text,,"<cat>Fuel</cat> is needed in the production processes of the <bd>Bakery</bd>, <bd>Blacksmith</bd>, <bd>Blast Furnace</bd>, <bd>Brickyard</bd>, <bd>Glassworks</bd>, <bd>Steel Mill</bd>, <bd>Weaponsmith</bd> and can be <it>Coal</it> or <it>Charcoal</it>.","Il <cat>Carburante</cat> è necessario nei processi di produzione di <bd>Panetteria</bd>, <bd>Fabbro</bd>, <bd>Altoforno</bd>, <bd>Mattonificio</bd>, <bd>Vetrerie</bd>, <bd>Acciaieria</bd>, <bd>Armaiolo</bd> e può essere <it>Carbone</it> o <it>Carbonella</it>.",
@@ -950,12 +950,12 @@ Item_10_Name,Text,,Flour,Farina,
 Item_10_Past,Text,,Ground,Macinata,
 Item_10_Present,Text,,Grinding,In macinazione,
 Item_11_Desc,Text,,Bread is baked at the <bd>Bakery</bd>.,Il pane viene cotto nel <bd>Panificio</bd>.,
-Item_11_FullDesc,Text,,Bread is baked at the <bd>Bakery</bd> using <it>Flour</it> and <it>Water</it> and is consumed by <bd>Level 3 Residences</bd>.,Il pane viene cotto nel <bd>Panificio</bd> usando <it>Farina</it> e <it>Acqua</it> e viene consumato dalle <bd>Residenze di Livello 3</bd>.,
+Item_11_FullDesc,Text,,Bread is baked at the <bd>Bakery</bd> using <it>Flour</it> and <it>Water</it> and is consumed by <bd>Level 3 Residences</bd>.,Il pane viene cotto nel <bd>Panificio</bd> usando <it>Farina</it> e <it>Acqua</it> e viene consumato dalle <bd>Abitazioni di Livello 3</bd>.,
 Item_11_Name,Text,,Bread,Pane,
 Item_11_Past,Text,,Baked,Pane pronto,
 Item_11_Present,Text,,Baking,Pane in cottura,
 Item_12_Desc,Text,,Water is pulled at <bd>Wells</bd>.,L'acqua viene estratta dai <bd>Pozzi</bd>.,
-Item_12_FullDesc,Text,,"Water is pulled at <bd>Wells</bd> and is consumed by <bd>Level 1 Residences</bd>, used by <bd>Breweries</bd> to brew <it>Beer</it> and the <bd>Paper Mill</bd> to make <it>Paper</it>.","L'acqua viene estratta dai <bd>Pozzi</bd> e viene consumata dalle <bd>Residenze di Livello 1</bd>, utilizzata dai <bd>Birrifici</bd> per produrre <it>Birra</it> e dalla <bd>Cartiera</bd> per realizzare la <it>Carta</it>.",
+Item_12_FullDesc,Text,,"Water is pulled at <bd>Wells</bd> and is consumed by <bd>Level 1 Residences</bd>, used by <bd>Breweries</bd> to brew <it>Beer</it> and the <bd>Paper Mill</bd> to make <it>Paper</it>.","L'acqua viene estratta dai <bd>Pozzi</bd> e viene consumata dalle <bd>Abitazioni di Livello 1</bd>, utilizzata dai <bd>Birrifici</bd> per produrre <it>Birra</it> e dalla <bd>Cartiera</bd> per realizzare la <it>Carta</it>.",
 Item_12_Name,Text,,Water,Acqua,
 Item_12_Past,Text,,Pulled,Raccolta,
 Item_12_Present,Text,,Pulling,In raccolta,
@@ -975,7 +975,7 @@ Item_15_Name,Text,,Wool,Lana,
 Item_15_Past,Text,,Sheared,Tosata,
 Item_15_Present,Text,,Shearing,In tosatura,
 Item_16_Desc,Text,,Meat is <cat>Food</cat> prepared at the <bd>Sheep Farm</bd>.,La carne è <cat>Cibo</cat> preparato dall'<bd>Allevamento di Pecore</bd>.,
-Item_16_FullDesc,Text,,Meat is <cat>Food</cat> prepared at the <bd>Sheep Farm</bd> and is consumed by <bd>Level 1 Residences</bd>.,La carne è <cat>Cibo</cat> preparato dall'<bd>Allevamento di Pecore</bd> ed è utilizzato dalle <bd>Residenze di Livello 1</bd>.,
+Item_16_FullDesc,Text,,Meat is <cat>Food</cat> prepared at the <bd>Sheep Farm</bd> and is consumed by <bd>Level 1 Residences</bd>.,La carne è <cat>Cibo</cat> preparato dall'<bd>Allevamento di Pecore</bd> ed è utilizzato dalle <bd>Abitazioni di Livello 1</bd>.,
 Item_16_Name,Text,,Meat,Carne,
 Item_16_Past,Text,,Prepared,Preparata,
 Item_16_Present,Text,,Preparing,In preparazione,
@@ -1078,7 +1078,7 @@ Item_3_Name,Text,,Planks,Assi,
 Item_3_Past,Text,,Created,Create,
 Item_3_Present,Text,,Creating,In creazione,
 Item_40_Desc,Text,,Beer is brewed at the <bd>Brewery</bd>.,La birra viene prodotta nel <bd>Birrificio</bd>.,
-Item_40_FullDesc,Text,,Beer is a <cat>Alcohol</cat> that is brewed at the <bd>Brewery</bd> from <it>Wheat</it> and <it>Water</it> and is used by <bd>Level 2 Residences</bd>.,La birra è un <cat>Alcol</cat> che viene prodotta nel <bd>Birrificio</bd> da <it>Grano</it> e <it>Acqua</it> e viene utilizzata dalle <bd>Residenze di Livello 2</bd>.,
+Item_40_FullDesc,Text,,Beer is a <cat>Alcohol</cat> that is brewed at the <bd>Brewery</bd> from <it>Wheat</it> and <it>Water</it> and is used by <bd>Level 2 Residences</bd>.,La birra è un <cat>Alcol</cat> che viene prodotta nel <bd>Birrificio</bd> da <it>Grano</it> e <it>Acqua</it> e viene utilizzata dalle <bd>Abitazioni di Livello 2</bd>.,
 Item_40_Name,Text,,Beer,Birra,
 Item_40_Past,Text,,Brewed,Prodotta,
 Item_40_Present,Text,,Brewing,In produzione,
@@ -1087,21 +1087,21 @@ Item_42_FullDesc,Text,,Tools are crafted by the <bd>Blacksmith</bd> from <it>Iro
 Item_42_Name,Text,,Tools,Strumenti,
 Item_42_Past,Text,,Crafted,Creati,
 Item_42_Present,Text,,Crafting,In creazione,
-Item_43_Desc,Text,,Energy L1 is generated at <bd>Level 1 Residences</bd>.,L'energia L1 viene generata dalle <bd>Residenze di livello 1</bd>.,
+Item_43_Desc,Text,,Energy L1 is generated at <bd>Level 1 Residences</bd>.,L'energia L1 viene generata dalle <bd>Abitazioni di Livello 1</bd>.,
 Item_43_FullDesc,Text,,"Energy L1 is generated at <bd>Level 1 Residences</bd> from <cat>Food</cat> and <it>Water</it>.
-It's used to power worker bots at the Level 1 <bd>Workshop</bd>, Level 1 <bd>Lumberjack Hut</bd> and Level 1 <bd>Surface Mine</bd>.","L'energia L1 è generata dalle <bd>Residenze di Livello 1</bd> utilizzando <cat>Cibo</cat> e <it>Acqua</it>. È usata per potenziare i BotLavoratori al Livello 1 nel <bd>Laboratorio</bd>, le <bd>Capanne del Taglialegna</bd> al Livello 1, e le <bd>Miniere di Superficie</bd> al Livello 1.",
+It's used to power worker bots at the Level 1 <bd>Workshop</bd>, Level 1 <bd>Lumberjack Hut</bd> and Level 1 <bd>Surface Mine</bd>.","L'energia L1 è generata dalle <bd>Abitazioni di Livello 1</bd> utilizzando <cat>Cibo</cat> e <it>Acqua</it>. È usata per potenziare i BotLavoratori al Livello 1 nel <bd>Laboratorio</bd>, le <bd>Capanne del Taglialegna</bd> al Livello 1, e le <bd>Miniere di Superficie</bd> al Livello 1.",
 Item_43_Name,Text,,Energy L1,Energia L1,
 Item_43_Past,Text,,Generated,Generata,
 Item_43_Present,Text,,Generating,In generazione,
-Item_45_Desc,Text,,Energy L2 is generated at <bd>Level 2 Residences</bd>.,L'energia L2 viene generata dalle <bd>Residenze di livello 2</bd>.,
+Item_45_Desc,Text,,Energy L2 is generated at <bd>Level 2 Residences</bd>.,L'energia L2 viene generata dalle <bd>Abitazioni di Livello 2</bd>.,
 Item_45_FullDesc,Text,,"Energy L2 is generated at <bd>Level 2 Residences</bd> from <cat>Food</cat>, <it>Water</it> and <cat>Alcohol</cat>.
-It's used to power worker bots at the Level 2 <bd>Workshop</bd>, Level 2 <bd>Lumberjack Hut</bd>, Level 2 <bd>Surface Mine</bd> and Level 1 <bd>Shaft Mine</bd>.","L'energia L2 è generata dalle <bd>Residenze di Livello 2</bd> utilizzando <cat>Cibo</cat>, <it>Acqua</it> e <cat>Alcol</cat>. È usata per potenziare i BotLavoratori al Livello 2 nel <bd>Laboratorio</bd>, le <bd>Capanne del Taglialegna</bd> al Livello 2, le <bd>Miniere di Superficie</bd> al Livello 2 e le <bd>Miniere</bd> al Livello 1.",
+It's used to power worker bots at the Level 2 <bd>Workshop</bd>, Level 2 <bd>Lumberjack Hut</bd>, Level 2 <bd>Surface Mine</bd> and Level 1 <bd>Shaft Mine</bd>.","L'energia L2 è generata dalle <bd>Abitazioni di Livello 2</bd> utilizzando <cat>Cibo</cat>, <it>Acqua</it> e <cat>Alcol</cat>. È usata per potenziare i BotLavoratori al Livello 2 nel <bd>Laboratorio</bd>, le <bd>Capanne del Taglialegna</bd> al Livello 2, le <bd>Miniere di Superficie</bd> al Livello 2 e le <bd>Miniere</bd> al Livello 1.",
 Item_45_Name,Text,,Energy L2,Energia L2,
 Item_45_Past,Text,,Generated,Generata,
 Item_45_Present,Text,,Generating,In generazione,
-Item_46_Desc,Text,,Energy L3 is generated at <bd>Level 3 Residences</bd>.,L'energia L3 viene generata dalle <bd>Residenze di livello 3</bd>.,
+Item_46_Desc,Text,,Energy L3 is generated at <bd>Level 3 Residences</bd>.,L'energia L3 viene generata dalle <bd>Abitazioni di Livello 3</bd>.,
 Item_46_FullDesc,Text,,"Energy L3 is generated at <bd>Level 3 Residences</bd> from <cat>Food</cat>, <it>Water</it>, <cat>Alcohol</cat> and <cat>Luxury Food</cat>.
-It's used to power worker bots at the Level 3 <bd>Workshop</bd>, Level 3 <bd>Lumberjack Hut</bd>, Level 3 <bd>Surface Mine</bd> and Level 2 <bd>Shaft Mine</bd>.","L'energia L3 è generata dalle <bd>Residenze di Livello 3</bd> utilizzando <cat>Cibo</cat>, <it>Acqua</it>, <cat>Alcol</cat> e <cat>Cibo di lusso</cat>. È usata per potenziare i BotLavoratori al Livello 3 nel <bd>Laboratorio</bd>, le <bd>Capanne del Taglialegna</bd> al Livello 3, le <bd>Miniere di Superficie</bd> al Livello 3 e <bd>Miniere</bd> al Livello 2.",
+It's used to power worker bots at the Level 3 <bd>Workshop</bd>, Level 3 <bd>Lumberjack Hut</bd>, Level 3 <bd>Surface Mine</bd> and Level 2 <bd>Shaft Mine</bd>.","L'energia L3 è generata dalle <bd>Abitazioni di Livello 3</bd> utilizzando <cat>Cibo</cat>, <it>Acqua</it>, <cat>Alcol</cat> e <cat>Cibo di lusso</cat>. È usata per potenziare i BotLavoratori al Livello 3 nel <bd>Laboratorio</bd>, le <bd>Capanne del Taglialegna</bd> al Livello 3, le <bd>Miniere di Superficie</bd> al Livello 3 e <bd>Miniere</bd> al Livello 2.",
 Item_46_Name,Text,,Energy L3,Energia L3,
 Item_46_Past,Text,,Generated,Generata,
 Item_46_Present,Text,,Generating,In generazione,
@@ -1728,7 +1728,7 @@ Transport Priorities,Text,,Transport Priorities,Priorità di trasporto,
 TutorialDialogues_T1_BuildAnotherFishingHut,Text,,"Fantastic! You now have the capacity to produce more <it>Energy L1</it>.
 But more <bd>Residences</bd> mean more Housebot needs, so demand for <it>Water</it> and <cat>Food</cat> has also increased.
 Build another <bd>Fishing Hut</bd> on the coast to increase your <cat>Food</cat> production.","Fantastico! Ora hai la capacità di produrre più <it>Energia L1</it>.
-Ma più <bd>Residenze</bd> significano più BotCasalinghi, che necessiteranno di <it>Acqua</it> e <cat>Cibo</cat>.
+Ma più <bd>Abitazioni</bd> significano più BotCasalinghi, che necessiteranno di <it>Acqua</it> e <cat>Cibo</cat>.
 Costruisci un'altra <bd>Capanna del Pescatore</bd> sulla costa per aumentare la tua produzione di <cat>Cibo</cat>.",
 TutorialDialogues_T1_BuildFishingHut,Text,,We're near the shore and have several jumping fish tiles available which can be farmed by a <bd>Fishing Hut</bd>.,Siamo vicini alla costa e ci sono molte caselle pesce disponibili che possono essere pescate con una <bd>Capanna del Pescatore</bd>.,
 TutorialDialogues_T1_BuildForestry,Text,,"Great! <bd>Watchtowers</bd> take a little longer to build though.
@@ -1739,17 +1739,17 @@ TutorialDialogues_T1_BuildMoreResidences,Text,,"So the demand is now greater tha
 Build two more <bd>Residences</bd> to increase the supply of <it>Energy L1</it>!
 Another tip: you can <hotkey>[Ctrl]</hotkey> + select a building to duplicate it.","La domanda di <it>Energia L1</it> è superiore alla produzione.
 Questo significa che con il tempo la <bd>Capanna del Taglialegna</bd> e la <bd>Miniera di Superficie</bd> non saranno in grado di lavorare al 100%.
-Costruisci altre due <bd>Residenze</bd> per aumentare la fornitura di <it>Energia L1</it>!
+Costruisci altre due <bd>Abitazioni</bd> per aumentare la fornitura di <it>Energia L1</it>!
 Un altro consiglio: puoi utilizzare <hotkey>[Ctrl]</hotkey> + click su un edificio per duplicarlo.",
 TutorialDialogues_T1_BuildPath,Text,,Select <lr>Path</lr> building mode and then build a <lr>Path</lr> on the highlighted tiles.,Seleziona la modalità di costruzione <lr>Percorsi</lr> e costruisci un <lr>Sentiero</lr> sulle caselle evidenziate.,
 TutorialDialogues_T1_BuildPathComplete,Text,,"Excellent! Your <bd>Well</bd> will soon be built and <it>Water</it> will be supplied to the <bd>Residence</bd>.
 Because the <bd>Well</bd> and the <bd>Residence</bd> are connected by a path, the Stackbot can deliver the <it>Water</it> directly.
-This means the <it>Water</it> resource will not impact your road network and can help reduce traffic on your roads when your colony grows and gets busier.","Eccellente! Il tuo <bd>Pozzo</bd> sarà costruito presto e <it>Acqua</it> verrà fornita alle <bd>Residenze</bd>.
-Siccome il <bd>Pozzo</bd> e le <bd>Residenze</bd> sono connesse da un sentiero, il BotImpilatore può consegnare l'<it>Acqua</it> direttamente.
+This means the <it>Water</it> resource will not impact your road network and can help reduce traffic on your roads when your colony grows and gets busier.","Eccellente! Il tuo <bd>Pozzo</bd> sarà costruito presto e fornirà <it>Acqua</it> alle <bd>Abitazioni</bd>.
+Siccome il <bd>Pozzo</bd> e le <bd>Abitazioni</bd> sono connesse da un sentiero, il BotImpilatore può consegnare l'<it>Acqua</it> direttamente.
 Questo significa che l'<it>Acqua</it> non impatterà la rete stradale, aiutando a ridurre il traffico quando la tua colonia crescerà.",
 TutorialDialogues_T1_BuildResidence0,Text,,"The <bd>Colony Ship</bd> generates a small amount of <it>Energy L1</it> to get you started but your colony will soon require lots more.
 You can generate additional <it>Energy L1</it> at <bd>Residences</bd> so next let's build your first <bd>Residence</bd>.","La <bd>Nave della Colonia</bd> genera una piccola quantità di <it>Energia L1</it> per iniziare, ma la tua colonia ne richiederà presto di più.
-Puoi generare più <it>Energia L1</it> alle <bd>Residenze</bd> quindi costruisci la tua prima <bd>Residenza</bd>.",
+Puoi generare più <it>Energia L1</it> alle <bd>Abitazioni</bd> quindi costruisci la tua prima <bd>Abitazione</bd>.",
 TutorialDialogues_T1_BuildSurfaceMine,Text,,"Great, your territory has expanded and now includes the <nr>Stone Deposit</nr>!
 Go ahead and build a <bd>Surface Mine</bd> to mine the <nr>Stone Deposit</nr> and start producing <it>Stone</it>.","Bene, il tuo territorio si è espanso e ora include il <nr>Deposito di Pietra</nr>!
 Continua e costruisci una <bd>Miniera di Superficie</bd> per estrarre materiale dal <nr>Deposito di Pietra</nr> e produrre <it>Pietra</it>.",
@@ -1757,7 +1757,7 @@ TutorialDialogues_T1_BuildWatchtower,Text,,"First you need to build a <bd>Watcht
 You can choose where to build the <bd>Watchtower</bd> yourself but you'll need to place it near the border so you can access the <nr>Stone Deposit</nr>.","Per prima cosa costruisci una <bd>Torre di Guardia</bd> vicino al <nr>Deposito di Pietra</nr> per allargare i tuoi confini.
 Puoi costruire dove costruire la <bd>Torre di Guardia</bd> ma dovrai piazzarla vicino al bordo in modo da poter accedere al <nr>Deposito di Pietra</nr>.",
 TutorialDialogues_T1_BuildWell,Text,,"To produce <it>Energy L1</it> the first resource a <bd>Residence</bd> needs is <it>Water</it>.
-Build a <bd>Well</bd> at the highlighted tiles.","Per produrre <it>Energia L1</it> la prima risorsa di cui una <bd>Residenza</bd> ha bisogno è l'<it>Acqua</it>.
+Build a <bd>Well</bd> at the highlighted tiles.","Per produrre <it>Energia L1</it> la prima risorsa di cui una <bd>Abitazione</bd> ha bisogno è l'<it>Acqua</it>.
 Costruisci un <bd>Pozzo</bd> sulle caselle evidenziate.",
 TutorialDialogues_T1_ClickStoneDeposit,Text,,"You have some <nr>Stone Deposit</nr> just outside your territory on the other side of the island.
 Click on it now.","Hai alcuni <nr>Depositi di Pietra</nr> appena fuori dal tuo territorio sull'altro lato dell'isola.
@@ -1790,8 +1790,8 @@ TutorialDialogues_T1_ExplainPaths,Text,,"Buildings also don't need to be placed 
 <lr>Paths</lr> are secondary routes that allow a building's Stackbot to reach a road post. This allows you to be more flexible with your building and road placement.","Gli edifici non hanno bisogno di essere piazzati direttamente sulle <lr>Strade</lr>. Possono essere connessi ad una <lr>Strada</lr> utilizzando un <lr>Sentiero</lr>.
 I <lr>Sentieri</lr> sono strade secondarie che permettono al BotImpilatore di un edificio di raggiungere un incrocio. Questo ti permette più flessibilità su dove piazzare gli edifici e le strade.",
 TutorialDialogues_T1_ExplainResidenceConstructionPanel,Text,,"This panel now tells you how much <it>Energy L1</it> this <bd>Residence</bd> can generate and which resources are needed to do so.
-The Level 1 <bd>Residence</bd> turns one <it>Water</it> and one <cat>Food</cat> resource into one <it>Energy L1</it>.","Questo pannello ora ti dice quante <it>Energia L1</it> questa <bd>Residenza</bd> può generare e che risorse sono necessarie.
-Questa <bd>Residenza</bd> Livello 1 trasforma una unità di <it>Acqua</it> e una di <cat>Cibo</cat> in una unità di <it>Energia L1</it>.",
+The Level 1 <bd>Residence</bd> turns one <it>Water</it> and one <cat>Food</cat> resource into one <it>Energy L1</it>.","Questo pannello ora ti dice quante <it>Energia L1</it> questa <bd>Abitazione</bd> può generare e che risorse sono necessarie.
+Questa <bd>Abitazione</bd> Livello 1 trasforma una unità di <it>Acqua</it> e una di <cat>Cibo</cat> in una unità di <it>Energia L1</it>.",
 TutorialDialogues_T1_ForestryAllocateTiles_TaskAllocate,Text,,Allocate 10 Forestry tiles,Seleziona 10 caselle per la Guardia Forestale,
 TutorialDialogues_T1_ForestryPlantTrees,Text,,"You control where the Treebot plants their trees.
 Follow the yellow alert icons on the <bd>Forestry</bd> building and allocate some tiles for planting.","Controlli tu dove il BotForestale pianta gli alberi.
@@ -1818,7 +1818,7 @@ TutorialDialogues_T1_PlaceFishingHut,Text,,"You can use <hotkey>[F]</hotkey> to 
 Use <hotkey>[F]</hotkey> to flip and <hotkey>[R]</hotkey> to rotate to build a <bd>Fishing Hut</bd> on the highlighted location.","Ora puoi utilizzare <hotkey>[F]</hotkey> per specchiare un edificio.
 Utilizza <hotkey>[F]</hotkey> per capovolgere e <hotkey>[R]</hotkey> per ruotare per costruire una <bd>Capanna da Pesca</bd> sulle caselle evidenziate.",
 TutorialDialogues_T1_PlaceLumberjackHut,Text,,"You're in the build mode, so place the <bd>Lumberjack Hut</bd> on the highlighted tiles near your Colony Ship.","Sei in modalità costruzione, quindi piazza la <bd>Capanna del Taglialegna</bd> sulle caselle evidenziate vicino alla tua Nave della Colonia.",
-TutorialDialogues_T1_PlaceResidence,Text,,You can rotate a building when you're placing it. Rotate using <hotkey>[R]</hotkey> and match the <bd>Residence</bd> to the highlighted tiles.,Puoi ruotare un edificio mentre lo stai piazzando. Ruotalo utilizzando <hotkey>[R]</hotkey> in modo da far combaciare la <bd>Residenza</bd> con le caselle evidenziate.,
+TutorialDialogues_T1_PlaceResidence,Text,,You can rotate a building when you're placing it. Rotate using <hotkey>[R]</hotkey> and match the <bd>Residence</bd> to the highlighted tiles.,Puoi ruotare un edificio mentre lo stai piazzando. Ruotalo utilizzando <hotkey>[R]</hotkey> in modo da far combaciare l'<bd>Abitazione</bd> con le caselle evidenziate.,
 TutorialDialogues_T1_ResourceClickOverview,Text,,Click the highlighted tab to go to the <it>Logs</it> overview panel.,Clicca la scheda evidenziata per andare al pannello riassuntivo dei <it>Tronchi</it>.,
 TutorialDialogues_T1_ResourceCloseOverview,Text,,"First, close the resource panel by <hotkey>right-clicking</hotkey> anywhere inside the panel or by using the 'x' button.","Per prima cosa, chiudi il pannello risorse facendo <hotkey>click-destro</hotkey> ovunque dentro il pannello o utilizzando il bottone 'x'.",
 TutorialDialogues_T1_ResourceOverview,Text,,"This section tells you how many <it>Logs</it> you're producing and how many are in demand. This is a good panel to check whether you're producing enough of a resource.
@@ -1866,16 +1866,16 @@ The Stackbot for the <bd>Lumberjack Hut</bd> will then pick up the resources and
 Let's watch!","Il tuo BotTrasportatore può ora trasportare i <it>Tronchi</it> lungo la strada fino all'incrocio fuori dalla <bd>Capanna del Taglialegna</bd>.
 Il BotImpilatore della <bd>Capanna del Taglialegna</bd> quindi prenderà le risorse e il BotCostruttore sarà pronto a costruire l'edificio.
 Stiamo a vedere!",
-TutorialDialogues_T1_WaitForResidenceConstruction,Text,,Good! Now let's watch the construction resources reach the <bd>Residence</bd> and the buildbot finish their work.,Bene! Ora guardiamo come le risorse di costruzione raggiungono la <bd>Residenza</bd> e come il BotCostruttore finisce il suo lavoro.,
-TutorialDialogues_T1_WaitForResidenceConstruction2,Text,,The <bd>Residence</bd> is finished but as the icons above the building show the Housebot doesn't have the required resources yet to begin production of <it>Energy L1</it>.,"La <bd>Residenza</bd> è finita ma come mostrano le icone sopra l'edificio, il BotCasalingo non ha le risorse necessarie per iniziare a produrre <it>Energia L1</it>.",
+TutorialDialogues_T1_WaitForResidenceConstruction,Text,,Good! Now let's watch the construction resources reach the <bd>Residence</bd> and the buildbot finish their work.,Bene! Ora guardiamo come le risorse di costruzione raggiungono l'<bd>Abitazione</bd> e come il BotCostruttore finisce il suo lavoro.,
+TutorialDialogues_T1_WaitForResidenceConstruction2,Text,,The <bd>Residence</bd> is finished but as the icons above the building show the Housebot doesn't have the required resources yet to begin production of <it>Energy L1</it>.,"L'<bd>Abitazione</bd> è finita ma come mostrano le icone sopra l'edificio, il BotCasalingo non ha le risorse necessarie per iniziare a produrre <it>Energia L1</it>.",
 TutorialDialogues_T1_WaitWatchtowerComplete,Text,,"Now let's wait for the <bd>Watchtower</bd> to finish construction.
 Remember you can change the game speed with <hotkey>[Z]</hotkey> and <hotkey>[X]</hotkey>.","Ora aspettiamo che la <bd>Torre di Guardia</bd> sia costruita.
 Ricorda che puoi cambiare la velocità di gioco con <hotkey>[Z]</hotkey> e <hotkey>[X]</hotkey>.",
-TutorialDialogues_T1_WatchFirstFish,Text,,The Fisherbot is now heading off to fish and will soon have some <it>Fish</it> for your <bd>Residence</bd>.,Il BotPescatore si sta ora dirigendo a pescare e presto avrà del <it>Pesce</it> per la tua <bd>Residenza</bd>.,
+TutorialDialogues_T1_WatchFirstFish,Text,,The Fisherbot is now heading off to fish and will soon have some <it>Fish</it> for your <bd>Residence</bd>.,Il BotPescatore si sta ora dirigendo a pescare e presto avrà del <it>Pesce</it> per la tua <bd>Abitazione</bd>.,
 TutorialDialogues_T2_BuildSheepFarm,Text,,"First though, we can see that we haven't got any <nr>Fish</nr> available so you'll need to build a <bd>Sheep Farm</bd>.
 Sheep Farms can produce enough <cat>Food</cat> for 4 <bd>Residences</bd> but they need space for the sheep to graze.
 Build a <bd>Sheep Farm</bd> in the highlighted location.","Per prima cosa, possiamo vedere che non abbiamo nessun <nr>Pesce</nr> disponibile quindi avrai bisogno di costruire un <bd>Allevamento di Pecore</bd>.
-Gli Allevamenti di pecore possono produrre abbastanza <cat>Cibo</cat> per 4 <bd>Residenze</bd> ma hanno bisogno di spazio per far pascolare le pecore.
+Gli Allevamenti di pecore possono produrre abbastanza <cat>Cibo</cat> per 4 <bd>Abitazioni</bd> ma hanno bisogno di spazio per far pascolare le pecore.
 Costruisci un <bd>Allevamento di Pecore</bd> nel punto evidenziato.",
 TutorialDialogues_T2_BuildSheepFarm2,Text,,Nice! Let's wait for the buildbot to finish construction of your <bd>Sheep Farm</bd>.,Bene! Ora aspettiamo che il BotCostruttore finisca la costruzione del tuo <bd>Allevamento di Pecore</bd>.,
 TutorialDialogues_T2_BuildSheepFarm_TaskBuildSheepFarm,Text,Deprecated,[-],[-],
@@ -1896,9 +1896,9 @@ Questo significa che hai sbloccato nuovi edifici e l'abilità di migliorare alcu
 TutorialDialogues_T2_OnResearchComplete2b,Text,,To mine <nr>Coal</nr> and <nr>Iron Ore</nr> you need to research <res>Mining I</res> as well as supply the more advanced <it>Energy L2</it>.,Per estrarre <nr>Carbone</nr> e <nr>Ferro grezzo</nr> hai bisogno di ricercare <res>Estrazione Mineraria I</res> oltre a fornire <it>Energia L2</it> più avanzata.,
 TutorialDialogues_T2_OnResearchComplete2c,Text,,"<it>Energy L2</it> is generated by Level 2 <bd>Residences</bd>.
 You can either upgrade Level 1 <bd>Residences</bd> via the building's upgrade panel or you can construct the building from scratch.
-Your next job is to create your first Level 2 <bd>Workshop</bd> and your first Level 2 <bd>Residence</bd>!","L'<it>Energia L2</it> è generata dalle <bd>Residenze</bd> Livello 2.
-Puoi migliorare le <bd>Residenze</bd> Livello 1 attraverso il pannello migliora dell'edificio o puoi costruirle da zero.
-Il tuo prossimo incarico è di creare il tuo primo <bd>Laboratorio</bd> Livello 2 e la tua prima <bd>Residenza</bd> Livello 2!",
+Your next job is to create your first Level 2 <bd>Workshop</bd> and your first Level 2 <bd>Residence</bd>!","L'<it>Energia L2</it> è generata dalle <bd>Abitazioni</bd> Livello 2.
+Puoi migliorare le <bd>Abitazioni</bd> Livello 1 attraverso il pannello migliora dell'edificio o puoi costruirle da zero.
+Il tuo prossimo incarico è di creare il tuo primo <bd>Laboratorio</bd> Livello 2 e la tua prima <bd>Abitazione</bd> Livello 2!",
 TutorialDialogues_T2_SoloInstructions,Text,,"It's time to build this colony on your own!
 I'll still be around to help though. Click on the flashing 'Help' icon the top-left.","È il momento di costruire la tua colonia!
 Sarò ancora in giro ad aiutare. Clicca il tasto 'Aiuto' lampeggiante in alto a sinistra.",
@@ -1954,8 +1954,8 @@ You can now build Level 2 <bd>Surface Mines</bd> and Level 1 <bd>Shaft Mines</bd
 Ora puoi costruire la <bd>Miniera di Superficie</bd> Livello 2 e la <bd>Miniera</bd> Livello 1 che può estrarre <nr>Carbone</nr> e <nr>Ferro grezzo</nr>.",
 TutorialDialogues__Overlay_ResidenceUpgraded,Text,,"You now have a Level 2 <bd>Residence</bd> which can generate <it>Energy L2</it>!
 Level 2 <bd>Residences</bd> have an additional requirement though - <cat>Alcohol</cat>.
-Build an <bd>Orchard</bd> and <bd>Cider Press</bd> to start producing <it>Cider</it>.","Ora hai una <bd>Residenza</bd> Livello 2 che può generare <it>Energia L2</it>!
-Le <bd>Residenze</bd> Livello 2 hanno un altro requisito - <cat>l'Alcol</cat>.
+Build an <bd>Orchard</bd> and <bd>Cider Press</bd> to start producing <it>Cider</it>.","Ora hai un'<bd>Abitazione</bd> Livello 2 che può generare <it>Energia L2</it>!
+Le <bd>Abitazioni</bd> Livello 2 hanno un altro requisito - <cat>l'Alcol</cat>.
 Costruisci un <bd>Frutteto</bd> e una <bd>Pressa per Sidro</bd> per iniziare a produrre <it>Sidro</it>.",
 TutorialDialogues__Overlay_ShaftMineCanConstruct,Text,,"You now have a Underground Deposit inside your territory!
 You can mine this location by constructing a <bd>Shaft Mine</bd> on it.
@@ -2613,7 +2613,7 @@ Building_66_Name,Text,,Vegetable Farm,Campo di Verdure,
 Building_66_Plural,Text,,Vegetable Farms,Campi di Verdure,
 Building_66_Worker,Text,,Farmbot,BotContadino,
 Item_47_Desc,Text,,Vegetables are harvested at the <bd>Vegetable Farm</bd>.,Le Verdure sono raccolte al <bd>Campo di Verdure</bd>.,
-Item_47_FullDesc,Text,,Vegetables are harvested at the <bd>Vegetable Farm</bd> and are consumed by <bd>Level 1 Residences</bd>.,Le Verdure sono raccolte al <bd>Campo di Verdure</bd> e sono consumate dalle <bd>Residenze di Livello 1</bd>.,
+Item_47_FullDesc,Text,,Vegetables are harvested at the <bd>Vegetable Farm</bd> and are consumed by <bd>Level 1 Residences</bd>.,Le Verdure sono raccolte al <bd>Campo di Verdure</bd> e sono consumate dalle <bd>Abitazioni di Livello 1</bd>.,
 Item_47_Name,Text,,Vegetables,Verdure,
 Item_47_Past,Text,,Harvested,Raccolti,
 Item_47_Present,Text,,Harvesting,Raccogliendo,
@@ -2629,12 +2629,12 @@ Pumpkins_Building_66_Description,Text,,Create <it>Pumpkins</it> from pumpkin pat
 Pumpkins_Building_66_Name,Text,,Pumpkin Farm,Campo di Zucche,
 Pumpkins_Building_66_Plural,Text,,Pumpkin Farms,Campi di Zucche,
 Pumpkins_Item_47_Desc,Text,,Pumpkins are harvested at the <bd>Pumpkin Farm</bd>.,Le Zucche sono raccolte al <bd>Campo di Zucche</bd>.,
-Pumpkins_Item_47_FullDesc,Text,,Pumpkins are harvested at the <bd>Pumpkin Farm</bd> and are consumed by <bd>Level 1 Residences</bd>.,Le Zucche sono raccolte al <bd>Campo di Zucche</bd> e sono consumate dalle <bd>Residenze di Livello 1</bd>.,
+Pumpkins_Item_47_FullDesc,Text,,Pumpkins are harvested at the <bd>Pumpkin Farm</bd> and are consumed by <bd>Level 1 Residences</bd>.,Le Zucche sono raccolte al <bd>Campo di Zucche</bd> e sono consumate dalle <bd>Abitazioni di Livello 1</bd>.,
 Pumpkins_Item_47_Name,Text,,Pumpkins,Zucche,
 MapEditorMapSettingTerritoryEnabled,Text,,Territory & fog of war enabled,Territori e Nebbia di guerra attivati,
 MapEditorTestVerificationFailed,Text,,Cannot test this scenario! Check the verification panel in the top right.,Impossibile testare questo scenario! Controlla il pannello di verifica in alto a destra.,
-ItemCat_2_FullDesc,Text,,"<cat>Food</cat> is needed by all <bd>Residences</bd> and can be <it>Fish</it>, <it>Meat</it> or <it>Vegetables</it>.","<cat>Cibo</cat> è richiesto da tutte le <bd>Residenze</bd> e può essere <it>Pesce</it>, <it>Carne</it> o <it>Verdure</it>.",
-Pumpkins_ItemCat_2_FullDesc,Text,,"<cat>Food</cat> is needed by all <bd>Residences</bd> and can be <it>Fish</it>, <it>Meat</it> or <it>Pumpkins</it>.","<cat>Cibo</cat> è richiesto da tutte le <bd>Residenze</bd> e può essere <it>Pesce</it>, <it>Carne</it> o <it>Zucche</it>.",
+ItemCat_2_FullDesc,Text,,"<cat>Food</cat> is needed by all <bd>Residences</bd> and can be <it>Fish</it>, <it>Meat</it> or <it>Vegetables</it>.","<cat>Cibo</cat> è richiesto da tutte le <bd>Abitazioni</bd> e può essere <it>Pesce</it>, <it>Carne</it> o <it>Verdure</it>.",
+Pumpkins_ItemCat_2_FullDesc,Text,,"<cat>Food</cat> is needed by all <bd>Residences</bd> and can be <it>Fish</it>, <it>Meat</it> or <it>Pumpkins</it>.","<cat>Cibo</cat> è richiesto da tutte le <bd>Abitazioni</bd> e può essere <it>Pesce</it>, <it>Carne</it> o <it>Zucche</it>.",
 Pumpkins_Structure_2_Name,Text,"These are the ""fields"" the player manually places",Pumpkin Patch,Orto(Zucche),
 Pumpkins_Structure_2_Plural,Text,"These are the ""fields"" the player manually places",Pumpkin Patches,Orti(Zucche),
 Structure_2_Name,Text,"These are the ""fields"" the player manually places",Vegetable Plot,Orto(Verdure),
@@ -2762,7 +2762,7 @@ NEW_ACHIEVEMENT_19_26_NAME,Text,,Supplier Challenge - CHAMPION,Sfida Fornitore -
 NEW_ACHIEVEMENT_19_26_DESC,Text,,Sell one of each resource without purchasing anything in mission 8 within 10 months,Vendi un tipo di ciascuna risorsa senza comprare nulla nella missione 8 entro 10 mesi,
 NEW_ACHIEVEMENT_19_27_NAME,Text,,Supplier Challenge - EXPERT,Sfida Fornitore - ESPERTO,
 NEW_ACHIEVEMENT_19_27_DESC,Text,,Sell one of each resource without purchasing anything in mission 8 within 11 months,Vendi un tipo di ciascuna risorsa senza comprare nulla nella missione 8 entro 11 mesi,
-TutorialDialogues_T1_ExplainFood,Text,,"The other <bd>Residence</bd> need was <cat>Food</cat>. This means <it>Fish</it>, <it>Meat</it> or <it>Vegetables</it>.","L'altra necessità della <bd>Residenza</bd> era <cat>Cibo</cat>. Questo significa <it>Pesce</it>, <it>Carne</it> o <it>Verdure</it>.",
+TutorialDialogues_T1_ExplainFood,Text,,"The other <bd>Residence</bd> need was <cat>Food</cat>. This means <it>Fish</it>, <it>Meat</it> or <it>Vegetables</it>.","L'altra necessità dell'<bd>Abitazione</bd> era <cat>Cibo</cat>. Questo significa <it>Pesce</it>, <it>Carne</it> o <it>Verdure</it>.",
 SpeedRun_Challenges,Text,Title of the speed run challenges panel,Challenges,Sfide,
 Challenge_0_Name,Text,,Boatbuilder,Barcaiolo,
 Challenge_1_Name,Text,,All The Science,Fantascienza,
@@ -3046,7 +3046,7 @@ Item_49_Name,Text,,Cocoa Beans,Semi di Cacao,
 Item_49_Past,Text,,Harvested,Raccolta,
 Item_49_Present,Text,,Harvesting,In raccolta,
 Item_50_Desc,Text,,Chocolate is made at the <bd>Chocolate Factory</bd>.,Il cioccolato è fatto alla <bd>Fabbrica di Cioccolato</bd>.,
-Item_50_FullDesc,Text,,Chocolate is made at the <bd>Chocolate Factory</bd> from <it>Cocoa Beans</it> and <it>Milk</it> and is consumed by <bd>Level 3 Residences</bd>.,Il cioccolato è fatto alla <bd>Fabbrica di Cioccolato</bd> da <it>Semi di Cacao</it> e <it>Latte</it> ed è utilizzato dalle <bd>Residenze di Livello 3</bd>.,
+Item_50_FullDesc,Text,,Chocolate is made at the <bd>Chocolate Factory</bd> from <it>Cocoa Beans</it> and <it>Milk</it> and is consumed by <bd>Level 3 Residences</bd>.,Il cioccolato è fatto alla <bd>Fabbrica di Cioccolato</bd> da <it>Semi di Cacao</it> e <it>Latte</it> ed è utilizzato dalle <bd>Abitazioni di Livello 3</bd>.,
 Item_50_Name,Text,,Chocolate,Cioccolato,
 Item_50_Past,Text,,Made,Fatto,
 Item_50_Present,Text,,Making,In creazione,
@@ -3391,10 +3391,10 @@ Scenario_100_Name,Text,,Multiplayer Beta Map 2P,Mappa Beta Multiplayer 2P,
 GameComplete_MP_PlayerWon,Text,{0}: name of the player that won the game,{0} won!,{0} ha vinto!,
 Scenario_101_Name,Text,,Multiplayer Beta Map 3P,Mappa Beta Multiplayer 3P,
 MultiplayerSpeed_Pause,Text,,Pause,Pausa,
-Building_75_Description,Text,,,,
-Building_75_Name,Text,,Fishing Station,Postazione di Pesca,
-Building_75_Plural,Text,,,,
-Building_75_Worker,Text,,,,
+Building_75_Description,Text,[deprecated] - duplicated below,,,
+Building_75_Name,Text,[deprecated] - duplicated below,,,
+Building_75_Plural,Text,[deprecated] - duplicated below,,,
+Building_75_Worker,Text,[deprecated] - duplicated below,,,
 Previous,Text,"The opposite of 'Next', as in the next item in the list",Previous,Precedente,
 No_ConstructionDepots_Yet,Text,,You haven't built any <bd>Construction Yards</bd> yet!,Non hai ancora costruito nessun <bd>Cantiere</bd>!,
 Assign_ConstructionDepot,Text,Button to assign a construction yard building to the construction of a target structure,Assign Construction Yard,Assegna Cantiere,
@@ -3405,7 +3405,7 @@ RoadBridge_1_Name,Text,,Iron Bridge,Ponte di Ferro,
 RoadBridge_1_Desc,Text,,An iron bridge you can build roads and paths over.,Un ponte di ferro su cui costruire strade e sentieri.,
 RoadBridge_2_Name,Text,,Steel Bridge,Ponte d'Acciaio,
 RoadBridge_2_Desc,Text,,A steel bridge you can build roads and paths over.,Un ponte d'acciaio su cui puoi costruire strade e sentieri.,
-Building_76_Description,Text,[PLEASE UPDATE],A resource depot used by a buildbot to construct bridges.,Un deposito di risorse utilizzato da un BotCostruttore per costruire ponti.,
+Building_76_Description,Text,,A resource depot used by a buildbot to construct bridges.,Un deposito di risorse utilizzato da un BotCostruttore per costruire ponti.,
 Building_76_Name,Text,,Construction Yard,Cantiere di costruzione,
 Building_76_Plural,Text,,Construction Yards,Cantieri di costruzione,
 Building_76_Worker,Text,,Engineerbot,BotIngegnere,
@@ -3428,8 +3428,8 @@ Building_75_Description,Text,,Fishing boat fishes at off-shore locations for <it
 Building_75_Name,Text,,Fishing Station,Stazione di Pesca,
 Building_75_Plural,Text,,Fishing Stations,Stazioni di Pesca,
 Building_75_Worker,Text,,Fisherbot,BotPescatore,
-Item_51_Desc,Text,,Lobsters are caught by the fishing boat and unloaded at the <bd>Fishing Station</bd>.,Le aragoste vengono catturate dal peschereccio e scaricate alla <bd>Stazione di pesca</bd>.,
-Item_51_FullDesc,Text,,Lobsters are caught by the fishing boat and unloaded at the <bd>Fishing Station</bd> and are a <cat>Luxury Food</cat>.,Le aragoste vengono catturate dal peschereccio e scaricate alla <bd>Stazione di pesca</bd> e sono un <cat>Cibo di lusso</cat>.,
+Item_51_Desc,Text,,Lobsters are caught by the fishing boat and unloaded at the <bd>Fishing Station</bd>.,Le aragoste vengono catturate dal peschereccio e scaricate alla <bd>Stazione di Pesca</bd>.,
+Item_51_FullDesc,Text,,Lobsters are caught by the fishing boat and unloaded at the <bd>Fishing Station</bd> and are consumed by <bd>Level 3 Residences</bd>.,Le aragoste vengono catturate dal peschereccio e scaricate alla <bd>Stazione di Pesca</bd> e sono consumate dalle <bd>Abitazioni di Livello 3</bd>.,
 Item_51_Name,Text,,Lobster,Aragosta,
 Item_51_Past,Text,,Caught,Preso,
 Item_51_Present,Text,,Catching,Catturando,
@@ -3842,9 +3842,38 @@ TrackPlacementGeneral2,,,You can also <hotkey>[Ctrl]</hotkey> and click a track 
 TunnelPlacementTip1,,,Press [R] to switch to other potential rotation on the highlight tile.,Premi [R] per passare ad un'altra potenziale rotazione sulla cella evidenziata.,
 MiscCat_15_Name,,,Fish / Lobster,Pesce/Aragosta,
 MiscCat_15_Desc,,,available from sea fishing locations,disponibile nei punti di pesca in mare,
-BdPlVaResults_42_Name,Text,,Can't adjust end tile,Impossibile regolare la casella finale,
-BdPlVaResults_49_Name,Text,,Can't adjust start tile,Impossibile regolare la casella iniziale,
+BdPlVaResults_42_Name,,,Can't adjust end tile,Impossibile regolare la casella finale,
+BdPlVaResults_49_Name,,,Can't adjust start tile,Impossibile regolare la casella iniziale,
 BdPlVaResults_43_Name,,,Obstruction below bridge,Ostruzione sotto il ponte,
 RandomMapCashVictoryCondition,,,Have $10000 in the bank,Avere $10000 in banca,
 FloraGrowthProgress,,{0}: percentage number,{0}% grown,{0}% cresciuto,
 FloraFullyGrown,,referring to trees for examples,Fully grown,Maturo,
+Building_71_Description,,,Place on water to expand your territory and attack enemy watchtowers.,Posiziona sull'acqua per espandere il tuo territorio e attaccare le torri di guardia nemiche.,
+Building_71_Plural,,,Floating Watchtowers,Torri di Guardia Galleggianti,
+Building_71_Worker,,,Guardbot,BotGuardia,
+BdPlVaResults_50_Name,,When trying to place a building in fog of war,Outside visible area,Fuori dall'area visibile,
+RoadBridgeSelectConstructionYardAlreadyAssigned,,Message under construction yard if it already has a bridge assigned to it,Assigned to another bridge,Assegnato a un altro ponte,
+AlertRoadBridgeNoConstructionYard,,Alert icon on under construction bridges without a construction yard assigned,You need to assign a construction yard,È necessario impostare un cantiere edile,
+DLC1_ItemCat_3_FullDesc,,,"<cat>Luxury Food</cat> is needed by Level 3 <bd>Residences</bd> and can be <it>Bread</it>, <it>Chocolate</it> or <it>Lobster</it>.","Il <cat>Cibo di Lusso</cat> è necessario per le <bd>Abitazioni</bd> di Livello 3 e può essere <it>Pane</it>, <it>Cioccolato</it> o <it>Aragosta</it>.",
+DLC1_ItemCat_3_Desc,,,<it>Bread</it> / <it>Chocolate</it> / <it>Lobster</it>,<it>Pane</it> / <it>Cioccolato</it> / <it>Aragosta</it>,
+Building_83_Description,,,Boosts the productivity of nearby bots with the power of chocolate!,Aumenta la produttività dei robot vicini con il potere del cioccolato!,
+Building_83_Name,,,Chocolate Monument,Monumento di Cioccolato,
+Building_83_Plural,,,Chocolate Monuments,Monumenti di Cioccolato,
+Building_83_Worker,,,Stackbot,BotImpilatore,
+SaveGameEntryOverwrite,,when you're overwriting an existing save game,Overwrite,Sovrascrivi,
+SaveGameEntryLoad,,when you're loading a savegame,Load,Carica,
+FishingBoatNo_RouteHome,,,No route to dock!,Nessun percorso per il porto!,
+FishingLocations,,Header for panel show fishing locations on map,Fishing Locations,Punti di Pesca,
+Fish_254_Name,,When there's location on the map outside known view and isn't known whether it's fish or lobster,Unknown fishing location,Punto di pesca sconosciuto,
+Notification_33_Desc,,<fishinglocation> = fish shoal or lobster pod,A <fl><fishinglocation></fl> has been spotted!,E' stato individuato un <fl><fishinglocation></fl>!,
+Notification_33_Name,,<fishinglocation> = fish shoal or lobster pod,<fishinglocation> discovered!,<fishinglocation> scoperto!,
+Notification_34_Desc,,<fish> = fish,<fl><fish></fl> have been spotted!,<fl><fish></fl> è stato individuato!,
+Notification_34_Name,,<fish> = fish,<fish> discovered!,<fish> scoperto!,
+ConstructionSectionExtra,,Header for construction sub section showing extra bits like bot printers,Extras,Extra,
+ConstructionSectionBotPrinter,,"The thing that prints bot at the Colony Ship, Harbour and other buildings",Bot Printer,Stampante Bot,
+RoadBridgePlacementTooltipBoatsCanPassUnder,,On tooltip when building a bridge,Boats can pass under,Le barche possono passarci sotto,
+RoadBridgePlacementTooltipBoatsCannotPassUnder,,On tooltip when building a bridge,Too low for boats to pass under,Troppo passo perché ci passino sotto le barche,
+,,,Oops! There is a broken road in your colony!,Oops! C'è una strada rotta nella tua colonia!,
+HelpTitle_45_Desc,,,This building can print bots,Questo edidicio può stampare i bot,
+HelpTitle_45_Name,,,Bot Printer,Stampante Bot,
+MultiplayerSettingsNoTimeLimit,,When a multiplayer game doesn't have a time limit,No time limit,Nessun limite di tempo,
