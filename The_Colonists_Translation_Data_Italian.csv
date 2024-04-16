@@ -3552,7 +3552,7 @@ Building_79_Worker,Text,,Priestbot,BotPrete,
 Item_52_Desc,Text,,Holy Energy is made at the <bd>Church</bd>.,L'Energia Sacra è prodotta alla <bd>Chiesa</bd>.,
 Item_52_FullDesc,Text,,Holy Energy is made at the <bd>Church</bd> from <it>Energy L2</it> and is used by <bd>Missionary Outposts</bd> to bless buildings.,L'Energia Sacra è prodotta nella <bd>Chiesa</bd> da <it>Energia L2</it> e viene utilizzata dagli <bd>Avamposti Missionari</bd> per benedire gli edifici.,
 Item_52_Name,Text,,Holy Energy,Energia Sacra,
-Item_52_Past,Text,,Prepare,Preparato,
+Item_52_Past,Text,,Prepared,Preparato,
 Item_52_Present,Text,,Preparing,Preparazione,
 Building_77_Description,Text,,Allows you to share resources with other players on your team.,Ti consente di condividere risorse con altri giocatori della tua squadra.,
 Building_77_Name,Text,,Team Space Port,Porto Spaziale del Team,
@@ -3877,3 +3877,31 @@ RoadBridgePlacementTooltipBoatsCannotPassUnder,,On tooltip when building a bridg
 HelpTitle_45_Desc,,,This building can print bots,Questo edidicio può stampare i bot,
 HelpTitle_45_Name,,,Bot Printer,Stampante Bot,
 MultiplayerSettingsNoTimeLimit,,When a multiplayer game doesn't have a time limit,No time limit,Nessun limite di tempo,
+ResourceCatDemandTooltip_Single,,"{0}: amount, {1}: resource category, e.g. ""3 urgent demands for construction resources",{0} urgent demand for {1} resources,{0} ha urgente bisogno di {1} risorse,
+ResourceCatDemandTooltip_Plural,,"{0}: amount, {1}: resource category, e.g. ""1 urgent demand for construction resources",{0} urgent demands for {1} resources,{0} hanno bisogno di {1} risorse,
+GameControls_UnlockAllDLC1Warning,,,"This will unlock all missions in New Lands DLC.
+
+Are you sure?","Questo sbloccherà tutte le missioni nel DLC New Lands.
+
+Sei sicuro?",
+GameControls_ResetDLC1Warning,,,"This will clear all your progress and medals in New Lands DLC!
+
+Are you sure?","Questo cancellerà tutti i tuoi progressi e le medaglie nel DLC New Lands!
+
+Sei sicuro?",
+DLC1Title,,,New Lands DLC,DLC New Lands,
+GameTimeRemaining,,"When a game has a time limit. e.g. ""Remaining: 2 months""",Remaining:,Rimanente:,
+ScenVict_20_Name,,,Most Money,Più Soldi,
+ScenVict_20_Desc,,,Have the most money in the bank,Avere più soldi in banca,
+ScenVict_20_CreateDesc,,,Have the most money in the bank,Avere più soldi in banca,
+BlacklistRuleFull,,,<it>{0}</it> are banned,<it>{0}</it> sono vietati,
+BlacklistRuleExceptStorage,,,<it>{0}</it> are banned except for storage,<it>{0}</it> sono vietati tranne che per il deposito,
+WhitelistRuleFull,,,Only <it>{0}</it> are allowed,Sono consentiti solo <it>{0}</it>,
+WhitelistRuleStorageOnly,,,Only <it>{0}</it> are allowed and only for storage,Sono consentiti solo <it>{0}</it> e solo per il deposito,
+RuleAllResourcesAllowed,,,<it>All resources</it> are allowed,<it>Tutte le risorse</it> sono consentite,
+IdleWorkerReason_24_Name,,(Workerbot is idle because....),there is no bridge assigned,non c'è nessun ponte assegnato,
+ColourSchemeTip,,,(You can change your colony's colour scheme at the colony ship),(Puoi cambiare lo schema dei colori della tua colonia sulla nave coloniale),
+MapEditorUploadImage,,Button to upload an image to use for the map,Upload,Upload,
+MultiplayerCoopCampaign,,Button to go to the multiplayer co-op campaign,Co-op Campaign,Campagna Co-Op,
+MultiplayerCoopFreePlay,,Button to go to the main multiplayer lobby/setup page,Free Play,Gioco Libero,
+JoinMultiplayerWindowBody,,,Enter the passcode of the game you want to join,Inserisci la password del gioco a cui vuoi partecipare,

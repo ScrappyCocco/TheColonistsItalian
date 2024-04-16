@@ -21899,7 +21899,7 @@
     "Key": "Item_52_Past",
     "Type": "Text",
     "Desc": "",
-    "English": "Prepare",
+    "English": "Prepared",
     "Italian": "Preparato",
     "Requires Update": ""
   },
@@ -23589,6 +23589,166 @@
     "Desc": "When a multiplayer game doesn't have a time limit",
     "English": "No time limit",
     "Italian": "Nessun limite di tempo",
+    "Requires Update": ""
+  },
+  {
+    "Key": "ResourceCatDemandTooltip_Single",
+    "Type": "",
+    "Desc": "{0}: amount, {1}: resource category, e.g. \"3 urgent demands for construction resources",
+    "English": "{0} urgent demand for {1} resources",
+    "Italian": "{0} ha urgente bisogno di {1} risorse",
+    "Requires Update": ""
+  },
+  {
+    "Key": "ResourceCatDemandTooltip_Plural",
+    "Type": "",
+    "Desc": "{0}: amount, {1}: resource category, e.g. \"1 urgent demand for construction resources",
+    "English": "{0} urgent demands for {1} resources",
+    "Italian": "{0} hanno bisogno di {1} risorse",
+    "Requires Update": ""
+  },
+  {
+    "Key": "GameControls_UnlockAllDLC1Warning",
+    "Type": "",
+    "Desc": "",
+    "English": "This will unlock all missions in New Lands DLC.\n\nAre you sure?",
+    "Italian": "Questo sbloccherà tutte le missioni nel DLC New Lands.\n\nSei sicuro?",
+    "Requires Update": ""
+  },
+  {
+    "Key": "GameControls_ResetDLC1Warning",
+    "Type": "",
+    "Desc": "",
+    "English": "This will clear all your progress and medals in New Lands DLC!\n\nAre you sure?",
+    "Italian": "Questo cancellerà tutti i tuoi progressi e le medaglie nel DLC New Lands!\n\nSei sicuro?",
+    "Requires Update": ""
+  },
+  {
+    "Key": "DLC1Title",
+    "Type": "",
+    "Desc": "",
+    "English": "New Lands DLC",
+    "Italian": "DLC New Lands",
+    "Requires Update": ""
+  },
+  {
+    "Key": "GameTimeRemaining",
+    "Type": "",
+    "Desc": "When a game has a time limit. e.g. \"Remaining: 2 months",
+    "English": "Remaining:",
+    "Italian": "Rimanente:",
+    "Requires Update": ""
+  },
+  {
+    "Key": "ScenVict_20_Name",
+    "Type": "",
+    "Desc": "",
+    "English": "Most Money",
+    "Italian": "Più Soldi",
+    "Requires Update": ""
+  },
+  {
+    "Key": "ScenVict_20_Desc",
+    "Type": "",
+    "Desc": "",
+    "English": "Have the most money in the bank",
+    "Italian": "Avere più soldi in banca",
+    "Requires Update": ""
+  },
+  {
+    "Key": "ScenVict_20_CreateDesc",
+    "Type": "",
+    "Desc": "",
+    "English": "Have the most money in the bank",
+    "Italian": "Avere più soldi in banca",
+    "Requires Update": ""
+  },
+  {
+    "Key": "BlacklistRuleFull",
+    "Type": "",
+    "Desc": "",
+    "English": "<it>{0}</it> are banned",
+    "Italian": "<it>{0}</it> sono vietati",
+    "Requires Update": ""
+  },
+  {
+    "Key": "BlacklistRuleExceptStorage",
+    "Type": "",
+    "Desc": "",
+    "English": "<it>{0}</it> are banned except for storage",
+    "Italian": "<it>{0}</it> sono vietati tranne che per il deposito",
+    "Requires Update": ""
+  },
+  {
+    "Key": "WhitelistRuleFull",
+    "Type": "",
+    "Desc": "",
+    "English": "Only <it>{0}</it> are allowed",
+    "Italian": "Sono consentiti solo <it>{0}</it>",
+    "Requires Update": ""
+  },
+  {
+    "Key": "WhitelistRuleStorageOnly",
+    "Type": "",
+    "Desc": "",
+    "English": "Only <it>{0}</it> are allowed and only for storage",
+    "Italian": "Sono consentiti solo <it>{0}</it> e solo per il deposito",
+    "Requires Update": ""
+  },
+  {
+    "Key": "RuleAllResourcesAllowed",
+    "Type": "",
+    "Desc": "",
+    "English": "<it>All resources</it> are allowed",
+    "Italian": "<it>Tutte le risorse</it> sono consentite",
+    "Requires Update": ""
+  },
+  {
+    "Key": "IdleWorkerReason_24_Name",
+    "Type": "",
+    "Desc": "(Workerbot is idle because....)",
+    "English": "there is no bridge assigned",
+    "Italian": "non c'è nessun ponte assegnato",
+    "Requires Update": ""
+  },
+  {
+    "Key": "ColourSchemeTip",
+    "Type": "",
+    "Desc": "",
+    "English": "(You can change your colony's colour scheme at the colony ship)",
+    "Italian": "(Puoi cambiare lo schema dei colori della tua colonia sulla nave coloniale)",
+    "Requires Update": ""
+  },
+  {
+    "Key": "MapEditorUploadImage",
+    "Type": "",
+    "Desc": "Button to upload an image to use for the map",
+    "English": "Upload",
+    "Italian": "Upload",
+    "Requires Update": ""
+  },
+  {
+    "Key": "MultiplayerCoopCampaign",
+    "Type": "",
+    "Desc": "Button to go to the multiplayer co-op campaign",
+    "English": "Co-op Campaign",
+    "Italian": "Campagna Co-Op",
+    "Requires Update": ""
+  },
+  {
+    "Key": "MultiplayerCoopFreePlay",
+    "Type": "",
+    "Desc": "Button to go to the main multiplayer lobby/setup page",
+    "English": "Free Play",
+    "Italian": "Gioco Libero",
+    "Requires Update": ""
+  },
+  {
+    "Key": "JoinMultiplayerWindowBody",
+    "Type": "",
+    "Desc": "",
+    "English": "Enter the passcode of the game you want to join",
+    "Italian": "Inserisci la password del gioco a cui vuoi partecipare",
     "Requires Update": ""
   }
 ]
