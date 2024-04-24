@@ -3044,7 +3044,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Building {0}",
-    "Italian": "Edificio {0}",
+    "Italian": "Costruzione {0}",
     "Requires Update": ""
   },
   {
@@ -23749,6 +23749,22 @@
     "Desc": "",
     "English": "Enter the passcode of the game you want to join",
     "Italian": "Inserisci la password del gioco a cui vuoi partecipare",
+    "Requires Update": ""
+  },
+  {
+    "Key": "SubmittingScore",
+    "Type": "",
+    "Desc": "",
+    "English": "Submitting score...",
+    "Italian": "Invio punteggio...",
+    "Requires Update": ""
+  },
+  {
+    "Key": "ScoreSubmitted",
+    "Type": "",
+    "Desc": "",
+    "English": "Score submitted!",
+    "Italian": "Punteggio inviato!",
     "Requires Update": ""
   }
 ]
