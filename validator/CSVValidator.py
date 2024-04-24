@@ -234,7 +234,7 @@ class CSVValidator:
                                 "Warning [Deprecated Line]: " +
                                 "This line will be skipped because is deprecated or empty in the original file. " +
                                 "Consider removing it in your file too \n" +
-                                "Description: " + str(row[3]) + "\n" +
+                                "Description: " + str(row[2]) + "\n" +
                                 "Original: " + str(row[3]) + "\n" +
                                 "Translated: " + str(row[4]) + "\n\n")
                         # Check balance of brackets in original line
