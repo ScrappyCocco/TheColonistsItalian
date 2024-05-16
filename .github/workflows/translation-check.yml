@@ -21,11 +21,21 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r validator/requirements.txt
     - name: Translation Validator
-      continue-on-error: true
+      id: translationvalidat
+      continue-on-error: true # Continue to Output Step anyway
       run: |
         cd validator
         python main.py "../The_Colonists_Translation_Data_Italian.csv"
+        if [ $? -ne 0 ]; then
+          echo "::set-output name=status::failure"
+        else
+          echo "::set-output name=status::success"
+        fi
     - name: Output result
       run: |
         cd validator
         cat result.txt
+        if [ "${{ steps.translationvalidat.outputs.status }}" = "failure" ]; then
+          echo "::error::Previous step failed"
+          exit 1
+        fi
