@@ -27,8 +27,10 @@ jobs:
         cd validator
         python main.py "../The_Colonists_Translation_Data_Italian.csv"
         if [ $? -ne 0 ]; then
+          echo "Translation Check Command failed, setting status to failure"
           echo "::set-output name=status::failure"
         else
+          echo "Translation Check Command succeeded, setting status to success"
           echo "::set-output name=status::success"
         fi
     - name: Output result
