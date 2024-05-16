@@ -3917,8 +3917,9 @@ MultiplayerBeta,Text,,You can play the multiplayer beta by switching to the deve
 Scenario_50_Name,Text,,A Helping Hand,Una mano d'aiuto,
 Scenario_50_Description,Text,,"Grab a friend and build your colonies together in a new land.
 
-Use the new Shared Storage Yard to exchange resources and construct a small monument!",Collaborate per costruire un piccolo monumento!,"Update Required!
-Clear this field when update complete"
+Use the new Shared Storage Yard to exchange resources and construct a small monument!","Prendi un amico e costruite insieme le vostre colonie in una nuova terra.
+
+Usa il nuovo Deposito Condiviso per scambiare risorse e costruire un piccolo monumento!",
 ScenVict_21_Name,Text,,Most Points,Più punti,
 ScenVict_21_Desc,Text,,Accumulate the most points,Accumula il maggior numero di punti,
 ScenVict_21_CreateDesc,Text,,Accumulate the most points,Accumula il maggior numero di punti,
