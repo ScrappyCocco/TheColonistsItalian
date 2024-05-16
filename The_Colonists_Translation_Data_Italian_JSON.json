@@ -8036,7 +8036,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Click on an empty tile to snap to its neighbour's heights.",
-    "Italian": "Clicca una cella vuota per trasformarla all'altezza dei vicini.",
+    "Italian": "Clicca una casella vuota per trasformarla all'altezza delle vicine.",
     "Requires Update": ""
   },
   {
@@ -8044,7 +8044,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Snap Whole Tile",
-    "Italian": "Trasforma intera cella",
+    "Italian": "Trasforma intera casella",
     "Requires Update": ""
   },
   {
@@ -8052,7 +8052,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Sometimes it can be useful to remove a wall to allow roads or paths in certain directions.\n\nClick on the edge of a valid empty tile to snap its height to that of the neighbouring tile.",
-    "Italian": "A volte può essere utile rimuovere un muro per creare strade o percorsi in determinate direzioni.\n\nFai clic sul bordo di una cella vuota valida per impostarne l'altezza a quella della cella vicina.",
+    "Italian": "A volte può essere utile rimuovere un muro per creare strade o percorsi in determinate direzioni.\n\nFai clic sul bordo di una casella vuota valida per impostarne l'altezza a quella della casella vicina.",
     "Requires Update": ""
   },
   {
@@ -8060,7 +8060,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Tile Height Snap",
-    "Italian": "Trasforma altezza cella",
+    "Italian": "Trasforma altezza casella",
     "Requires Update": ""
   },
   {
@@ -8100,7 +8100,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Click and drag up or down in the corner of an empty tile to adjust its corner height.\n\nHold <hotkey>[Ctrl]</hotkey> to snap to neighbour tile.",
-    "Italian": "Fai clic e trascina verso l'alto o il basso nell'angolo di una cella vuota per regolarne l'altezza.\n\nTieni premuto <hotkey>[Ctrl]</hotkey> per agganciare la cella vicina.",
+    "Italian": "Fai clic e trascina verso l'alto o il basso nell'angolo di una casella vuota per regolarne l'altezza.\n\nTieni premuto <hotkey>[Ctrl]</hotkey> per agganciare la casella vicina.",
     "Requires Update": ""
   },
   {
@@ -9388,7 +9388,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Advance your colony and build the greatest monument to your anthrobotic achievements.",
-    "Italian": "Fai avanzare la tua colonia e costruisci il monumento più grande per i tuoi successi umanoidi.",
+    "Italian": "Fai avanzare la tua colonia e costruisci il monumento più grande per i tuoi successi antropomorfi.",
     "Requires Update": ""
   },
   {
@@ -9404,7 +9404,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Claim victory over your anthrobotic foe.",
-    "Italian": "Guadagnati la vittoria contro il tuo nemico umanoide.",
+    "Italian": "Guadagnati la vittoria contro il tuo nemico antropomorfo.",
     "Requires Update": ""
   },
   {
@@ -9436,7 +9436,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Claim victory over your anthrobotic foe.",
-    "Italian": "Guadagnati la vittoria contro il tuo nemico umanoide.",
+    "Italian": "Guadagnati la vittoria contro il tuo nemico antropomorfo.",
     "Requires Update": ""
   },
   {
@@ -9468,7 +9468,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Claim victory over your anthrobotic foe.",
-    "Italian": "Guadagnati la vittoria contro il tuo nemico umanoide.",
+    "Italian": "Guadagnati la vittoria contro il tuo nemico antropomorfo.",
     "Requires Update": ""
   },
   {
@@ -11516,7 +11516,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "You are Dronebot <name> and are in charge of colony operations.\nThis looks like a good island to test our anthrobotic systems.",
-    "Italian": "Tu sei il BotDrone <name> e sei incaricato delle operazioni della colonia.\nQuesta sembra una buona isola per testare il nostro sistema umanoide.",
+    "Italian": "Tu sei il BotDrone <name> e sei incaricato delle operazioni della colonia.\nQuesta sembra una buona isola per testare il nostro sistema antropomorfo.",
     "Requires Update": ""
   },
   {
@@ -14476,7 +14476,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Tile is below water",
-    "Italian": "La cella è sotto acqua",
+    "Italian": "La casella è sotto acqua",
     "Requires Update": ""
   },
   {
@@ -14484,7 +14484,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Invalid tile type: {0}",
-    "Italian": "Tipo di cella non valido: {0}",
+    "Italian": "Tipo di casella non valido: {0}",
     "Requires Update": ""
   },
   {
@@ -14492,7 +14492,7 @@
     "Type": "Text",
     "Desc": "{0}:building, road etc",
     "English": "Tile occupied by {0}",
-    "Italian": "Cella occupata da {0}",
+    "Italian": "Casella occupata da {0}",
     "Requires Update": ""
   },
   {
@@ -16764,7 +16764,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Claim victory over your anthrobotic foes.",
-    "Italian": "Guadagnati la vittoria sui tuoi nemici umanoidi.",
+    "Italian": "Guadagnati la vittoria sui tuoi nemici antropomorfi.",
     "Requires Update": ""
   },
   {
@@ -17668,7 +17668,7 @@
     "Type": "Text",
     "Desc": "",
     "English": "Claim victory over your anthrobotic foes.",
-    "Italian": "Guadagnati la vittoria sui tuoi nemici umanoidi.",
+    "Italian": "Guadagnati la vittoria sui tuoi nemici antropomorfi.",
     "Requires Update": ""
   },
   {
@@ -21993,7 +21993,7 @@
   },
   {
     "Key": "AlliedTradeTerminalContributeHeader",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Contribute",
     "Italian": "Contribuisci",
@@ -22001,7 +22001,7 @@
   },
   {
     "Key": "AlliedTradeTerminalWithdrawHeader",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Withdraw",
     "Italian": "Ritira",
@@ -22241,7 +22241,7 @@
   },
   {
     "Key": "MP_PreparingBuilding",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Shows on building tooltip if building hovered over before building placement is confirmed by host",
     "English": "[Preparing building]",
     "Italian": "[Preparazione edificio]",
@@ -22249,7 +22249,7 @@
   },
   {
     "Key": "MP_HostPublicGame",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Host Public Game",
     "Italian": "Ospita una partita pubblica",
@@ -22257,7 +22257,7 @@
   },
   {
     "Key": "MP_HostPrivateGame",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Host Private Game",
     "Italian": "Ospita una partita privata",
@@ -22265,7 +22265,7 @@
   },
   {
     "Key": "MP_Join",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Join Game",
     "Italian": "Unisciti al gioco",
@@ -22273,7 +22273,7 @@
   },
   {
     "Key": "ScenVict_12_CreateWarning",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "You haven't placed a crashed colony ship yet!",
     "Italian": "Non hai ancora posizionato una nave coloniale precipitata!",
@@ -22289,7 +22289,7 @@
   },
   {
     "Key": "MapEditorSettingsTerritoryAndFogOfWar",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Territory & fog of war",
     "Italian": "Territorio e nebbia di guerra",
@@ -22297,7 +22297,7 @@
   },
   {
     "Key": "MapEditorDLC1Features",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "New Lands DLC Features",
     "Italian": "Funzionalità del DLC New Lands",
@@ -22305,7 +22305,7 @@
   },
   {
     "Key": "DLC1Maps",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "New Lands DLC Maps",
     "Italian": "Mappe del DLC New Lands",
@@ -22337,7 +22337,7 @@
   },
   {
     "Key": "QualitySettingsShadowHard",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Hard",
     "Italian": "Duro",
@@ -22345,7 +22345,7 @@
   },
   {
     "Key": "QualitySettingsShadowSoft",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Soft",
     "Italian": "Morbido",
@@ -22353,7 +22353,7 @@
   },
   {
     "Key": "QualitySettingsShadowResolutionLabel",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Resolution",
     "Italian": "Risoluzione",
@@ -22361,7 +22361,7 @@
   },
   {
     "Key": "QualitySettingsShadowResolutionMedium",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Medium",
     "Italian": "Medio",
@@ -22369,7 +22369,7 @@
   },
   {
     "Key": "QualitySettingsShadowResolutionHigh",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "High",
     "Italian": "Alto",
@@ -22377,7 +22377,7 @@
   },
   {
     "Key": "QualitySettingsShadowResolutionVeryHigh",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Very High",
     "Italian": "Molto Alto",
@@ -22385,7 +22385,7 @@
   },
   {
     "Key": "MultiplayerTimeLimit",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Time for games",
     "English": "Time Limit",
     "Italian": "Limite di tempo",
@@ -22393,7 +22393,7 @@
   },
   {
     "Key": "TerrainCategory_0",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Fertile",
     "Italian": "Fertile",
@@ -22401,7 +22401,7 @@
   },
   {
     "Key": "TerrainCategory_1",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Sand",
     "Italian": "Sabbia",
@@ -22409,7 +22409,7 @@
   },
   {
     "Key": "TerrainCategory_2",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Rock",
     "Italian": "Roccia",
@@ -22417,7 +22417,7 @@
   },
   {
     "Key": "TerrainCategory_3",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Snow",
     "Italian": "Neve",
@@ -22425,7 +22425,7 @@
   },
   {
     "Key": "MapEditorMarketSetDefault",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Button to set market resources to default values",
     "English": "Set To Defaults",
     "Italian": "Imposta su valori predefiniti",
@@ -22433,7 +22433,7 @@
   },
   {
     "Key": "MapEditorMarketAddResource",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Button to add a resource to the market resource list",
     "English": "Add Resource",
     "Italian": "Aggiungi risorsa",
@@ -22441,7 +22441,7 @@
   },
   {
     "Key": "MarketItemBuyAndSell",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Default status of a market resource entry - that you can buy and sell it",
     "English": "Buy & Sell",
     "Italian": "Compra & Vendi",
@@ -22449,7 +22449,7 @@
   },
   {
     "Key": "MapEditorMarketClearAll",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Button to clear all entries in market resource list",
     "English": "Clear All",
     "Italian": "Cancella tutto",
@@ -22457,7 +22457,7 @@
   },
   {
     "Key": "TestScenarioSandboxTitle",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Test Scenario in Sandbox",
     "Italian": "Prova scenario nella mappa personalizzata",
@@ -22465,7 +22465,7 @@
   },
   {
     "Key": "MapEditorMarketEmpty",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "No resources set!",
     "Italian": "Nessuna risorsa impostata!",
@@ -22473,7 +22473,7 @@
   },
   {
     "Key": "MyMapsScenarioPanelTest",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Small button to playtest the selected map",
     "English": "Test",
     "Italian": "Test",
@@ -22481,7 +22481,7 @@
   },
   {
     "Key": "ChooseScenarioSelect",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Small button used to select a map in a list",
     "English": "Select",
     "Italian": "Seleziona",
@@ -22489,7 +22489,7 @@
   },
   {
     "Key": "MultiplayerOfficialMaps",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Section where official multiplayer maps are listed",
     "English": "Official Maps",
     "Italian": "Mappe Ufficiali",
@@ -22497,7 +22497,7 @@
   },
   {
     "Key": "DeleteScenarioWarning",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Are you sure you want to delete this scenario?\n\nHold [Alt] to skip this message.",
     "Italian": "Sei sicuro di voler eliminare questo scenario?\n\nTieni premuto [Alt] per saltare questo messaggio.",
@@ -22505,7 +22505,7 @@
   },
   {
     "Key": "MapEditorColonyShipOverlay",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Label for UI toggle to show the graphical overlay for the footprint and starting territory of a player's colony ship",
     "English": "Colony Ship Overlay",
     "Italian": "Overlay Nave Coloniale",
@@ -22513,7 +22513,7 @@
   },
   {
     "Key": "DLCCampaignMissionTitleNumber",
-    "Type": "",
+    "Type": "Text",
     "Desc": "{0}: number, e.g. New Lands Mission 7",
     "English": "New Lands Mission {0}",
     "Italian": "New Lands Missione {0}",
@@ -22521,7 +22521,7 @@
   },
   {
     "Key": "Flora_120_Name",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Crashed Colony Ship",
     "Italian": "Nave coloniale precipitata",
@@ -22609,7 +22609,7 @@
   },
   {
     "Key": "DLC1_Store_Description",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Expand your frontiers with The Colonists: New Lands! Improve your transport network and overcome challenging terrain with Bridges and Train Tunnels, boost your economy with the Mint and even allow your bots to discover their spiritual side…\n\nMaster the seas with Floating Watchtowers to oversee your charming new Fishing Boats as they haul in bountiful catches of fish and lobster.\n\nWith six new maps and much more to discover, New Lands is an essential addition to The Colonists experience.\n\n[h2][b]Features:[/b][/h2]\n\n[b]Churches[/b]\nBoost your colony by generating Holy Energy which allows the Priestbot to bless buildings\n\n[b]Bridges[/b]\nWood, Iron and Steel - your bots can now span the shortest gaps to the widest seas.\n\n[b]Train Tunnels[/b]\nReach previously inaccessible locations or create shortcuts by tunnelling through hills and mountains.\n\n[b]Fishing Boats[/b]\nSend out boat trips to make use of offshore fishing spots and provide fish and lobster for your residences.\n\n[b]Floating Watchtower[/b]\nExpand your domain to the open seas and challenge your enemies from the water.\n\n[b]Mint[/b]\nProduce Gold Coins which can be sold at the marketplace or supplied to the Workshop for improved research techs.\n\n[b]Desert Well[/b]\nConstruct deep-sunk wells to gain access to valuable water in desert regions.\n\n[b]6 New Maps[/b]\nTake on the challenge of the new campaign and recover the crashed colony ships.",
     "Italian": "Espandi le tue frontiere con The Colonists: New Lands! Migliora la tua rete di trasporti e supera terreni impegnativi con ponti e tunnel ferroviari, potenzia la tua economia con la zecca e consenti persino ai tuoi robot di scoprire il loro lato spirituale...\n\nDomina i mari con le torri di guardia galleggianti per sorvegliare le tue affascinanti nuove barche da pesca mentre trasportano un carico abbondante di pesci e aragoste.\n\nCon sei nuove mappe e molto altro da scoprire, New Lands è un'aggiunta essenziale all'esperienza di The Colonists.\n\n[h2][b]Caratteristiche:[/b][/h2]\n\n[b]Chiese[/b]\nPotenzia la tua colonia generando Energia Sacra che consente al BotPrete di benedire gli edifici\n\n[b]Ponti[/b]\nLegno, ferro e acciaio - ora i tuoi robot possono attraversare gli spazi più brevi fino ai mari più ampi.\n\n[b]Tunnel ferroviari[/b]\nRaggiungi luoghi precedentemente inaccessibili o crea scorciatoie scavando tunnel tra colline e montagne.\n\n[b]Barche da pesca[/b]\nInvia le barche per sfruttare le zone di pesca in mare aperto e fornire pesce e aragosta alle tue abitazioni.\n\n[b]Torre di guardia galleggiante[/b]\nEspandi il tuo dominio in mare aperto e sfida i tuoi nemici dall'acqua.\n\n[b]Zecca[/b]\nProduci monete d'oro che possono essere vendute al mercato o fornite al Laboratorio per migliorare le tecnologie di ricerca.\n\n[b]Pozzo del deserto[/b]\nCostruisci pozzi profondi per accedere alla preziosa acqua nelle regioni desertiche.\n\n[b]6 Nuove Mappe[/b]\nAccetta la sfida della nuova campagna e recupera le navi coloniali precipitate.",
@@ -22617,7 +22617,7 @@
   },
   {
     "Key": "MultiplayerResyncingMsg",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Resyncing game",
     "Italian": "Risincronizzazione della partita",
@@ -22625,7 +22625,7 @@
   },
   {
     "Key": "GameMenuMultiplayerConcedeBtn",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Concede game",
     "Italian": "Arrenditi",
@@ -22633,7 +22633,7 @@
   },
   {
     "Key": "GameMenu_MultiplayerConcedeCheck",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Are you sure you want to concede this game?",
     "Italian": "Sicuro di voler dichiarare la resa?",
@@ -22641,7 +22641,7 @@
   },
   {
     "Key": "HelpTitle_44_Desc",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Unlocked more colour schemes in New Lands DLC campaign",
     "Italian": "Hai sbloccato più combinazioni di colori nella campagna DLC New Lands",
@@ -22649,7 +22649,7 @@
   },
   {
     "Key": "HelpTitle_44_Name",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Locked",
     "Italian": "Bloccato",
@@ -22657,7 +22657,7 @@
   },
   {
     "Key": "ScenarioIntro_30",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "We've landed in a bog surrounded by rock! Luckily there appears to be a small gap we can cross using our new bridge technology.\n\nLet's explore, locate the source of the distress signal, and build a small monument to celebrate a new home in this land.",
     "Italian": "Siamo atterrati in una palude circondata da rocce! Fortunatamente sembra esserci un piccolo varco che possiamo attraversare utilizzando la nostra nuova tecnologia per i ponti.\n\nEsploriamo, localizziamo la fonte del segnale di soccorso, e costruiamo un piccolo monumento per celebrare una nuova casa in questa terra.",
@@ -22665,7 +22665,7 @@
   },
   {
     "Key": "DLC1GameCompleteColourMsg",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "You've unlocked a new colour scheme!",
     "Italian": "Hai sbloccato una nuova combinazione di colori!",
@@ -22673,7 +22673,7 @@
   },
   {
     "Key": "Notification_32_Desc",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "You've recovered a colony ship!",
     "Italian": "Hai recuperato una nave coloniale!",
@@ -22681,7 +22681,7 @@
   },
   {
     "Key": "Notification_32_Name",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Colony Ship Recovered!",
     "Italian": "Nave Coloniale recuperata!",
@@ -22689,7 +22689,7 @@
   },
   {
     "Key": "TerrainCategory_4",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Prairie",
     "Italian": "Prateria",
@@ -22697,7 +22697,7 @@
   },
   {
     "Key": "TerrainCategory_5",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Mud",
     "Italian": "Fango",
@@ -22721,7 +22721,7 @@
   },
   {
     "Key": "MapEditorMapInfoUploadImage",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Button to upload an image for your map's thumbnail",
     "English": "Upload",
     "Italian": "Upload",
@@ -22729,7 +22729,7 @@
   },
   {
     "Key": "MapEditorSettingsActiveModsHeader",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Title of section where you edit active mods for your map",
     "English": "Active Mods",
     "Italian": "Mods Attive",
@@ -22737,7 +22737,7 @@
   },
   {
     "Key": "MapEditorSettingsActiveModsChangeMods",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Button to change mods you have in your map",
     "English": "Change Mods",
     "Italian": "Modifica Mods",
@@ -22745,7 +22745,7 @@
   },
   {
     "Key": "MapEditorSettingsActiveModsReloadMods",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Button to reload current mods",
     "English": "Reload Mods",
     "Italian": "Ricarica Mods",
@@ -22753,7 +22753,7 @@
   },
   {
     "Key": "SelectVictoryConditionWindowHeader",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Select Victory Condition",
     "Italian": "Seleziona Condizione di Vittoria",
@@ -22761,7 +22761,7 @@
   },
   {
     "Key": "SaveGameTypeLocal",
-    "Type": "",
+    "Type": "Text",
     "Desc": "If the savegame is of a map created by the player",
     "English": "Local Map",
     "Italian": "Mappa locale",
@@ -22769,7 +22769,7 @@
   },
   {
     "Key": "SaveGameWindowShowMeta",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Toggle to show/hide full details of a save game file",
     "English": "Show Details",
     "Italian": "Mostra dettagli",
@@ -22777,7 +22777,7 @@
   },
   {
     "Key": "TechResearchRepeatable",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Meaning a tech can be researched multiple times",
     "English": "Repeatable",
     "Italian": "Ripetibile",
@@ -22785,7 +22785,7 @@
   },
   {
     "Key": "MP_PublicGames",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Public Games",
     "Italian": "Partite Pubbliche",
@@ -22793,7 +22793,7 @@
   },
   {
     "Key": "MP_PublicGamesLoading",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Loading public games...",
     "Italian": "Cercando partite pubbliche...",
@@ -22801,7 +22801,7 @@
   },
   {
     "Key": "MP_PublicGamesEmpty",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "There are no public games available currently.\nTry hosting one!",
     "Italian": "Al momento non ci sono partite pubbliche disponibili.\nProva a crearne una!",
@@ -22809,7 +22809,7 @@
   },
   {
     "Key": "MP_CreatePrivateHeader",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Header of Create Private section",
     "English": "Create Private Game",
     "Italian": "Crea Partita Privata",
@@ -22817,7 +22817,7 @@
   },
   {
     "Key": "MP_CreatePrivateHostNewBtn",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Button",
     "English": "Host New Game",
     "Italian": "Ospita Nuova Partita",
@@ -22825,7 +22825,7 @@
   },
   {
     "Key": "MP_CreatePrivateContinueBtn",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Button to continue playing a previous multiplayer game",
     "English": "Continue Game",
     "Italian": "Continua Partita",
@@ -22833,7 +22833,7 @@
   },
   {
     "Key": "MP_JoinPrivateHeader",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Header of Join Private section",
     "English": "Join Private Game",
     "Italian": "Unisciti ad una Partita Privata",
@@ -22841,7 +22841,7 @@
   },
   {
     "Key": "MP_EnterPassword",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Input field instruction",
     "English": "Enter password",
     "Italian": "Inserisci password",
@@ -22849,7 +22849,7 @@
   },
   {
     "Key": "MP_JoinPrivateJoinBtn",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Button",
     "English": "Join Game",
     "Italian": "Uniscititi ad una Partita",
@@ -22857,7 +22857,7 @@
   },
   {
     "Key": "MP_HostMultiplayerWindowTitle",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Title of panel when you set a multiplayer game",
     "English": "Host Multiplayer Game",
     "Italian": "Ospita Partita Multiplayer",
@@ -22865,7 +22865,7 @@
   },
   {
     "Key": "MP_HostMultiplayerWindowGameType",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Whether a game will be public or private",
     "English": "Game Type",
     "Italian": "Tipo di Gioco",
@@ -22873,7 +22873,7 @@
   },
   {
     "Key": "",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "",
     "Italian": "",
@@ -22881,7 +22881,7 @@
   },
   {
     "Key": "",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "",
     "Italian": "",
@@ -22889,7 +22889,7 @@
   },
   {
     "Key": "MP_HostMultiplayerWindowHostBtn",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Button to create game",
     "English": "Host Game",
     "Italian": "Ospita Partita",
@@ -22897,7 +22897,7 @@
   },
   {
     "Key": "MP_EditVictoryConditionsHeader",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Edit Victory Conditions",
     "Italian": "Modifica le Condizioni di Vittoria",
@@ -22905,7 +22905,7 @@
   },
   {
     "Key": "MP_EditVictoryConditionsIntro",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Players need to complete all the conditions in any set of victory conditions:",
     "Italian": "I giocatori devono completare tutte le condizioni in qualsiasi serie di condizioni di vittoria:",
@@ -22913,7 +22913,7 @@
   },
   {
     "Key": "MP_EditVictoryConditionsAddCondBtn",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Button",
     "English": "Add Victory Condition",
     "Italian": "Aggiungi la Condizione di Vittoria",
@@ -22921,7 +22921,7 @@
   },
   {
     "Key": "MP_EditVictoryConditionsAddSetBtn",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Button to add a new set of alternative victory conditions",
     "English": "Add Alternative Set",
     "Italian": "Aggiungi Set Alternativo",
@@ -22929,7 +22929,7 @@
   },
   {
     "Key": "MP_EditVictoryConditionsCreateSetBtn",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Button to create a set of victory conditions",
     "English": "Create Set",
     "Italian": "Crea Set",
@@ -22937,7 +22937,7 @@
   },
   {
     "Key": "MP_EditVictoryConditionsAlreadyAdded",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Message if unique victory condition type has already been added",
     "English": "Already added!",
     "Italian": "Già aggiunto!",
@@ -22945,7 +22945,7 @@
   },
   {
     "Key": "MP_EditVictoryConditionsAddNewBtn",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Button to add victory condition",
     "English": "ADD",
     "Italian": "AGGIUNGI",
@@ -22953,7 +22953,7 @@
   },
   {
     "Key": "MP_EditVictoryConditionHeader",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Header for window when editing victory condition properties",
     "English": "Edit Victory Condition",
     "Italian": "Modifica le Condizioni di Vittoria",
@@ -22961,7 +22961,7 @@
   },
   {
     "Key": "MP_EditVictoryConditionConfirmBtn",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "CONFIRM",
     "Italian": "CONFERMA",
@@ -22969,7 +22969,7 @@
   },
   {
     "Key": "MP_SettingUpGame",
-    "Type": "",
+    "Type": "Text",
     "Desc": "When multiplayer is in process of being created",
     "English": "Setting up game",
     "Italian": "Preparando la partita",
@@ -22977,7 +22977,7 @@
   },
   {
     "Key": "MP_LobbyWaitingForMorePlayers",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Waiting for more players to join",
     "Italian": "In attesa che si uniscano altri giocatori",
@@ -22985,7 +22985,7 @@
   },
   {
     "Key": "MP_LobbyStartGameBtn",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Start Game",
     "Italian": "Inizia Partita",
@@ -22993,15 +22993,15 @@
   },
   {
     "Key": "MP_LobbyWaitingForHostToStart",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
-    "English": "Waiting for host to start a game",
+    "English": "Waiting for host to start game",
     "Italian": "In attesa che l'host avvii una partita",
     "Requires Update": ""
   },
   {
     "Key": "MP_LobbyInviteASteamFriendBtn",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Invite a Steam Friend",
     "Italian": "Invita un amico di Steam",
@@ -23009,7 +23009,7 @@
   },
   {
     "Key": "Tunnel_0_Desc",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Tunnels allow your trains to go under hills and mountains.\n\nTunnels are straight and level so find a steep unobstructed part of the terrain and if the other end of tunnel is unobstructed you will be able to place a tunnel.",
     "Italian": "I tunnel permettono ai tuoi treni di passare sotto colline e montagne.\n\nI tunnel sono diritti e in piano, quindi trova una parte ripida e libera del terreno e se l'altra estremità del tunnel non è ostruita sarai in grado di posizionare un tunnel.",
@@ -23017,7 +23017,7 @@
   },
   {
     "Key": "Tech_77_Desc",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Increases the speed of all the roads and paths in your colony by <amount>% on each research",
     "Italian": "Aumenta la velocità di tutte le strade e i percorsi della tua colonia del <amount>%",
@@ -23025,7 +23025,7 @@
   },
   {
     "Key": "Tech_77_Name",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Road & Path Boost",
     "Italian": "Potenziamento di Strade e Percorsi",
@@ -23033,7 +23033,7 @@
   },
   {
     "Key": "TerrainCategory_4_Desc",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Animals can graze but nothing can be planted",
     "Italian": "Gli animali possono pascolare ma non si può piantare nulla",
@@ -23041,7 +23041,7 @@
   },
   {
     "Key": "TerrainCategory_5_Desc",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Supports roads and paths but not buildings",
     "Italian": "Supporta strade e percorsi ma non edifici",
@@ -23049,7 +23049,7 @@
   },
   {
     "Key": "TerrainType_22",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Rock C",
     "Italian": "Roccioso C",
@@ -23057,7 +23057,7 @@
   },
   {
     "Key": "TerrainType_19",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Prairie A",
     "Italian": "Prateria A",
@@ -23065,7 +23065,7 @@
   },
   {
     "Key": "TerrainType_23",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Prairie B",
     "Italian": "Prateria B",
@@ -23073,7 +23073,7 @@
   },
   {
     "Key": "TerrainType_20",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Mud A",
     "Italian": "Fango A",
@@ -23081,7 +23081,7 @@
   },
   {
     "Key": "TerrainType_21",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Mud B",
     "Italian": "Fango B",
@@ -23089,7 +23089,7 @@
   },
   {
     "Key": "Scenario_40_Name",
-    "Type": "",
+    "Type": "Text",
     "Desc": "(you're attacking an island)",
     "English": "Island Assault",
     "Italian": "Assalto all'isola",
@@ -23097,15 +23097,15 @@
   },
   {
     "Key": "Scenario_40_Description",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Use your new technologies to claim victory over your anthrobotic foe.",
-    "Italian": "Usa le tue nuove tecnologie per rivendicare la vittoria sul tuo nemico umanoide.",
+    "Italian": "Usa le tue nuove tecnologie per rivendicare la vittoria sul tuo nemico antropomorfo.",
     "Requires Update": ""
   },
   {
     "Key": "Scenario_41_Name",
-    "Type": "",
+    "Type": "Text",
     "Desc": "(map is sort of in the shape of a ring)",
     "English": "The Ring",
     "Italian": "L'anello",
@@ -23113,15 +23113,15 @@
   },
   {
     "Key": "Scenario_41_Description",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Use your new technologies to claim victory over your anthrobotic foe.",
-    "Italian": "Usa le tue nuove tecnologie per rivendicare la vittoria sul tuo nemico umanoide.",
+    "Italian": "Usa le tue nuove tecnologie per rivendicare la vittoria sul tuo nemico antropomorfo.",
     "Requires Update": ""
   },
   {
     "Key": "DLC1_Required",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "New Lands DLC Required",
     "Italian": "Richiede DLC New Lands",
@@ -23129,7 +23129,7 @@
   },
   {
     "Key": "OpenOnSteam",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Buy on Steam",
     "Italian": "Compra su Steam",
@@ -23137,7 +23137,7 @@
   },
   {
     "Key": "OpenOnEpic",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Buy on Epic",
     "Italian": "Compra su Epic",
@@ -23145,7 +23145,7 @@
   },
   {
     "Key": "OpenOnGOG",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Buy on GOG",
     "Italian": "Compra su GOG",
@@ -23153,7 +23153,7 @@
   },
   {
     "Key": "DLC1WindowBody",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Featuring bridges, train tunnels, churches, floating watchtowers, new maps and more!\n\nThe Colonists: New Land DLC expansion pack is available now!",
     "Italian": "Con ponti, tunnel ferroviari, chiese, torri di guardia galleggianti, nuove mappe e altro ancora!\n\nIl pacchetto di espansione DLC The Colonists: New Land è ora disponibile!",
@@ -23161,7 +23161,7 @@
   },
   {
     "Key": "DLC1WindowContinueBtn",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Button to continue past this screen",
     "English": "Continue",
     "Italian": "Continua",
@@ -23169,7 +23169,7 @@
   },
   {
     "Key": "MultiplayerLiveDate",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Multiplayer with PvP and Co-op modes will be going live on May 9th!",
     "Italian": "Il multiplayer con modalità PvP e cooperativa sarà disponibile dal 9 maggio!",
@@ -23177,7 +23177,7 @@
   },
   {
     "Key": "ScenarioIntro_31",
-    "Type": "",
+    "Type": "Text",
     "Desc": "intro mesage when starting DLC Mission 2",
     "English": "Our new friend has told us that other robots escaping from Earth headed to this region of space with the same faulty landing mechanism on their ships.\n\nLet’s build a medium monument as we search for our stricken brethren. Their signal is coming from one of the corners of this map - we’re going to need our bridge, train tunnel and floating watchtower technology to find and rescue them!",
     "Italian": "Il nostro nuovo amico ci ha detto che altri robot in fuga dalla Terra si sono diretti in questa regione dello spazio con lo stesso meccanismo di atterraggio difettoso sulle loro navi.\n\nCostruiamo un monumento di medie dimensioni mentre cerchiamo i nostri fratelli colpiti. Il loro segnale proviene da uno degli angoli di questa mappa - avremo bisogno del ponte, del tunnel ferroviario e della tecnologia della torre di guardia galleggiante per trovarli e salvarli!",
@@ -23185,15 +23185,15 @@
   },
   {
     "Key": "ScenarioIntro_32",
-    "Type": "",
+    "Type": "Text",
     "Desc": "intro mesage when starting DLC Mission 3",
     "English": "It looks like this world has plenty of fishing spots out to sea, let's follow this river and see where we can find our stranded anthrobotic cousin.\n\nIt’ll probably take all our technology and ingenuity so we should also construct a large monument to celebrate our rescue!",
-    "Italian": "Sembra che questo mondo abbia molti posti per pescare in mare aperto, seguiamo questo fiume e vediamo dove possiamo trovare il nostro cugino umanoide incagliato.\n\nProbabilmente ci vorrà tutta la nostra tecnologia e il nostro ingegno, quindi dovremmo anche costruire un grande monumento per celebrare il nostro salvataggio!",
+    "Italian": "Sembra che questo mondo abbia molti posti per pescare in mare aperto, seguiamo questo fiume e vediamo dove possiamo trovare il nostro cugino antropomorfo incagliato.\n\nProbabilmente ci vorrà tutta la nostra tecnologia e il nostro ingegno, quindi dovremmo anche costruire un grande monumento per celebrare il nostro salvataggio!",
     "Requires Update": ""
   },
   {
     "Key": "ScenarioIntro_33",
-    "Type": "",
+    "Type": "Text",
     "Desc": "intro mesage when starting DLC Mission 4",
     "English": "A final signal was found emanating from somewhere on this world. It’s a dusty start - let’s make use of our desert well - but our scans showed fertile land where we can grow our food.\n\nOur robot friend needs us!",
     "Italian": "È stato trovato un ultimo segnale proveniente da qualche parte su questo mondo. È un inizio polveroso - utilizziamo bene il nostro deserto - ma le nostre scansioni hanno mostrato terreni fertili dove possiamo coltivare il nostro cibo.\n\nIl nostro amico robot ha bisogno di noi!",
@@ -23209,7 +23209,7 @@
   },
   {
     "Key": "Tip_23",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "You can upgrade watchtowers to increase their territory range",
     "Italian": "Puoi potenziare le torri di guardia per aumentare la loro portata territoriale",
@@ -23217,7 +23217,7 @@
   },
   {
     "Key": "Tip_24",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "You can place train tracks outside your territory",
     "Italian": "Puoi posizionare i binari del treno fuori dal tuo territorio",
@@ -23225,7 +23225,7 @@
   },
   {
     "Key": "Tip_25",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "In New Lands DLC, use floating watchtowers and train stations to access otherwise inaccessible locations",
     "Italian": "Nel DLC New Lands, usa le torri di guardia galleggianti e le stazioni ferroviarie per accedere a luoghi altrimenti inaccessibili",
@@ -23257,7 +23257,7 @@
   },
   {
     "Key": "Tech_67_Desc",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Increases the speed of all the boats in your colony by <amount>% on each research",
     "Italian": "Aumenta la velocità di tutte le barche nella tua colonia del <amount>% per ogni ricerca",
@@ -23265,7 +23265,7 @@
   },
   {
     "Key": "Tech_67_Name",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Boat Speed Boost",
     "Italian": "Aumento Velocità Barca",
@@ -23273,7 +23273,7 @@
   },
   {
     "Key": "TrackPlacementTerritoryTip",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "You can place train track outside your territory but your train stations must be inside!",
     "Italian": "Puoi posizionare i binari del treno fuori dal tuo territorio, ma le tue stazioni ferroviarie devono essere all'interno!",
@@ -23281,7 +23281,7 @@
   },
   {
     "Key": "TrackPlacementGeneral2",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "You can also <hotkey>[Ctrl]</hotkey> and click a track section at any point to build from it.",
     "Italian": "Puoi anche usare <hotkey>[Ctrl]</hotkey> e fare clic su una sezione di tracciato in qualsiasi punto per costruire da essa.",
@@ -23289,15 +23289,15 @@
   },
   {
     "Key": "TunnelPlacementTip1",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Press [R] to switch to other potential rotation on the highlight tile.",
-    "Italian": "Premi [R] per passare ad un'altra potenziale rotazione sulla cella evidenziata.",
+    "Italian": "Premi [R] per passare ad un'altra potenziale rotazione sulla casella evidenziata.",
     "Requires Update": ""
   },
   {
     "Key": "MiscCat_15_Name",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Fish / Lobster",
     "Italian": "Pesce/Aragosta",
@@ -23305,7 +23305,7 @@
   },
   {
     "Key": "MiscCat_15_Desc",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "available from sea fishing locations",
     "Italian": "disponibile nei punti di pesca in mare",
@@ -23313,7 +23313,7 @@
   },
   {
     "Key": "BdPlVaResults_42_Name",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Can't adjust end tile",
     "Italian": "Impossibile regolare la casella finale",
@@ -23321,7 +23321,7 @@
   },
   {
     "Key": "BdPlVaResults_49_Name",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Can't adjust start tile",
     "Italian": "Impossibile regolare la casella iniziale",
@@ -23329,7 +23329,7 @@
   },
   {
     "Key": "BdPlVaResults_43_Name",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Obstruction below bridge",
     "Italian": "Ostruzione sotto il ponte",
@@ -23337,7 +23337,7 @@
   },
   {
     "Key": "RandomMapCashVictoryCondition",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Have $10000 in the bank",
     "Italian": "Avere $10000 in banca",
@@ -23345,7 +23345,7 @@
   },
   {
     "Key": "FloraGrowthProgress",
-    "Type": "",
+    "Type": "Text",
     "Desc": "{0}: percentage number",
     "English": "{0}% grown",
     "Italian": "{0}% cresciuto",
@@ -23353,7 +23353,7 @@
   },
   {
     "Key": "FloraFullyGrown",
-    "Type": "",
+    "Type": "Text",
     "Desc": "referring to trees for examples",
     "English": "Fully grown",
     "Italian": "Maturo",
@@ -23361,7 +23361,7 @@
   },
   {
     "Key": "Building_71_Description",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Place on water to expand your territory and attack enemy watchtowers.",
     "Italian": "Posiziona sull'acqua per espandere il tuo territorio e attaccare le torri di guardia nemiche.",
@@ -23369,7 +23369,7 @@
   },
   {
     "Key": "Building_71_Plural",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Floating Watchtowers",
     "Italian": "Torri di Guardia Galleggianti",
@@ -23377,7 +23377,7 @@
   },
   {
     "Key": "Building_71_Worker",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Guardbot",
     "Italian": "BotGuardia",
@@ -23385,7 +23385,7 @@
   },
   {
     "Key": "BdPlVaResults_50_Name",
-    "Type": "",
+    "Type": "Text",
     "Desc": "When trying to place a building in fog of war",
     "English": "Outside visible area",
     "Italian": "Fuori dall'area visibile",
@@ -23393,7 +23393,7 @@
   },
   {
     "Key": "RoadBridgeSelectConstructionYardAlreadyAssigned",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Message under construction yard if it already has a bridge assigned to it",
     "English": "Assigned to another bridge",
     "Italian": "Assegnato a un altro ponte",
@@ -23401,7 +23401,7 @@
   },
   {
     "Key": "AlertRoadBridgeNoConstructionYard",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Alert icon on under construction bridges without a construction yard assigned",
     "English": "You need to assign a construction yard",
     "Italian": "È necessario impostare un cantiere edile",
@@ -23409,7 +23409,7 @@
   },
   {
     "Key": "DLC1_ItemCat_3_FullDesc",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "<cat>Luxury Food</cat> is needed by Level 3 <bd>Residences</bd> and can be <it>Bread</it>, <it>Chocolate</it> or <it>Lobster</it>.",
     "Italian": "Il <cat>Cibo di Lusso</cat> è necessario per le <bd>Abitazioni</bd> di Livello 3 e può essere <it>Pane</it>, <it>Cioccolato</it> o <it>Aragosta</it>.",
@@ -23417,7 +23417,7 @@
   },
   {
     "Key": "DLC1_ItemCat_3_Desc",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "<it>Bread</it> / <it>Chocolate</it> / <it>Lobster</it>",
     "Italian": "<it>Pane</it> / <it>Cioccolato</it> / <it>Aragosta</it>",
@@ -23425,7 +23425,7 @@
   },
   {
     "Key": "Building_83_Description",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Boosts the productivity of nearby bots with the power of chocolate!",
     "Italian": "Aumenta la produttività dei robot vicini con il potere del cioccolato!",
@@ -23433,7 +23433,7 @@
   },
   {
     "Key": "Building_83_Name",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Chocolate Monument",
     "Italian": "Monumento di Cioccolato",
@@ -23441,7 +23441,7 @@
   },
   {
     "Key": "Building_83_Plural",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Chocolate Monuments",
     "Italian": "Monumenti di Cioccolato",
@@ -23449,7 +23449,7 @@
   },
   {
     "Key": "Building_83_Worker",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Stackbot",
     "Italian": "BotImpilatore",
@@ -23457,7 +23457,7 @@
   },
   {
     "Key": "SaveGameEntryOverwrite",
-    "Type": "",
+    "Type": "Text",
     "Desc": "when you're overwriting an existing save game",
     "English": "Overwrite",
     "Italian": "Sovrascrivi",
@@ -23465,7 +23465,7 @@
   },
   {
     "Key": "SaveGameEntryLoad",
-    "Type": "",
+    "Type": "Text",
     "Desc": "when you're loading a savegame",
     "English": "Load",
     "Italian": "Carica",
@@ -23473,7 +23473,7 @@
   },
   {
     "Key": "FishingBoatNo_RouteHome",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "No route to dock!",
     "Italian": "Nessun percorso per il porto!",
@@ -23481,7 +23481,7 @@
   },
   {
     "Key": "FishingLocations",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Header for panel show fishing locations on map",
     "English": "Fishing Locations",
     "Italian": "Punti di Pesca",
@@ -23489,7 +23489,7 @@
   },
   {
     "Key": "Fish_254_Name",
-    "Type": "",
+    "Type": "Text",
     "Desc": "When there's location on the map outside known view and isn't known whether it's fish or lobster",
     "English": "Unknown fishing location",
     "Italian": "Punto di pesca sconosciuto",
@@ -23497,7 +23497,7 @@
   },
   {
     "Key": "Notification_33_Desc",
-    "Type": "",
+    "Type": "Text",
     "Desc": "<fishinglocation> = fish shoal or lobster pod",
     "English": "A <fl><fishinglocation></fl> has been spotted!",
     "Italian": "E' stato individuato un <fl><fishinglocation></fl>!",
@@ -23505,7 +23505,7 @@
   },
   {
     "Key": "Notification_33_Name",
-    "Type": "",
+    "Type": "Text",
     "Desc": "<fishinglocation> = fish shoal or lobster pod",
     "English": "<fishinglocation> discovered!",
     "Italian": "<fishinglocation> scoperto!",
@@ -23513,7 +23513,7 @@
   },
   {
     "Key": "Notification_34_Desc",
-    "Type": "",
+    "Type": "Text",
     "Desc": "<fish> = fish",
     "English": "<fl><fish></fl> have been spotted!",
     "Italian": "<fl><fish></fl> è stato individuato!",
@@ -23521,7 +23521,7 @@
   },
   {
     "Key": "Notification_34_Name",
-    "Type": "",
+    "Type": "Text",
     "Desc": "<fish> = fish",
     "English": "<fish> discovered!",
     "Italian": "<fish> scoperto!",
@@ -23529,7 +23529,7 @@
   },
   {
     "Key": "ConstructionSectionExtra",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Header for construction sub section showing extra bits like bot printers",
     "English": "Extras",
     "Italian": "Extra",
@@ -23537,7 +23537,7 @@
   },
   {
     "Key": "ConstructionSectionBotPrinter",
-    "Type": "",
+    "Type": "Text",
     "Desc": "The thing that prints bot at the Colony Ship, Harbour and other buildings",
     "English": "Bot Printer",
     "Italian": "Stampante Bot",
@@ -23545,7 +23545,7 @@
   },
   {
     "Key": "RoadBridgePlacementTooltipBoatsCanPassUnder",
-    "Type": "",
+    "Type": "Text",
     "Desc": "On tooltip when building a bridge",
     "English": "Boats can pass under",
     "Italian": "Le barche possono passarci sotto",
@@ -23553,7 +23553,7 @@
   },
   {
     "Key": "RoadBridgePlacementTooltipBoatsCannotPassUnder",
-    "Type": "",
+    "Type": "Text",
     "Desc": "On tooltip when building a bridge",
     "English": "Too low for boats to pass under",
     "Italian": "Troppo passo perché ci passino sotto le barche",
@@ -23561,7 +23561,7 @@
   },
   {
     "Key": "",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Oops! There is a broken road in your colony!",
     "Italian": "Oops! C'è una strada rotta nella tua colonia!",
@@ -23569,7 +23569,7 @@
   },
   {
     "Key": "HelpTitle_45_Desc",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "This building can print bots",
     "Italian": "Questo edidicio può stampare i bot",
@@ -23577,7 +23577,7 @@
   },
   {
     "Key": "HelpTitle_45_Name",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Bot Printer",
     "Italian": "Stampante Bot",
@@ -23585,7 +23585,7 @@
   },
   {
     "Key": "MultiplayerSettingsNoTimeLimit",
-    "Type": "",
+    "Type": "Text",
     "Desc": "When a multiplayer game doesn't have a time limit",
     "English": "No time limit",
     "Italian": "Nessun limite di tempo",
@@ -23593,7 +23593,7 @@
   },
   {
     "Key": "ResourceCatDemandTooltip_Single",
-    "Type": "",
+    "Type": "Text",
     "Desc": "{0}: amount, {1}: resource category, e.g. \"3 urgent demands for construction resources",
     "English": "{0} urgent demand for {1} resources",
     "Italian": "{0} ha urgente bisogno di {1} risorse",
@@ -23601,7 +23601,7 @@
   },
   {
     "Key": "ResourceCatDemandTooltip_Plural",
-    "Type": "",
+    "Type": "Text",
     "Desc": "{0}: amount, {1}: resource category, e.g. \"1 urgent demand for construction resources",
     "English": "{0} urgent demands for {1} resources",
     "Italian": "{0} hanno bisogno di {1} risorse",
@@ -23609,7 +23609,7 @@
   },
   {
     "Key": "GameControls_UnlockAllDLC1Warning",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "This will unlock all missions in New Lands DLC.\n\nAre you sure?",
     "Italian": "Questo sbloccherà tutte le missioni nel DLC New Lands.\n\nSei sicuro?",
@@ -23617,7 +23617,7 @@
   },
   {
     "Key": "GameControls_ResetDLC1Warning",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "This will clear all your progress and medals in New Lands DLC!\n\nAre you sure?",
     "Italian": "Questo cancellerà tutti i tuoi progressi e le medaglie nel DLC New Lands!\n\nSei sicuro?",
@@ -23625,7 +23625,7 @@
   },
   {
     "Key": "DLC1Title",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "New Lands DLC",
     "Italian": "DLC New Lands",
@@ -23633,7 +23633,7 @@
   },
   {
     "Key": "GameTimeRemaining",
-    "Type": "",
+    "Type": "Text",
     "Desc": "When a game has a time limit. e.g. \"Remaining: 2 months",
     "English": "Remaining:",
     "Italian": "Rimanente:",
@@ -23641,7 +23641,7 @@
   },
   {
     "Key": "ScenVict_20_Name",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Most Money",
     "Italian": "Più Soldi",
@@ -23649,7 +23649,7 @@
   },
   {
     "Key": "ScenVict_20_Desc",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Have the most money in the bank",
     "Italian": "Avere più soldi in banca",
@@ -23657,7 +23657,7 @@
   },
   {
     "Key": "ScenVict_20_CreateDesc",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Have the most money in the bank",
     "Italian": "Avere più soldi in banca",
@@ -23665,7 +23665,7 @@
   },
   {
     "Key": "BlacklistRuleFull",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "<it>{0}</it> are banned",
     "Italian": "<it>{0}</it> sono vietati",
@@ -23673,7 +23673,7 @@
   },
   {
     "Key": "BlacklistRuleExceptStorage",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "<it>{0}</it> are banned except for storage",
     "Italian": "<it>{0}</it> sono vietati tranne che per il deposito",
@@ -23681,7 +23681,7 @@
   },
   {
     "Key": "WhitelistRuleFull",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Only <it>{0}</it> are allowed",
     "Italian": "Sono consentiti solo <it>{0}</it>",
@@ -23689,7 +23689,7 @@
   },
   {
     "Key": "WhitelistRuleStorageOnly",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Only <it>{0}</it> are allowed and only for storage",
     "Italian": "Sono consentiti solo <it>{0}</it> e solo per il deposito",
@@ -23697,7 +23697,7 @@
   },
   {
     "Key": "RuleAllResourcesAllowed",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "<it>All resources</it> are allowed",
     "Italian": "<it>Tutte le risorse</it> sono consentite",
@@ -23705,7 +23705,7 @@
   },
   {
     "Key": "IdleWorkerReason_24_Name",
-    "Type": "",
+    "Type": "Text",
     "Desc": "(Workerbot is idle because....)",
     "English": "there is no bridge assigned",
     "Italian": "non c'è nessun ponte assegnato",
@@ -23713,7 +23713,7 @@
   },
   {
     "Key": "ColourSchemeTip",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "(You can change your colony's colour scheme at the colony ship)",
     "Italian": "(Puoi cambiare lo schema dei colori della tua colonia sulla nave coloniale)",
@@ -23721,7 +23721,7 @@
   },
   {
     "Key": "MapEditorUploadImage",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Button to upload an image to use for the map",
     "English": "Upload",
     "Italian": "Upload",
@@ -23729,7 +23729,7 @@
   },
   {
     "Key": "MultiplayerCoopCampaign",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Button to go to the multiplayer co-op campaign",
     "English": "Co-op Campaign",
     "Italian": "Campagna Co-Op",
@@ -23737,7 +23737,7 @@
   },
   {
     "Key": "MultiplayerCoopFreePlay",
-    "Type": "",
+    "Type": "Text",
     "Desc": "Button to go to the main multiplayer lobby/setup page",
     "English": "Free Play",
     "Italian": "Gioco Libero",
@@ -23745,7 +23745,7 @@
   },
   {
     "Key": "JoinMultiplayerWindowBody",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Enter the passcode of the game you want to join",
     "Italian": "Inserisci la password del gioco a cui vuoi partecipare",
@@ -23753,7 +23753,7 @@
   },
   {
     "Key": "SubmittingScore",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Submitting score...",
     "Italian": "Invio punteggio...",
@@ -23761,10 +23761,506 @@
   },
   {
     "Key": "ScoreSubmitted",
-    "Type": "",
+    "Type": "Text",
     "Desc": "",
     "English": "Score submitted!",
     "Italian": "Punteggio inviato!",
+    "Requires Update": ""
+  },
+  {
+    "Key": "ItemDemandSourceType_14_Name",
+    "Type": "Text",
+    "Desc": "Reasons why a resource is being requested",
+    "English": "Bridge Construction",
+    "Italian": "Costruzione Ponte",
+    "Requires Update": ""
+  },
+  {
+    "Key": "MultiplayerLiveDate",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Sorry, the multiplayer launch had to be pushed back a week and will now go live on May 16th.\n\nHang tight or playtest the multiplayer beta available on the Steam development branch!",
+    "Italian": "Siamo spiacenti, il lancio del multiplayer è stato posticipato di una settimana e sarà disponibile il 16 maggio.\n\nTieni duro o prova la beta multiplayer disponibile nel branch di development di Steam!",
+    "Requires Update": ""
+  },
+  {
+    "Key": "MultiplayerBeta",
+    "Type": "Text",
+    "Desc": "",
+    "English": "You can play the multiplayer beta by switching to the development branch",
+    "Italian": "Puoi giocare alla beta multiplayer passando al branch di development",
+    "Requires Update": ""
+  },
+  {
+    "Key": "Scenario_50_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "A Helping Hand",
+    "Italian": "Una mano d'aiuto",
+    "Requires Update": ""
+  },
+  {
+    "Key": "Scenario_50_Description",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Grab a friend and build your colonies together in a new land.\n\nUse the new Shared Storage Yard to exchange resources and construct a small monument!",
+    "Italian": "Collaborate per costruire un piccolo monumento!",
+    "Requires Update": "Update Required!\nClear this field when update complete"
+  },
+  {
+    "Key": "ScenVict_21_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Most Points",
+    "Italian": "Più punti",
+    "Requires Update": ""
+  },
+  {
+    "Key": "ScenVict_21_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Accumulate the most points",
+    "Italian": "Accumula il maggior numero di punti",
+    "Requires Update": ""
+  },
+  {
+    "Key": "ScenVict_21_CreateDesc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Accumulate the most points",
+    "Italian": "Accumula il maggior numero di punti",
+    "Requires Update": ""
+  },
+  {
+    "Key": "Scenario_100_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Five Islands",
+    "Italian": "Cinque Isole",
+    "Requires Update": ""
+  },
+  {
+    "Key": "Scenario_100_Description",
+    "Type": "Text",
+    "Desc": "",
+    "English": "PVP 2 player game",
+    "Italian": "Gioco PVP per 2 giocatori",
+    "Requires Update": ""
+  },
+  {
+    "Key": "ItemDemandSourceType_15_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Team Storage",
+    "Italian": "Deposito della Squadra",
+    "Requires Update": ""
+  },
+  {
+    "Key": "BdPlVaResults_46_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Tile not in other player's territory",
+    "Italian": "Casella non nel territorio di un altro giocatore",
+    "Requires Update": ""
+  },
+  {
+    "Key": "ResourceExchangeIncomingHeader",
+    "Type": "Text",
+    "Desc": "",
+    "English": "My Requests",
+    "Italian": "Le mie richieste",
+    "Requires Update": ""
+  },
+  {
+    "Key": "ResourceExchangeOutgoingHeader",
+    "Type": "Text",
+    "Desc": "",
+    "English": "{0} Requests",
+    "Italian": "{0} Richieste",
+    "Requires Update": ""
+  },
+  {
+    "Key": "Building_84_Description",
+    "Type": "Text",
+    "Desc": "",
+    "English": "A storage yard which allow players to share resources when placed across territory borders.",
+    "Italian": "Un deposito che consente ai giocatori di condividere risorse quando posizionato oltre i confini del territorio.",
+    "Requires Update": ""
+  },
+  {
+    "Key": "Building_84_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Shared Storage Yard",
+    "Italian": "Deposito condiviso",
+    "Requires Update": ""
+  },
+  {
+    "Key": "Building_84_Plural",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Shared Storage Yards",
+    "Italian": "Depositi condivisi",
+    "Requires Update": ""
+  },
+  {
+    "Key": "Building_84_Worker",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Stackbot",
+    "Italian": "BotImpilatore",
+    "Requires Update": ""
+  },
+  {
+    "Key": "EntPanelHead_120",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Incoming Resources",
+    "Italian": "Risorse in entrata",
+    "Requires Update": ""
+  },
+  {
+    "Key": "EntPanelHead_121",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Outgoing Resources",
+    "Italian": "Risorse in uscita",
+    "Requires Update": ""
+  },
+  {
+    "Key": "ResourceExchangingIncomingStorageHeader",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Incoming Resources",
+    "Italian": "Risorse in entrata",
+    "Requires Update": ""
+  },
+  {
+    "Key": "ResourceExchangingIncomingStorageEmpty",
+    "Type": "Text",
+    "Desc": "",
+    "English": "No resources available",
+    "Italian": "Nessuna risorsa disponibile",
+    "Requires Update": ""
+  },
+  {
+    "Key": "ResourceExchangingOutgoingStorageHeader",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Outgoing Resources",
+    "Italian": "Risorse in uscita",
+    "Requires Update": ""
+  },
+  {
+    "Key": "ResourceExchangingOutgoingStorageEmpty",
+    "Type": "Text",
+    "Desc": "",
+    "English": "No resources waiting to be sent",
+    "Italian": "Nessuna risorsa in attesa di essere inviata",
+    "Requires Update": ""
+  },
+  {
+    "Key": "Notification_36_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "{0} has placed a Resource Exchange",
+    "Italian": "{0} ha piazzato uno Scambio di Risorse",
+    "Requires Update": ""
+  },
+  {
+    "Key": "Notification_36_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Resource Exchange placed",
+    "Italian": "Scambio di Risorse piazzato",
+    "Requires Update": ""
+  },
+  {
+    "Key": "Notification_37_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Construction has finished",
+    "Italian": "La costruzione è terminata",
+    "Requires Update": ""
+  },
+  {
+    "Key": "Notification_37_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Bridge complete!",
+    "Italian": "Ponte completato!",
+    "Requires Update": ""
+  },
+  {
+    "Key": "FloorInvalidOccupied",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Layer Occupied",
+    "Italian": "Livello occupato",
+    "Requires Update": ""
+  },
+  {
+    "Key": "MultiplayerResyncPlayerDisconnected",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Player Disconnected!",
+    "Italian": "Giocatore disconnesso!",
+    "Requires Update": ""
+  },
+  {
+    "Key": "MultiplayerReinitialising1",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Reinitialising game...",
+    "Italian": "Reinizializzazione del gioco...",
+    "Requires Update": ""
+  },
+  {
+    "Key": "MultiplayerCompetitive",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Competitive",
+    "Italian": "Competitivo",
+    "Requires Update": ""
+  },
+  {
+    "Key": "MultiplayerHostPublic",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Host Public Game",
+    "Italian": "Ospita una partita pubblica",
+    "Requires Update": ""
+  },
+  {
+    "Key": "MultiplayerHostPrivate",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Host Private Game",
+    "Italian": "Ospita una partita privata",
+    "Requires Update": ""
+  },
+  {
+    "Key": "MultiplayerHostCustomGame",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Create Custom Game",
+    "Italian": "Crea un gioco personalizzato",
+    "Requires Update": ""
+  },
+  {
+    "Key": "MultiplayerHostGame",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Host Game",
+    "Italian": "Ospita una partita",
+    "Requires Update": ""
+  },
+  {
+    "Key": "HostMultiplayerMenuDesc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Choose an official scenario or create a custom game",
+    "Italian": "Scegli uno scenario ufficiale o crea una partita personalizzata",
+    "Requires Update": ""
+  },
+  {
+    "Key": "MultiplayerMenuButton2",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Competitive & Custom",
+    "Italian": "Competitivo e personalizzato",
+    "Requires Update": ""
+  },
+  {
+    "Key": "ClientDisconnectTitle",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Lost connection to host!",
+    "Italian": "Connessione con l'host persa!",
+    "Requires Update": ""
+  },
+  {
+    "Key": "ClientDisconnectMessage",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Waiting for host to reconnect...",
+    "Italian": "In attesa che l'host si ricolleghi...",
+    "Requires Update": ""
+  },
+  {
+    "Key": "Notification_35_Desc",
+    "Type": "Text",
+    "Desc": "{0}: player name",
+    "English": "{0} has taken control of a runestone",
+    "Italian": "{0} ha preso il controllo di una Pietra Runica",
+    "Requires Update": ""
+  },
+  {
+    "Key": "Notification_35_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Runestone Gained!",
+    "Italian": "Pietra Runica ottenuta!",
+    "Requires Update": ""
+  },
+  {
+    "Key": "Flora_121_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Runestone",
+    "Italian": "Pietra Runica",
+    "Requires Update": ""
+  },
+  {
+    "Key": "Scenario_120_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "The Eye",
+    "Italian": "L'occhio",
+    "Requires Update": ""
+  },
+  {
+    "Key": "Scenario_120_Description",
+    "Type": "Text",
+    "Desc": "",
+    "English": "PVP 2 player game",
+    "Italian": "Gioco PVP per 2 giocatori",
+    "Requires Update": ""
+  },
+  {
+    "Key": "MultiplayerIncompatibleVersion",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Incompatible versions of game:\nHost is playing on: {0}\nYou're playing on: {1}",
+    "Italian": "Versioni del gioco incompatibili:\nL'host sta giocando su: {0}\nTu stai giocando su: {1}",
+    "Requires Update": ""
+  },
+  {
+    "Key": "MultiplayerInviteMainMenu",
+    "Type": "Text",
+    "Desc": "",
+    "English": "You've been invited to join a multiplayer game ({0}).\n\nDo you want to join it now?",
+    "Italian": "Sei stato invitato in una partita multiplayer ({0}).\n\nVuoi unirti subito?",
+    "Requires Update": ""
+  },
+  {
+    "Key": "MultiplayerInviteInGame",
+    "Type": "Text",
+    "Desc": "{0}: friend's name",
+    "English": "You've been invited to join a multiplayer game by {0}.\n\nHead back to the main menu to join it.",
+    "Italian": "Sei stato invitato in una partita multiplayer da {0}.\n\nTorna al menu principale per unirti.",
+    "Requires Update": ""
+  },
+  {
+    "Key": "SelectResourceType",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Select Resource Type",
+    "Italian": "Seleziona il Tipo di Risorsa",
+    "Requires Update": ""
+  },
+  {
+    "Key": "SelectBuildingType",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Select Building Type",
+    "Italian": "Seleziona il Tipo di Edifico",
+    "Requires Update": ""
+  },
+  {
+    "Key": "SelectVictoryConditionType",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Select Victory Condition Type",
+    "Italian": "Seleziona il Tipo di Condizione di Vittoria",
+    "Requires Update": ""
+  },
+  {
+    "Key": "SpacePortUnlock",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Unlock more Space Ports by trading resources and increasing your trader reputation",
+    "Italian": "Sblocca più Porti Spaziali scambiando risorse e aumentando la tua reputazione di commerciante",
+    "Requires Update": ""
+  },
+  {
+    "Key": "Scenario_51_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "The Divide",
+    "Italian": "Il divario",
+    "Requires Update": ""
+  },
+  {
+    "Key": "Scenario_51_Description",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Explore and expand together to reach the shared goal of two medium monuments and money in the bank!",
+    "Italian": "Esplorate ed espandetevi insieme per raggiungere l'obiettivo comune di due monumenti medi e soldi in banca!",
+    "Requires Update": ""
+  },
+  {
+    "Key": "Scenario_101_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Duel",
+    "Italian": "Duello",
+    "Requires Update": ""
+  },
+  {
+    "Key": "Scenario_102_Name",
+    "Type": "Text",
+    "Desc": "(Map is shaped like an eye)",
+    "English": "The Eye",
+    "Italian": "L'occhio",
+    "Requires Update": ""
+  },
+  {
+    "Key": "MPChooseScenarioWorkshopComingSoon",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Steam Workshop map support will be available shortly!",
+    "Italian": "Il supporto per le mappe di Steam Workshop sarà disponibile a breve!",
+    "Requires Update": ""
+  },
+  {
+    "Key": "Scenario_60_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Support Lines",
+    "Italian": "Linee di supporto",
+    "Requires Update": ""
+  },
+  {
+    "Key": "Scenario_60_Description",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Team up with a friend to defeat your anthrobotic foes!",
+    "Italian": "Fai squadra con un amico per sconfiggere i tuoi nemici antropomorfi!",
+    "Requires Update": ""
+  },
+  {
+    "Key": "Scenario_61_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Double Trouble",
+    "Italian": "Doppio guaio",
+    "Requires Update": ""
+  },
+  {
+    "Key": "Scenario_61_Description",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Team up with a friend to defeat your anthrobotic foes!",
+    "Italian": "Fai squadra con un amico per sconfiggere i tuoi nemici antropomorfi!",
+    "Requires Update": ""
+  },
+  {
+    "Key": "MulitplayerMoreMaps",
+    "Type": "Text",
+    "Desc": "",
+    "English": "More maps coming soon based on player feedback!",
+    "Italian": "Altre mappe in arrivo in base al feedback dei giocatori!",
     "Requires Update": ""
   }
 ]
