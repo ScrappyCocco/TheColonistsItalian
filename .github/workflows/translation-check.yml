@@ -24,6 +24,7 @@ jobs:
       id: translationvalidat
       continue-on-error: true # Continue to Output Step anyway
       run: |
+        set +e
         cd validator
         python main.py "../The_Colonists_Translation_Data_Italian.csv"
         if [ $? -ne 0 ]; then
