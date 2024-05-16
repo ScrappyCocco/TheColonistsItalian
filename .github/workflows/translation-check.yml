@@ -29,16 +29,18 @@ jobs:
         python main.py "../The_Colonists_Translation_Data_Italian.csv"
         if [ $? -ne 0 ]; then
           echo "Translation Check Command failed, setting status to failure"
-          echo "::set-output name=status::failure"
+          echo "status=failure" >> $GITHUB_ENV
         else
           echo "Translation Check Command succeeded, setting status to success"
-          echo "::set-output name=status::success"
+          echo "status=success" >> $GITHUB_ENV
         fi
     - name: Output result
       run: |
         cd validator
         cat result.txt
-        if [ "${{ steps.translationvalidat.outputs.status }}" = "failure" ]; then
+        echo "Translation Check Status is ${{ env.status }}"
+        if [ "${{ env.status }}" = "failure" ]; then
+          echo "Found failure status, exiting with 1..."
           echo "::error::Previous step failed"
           exit 1
         fi
