@@ -19,8 +19,8 @@
     "Key": "Advice_0_Name",
     "Type": "Text",
     "Desc": "",
-    "English": "No <bd>Residences</bd>!",
-    "Italian": "Nessuna <bd>Abitazione</bd>!",
+    "English": "Build a <bd>Residence</bd>!",
+    "Italian": "Costruisci un'<bd>Abitazione</bd>!",
     "Requires Update": ""
   },
   {
@@ -163,8 +163,8 @@
     "Key": "Advice_18_Name",
     "Type": "Text",
     "Desc": "",
-    "English": "No <bd>Well</bd>!",
-    "Italian": "Nessun <bd>Pozzo</bd>!",
+    "English": "Build a <bd>Well</bd>!",
+    "Italian": "Costruisci un <bd>Pozzo</bd>!",
     "Requires Update": ""
   },
   {
@@ -371,8 +371,8 @@
     "Key": "Advice_2_Name",
     "Type": "Text",
     "Desc": "",
-    "English": "No <bd>Lumberjack Huts</bd>!",
-    "Italian": "Nessuna <bd>Capanna del Taglialegna</bd>!",
+    "English": "Build a <bd>Lumberjack Hut</bd>!",
+    "Italian": "Costruisci una <bd>Capanna del Taglialegna</bd>!",
     "Requires Update": ""
   },
   {
@@ -467,8 +467,8 @@
     "Key": "Advice_9_Name",
     "Type": "Text",
     "Desc": "",
-    "English": "No <bd>Workshop</bd>!",
-    "Italian": "Nessun <bd>Laboratorio</bd>!",
+    "English": "Build a <bd>Workshop</bd>!",
+    "Italian": "Costruisci un <bd>Laboratorio</bd>!",
     "Requires Update": ""
   },
   {
@@ -19715,7 +19715,7 @@
     "Key": "Flora_100_Description",
     "Type": "Text",
     "Desc": "",
-    "English": "This mine contains an infinite supply of <nr><natres></nr>.\nYou can build a <bd>Shaft Mine</bd> here to extract the <nr><natres></nr>.",
+    "English": "This mine contains an infinite supply of <nr><natres></nr>.\n\nYou can build a <bd>Shaft Mine</bd> here to extract the <nr><natres></nr>.",
     "Italian": "Questa miniera contiene una scorta infinita di <nr><natres></nr>. Puoi costruire una <bd>Miniera</bd> qui per estrarre il <nr><natres></nr>.",
     "Requires Update": ""
   },
@@ -24261,6 +24261,150 @@
     "Desc": "",
     "English": "More maps coming soon based on player feedback!",
     "Italian": "Altre mappe in arrivo in base al feedback dei giocatori!",
+    "Requires Update": ""
+  },
+  {
+    "Key": "Flora_122_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Large Runestone",
+    "Italian": "Grande Pietra Runica",
+    "Requires Update": ""
+  },
+  {
+    "Key": "MultiplayerIntroTitle",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Welcome to The Colonists multiplayer!",
+    "Italian": "Benvenuto nel multiplayer di The Colonists!",
+    "Requires Update": ""
+  },
+  {
+    "Key": "MultiplayerIntroBody",
+    "Type": "Text",
+    "Desc": "",
+    "English": "This is a soft launch of the multiplayer mode with a selection of co-op campaign maps, PvP maps and game modes of varying length available to try.\n\nYou can save and reload multiplayer games to play over multiple sessions and if you do run into a problem this is worth trying first.\n\nAs always, player feedback is hugely appreciated to help improve the game and iron out any issues and rough edges.\n\nMore maps will added based on player favourites and support for Steam Workshop maps will be added shortly.\n\nPlease send all comments, suggestions and bug reports to me on Discord or to dev@codebyfire.com,\n\nThanks!",
+    "Italian": "Si tratta di un lancio graduale della modalità multiplayer con una selezione di mappe di campagna cooperativa, mappe PvP e modalità di gioco di varia durata disponibili da provare.\n\nPuoi salvare e ricaricare i giochi multiplayer per giocare su più sessioni e anche se riscontri un problema vale la pena fare delle prove.\n\nCome sempre, il feedback dei giocatori è estremamente apprezzato per contribuire a migliorare il gioco e appianare eventuali problemi e spigoli.\n\nVerranno aggiunte altre mappe in base alle preferite dei giocatori e il supporto per le mappe di Steam Workshop verrà aggiunto a breve.\n\nPer favore inviatemi tutti i commenti, suggerimenti e segnalazioni di bug su Discord o a dev@codebyfire.com,\n\nGrazie!",
+    "Requires Update": ""
+  },
+  {
+    "Key": "MPCouldntFindGame",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Couldn't find game: {0}",
+    "Italian": "Impossibile trovare il gioco: {0}",
+    "Requires Update": ""
+  },
+  {
+    "Key": "MPPassword",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Password",
+    "Italian": "Password",
+    "Requires Update": ""
+  },
+  {
+    "Key": "InvalidVictoryCondition",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Invalid victory condition",
+    "Italian": "Condizione di vittoria non valida",
+    "Requires Update": ""
+  },
+  {
+    "Key": "AddConditionWarning",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Add a condition!",
+    "Italian": "Aggiungi una condizione!",
+    "Requires Update": ""
+  },
+  {
+    "Key": "MPPlayerEmpty",
+    "Type": "Text",
+    "Desc": "When a player's slot in a multiplayer game lobby is waiting to be filled",
+    "English": "empty",
+    "Italian": "libero",
+    "Requires Update": ""
+  },
+  {
+    "Key": "MPDesyncWaitingForResync",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Waiting for players to resync",
+    "Italian": "In attesa che i giocatori si sincronizzino",
+    "Requires Update": ""
+  },
+  {
+    "Key": "MPHostSavingGame",
+    "Type": "Text",
+    "Desc": "(The) host (is) saving (the) game",
+    "English": "Host saving game",
+    "Italian": "L'Host sta salvando il gioco",
+    "Requires Update": ""
+  },
+  {
+    "Key": "MPHostSaveComplete",
+    "Type": "Text",
+    "Desc": "(The) host('s) save (is) complete",
+    "English": "Host save complete",
+    "Italian": "L'Host ha salvato il gioco",
+    "Requires Update": ""
+  },
+  {
+    "Key": "MPWaitingForHostSubmission",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Waiting for host to submit score",
+    "Italian": "In attesa che l'host invii il punteggio",
+    "Requires Update": ""
+  },
+  {
+    "Key": "CoopCampaignMissionTitleNumber",
+    "Type": "Text",
+    "Desc": "{0}: number, e.g. Co-op Campaign Mission 2",
+    "English": "Co-op Campaign Mission {0}",
+    "Italian": "Missione della campagna Co-op {0}",
+    "Requires Update": ""
+  },
+  {
+    "Key": "MPClientLostConnection",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Lost connection to host...\nReturning to main menu",
+    "Italian": "Connessione all'host persa...\nRitorno al menu principale",
+    "Requires Update": ""
+  },
+  {
+    "Key": "RoadState_PlaceAndContinueMsg",
+    "Type": "Text",
+    "Desc": "{0}: alt {1}: click",
+    "English": "[{0}] and [{1}] to place post and start new road",
+    "Italian": "[{0}] e [{1}] per posizionare l'incrocio e iniziare una nuova strada",
+    "Requires Update": ""
+  },
+  {
+    "Key": "CtrlKey",
+    "Type": "Text",
+    "Desc": "Control key on keyboard",
+    "English": "Ctrl",
+    "Italian": "Ctrl",
+    "Requires Update": ""
+  },
+  {
+    "Key": "AltKey",
+    "Type": "Text",
+    "Desc": "Alt key on keyboard",
+    "English": "Alt",
+    "Italian": "Alt",
+    "Requires Update": ""
+  },
+  {
+    "Key": "PathState_ClickToCompleteAndContinue",
+    "Type": "Text",
+    "Desc": "{0}: alt {1}: click",
+    "English": "[{0}] and [{1}] to complete path and start new path",
+    "Italian": "[{0}] e [{1}] per completare il percorso e iniziare un nuovo percorso",
     "Requires Update": ""
   }
 ]

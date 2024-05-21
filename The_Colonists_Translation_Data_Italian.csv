@@ -1,7 +1,7 @@
 Key,Type,Desc,English,Italian,Requires Update
 AI Players,Text,Computer-controlled players you compete against in the game,AI Players,Giocatori IA,
 Advice_0_Desc,Text,,"Build some <bd>Residences</bd> to generate more <it>Energy</it> for lumbering, mining and technology research.","Costruisci alcune <bd>Abitazioni</bd> per generare più <it>Energia</it> per tagliare la legna, estrarre minerali e ricercare nuova tecnologia.",
-Advice_0_Name,Text,,No <bd>Residences</bd>!,Nessuna <bd>Abitazione</bd>!,
+Advice_0_Name,Text,,Build a <bd>Residence</bd>!,Costruisci un'<bd>Abitazione</bd>!,
 Advice_10_Desc,Text,,Keep expanding until you find a <nr>Coal</nr> deposit and it's inside your territory.,Continua ad espanderti finché non trovi un deposito di <nr>Carbone</nr> incluso nel tuo territorio.,
 Advice_10_Name,Text,,Find <nr>Coal</nr>!,Trova del <nr>Carbone</nr>!,
 Advice_11_Desc,Text,,Keep expanding until you find a <nr>Iron Ore</nr> deposit and it's inside your territory.,Continua ad espanderti finché non trovi un deposito di <nr>Ferro</nr> incluso nel tuo territorio.,
@@ -35,7 +35,7 @@ Advice_16_Name,Text,,Start mining <nr>Iron Ore</nr>!,Inizia ad estrarre del <nr>
 Advice_17_Desc,Text,,Build a <bd>Blast Furnace</bd> to create <it>Iron</it> from <it>Iron Ore</it> and <it>Coal</it>.,Costruisci un <bd>Altoforno</bd> per ottenere del <it>Ferro</it> da <it>Ferro grezzo</it> e <it>Carbone</it>.,
 Advice_17_Name,Text,,Start producing <it>Iron</it>!,Comincia a produrre <it>Ferro</it>!,
 Advice_18_Desc,Text,,Build a <bd>Well</bd> to supply <it>Water</it> to your <bd>Residences</bd>.,Costruisci un <bd>Pozzo</bd> per fornire <it>Acqua</it> alle tue <bd>Abitazioni</bd>.,
-Advice_18_Name,Text,,No <bd>Well</bd>!,Nessun <bd>Pozzo</bd>!,
+Advice_18_Name,Text,,Build a <bd>Well</bd>!,Costruisci un <bd>Pozzo</bd>!,
 Advice_19_Desc,Text,,Build a <bd>Harbour</bd> on the shore to discover new islands and more resources.,Costruisci un <bd>Porto</bd> sulla costa per scoprire nuove isole e altre risorse.,
 Advice_19_Name,Text,,Build a <bd>Harbour</bd>!,Costruisci un <bd>Porto</bd>!,
 Advice_1_Desc,Text,,If you run out of trees your <it>Logs</it> supply may fail. Build a <bd>Forester</bd> to plant more trees.,Se finisci gli alberi la tua produzione di <it>Tronchi</it> potrebbe interrompersi. Costruisci una <bd>Guardia Forestale</bd> per piantare altri alberi.,
@@ -65,7 +65,7 @@ Advice_28_Name,Text,,Check out the Map!,Controlla la Mappa!,
 Advice_29_Desc,Text,,Consider placing related supply and demands building closer as well as using transport rules at road posts or harbours to control how resources move around your colony. Click on any road posts to find out more.,"Considera di piazzare gli edifici per la produzione di risorse vicini a quelli che le richiedono, oltre ad usare le regole di trasporto agli incroci e i porti per controllare come le risorse vengono trasportate nella tua colonia. Clicca su una strada per scoprire di più.",
 Advice_29_Name,Text,,You have some blocked roads!,Hai delle strade bloccate!,
 Advice_2_Desc,Text,,Always start a colony by building a <bd>Lumberjack Hut</bd> to make sure you have a steady supply of <it>Logs</it>.,Inizia sempre una colonia costruendo una <bd>Capanna del Taglialegna</bd> per avere una fornitura costante di <it>Tronchi</it>.,
-Advice_2_Name,Text,,No <bd>Lumberjack Huts</bd>!,Nessuna <bd>Capanna del Taglialegna</bd>!,
+Advice_2_Name,Text,,Build a <bd>Lumberjack Hut</bd>!,Costruisci una <bd>Capanna del Taglialegna</bd>!,
 Advice_30_Desc,Text,,To create <it>Iron</it> a <bd>Blast Furnace</bd> needs either <it>Charcoal</it> from a <bd>Charcoal Burner</bd> or <it>Coal</it> from a <bd>Surface Mine</bd> or <bd>Shaft Mine</bd>.,Per creare <it>Ferro</it> un <bd>Altoforno</bd> ha bisogno di <it>Carbonella</it> da un <bd>Bruciatore di Carbonella</bd> o di <it>Carbone</it> da una <bd>Miniera di Superficie</bd> o da una <bd>Miniera</bd>.,
 Advice_30_Name,Text,,Create <cat>Fuel</cat>!,Crea del <cat>Carburante</cat>!,
 Advice_3_Desc,Text,,Use paths to connect buildings to a road.,Usa i sentieri per collegare gli edifici ad una strada.,
@@ -77,7 +77,7 @@ Advice_7_Name,Text,,<bd>Workshop</bd> available!,<bd>Laboratorio(i)</bd> disponi
 Advice_8_Desc,Text,,Build a <bd>Watchtower</bd> near your borders to expand your territory.,Costruisci una <bd>Torre di Guardia</bd> vicino ai tuoi confini per espandere il tuo territorio.,
 Advice_8_Name,Text,,Expand your territory!,Espandi il tuo territorio!,
 Advice_9_Desc,Text,,Build a <bd>Workshop</bd> so you can research new technologies.,Costruisci un <bd>Laboratorio</bd> in modo da ricercare nuove tecnologie.,
-Advice_9_Name,Text,,No <bd>Workshop</bd>!,Nessun <bd>Laboratorio</bd>!,
+Advice_9_Name,Text,,Build a <bd>Workshop</bd>!,Costruisci un <bd>Laboratorio</bd>!,
 Advisor,Text,In-game advice panel,Advisor,Consulente,
 AdvisorColonyAdvice,Text,,Colony Advice,Consigli Colonia,
 AdvisorGeneralTips,Text,,General Tips,Suggerimenti Generali,
@@ -3207,6 +3207,7 @@ RandomMap_Fish1,Text,Few fish available,Few,Pochi,
 RandomMap_Fish2,Text,Moderate amount of fish available,Normal,Normali,
 RandomMap_Fish3,Text,Plenty of fish available,Lots,Tanti,
 Flora_100_Description,Text,,"This mine contains an infinite supply of <nr><natres></nr>.
+
 You can build a <bd>Shaft Mine</bd> here to extract the <nr><natres></nr>.",Questa miniera contiene una scorta infinita di <nr><natres></nr>. Puoi costruire una <bd>Miniera</bd> qui per estrarre il <nr><natres></nr>.,
 Flora_100_Name,Text,,Underground Deposit,Deposito sotterraneo,
 ModEntry_UnpublishedChanges,Text,,Mod has unpublished changes!,La Mod ha modifiche non pubblicate!,
@@ -3989,3 +3990,43 @@ Scenario_60_Description,Text,,Team up with a friend to defeat your anthrobotic f
 Scenario_61_Name,Text,,Double Trouble,Doppio guaio,
 Scenario_61_Description,Text,,Team up with a friend to defeat your anthrobotic foes!,Fai squadra con un amico per sconfiggere i tuoi nemici antropomorfi!,
 MulitplayerMoreMaps,Text,,More maps coming soon based on player feedback!,Altre mappe in arrivo in base al feedback dei giocatori!,
+Flora_122_Name,Text,,Large Runestone,Grande Pietra Runica,
+MultiplayerIntroTitle,Text,,Welcome to The Colonists multiplayer!,Benvenuto nel multiplayer di The Colonists!,
+MultiplayerIntroBody,Text,,"This is a soft launch of the multiplayer mode with a selection of co-op campaign maps, PvP maps and game modes of varying length available to try.
+
+You can save and reload multiplayer games to play over multiple sessions and if you do run into a problem this is worth trying first.
+
+As always, player feedback is hugely appreciated to help improve the game and iron out any issues and rough edges.
+
+More maps will added based on player favourites and support for Steam Workshop maps will be added shortly.
+
+Please send all comments, suggestions and bug reports to me on Discord or to dev@codebyfire.com,
+
+Thanks!","Si tratta di un lancio graduale della modalità multiplayer con una selezione di mappe di campagna cooperativa, mappe PvP e modalità di gioco di varia durata disponibili da provare.
+
+Puoi salvare e ricaricare i giochi multiplayer per giocare su più sessioni e anche se riscontri un problema vale la pena fare delle prove.
+
+Come sempre, il feedback dei giocatori è estremamente apprezzato per contribuire a migliorare il gioco e appianare eventuali problemi e spigoli.
+
+Verranno aggiunte altre mappe in base alle preferite dei giocatori e il supporto per le mappe di Steam Workshop verrà aggiunto a breve.
+
+Per favore inviatemi tutti i commenti, suggerimenti e segnalazioni di bug su Discord o a dev@codebyfire.com,
+
+Grazie!",
+MPCouldntFindGame,Text,,Couldn't find game: {0},Impossibile trovare il gioco: {0},
+MPPassword,Text,,Password,Password,
+InvalidVictoryCondition,Text,,Invalid victory condition,Condizione di vittoria non valida,
+AddConditionWarning,Text,,Add a condition!,Aggiungi una condizione!,
+MPPlayerEmpty,Text,When a player's slot in a multiplayer game lobby is waiting to be filled,empty,libero,
+MPDesyncWaitingForResync,Text,,Waiting for players to resync,In attesa che i giocatori si sincronizzino,
+MPHostSavingGame,Text,(The) host (is) saving (the) game,Host saving game,L'Host sta salvando il gioco,
+MPHostSaveComplete,Text,(The) host('s) save (is) complete,Host save complete,L'Host ha salvato il gioco,
+MPWaitingForHostSubmission,Text,,Waiting for host to submit score,In attesa che l'host invii il punteggio,
+CoopCampaignMissionTitleNumber,Text,"{0}: number, e.g. Co-op Campaign Mission 2",Co-op Campaign Mission {0},Missione della campagna Co-op {0},
+MPClientLostConnection,Text,,"Lost connection to host...
+Returning to main menu","Connessione all'host persa...
+Ritorno al menu principale",
+RoadState_PlaceAndContinueMsg,Text,{0}: alt {1}: click,[{0}] and [{1}] to place post and start new road,[{0}] e [{1}] per posizionare l'incrocio e iniziare una nuova strada,
+CtrlKey,Text,Control key on keyboard,Ctrl,Ctrl,
+AltKey,Text,Alt key on keyboard,Alt,Alt,
+PathState_ClickToCompleteAndContinue,Text,{0}: alt {1}: click,[{0}] and [{1}] to complete path and start new path,[{0}] e [{1}] per completare il percorso e iniziare un nuovo percorso,
