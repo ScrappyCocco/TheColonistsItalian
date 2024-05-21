@@ -214,7 +214,7 @@ class CSVValidator:
                                                           " because in ignore list!\n\n")
                     else:
                         # Check if we want to print a remainder to update the lines
-                        if ("PLEASE UPDATE" in str(row[2])) or ((str(row[5])).strip()):
+                        if ("PLEASE UPDATE" in str(row[2])) or "Required" in str(row[5]) or ((str(row[5])).strip()):
                             warnings_found += 1
                             file_manager.write_line_separator(str(line_counter))
                             file_manager.write_string_to_file(
@@ -222,7 +222,7 @@ class CSVValidator:
                                 "This line may be marked with [PLEASE UPDATE]. " +
                                 "Check if you need to update it \n" +
                                 "Description: " + str(row[2]) + "\n" +
-                                "Please Update: " + str(row[6]) + "\n" +
+                                "Please Update: " + str(row[5]) + "\n" +
                                 "Original: " + str(row[3]) + "\n" +
                                 "Translated: " + str(row[4]) + "\n\n")
                         # Check deprecation first

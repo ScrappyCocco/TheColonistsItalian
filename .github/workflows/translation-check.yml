@@ -21,10 +21,26 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r validator/requirements.txt
     - name: Translation Validator
+      id: translationvalidat
+      continue-on-error: true # Continue to Output Step anyway
       run: |
+        set +e
         cd validator
         python main.py "../The_Colonists_Translation_Data_Italian.csv"
+        if [ $? -ne 0 ]; then
+          echo "Translation Check Command failed, setting status to failure"
+          echo "status=failure" >> $GITHUB_ENV
+        else
+          echo "Translation Check Command succeeded, setting status to success"
+          echo "status=success" >> $GITHUB_ENV
+        fi
     - name: Output result
       run: |
         cd validator
         cat result.txt
+        echo "Translation Check Status is ${{ env.status }}"
+        if [ "${{ env.status }}" = "failure" ]; then
+          echo "Found failure status, exiting with 1..."
+          echo "::error::Previous step failed"
+          exit 1
+        fi
