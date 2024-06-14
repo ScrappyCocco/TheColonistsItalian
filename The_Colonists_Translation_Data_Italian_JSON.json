@@ -24406,5 +24406,101 @@
     "English": "[{0}] and [{1}] to complete path and start new path",
     "Italian": "[{0}] e [{1}] per completare il percorso e iniziare un nuovo percorso",
     "Requires Update": ""
+  },
+  {
+    "Key": "MPCoopQuitWarning",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Are you sure you want to quit this multiplayer game?",
+    "Italian": "Sei sicuro di voler uscire da questa partita multiplayer?",
+    "Requires Update": ""
+  },
+  {
+    "Key": "",
+    "Type": "",
+    "Desc": "",
+    "English": "",
+    "Italian": "",
+    "Requires Update": ""
+  },
+  {
+    "Key": "EntityInfoBuildingStorageQueuedHeader",
+    "Type": "Text",
+    "Desc": "Header for section for resources that are queued i.e. that are waiting to arrive",
+    "English": "Queued",
+    "Italian": "In coda",
+    "Requires Update": ""
+  },
+  {
+    "Key": "ItemTooltip_QueuedSingle",
+    "Type": "Text",
+    "Desc": "{0}: number, {1}: resource type",
+    "English": "{0}x {1} is waiting in queue",
+    "Italian": "{0}x {1} è in attesa in coda",
+    "Requires Update": ""
+  },
+  {
+    "Key": "ItemTooltip_QueuedPlural",
+    "Type": "Text",
+    "Desc": "{0}: number, {1}: plural resource type",
+    "English": "{0}x {1} are waiting in queue",
+    "Italian": "{0}x {1} sono in attesa in coda",
+    "Requires Update": ""
+  },
+  {
+    "Key": "EntityInfoBuildingStorageQueuingEmpty",
+    "Type": "Text",
+    "Desc": "",
+    "English": "There are no resources queuing",
+    "Italian": "Non ci sono risorse in coda",
+    "Requires Update": ""
+  },
+  {
+    "Key": "TradeTerminalSupplyHeader",
+    "Type": "Text",
+    "Desc": "As in supply resources for the 'supply mission' victory type",
+    "English": "Supply",
+    "Italian": "Fornitura",
+    "Requires Update": ""
+  },
+  {
+    "Key": "ScenVict_14_Desc",
+    "Type": "Text",
+    "Desc": "the mission is to supply a specified list of resources",
+    "English": "Fulfil supply task",
+    "Italian": "Soddisfare l'incarico di fornitura",
+    "Requires Update": ""
+  },
+  {
+    "Key": "ScenVict_14_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Supply Task",
+    "Italian": "Incarico di fornitura",
+    "Requires Update": ""
+  },
+  {
+    "Key": "ScenVict_14_CreateDesc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Supply the specified resources at the space port",
+    "Italian": "Fornire le risorse specificate allo spazioporto",
+    "Requires Update": ""
+  },
+  {
+    "Key": "EntityInfoSellingAddSupplyRule",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Add Rule",
+    "Italian": "Aggiungi regola",
+    "Requires Update": ""
+  },
+  {
+    "Key": "MPRoomCopy",
+    "Type": "Text",
+    "Desc": "Copy multiplayer password to clipboard",
+    "English": "Copy",
+    "Italian": "Copia",
+    "Requires Update": ""
   }
 ]
