@@ -3031,7 +3031,7 @@ IslandId,Text,{0}: number. e.g. Island 3,Island {0},Isola {0},
 VictoryCondition_ResourceStorage,Text,"{0}: number, {1}: resource e.g. Have 75 Planks in storage",Hold {0} {1} in storage,Tieni {0} {1} nel deposito,
 ScenVict_10_Desc,Text,,Build <amount> <boat>,Costruisci <amount> <boat>,
 ScenVict_10_Name,Text,,Construct Boat,Costruisci barca,
-ScenVict_11_Desc,Text,,Hold <amount> <resource> in storage,Tieni <amount> <resource> nel deposito,
+ScenVict_11_Desc,Text,,Hold resources in storage,Tieni <amount> <resource> nel deposito,
 ScenVict_11_Name,Text,,Resource Storage,Deposito risorse,
 FrontierAlertNew,Text,(tag on Frontiers button notifying the player of a new frontier),New!,Nuova!,
 NotificationLowTreesSingleTreeDesc,Text,"{0} adds either ""NotificationLowTreesExtraHasForestries"" or ""NotificationLowTreesExtraNoForestries"" based on whether the player has any forestries",You only have 1 tree left! {0},Hai solo 1 albero rimanente! {0},
@@ -3461,8 +3461,8 @@ Scenario_31_Description,Text,,Another crashed colony ship needs your help as you
 Scenario_31_Name,Text,(need to use a tunnel on this map),Tunnel Vision,Visuale Tunnel,
 UnitState_BestowingBlessing,Text,,Blessing {0} - {1}%,Benedizione {0} - {1}%,
 EntityBuildingPriorityEntitiesChurchHeader,Text,,Blessings,Benedizione,
-EntityBuildingPriorityEntitiesChurchDesc,Text,,Priestbot will visit assigned buildings in order and provide a blessing to it.,Il BotPrete visiterà gli edifici assegnati in ordine e li benedirà.,
-EntityBuildingPriorityEntitiesChurchAddMessage,Text,,Select buildings to assign for blessings.,Selezionare gli edifici da assegnare alle benedizioni.,
+EntityBuildingPriorityEntitiesChurchDesc,Text,,Priestbot will visit assigned buildings/runestones in order and provide a blessing to it.,Il BotPrete visiterà gli edifici assegnati in ordine e li benedirà.,
+EntityBuildingPriorityEntitiesChurchAddMessage,Text,,Select buildings/runestones to assign for blessings.,Selezionare gli edifici da assegnare alle benedizioni.,
 UnitState_RoadBridgeBuilding,Text,,Constructing bridge segment {0}%,Costruzione del tratto di ponte {0}%,
 EntPanelHead_75,Text,,Construction,Costruzione,
 EntityRoadBridgeAssignConstructionYardHeader,Text,,Construction Yard,Cantiere di costruzione,
@@ -3546,7 +3546,7 @@ Scenario_32_Name,Text,,Downstream,A valle,
 Scenario_33_Description,Text,,The last ship remains somewhere through a harsh desert landscape.,L'ultima nave è da qualche parte in un aspro paesaggio desertico.,
 Scenario_33_Name,Text,,The Desert Climb,La Scalata del Deserto,
 SandboxOptionDLCEnabled,Text,,New Lands DLC Features,Funzionalità del DLC New Lands,
-Building_79_Description,Text,,Uses <it>Holy Energy</it> to provide blessings to buildings.,Utilizza l'<it>Energia Sacra</it> per fornire benedizioni agli edifici.,
+Building_79_Description,Text,,Uses <it>Holy Energy</it> to provide blessings to buildings and runestones.,Utilizza l'<it>Energia Sacra</it> per fornire benedizioni agli edifici.,
 Building_79_Name,Text,,Missionary Outpost,Avamposto Missionario,
 Building_79_Plural,Text,,Missionary Outposts,Avamposti Missionari,
 Building_79_Worker,Text,,Priestbot,BotPrete,
@@ -4042,3 +4042,34 @@ ScenVict_14_Name,Text,,Supply Task,Incarico di fornitura,
 ScenVict_14_CreateDesc,Text,,Supply the specified resources at the space port,Fornire le risorse specificate allo spazioporto,
 EntityInfoSellingAddSupplyRule,Text,,Add Rule,Aggiungi regola,
 MPRoomCopy,Text,Copy multiplayer password to clipboard,Copy,Copia,
+,Text,,Skip Mission 1,Salta Missione 1,
+SkipMission1Body,Text,,"Mission 1 is a 10-15 minute introductory mission that lets you pick up the basic gameplay of The Colonists and is highly recommended for new players.
+
+You can however skip to Mission 2 if you want to!","La Missione 1 è una missione introduttiva di 10-15 minuti che ti consente di apprendere le basi del gameplay di The Colonists ed è altamente consigliata per i nuovi giocatori.
+
+Puoi comunque passare alla Missione 2 se vuoi!",
+SkipMission1Confirm,Text,,Skip to Mission 2,Salta alla Missione 2,
+SkipMission1Cancel,Text,,Cancel,Annulla,
+MapEditorMode_40_Desc,Text,,"Click to place a runestone.
+[Shift] and click to remove.","Clicca per posizionare una Pietra Runica.
+[Shift] e clicca per rimuoverla.",
+MapEditorMode_40_Name,Text,,Runestones,Pietre Runiche,
+MapEditorGenericType,Text,"Generic word for a type of something, i.e. type of natural resource, type of fish",Type,Tipo,
+Flora_121_Description,Text,,"Small runestones generate 1 <pt>Victory Points</pt> every 4 days if inside your territory.
+
+Victory Point production can be increased if the runestone blessed by a Priestbot from a <bd>Missionary Outpost</bd>.","Le Pietre Runiche piccole generano 1 <pt>Punti Vittoria</pt> ogni 4 giorni se si trovano all'interno del tuo territorio.
+
+La produzione di Punti Vittoria può essere aumentata se la Runa è benedetta da un BotPrete da un <bd>Avamposto Missionario</bd>.",
+Flora_122_Description,Text,,"Large runestones generate 2 <pt>Victory Points</pt> every 4 days if inside your territory.
+
+Victory Point production can be increased if the runestone blessed by a Priestbot from a <bd>Missionary Outpost</bd>.","Le Pietre Runiche grandi generano 2 <pt>Punti Vittoria</pt> ogni 4 giorni se si trovano all'interno del tuo territorio.
+
+La produzione di Punti Vittoria può essere aumentata se la runa è benedetta da un BotPrete da un <bd>Avamposto Missionario</bd>.",
+EntPanelHead_45,Text,,Victory Point Generation,Generazione Punti Vittoria,
+Runestone_GeneratingVictoryPoint,Text,,Generating 1 Victory Point,Generazione di 1 Punto Vittoria,
+Runestone_GeneratingVictoryPoints,Text,Plural version of previous row,Generating {0} Victory Points,Generazione {0} Punti Vittoria,
+Runestone_Unclaimed,Text,,Runestone Unclaimed,Pietra Runica non reclamata,
+ScenVictMeas_1_Desc,Text,,Earn as many victory points from runestones as possible,Ottieni quanti più punti vittoria possibili dalle pietre runiche,
+ScenVictMeas_1_Name,Text,,Victory Points,Punti Vittoria,
+TooltipVictoryPoints,Text,,Victory Points,Punti Vittoria,
+TooltipVictoryPointsDesc,Text,,The amount of victory points you gained from runestones,La quantità di punti vittoria guadagnati dalle Pietre Runiche,

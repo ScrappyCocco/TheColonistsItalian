@@ -18603,7 +18603,7 @@
     "Key": "ScenVict_11_Desc",
     "Type": "Text",
     "Desc": "",
-    "English": "Hold <amount> <resource> in storage",
+    "English": "Hold resources in storage",
     "Italian": "Tieni <amount> <resource> nel deposito",
     "Requires Update": ""
   },
@@ -21203,7 +21203,7 @@
     "Key": "EntityBuildingPriorityEntitiesChurchDesc",
     "Type": "Text",
     "Desc": "",
-    "English": "Priestbot will visit assigned buildings in order and provide a blessing to it.",
+    "English": "Priestbot will visit assigned buildings/runestones in order and provide a blessing to it.",
     "Italian": "Il BotPrete visiterà gli edifici assegnati in ordine e li benedirà.",
     "Requires Update": ""
   },
@@ -21211,7 +21211,7 @@
     "Key": "EntityBuildingPriorityEntitiesChurchAddMessage",
     "Type": "Text",
     "Desc": "",
-    "English": "Select buildings to assign for blessings.",
+    "English": "Select buildings/runestones to assign for blessings.",
     "Italian": "Selezionare gli edifici da assegnare alle benedizioni.",
     "Requires Update": ""
   },
@@ -21843,7 +21843,7 @@
     "Key": "Building_79_Description",
     "Type": "Text",
     "Desc": "",
-    "English": "Uses <it>Holy Energy</it> to provide blessings to buildings.",
+    "English": "Uses <it>Holy Energy</it> to provide blessings to buildings and runestones.",
     "Italian": "Utilizza l'<it>Energia Sacra</it> per fornire benedizioni agli edifici.",
     "Requires Update": ""
   },
@@ -24501,6 +24501,142 @@
     "Desc": "Copy multiplayer password to clipboard",
     "English": "Copy",
     "Italian": "Copia",
+    "Requires Update": ""
+  },
+  {
+    "Key": "",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Skip Mission 1",
+    "Italian": "Salta Missione 1",
+    "Requires Update": ""
+  },
+  {
+    "Key": "SkipMission1Body",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Mission 1 is a 10-15 minute introductory mission that lets you pick up the basic gameplay of The Colonists and is highly recommended for new players.\n\nYou can however skip to Mission 2 if you want to!",
+    "Italian": "La Missione 1 è una missione introduttiva di 10-15 minuti che ti consente di apprendere le basi del gameplay di The Colonists ed è altamente consigliata per i nuovi giocatori.\n\nPuoi comunque passare alla Missione 2 se vuoi!",
+    "Requires Update": ""
+  },
+  {
+    "Key": "SkipMission1Confirm",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Skip to Mission 2",
+    "Italian": "Salta alla Missione 2",
+    "Requires Update": ""
+  },
+  {
+    "Key": "SkipMission1Cancel",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Cancel",
+    "Italian": "Annulla",
+    "Requires Update": ""
+  },
+  {
+    "Key": "MapEditorMode_40_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Click to place a runestone.\n[Shift] and click to remove.",
+    "Italian": "Clicca per posizionare una Pietra Runica.\n[Shift] e clicca per rimuoverla.",
+    "Requires Update": ""
+  },
+  {
+    "Key": "MapEditorMode_40_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Runestones",
+    "Italian": "Pietre Runiche",
+    "Requires Update": ""
+  },
+  {
+    "Key": "MapEditorGenericType",
+    "Type": "Text",
+    "Desc": "Generic word for a type of something, i.e. type of natural resource, type of fish",
+    "English": "Type",
+    "Italian": "Tipo",
+    "Requires Update": ""
+  },
+  {
+    "Key": "Flora_121_Description",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Small runestones generate 1 <pt>Victory Points</pt> every 4 days if inside your territory.\n\nVictory Point production can be increased if the runestone blessed by a Priestbot from a <bd>Missionary Outpost</bd>.",
+    "Italian": "Le Pietre Runiche piccole generano 1 <pt>Punti Vittoria</pt> ogni 4 giorni se si trovano all'interno del tuo territorio.\n\nLa produzione di Punti Vittoria può essere aumentata se la Runa è benedetta da un BotPrete da un <bd>Avamposto Missionario</bd>.",
+    "Requires Update": ""
+  },
+  {
+    "Key": "Flora_122_Description",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Large runestones generate 2 <pt>Victory Points</pt> every 4 days if inside your territory.\n\nVictory Point production can be increased if the runestone blessed by a Priestbot from a <bd>Missionary Outpost</bd>.",
+    "Italian": "Le Pietre Runiche grandi generano 2 <pt>Punti Vittoria</pt> ogni 4 giorni se si trovano all'interno del tuo territorio.\n\nLa produzione di Punti Vittoria può essere aumentata se la runa è benedetta da un BotPrete da un <bd>Avamposto Missionario</bd>.",
+    "Requires Update": ""
+  },
+  {
+    "Key": "EntPanelHead_45",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Victory Point Generation",
+    "Italian": "Generazione Punti Vittoria",
+    "Requires Update": ""
+  },
+  {
+    "Key": "Runestone_GeneratingVictoryPoint",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Generating 1 Victory Point",
+    "Italian": "Generazione di 1 Punto Vittoria",
+    "Requires Update": ""
+  },
+  {
+    "Key": "Runestone_GeneratingVictoryPoints",
+    "Type": "Text",
+    "Desc": "Plural version of previous row",
+    "English": "Generating {0} Victory Points",
+    "Italian": "Generazione {0} Punti Vittoria",
+    "Requires Update": ""
+  },
+  {
+    "Key": "Runestone_Unclaimed",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Runestone Unclaimed",
+    "Italian": "Pietra Runica non reclamata",
+    "Requires Update": ""
+  },
+  {
+    "Key": "ScenVictMeas_1_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Earn as many victory points from runestones as possible",
+    "Italian": "Ottieni quanti più punti vittoria possibili dalle pietre runiche",
+    "Requires Update": ""
+  },
+  {
+    "Key": "ScenVictMeas_1_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Victory Points",
+    "Italian": "Punti Vittoria",
+    "Requires Update": ""
+  },
+  {
+    "Key": "TooltipVictoryPoints",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Victory Points",
+    "Italian": "Punti Vittoria",
+    "Requires Update": ""
+  },
+  {
+    "Key": "TooltipVictoryPointsDesc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "The amount of victory points you gained from runestones",
+    "Italian": "La quantità di punti vittoria guadagnati dalle Pietre Runiche",
     "Requires Update": ""
   }
 ]
