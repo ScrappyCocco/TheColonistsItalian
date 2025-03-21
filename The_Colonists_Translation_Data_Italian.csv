@@ -1966,9 +1966,9 @@ TutorialDialogues__Overlay_ShaftMineMiningNotResearched,Text,,"You now have a Un
 You can mine this location by constructing a Level 1 <bd>Shaft Mine</bd>  once you've researched <res>Mining I</res>.","Ora hai un deposito sotterraneo nel tuo territorio!
 Puoi estrarre minerali costruendoci una <bd>Miniera</bd> Livello 1 una volta che avrai ricercato <res>Estrazione Mineraria I</res>.",
 TutorialDialogues__Overlay_ShaftMineUnlock,Text,,"You have unlocked the Shaft Mine!
-Level 1 Shaft Mines bots are powered by <it>Energy L2</it> can mine <nr>Coal</nr>, <nr>Iron Ore</nr>, <nr>Clay</nr> and <nr>Salt</nr> as well as mining <nr>Stone</nr>.
+Level 1 Shaft Mines bots are powered by <it>Energy L2</it> can mine <nr>Coal</nr>, <nr>Iron Ore</nr> and <nr>Clay</nr> as well as mining <nr>Stone</nr>.
 Shaft Mines tunnel into underground deposits so have to be placed in specific position related to the deposit. Use the building footprint to line up with the underground deposit.","Hai sbloccato la Miniera!
-I Bot della Miniera Livello 1 utilizzano <it>Energia L2</it> e possono estrarre <nr>Carbone</nr>, <nr>Ferro grezzo</nr>, <nr>Argilla</nr> e <nr>Sale</nr> oltre ad estrarre <nr>Pietra</nr>.
+I Bot della Miniera Livello 1 utilizzano <it>Energia L2</it> e possono estrarre <nr>Carbone</nr>, <nr>Ferro grezzo</nr> e <nr>Argilla</nr> oltre ad estrarre <nr>Pietra</nr>.
 La Miniera crea tunnel sotterranei, quindi, deve essere piazzata in punti specifici vicino ai depositi. Utilizza l'indicatore per allinearla con il deposito sotterraneo.",
 TutorialDialogues__Overlay_SurfaceMineUpgrade,Text,,"You now have access to a Level 2 Surface Mine! Click the tab at the top of the construction panel to change the level of the building.
 Level 2 Surface Mines bots are powered by <it>Energy L2</it> and can mine <nr>Coal</nr>, <nr>Iron Ore</nr> and <nr>Clay</nr> as well as mining <nr>Stone</nr> faster.
@@ -2625,27 +2625,27 @@ MapEditorClearAllFish,Text,"In the map editor, removes all the fish on the map",
 EntPanelHead_25,Text,Header of panel where you can change your colony colour,Colony Colour,Colore Colonia,
 StoreDesc_Short,Text,,Build a new home for your team of robots as they begin a new life for themselves on a distant planet where they can fulfil their ultimate dream: to be human.,Costruisci una nuova casa per il tuo team di robot mentre iniziano una nuova vita su un pianeta distante dove possono realizzare il loro sogno: essere umani.,
 AffectedTransportRulesDesc,Text,{0}: resource type. e.g. Planks,The following transport rules affect the movement of {0}.,Le seguenti regole di trasporto influenzano il trasporti di: {0}.,
-Building_66_Description,Text,,Create <it>Pumpkins</it> from pumpkin patches.,Crea <it>Zucche</it> dai campi di zucche.,
-Building_66_Name,Text,,Pumpkin Farm,Campo di Zucche,
-Building_66_Plural,Text,,Pumpkin Farms,Campi di Zucche,
-Item_47_Desc,Text,,Pumpkins are harvested at the <bd>Pumpkin Farm</bd>.,Le Zucche sono raccolte al <bd>Campo di Zucche</bd>.,
-Item_47_FullDesc,Text,,Pumpkins are harvested at the <bd>Pumpkin Farm</bd> and are consumed by <bd>Level 1 Residences</bd>.,Le Zucche sono raccolte al <bd>Campo di Zucche</bd> e sono consumate dalle <bd>Abitazioni di Livello 1</bd>.,
-Item_47_Name,Text,,Pumpkins,Zucche,
+Pumpkins_Building_66_Description,Text,,Create <it>Pumpkins</it> from pumpkin patches.,Crea <it>Zucche</it> dai campi di zucche.,
+Pumpkins_Building_66_Name,Text,,Pumpkin Farm,Campo di Zucche,
+Pumpkins_Building_66_Plural,Text,,Pumpkin Farms,Campi di Zucche,
+Pumpkins_Item_47_Desc,Text,,Pumpkins are harvested at the <bd>Pumpkin Farm</bd>.,Le Zucche sono raccolte al <bd>Campo di Zucche</bd>.,
+Pumpkins_Item_47_FullDesc,Text,,Pumpkins are harvested at the <bd>Pumpkin Farm</bd> and are consumed by <bd>Level 1 Residences</bd>.,Le Zucche sono raccolte al <bd>Campo di Zucche</bd> e sono consumate dalle <bd>Abitazioni di Livello 1</bd>.,
+Pumpkins_Item_47_Name,Text,,Pumpkins,Zucche,
 MapEditorMapSettingTerritoryEnabled,Text,,Territory & fog of war enabled,Territori e Nebbia di guerra attivati,
 MapEditorTestVerificationFailed,Text,,Cannot test this scenario! Check the verification panel in the top right.,Impossibile testare questo scenario! Controlla il pannello di verifica in alto a destra.,
 ItemCat_2_FullDesc,Text,,"<cat>Food</cat> is needed by all <bd>Residences</bd> and can be <it>Fish</it>, <it>Meat</it> or <it>Vegetables</it>.","<cat>Cibo</cat> è richiesto da tutte le <bd>Abitazioni</bd> e può essere <it>Pesce</it>, <it>Carne</it> o <it>Verdure</it>.",
-ItemCat_2_FullDesc,Text,,"<cat>Food</cat> is needed by all <bd>Residences</bd> and can be <it>Fish</it>, <it>Meat</it> or <it>Pumpkins</it>.","<cat>Cibo</cat> è richiesto da tutte le <bd>Abitazioni</bd> e può essere <it>Pesce</it>, <it>Carne</it> o <it>Zucche</it>.",
-Structure_2_Name,Text,"These are the ""fields"" the player manually places",Pumpkin Patch,Orto(Zucche),
-Structure_2_Plural,Text,"These are the ""fields"" the player manually places",Pumpkin Patches,Orti(Zucche),
-Veg_Structure_2_Name,Text,"These are the ""fields"" the player manually places",Vegetable Plot,Orto(Verdure),
-Veg_Structure_2_Plural,Text,"These are the ""fields"" the player manually places",Vegetable Plots,Orti(Verdure),
+Pumpkins_ItemCat_2_FullDesc,Text,,"<cat>Food</cat> is needed by all <bd>Residences</bd> and can be <it>Fish</it>, <it>Meat</it> or <it>Pumpkins</it>.","<cat>Cibo</cat> è richiesto da tutte le <bd>Abitazioni</bd> e può essere <it>Pesce</it>, <it>Carne</it> o <it>Zucche</it>.",
+Pumpkins_Structure_2_Name,Text,"These are the ""fields"" the player manually places",Pumpkin Patch,Orto(Zucche),
+Pumpkins_Structure_2_Plural,Text,"These are the ""fields"" the player manually places",Pumpkin Patches,Orti(Zucche),
+Structure_2_Name,Text,"These are the ""fields"" the player manually places",Vegetable Plot,Orto(Verdure),
+Structure_2_Plural,Text,"These are the ""fields"" the player manually places",Vegetable Plots,Orti(Verdure),
 Tech_66_Desc,Text,,Unlocks construction of Lugger,Sblocca la costruzione del Lugger,
 AlertVegetableFarmFields,Text,,You have not planted any vegetable plots,Non hai piantato nessuna zona per le verdure,
-AlertVegetableFarmFields,Text,,You have not planted any pumpkin patches,Non hai piantato nessuna zona per le zucche,
-ItemCat_2_Desc,Text,,<it>Fish</it> / <it>Meat</it> / <it>Pumpkins</it>,<it>Pesce</it> / <it>Carne</it> / <it>Zucche</it>,
-Veg_ItemCat_2_Desc,Text,,<it>Fish</it> / <it>Meat</it> / <it>Vegetables</it>,<it>Pesce</it> / <it>Carne</it> / <it>Verdure</it>,
-MiscCat_13_Name,Text,,Pumpkin Patches,Orti(Zucche),
-Veg_MiscCat_13_Desc,Text,,can be planted on green tiles,può essere piantato sulle caselle verdi,
+Pumpkins_AlertVegetableFarmFields,Text,,You have not planted any pumpkin patches,Non hai piantato nessuna zona per le zucche,
+Pumpkins_ItemCat_2_Desc,Text,,<it>Fish</it> / <it>Meat</it> / <it>Pumpkins</it>,<it>Pesce</it> / <it>Carne</it> / <it>Zucche</it>,
+ItemCat_2_Desc,Text,,<it>Fish</it> / <it>Meat</it> / <it>Vegetables</it>,<it>Pesce</it> / <it>Carne</it> / <it>Verdure</it>,
+Pumpkins_MiscCat_13_Name,Text,,Pumpkin Patches,Orti(Zucche),
+MiscCat_13_Desc,Text,,can be planted on green tiles,può essere piantato sulle caselle verdi,
 RoadState_ValidEndRoadMsg,Text,{0}: click,[{0}] to place post and complete road,[{0}] per piazzare un incrocio e completare la strada,
 RoadState_ValidWaypointMsg,Text,{0}: click,[{0}] to set road waypoint,[{0}] per impostare una tappa intermedia,
 RoadState_SetWaypointMsg,Text,{0}: ctrl {1}: click,[{0}] and [{1}] to set road waypoint,[{0}] e [{1}] per impostare una tappa intermedia,
@@ -2912,6 +2912,7 @@ An extensive map editor and Steam Workshop support is included, so you can creat
 [*][b]Campaign[/b]: 14 missions split into separate peaceful and military tracks
 [*][b]Random Maps[/b]: Play on a near-infinite amount of procedurally generated maps
 [*][b]Sandbox Mode[/b]: Customise various game settings to play the game how you like
+[*][b]Multiplayer[/b]: Join forces with your friends to play the co-op campaign or battle against them in PvP mode
 [*][b]Steam Workshop[/b]: Play hundreds of player-generated custom maps
 [*][b]Challenge Trophies[/b]: Special challenges which test the most expert colony builders
 [*][b]Map Editor[/b]: Create, play and share your own custom maps with your own victory conditions
@@ -2944,6 +2945,7 @@ Esplora, ricerca, gestisci, modifica e perfeziona in piena libertà quanto prefe
 [*][b]Campagna[/b]: 14 missioni divise in percorsi pacifici e militari;
 [*][b]Mappe Randomiche[/b]: Gioca una quantità pressoché infinita di mappe generate proceduralmente;
 [*][b]Modalità Sandbox[/b]: Personalizza le varie impostazioni di gioco per giocare come preferisci;
+[*][b]Multigiocatore[/b]: Unisci le forze con i tuoi amici per giocare la campagna in cooperativa o per combattere contro di loro in modalità PvP;
 [*][b]Steam Workshop[/b]: Gioca centinaia di mappe personalizzate create dai giocatori;
 [*][b]Trofei delle Sfide[/b]: Sfide speciali che mettono alla prova i colonizzatori più esperti;
 [*][b]Editor di Mappe[/b]: Crea, gioca e condividi le tue mappe personalizzate con le tue condizioni di vittoria;
@@ -3720,7 +3722,7 @@ Accetta la sfida della nuova campagna e recupera le navi coloniali precipitate."
 MultiplayerResyncingMsg,Text,,Resyncing game,Risincronizzazione della partita,
 GameMenuMultiplayerConcedeBtn,Text,,Concede game,Arrenditi,
 GameMenu_MultiplayerConcedeCheck,Text,,Are you sure you want to concede this game?,Sicuro di voler dichiarare la resa?,
-HelpTitle_44_Desc,Text,,Unlocked more colour schemes in New Lands DLC campaign,Hai sbloccato più combinazioni di colori nella campagna DLC New Lands,
+HelpTitle_44_Desc,Text,,Unlock more colour schemes in the New Lands DLC campaign,Sblocca più combinazioni di colori nella campagna DLC New Lands,
 HelpTitle_44_Name,Text,,Locked,Bloccato,
 ScenarioIntro_30,Text,,"We've landed in a bog surrounded by rock! Luckily there appears to be a small gap we can cross using our new bridge technology.
 
@@ -4108,3 +4110,21 @@ ScenGameVerErr_12,Text,,You need to set at least 2 playable players for multipla
 InfoPanelSandboxMap,Text,,Sandbox Map,Mappa Sandbox,
 InfoPanelScenarioTestMap,Text,,Custom Map Test,Test della Mappa Personalizzata,
 UpdateRequired,Text,"Short for ""An update to the game is required""",Update Required!,Aggiornamento richiesto!,
+Scenario_52_Name,Text,,Grow Together,Crescere Insieme,
+Scenario_52_Description,Text,,Work together to build a Large Monument and send off the supplies for an off-world party!,Lavorate insieme per costruire un Monumento Grande e spedire i rifornimenti per una festa fuori dal mondo!,
+ColonyStatisticsResourceProductionTotalsHeader,Text,Header for a panel showing how many you've produced of each resource type,Total Resource Production,Produzione totale di risorse,
+ColonyStatisticsFirstResourceProductionHeader,Text,Header for a panel showing the first date that you produced a resource,First Production of Resource,Prima produzione di risorse,
+PauseResearch,Text,Button to pause current research,Pause Research,Pausa Ricerca,
+ResumeResearch,Text,Button to resume current research,Resume Research,Riprendi Ricerca,
+HelpPanel_46,Text,Help for 'Pause research' button,"You can pause the current research. No further resources will be requested but any resources that are already on their way will still arrive.
+
+The building will also finish its current research cycle before stopping in order not to waste resources.","Puoi mettere in pausa la ricerca in corso. Non verranno richieste altre risorse, ma quelle già in arrivo arriveranno comunque.
+
+Inoltre, l'edificio terminerà il ciclo di ricerca in corso prima di fermarsi, per non sprecare risorse.",
+HelpPanel_47,Text,Help for 'Cancel Research' button,If you cancel the current research project all progress will be lost and that technology will need to be restarted from scratch.,"Se annulli il progetto di ricerca in corso, tutti i progressi andranno persi e la tecnologia dovrà essere ricercata da zero.",
+CopiedToClipboard,Text,[Info has been] copied to clipboard,Copied to Clipboard,Copiato negli Appunti,
+OSTWindowBody,Text,,"All the ambient electronic tunes from the The Colonists have been lovingly remastered by the composer monomoon and packaged up in a new album.
+
+The Colonists: Official Soundtrack Remastered is now available on Steam!","Tutti i brani ambientali elettronici di The Colonists sono stati amorevolmente rimasterizzati dal compositore monomoon e raggruppati in un nuovo album.
+
+The Colonists: Official Soundtrack Remastered è ora disponibile su Steam!.",
