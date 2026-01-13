@@ -4125,6 +4125,34 @@ HelpPanel_47,Text,Help for 'Cancel Research' button,If you cancel the current re
 CopiedToClipboard,Text,[Info has been] copied to clipboard,Copied to Clipboard,Copiato negli Appunti,
 OSTWindowBody,Text,,"All the ambient electronic tunes from the The Colonists have been lovingly remastered by the composer monomoon and packaged up in a new album.
 
-The Colonists: Official Soundtrack Remastered is now available on Steam!","Tutti i brani ambientali elettronici di The Colonists sono stati amorevolmente rimasterizzati dal compositore monomoon e raggruppati in un nuovo album.
+The Colonists: Original Soundtrack Remastered is now available on Steam!","Tutti i brani ambientali elettronici di The Colonists sono stati amorevolmente rimasterizzati dal compositore monomoon e raggruppati in un nuovo album.
 
-The Colonists: Official Soundtrack Remastered è ora disponibile su Steam!.",
+The Colonists: Original Soundtrack Remastered è ora disponibile su Steam!.",
+Hotkey_48,Text,,Rotate Camera North,Ruota la visuale a Nord,
+ScenarioBrowser_FilterPlayers_0,Text,,Any Players,Qualsiasi giocatore,
+ScenarioBrowser_FilterPlayers_1,Text,,1 Player,1 Giocatore,
+ScenarioBrowser_FilterPlayers_2,Text,,PvP,PvP,
+ScenarioBrowser_FilterPlayers_3,Text,Multiplayer,MP: PvP,MP: PvP,
+ScenarioBrowser_FilterPlayers_4,Text,Multiplayer,MP: Co-op,MP: Koop,
+ScenarioBrowser_FilterPlayers_5,Text,Multiplayer,MP: Co-op PvP,MP: Koop PvP,
+DLC1_Enabled,Text,,New Lands DLC Enabled,DLC New Lands Attivo,
+ScenVict_15_Desc,Text,E.g. Build 10 Large Snowbots,Build {0},Costruisci {0},
+ScenVict_15_Name,Text,,Build Large Snowbots,Costruisci BotNevosi grandi,
+ScenVict_15_CreateDesc,Text,,Build the specified amount of large snowbots in your colony,Costruisci il numero specificato di BotNevosi grandi nella tua colonia,
+Building_85_Description,Text,,Builds large snowbots on snow tiles using <it>Logs</it> and <it>Coal</it>.,Costruisce BotNevosi grandi su caselle di neve utilizzando <it>Tronchi</it> e <it>Carbone</it>.,
+Building_85_Name,Text,,Snowbot Builder,Costruttore di BotNevosi,
+Building_85_Plural,Text,,Snowbot Builders,Costruttori di BotNevosi,
+Building_85_Worker,Text,,Buildbot,BotCostruttore,
+Flora_67_Name,Text,"A large snowman, but it's robot shaped",Large Snowbot,BotNevoso grande,
+Flora_67_Plural,Text,,Large Snowbots,BotNevosi grandi,
+MiscCat_19_Name,Text,,Large Snowbots,BotNevosi grandi,
+MiscCat_19_Desc,Text,,can be built on snow tiles,può essere costruito su caselle di neve,
+FloraValidTerrain_67,Text,Snow terrain,Snow,Neve,
+EntityBuildingPriorityLayersSnowbotBuilderDesc,Text,,"Set the area in which the bot can build snowbots.
+
+Click or click and drag to set tiles.
+<hotkey>[Shift]</hotkey> click a tile to unset it.","Imposta l'area in cui il bot può costruire BotNevosi.
+
+Clicca o clicca e trascina per impostare le caselle.
+<hotkey>[Shift]</hotkey> clicca su una casella per deselezionarla.",
+EntityBuildingPriorityLayersSnowbotBuilderHeader,Text,,Building Area,Area di Costruzione,

@@ -24931,8 +24931,184 @@
     "Key": "OSTWindowBody",
     "Type": "Text",
     "Desc": "",
-    "English": "All the ambient electronic tunes from the The Colonists have been lovingly remastered by the composer monomoon and packaged up in a new album.\n\nThe Colonists: Official Soundtrack Remastered is now available on Steam!",
-    "Italian": "Tutti i brani ambientali elettronici di The Colonists sono stati amorevolmente rimasterizzati dal compositore monomoon e raggruppati in un nuovo album.\n\nThe Colonists: Official Soundtrack Remastered è ora disponibile su Steam!.",
+    "English": "All the ambient electronic tunes from the The Colonists have been lovingly remastered by the composer monomoon and packaged up in a new album.\n\nThe Colonists: Original Soundtrack Remastered is now available on Steam!",
+    "Italian": "Tutti i brani ambientali elettronici di The Colonists sono stati amorevolmente rimasterizzati dal compositore monomoon e raggruppati in un nuovo album.\n\nThe Colonists: Original Soundtrack Remastered è ora disponibile su Steam!.",
+    "Requires Update": ""
+  },
+  {
+    "Key": "Hotkey_48",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Rotate Camera North",
+    "Italian": "Ruota la visuale a Nord",
+    "Requires Update": ""
+  },
+  {
+    "Key": "ScenarioBrowser_FilterPlayers_0",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Any Players",
+    "Italian": "Qualsiasi giocatore",
+    "Requires Update": ""
+  },
+  {
+    "Key": "ScenarioBrowser_FilterPlayers_1",
+    "Type": "Text",
+    "Desc": "",
+    "English": "1 Player",
+    "Italian": "1 Giocatore",
+    "Requires Update": ""
+  },
+  {
+    "Key": "ScenarioBrowser_FilterPlayers_2",
+    "Type": "Text",
+    "Desc": "",
+    "English": "PvP",
+    "Italian": "PvP",
+    "Requires Update": ""
+  },
+  {
+    "Key": "ScenarioBrowser_FilterPlayers_3",
+    "Type": "Text",
+    "Desc": "Multiplayer",
+    "English": "MP: PvP",
+    "Italian": "MP: PvP",
+    "Requires Update": ""
+  },
+  {
+    "Key": "ScenarioBrowser_FilterPlayers_4",
+    "Type": "Text",
+    "Desc": "Multiplayer",
+    "English": "MP: Co-op",
+    "Italian": "MP: Koop",
+    "Requires Update": ""
+  },
+  {
+    "Key": "ScenarioBrowser_FilterPlayers_5",
+    "Type": "Text",
+    "Desc": "Multiplayer",
+    "English": "MP: Co-op PvP",
+    "Italian": "MP: Koop PvP",
+    "Requires Update": ""
+  },
+  {
+    "Key": "DLC1_Enabled",
+    "Type": "Text",
+    "Desc": "",
+    "English": "New Lands DLC Enabled",
+    "Italian": "DLC New Lands Attivo",
+    "Requires Update": ""
+  },
+  {
+    "Key": "ScenVict_15_Desc",
+    "Type": "Text",
+    "Desc": "E.g. Build 10 Large Snowbots",
+    "English": "Build {0}",
+    "Italian": "Costruisci {0}",
+    "Requires Update": ""
+  },
+  {
+    "Key": "ScenVict_15_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Build Large Snowbots",
+    "Italian": "Costruisci BotNevosi grandi",
+    "Requires Update": ""
+  },
+  {
+    "Key": "ScenVict_15_CreateDesc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Build the specified amount of large snowbots in your colony",
+    "Italian": "Costruisci il numero specificato di BotNevosi grandi nella tua colonia",
+    "Requires Update": ""
+  },
+  {
+    "Key": "Building_85_Description",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Builds large snowbots on snow tiles using <it>Logs</it> and <it>Coal</it>.",
+    "Italian": "Costruisce BotNevosi grandi su caselle di neve utilizzando <it>Tronchi</it> e <it>Carbone</it>.",
+    "Requires Update": ""
+  },
+  {
+    "Key": "Building_85_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Snowbot Builder",
+    "Italian": "Costruttore di BotNevosi",
+    "Requires Update": ""
+  },
+  {
+    "Key": "Building_85_Plural",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Snowbot Builders",
+    "Italian": "Costruttori di BotNevosi",
+    "Requires Update": ""
+  },
+  {
+    "Key": "Building_85_Worker",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Buildbot",
+    "Italian": "BotCostruttore",
+    "Requires Update": ""
+  },
+  {
+    "Key": "Flora_67_Name",
+    "Type": "Text",
+    "Desc": "A large snowman, but it's robot shaped",
+    "English": "Large Snowbot",
+    "Italian": "BotNevoso grande",
+    "Requires Update": ""
+  },
+  {
+    "Key": "Flora_67_Plural",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Large Snowbots",
+    "Italian": "BotNevosi grandi",
+    "Requires Update": ""
+  },
+  {
+    "Key": "MiscCat_19_Name",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Large Snowbots",
+    "Italian": "BotNevosi grandi",
+    "Requires Update": ""
+  },
+  {
+    "Key": "MiscCat_19_Desc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "can be built on snow tiles",
+    "Italian": "può essere costruito su caselle di neve",
+    "Requires Update": ""
+  },
+  {
+    "Key": "FloraValidTerrain_67",
+    "Type": "Text",
+    "Desc": "Snow terrain",
+    "English": "Snow",
+    "Italian": "Neve",
+    "Requires Update": ""
+  },
+  {
+    "Key": "EntityBuildingPriorityLayersSnowbotBuilderDesc",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Set the area in which the bot can build snowbots.\n\nClick or click and drag to set tiles.\n<hotkey>[Shift]</hotkey> click a tile to unset it.",
+    "Italian": "Imposta l'area in cui il bot può costruire BotNevosi.\n\nClicca o clicca e trascina per impostare le caselle.\n<hotkey>[Shift]</hotkey> clicca su una casella per deselezionarla.",
+    "Requires Update": ""
+  },
+  {
+    "Key": "EntityBuildingPriorityLayersSnowbotBuilderHeader",
+    "Type": "Text",
+    "Desc": "",
+    "English": "Building Area",
+    "Italian": "Area di Costruzione",
     "Requires Update": ""
   }
 ]
